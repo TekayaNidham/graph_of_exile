@@ -9,3 +9,4 @@ scripts/tmp_*
 verification/*.log
 logo/*.psd
 .DS_Store
+release/
