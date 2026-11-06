@@ -24,12 +24,12 @@
 | Variant | Nodes | Edges | Sources | |
 |---|---:|---:|---:|---|
 | [**Master**](dataset/master/) | 1,433 | 4,268 | 665 | Everything, incl. PoE1 → PoE2 continuity |
-| [**PoE1 plot**](dataset/poe1/) | 1,066 | 3,081 | 555 | Path of Exile 1 and the history behind it |
-| [**PoE2 plot**](dataset/poe2/) | 841 | 2,219 | 404 | Path of Exile 2 and the history behind it |
+| [**PoE1 plot**](dataset/poe1/) | 1,035 | 3,031 | 549 | Only what appears in Path of Exile 1 (PoE2 masked) |
+| [**PoE2 plot**](dataset/poe2/) | 604 | 1,657 | 319 | Only what appears in Path of Exile 2 (PoE1 masked) |
 
 * **Formats:** JSON, CSV and GraphML (Gephi, networkx, Cytoscape, Neo4j …), plus a JSON Schema.
 * **Sources:** every node and edge cites them, with a locator (wiki section, quoted dialogue or video timestamp) and a reliability grade.
-* **One continuous world:** PoE2 is treated as the continuation of PoE1. Shared lore (Kingsmarch, Breach, Ritual, Abyss, the Trialmaster…) carries both games' labels, and each game's view pulls in what it continues from.
+* **One continuous world:** PoE2 is treated as the continuation of PoE1. Shared lore (Kingsmarch, Breach, Ritual, Abyss, the Trialmaster…) carries both games' labels. *Master* shows the whole continuous saga; the *PoE1* and *PoE2* views are strict and mask the other game.
 * **Labels:**
   * `plot_role` is one of **main plot**, **endgame plot**, **branch** (70 league/side tags such as `breach`, `ritual`, `kingsmarch`, `delve`, `twilight_order`), **background** or **meta**
   * `era` follows one timeline, from the *primordial* age to the *PoE2 endgame*

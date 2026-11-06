@@ -20,7 +20,18 @@ EDGE_KEYS = ["id", "source", "target", "relation", "description", "plot_role", "
              "canon_status", "confidence", "sources", "release_status"]
 
 
-def layout(nodes, edges):
+def era_label(er, variant):
+    """In a single-game view, eras of the other game hold only shared entities that carry over; label them so."""
+    if variant == "poe2" and er in ("poe1_campaign", "poe1_atlas"):
+        return "Returning from the first Exile's time" + (" (Atlas)" if er == "poe1_atlas" else "")
+    if variant == "poe1" and er in ("poe2_campaign", "poe2_endgame"):
+        return "Also in PoE2"
+    if variant != "master" and er == "league_storylines":
+        return "League storylines"
+    return ERAS_LABEL.get(er, er)
+
+
+def layout(nodes, edges, variant="master"):
     G = nx.Graph()
     G.add_nodes_from(n["id"] for n in nodes)
     for e in edges:
@@ -72,7 +83,7 @@ def layout(nodes, edges):
             for idx, n in enumerate(ns):
                 r, c = divmod(idx, cols)
                 tl[n["id"]] = (round(era_x[e] + c * SP + SP / 2, 1), round(lane_y[k] + r * SP + SP / 2, 1))
-        bands.append({"era": e, "label": ERAS_LABEL.get(e, e), "x": round(era_x[e] + width[e] / 2, 1), "y": -180.0, "w": width[e] + GAPX * 0.6})
+        bands.append({"era": e, "label": era_label(e, variant), "x": round(era_x[e] + width[e] / 2, 1), "y": -180.0, "w": width[e] + GAPX * 0.6})
     for k, (lab, _) in enumerate(LANES):
         bands.append({"lane": k, "label": lab, "x": -330.0, "y": round(lane_y[k] + lane_h[k] / 2, 1)})
     # radial: rings by distance from the Exile(s), angle from the force layout
@@ -132,7 +143,7 @@ def flow_blocks(G, groups, x0, y0, row_w, gap=380):
     return pos, labels, y + row_h
 
 
-def saga_layout(nodes, edges, G):
+def saga_layout(nodes, edges, G, variant="master"):
     """Sequential 'saga' layout, read left -> right as a triptych:
     [Before the Exile] | [PoE1 journey ... twenty years later ... PoE2 journey] | [Leagues, Atlas & side lore].
     Story beats run along a serpentine (boustrophedon) line; people and places sit beside the beats they take part in."""
@@ -140,7 +151,8 @@ def saga_layout(nodes, edges, G):
     so = lambda n: (n.get("chronology") or {}).get("story_order")
     beats = [n for n in nodes if n.get("type") == "event" and so(n) is not None and n.get("plot_role") in ("main_plot", "endgame_plot")]
     sections = [("Path of Exile 1 — the Exile's journey", sorted([b for b in beats if so(b) < 4000], key=so)),
-                ("Twenty years later — Path of Exile 2", sorted([b for b in beats if so(b) >= 5000], key=so))]
+                ("Twenty years later — Path of Exile 2" if variant == "master" else "Path of Exile 2 — the Exile's journey",
+                 sorted([b for b in beats if so(b) >= 5000], key=so))]
     K, DX, DY = 14, 420, 1500
     jw = (K - 1) * DX
     pos, labels = {}, []
@@ -188,7 +200,7 @@ def saga_layout(nodes, edges, G):
         pos[i] = (round(mx + rad * math.cos(ang), 1), round(my + rad * math.sin(ang) * 1.4, 1))
     # column 3: leagues, Atlas & side lore
     sx = jx + jw + 2400
-    rest = [(ERAS_LABEL.get(er, er), [n["id"] for n in nodes if n.get("era") == er and n["id"] not in pos]) for er in ERAS if er not in PRE]
+    rest = [(era_label(er, variant), [n["id"] for n in nodes if n.get("era") == er and n["id"] not in pos]) for er in ERAS if er not in PRE]
     rpos, rlabels, _ = flow_blocks(G, rest, sx, 0, max(5200, jbottom * 0.55))
     pos.update(rpos); labels += rlabels
     labels.append({"label": "Leagues, Atlas & side lore", "x": sx + 2600, "y": -420, "big": True})
@@ -200,9 +212,9 @@ meta = {"variants": {}}
 for variant in ("master", "poe1", "poe2"):
     g = json.load(open(os.path.join(ROOT, "dataset", variant, "graph.json")))
     nodes, edges = g["nodes"], g["edges"]
-    web, tl, rad, clu, pr, bt, comm, dist, groups, bands = layout(nodes, edges)
+    web, tl, rad, clu, pr, bt, comm, dist, groups, bands = layout(nodes, edges, variant)
     Gs = nx.Graph(); Gs.add_nodes_from(n['id'] for n in nodes); Gs.add_edges_from((e['source'], e['target']) for e in edges if e['relation'] != 'next_beat')
-    saga, saga_labels = saga_layout(nodes, edges, Gs)
+    saga, saga_labels = saga_layout(nodes, edges, Gs, variant)
     prmax = max(pr.values()) or 1; btmax = max(bt.values()) or 1
     cn = []
     for n in nodes:

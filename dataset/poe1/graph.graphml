@@ -317,32 +317,6 @@
       <data key="d22">1</data>
       <data key="d23">False</data>
     </node>
-    <node id="act_poe2_act4">
-      <data key="d1">Act 4 (Ngamakanui)</data>
-      <data key="d2">["Act 4 (PoE2)"]</data>
-      <data key="d3">act</data>
-      <data key="d24" />
-      <data key="d4">Fourth act of Path of Exile 2 (added in 0.3.0 The Third Edict). The Exile, the Hooded One and Doryani sail from Kingsmarch around the Karui archipelago Ngamakanui to recover three Precursor weapon pieces, find a forge, and reforge the Weapon meant to destroy the Beast, clashing with the Twilight Order and the Tukohama chieftain Tavakai.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">meta</data>
-      <data key="d7">[]</data>
-      <data key="d8">poe2_campaign</data>
-      <data key="d9">{"in_world_year": null, "relative": "~20 years after PoE1", "story_order": null}</data>
-      <data key="d10">["act_poe2_act4"]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_act_4", "locator": "intro"}, {"source_id": "src_poe2wiki_act_4", "locator": "intro + Progression"}, {"source_id": "src_poe2wiki_the_search", "locator": "quest summary"}]</data>
-      <data key="d14">["deep_history", "poe2_acts_4_plus"]</data>
-      <data key="d15">["poe2_campaign"]</data>
-      <data key="d16">["main_plot", "meta"]</data>
-      <data key="d25">[{"domain": "deep_history", "summary": "PoE2's fourth act, set in the Karui archipelago of Ngamakanui, where the player searches for three pieces of the Precursor Weapon (and a way to assemble it) to subdue the Beast."}]</data>
-      <data key="d18">released</data>
-      <data key="d19">28</data>
-      <data key="d20">2</data>
-      <data key="d21">2</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
     <node id="artifact_allflame">
       <data key="d1">The Allflame</data>
       <data key="d2">[]</data>
@@ -769,32 +743,6 @@
       <data key="d19">1</data>
       <data key="d20">2</data>
       <data key="d21">3</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="artifact_flame_seed">
-      <data key="d1">Flame Seed</data>
-      <data key="d2">[]</data>
-      <data key="d3">artifact</data>
-      <data key="d24" />
-      <data key="d4">Object guarded by the Arbiter of Ash (Precursor-made guardian); after the Arbiter dies a mysterious wyrm-rider, later revealed as Tecrod, takes it saying 'This power serves a new master...'.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">endgame_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">precursor</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">medium</data>
-      <data key="d13">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "Precursor civilization: 'create the Arbiter of Ash to guard the Flame Seed'"}, {"source_id": "src_poe2wiki_tecrod", "locator": "A Mysterious Entity riding a wyrm that steals the Flame Seed ... 'This power serves a new master...'"}, {"source_id": "src_poe2wiki_tecrod", "locator": "Lore: 'steals the Flame Seed after the Arbiter of Ash is defeated'"}, {"source_id": "src_poewiki_history_of_wraeclast", "locator": "Precursor section: Arbiter of Ash created to guard the Flame Seed"}]</data>
-      <data key="d14">["deep_history", "poe2_endgame", "twilight_order_edicts"]</data>
-      <data key="d15">["precursor", "poe2_endgame"]</data>
-      <data key="d16">["endgame_plot"]</data>
-      <data key="d25">[{"domain": "deep_history", "summary": "Precursor object guarded by the Arbiter of Ash; very little is known."}, {"domain": "twilight_order_edicts", "summary": "Precursor object guarded by the Arbiter of Ash; stolen by a mysterious wyrm rider (Tecrod) after the Arbiter's defeat. Possibly linked to the Fourth Edict (unconfirmed)."}]</data>
-      <data key="d18">released</data>
-      <data key="d19">4</data>
-      <data key="d20">3</data>
-      <data key="d21">2</data>
       <data key="d22">2</data>
       <data key="d23">False</data>
     </node>
@@ -1271,32 +1219,6 @@
       <data key="d20">2</data>
       <data key="d21">3</data>
       <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="artifact_precursor_weapon">
-      <data key="d1">Precursor Weapon</data>
-      <data key="d2">["Precursor Weapon", "Precursor Weapon (Weapon in pieces)", "Precursor anti-corruption weapon", "The Weapon (Precursor Weapon)", "The Weapon (instrument of the Third Edict)", "the Weapon"]</data>
-      <data key="d3">artifact</data>
-      <data key="d24" />
-      <data key="d4">Device built by the Precursors against corruption; Doryani sought to harness it (a lore video says it was scattered by 400 BIC, Doryani holding one piece and three in the Karui archipelago). In PoE2 Act 4 the Exile hunts its three pieces in Ngamakanui; in the endgame only the Hooded One is said able to wield it against the Beast.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">main_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">precursor</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">["act_poe2_act3", "act_poe2_act4", "poe2_act4"]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "Precursor civilization"}, {"source_id": "src_yt_1Zt4tv8fjI4", "locator": "[7:07]-[7:49]"}, {"source_id": "src_poe2wiki_act_4", "locator": "objective"}, {"source_id": "src_poe2wiki_legacy_of_the_vaal", "locator": "Quest log 'Speak to Doryani in Ziggurat Encampment' / Hooded One follow-up"}, {"source_id": "src_poe2wiki_the_search", "locator": "Witness the Hooded One reforge the Weapon; Return to Kingsmarch"}, {"source_id": "src_poe2wiki_the_search", "locator": "Speak to The Hooded One; Return to Kingsmarch"}, {"source_id": "src_poe2wiki_act_4", "locator": "intro: 'search for three parts of the precursor weapon'"}, {"source_id": "src_poe2wiki_legacy_of_the_vaal", "locator": "Doryani dialogue"}, {"source_id": "src_poe2wiki_act_4", "locator": "lead"}]</data>
-      <data key="d14">["deep_history", "poe2_acts_1_3", "poe2_acts_4_plus", "twilight_order_edicts", "vaal"]</data>
-      <data key="d15">["precursor", "poe2_campaign"]</data>
-      <data key="d16">["main_plot"]</data>
-      <data key="d25">[{"domain": "poe2_acts_1_3", "summary": "Ancient anti-Corruption weapon of a lost civilisation, in pieces: Doryani holds one, the others are scattered in Ngamakanui."}, {"domain": "poe2_acts_4_plus", "summary": "Three Precursor weapon pieces (rotating on Act 4 islands) are reforged by the Hooded One in the Excavated Site; the inscription reads 'The instrument of the Third Edict', made for cleansing Corruption and destroying the Beast. Radiates intense Corruption and drives Tavakai mad."}, {"domain": "twilight_order_edicts", "summary": "Three-piece Precursor device assembled in Act 4 on Arastas/Excavated Site; the instrument of the Third Edict, built to cleanse Corruption and destroy the Beast. Radiates intense Corruption, maddening those near it; Tavakai takes it, falls to blood fever, and is cured when the Hooded One uses it."}, {"domain": "vaal", "summary": "Ancient weapon from a lost civilisation designed against corruption; four pieces: Doryani holds one, three are scattered in Ngamakanui."}]</data>
-      <data key="d18">released</data>
-      <data key="d19">13</data>
-      <data key="d20">2</data>
-      <data key="d21">1</data>
-      <data key="d22">1</data>
       <data key="d23">False</data>
     </node>
     <node id="artifact_primeval_remnant">
@@ -4064,32 +3986,6 @@
       <data key="d22">0</data>
       <data key="d23">False</data>
     </node>
-    <node id="char_exile_poe2">
-      <data key="d1">The Exile (PoE2)</data>
-      <data key="d2">["Exile", "Exile (PoE2)", "PoE2 Exile"]</data>
-      <data key="d3">character</data>
-      <data key="d24">protagonist</data>
-      <data key="d4">The PoE2 protagonist: an Exile in Ogham, sentenced to death by Count Geonor. After escaping the Executioner by jumping into the ocean, the Exile chases the Seed of Corruption released by Geonor across Wraeclast about 20 years after Kitava's death.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">main_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">poe2_campaign</data>
-      <data key="d9">{"in_world_year": null, "relative": "about 20 years after Kitava's defeat (PoE2 campaign)", "story_order": null}</data>
-      <data key="d10">["act_poe2_act1"]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_lore", "locator": "section 'Prelude' and 'Act 1'"}, {"source_id": "src_poe2wiki_legacy_of_the_vaal", "locator": "quest log"}]</data>
-      <data key="d14">["exile_and_sources", "vaal"]</data>
-      <data key="d15">["poe2_campaign"]</data>
-      <data key="d16">["main_plot"]</data>
-      <data key="d25">[{"domain": "vaal", "summary": "The PoE2 protagonist."}]</data>
-      <data key="d18">released</data>
-      <data key="d19">276</data>
-      <data key="d20">1</data>
-      <data key="d21">0</data>
-      <data key="d22">0</data>
-      <data key="d23">False</data>
-    </node>
     <node id="char_faustus">
       <data key="d1">Faustus, the Financier</data>
       <data key="d2">["Faustus", "Faustus, the Fence"]</data>
@@ -4567,31 +4463,6 @@
       <data key="d20">1</data>
       <data key="d21">2</data>
       <data key="d22">1</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="char_hayoxi">
-      <data key="d1">Hayoxi</data>
-      <data key="d2">[]</data>
-      <data key="d3">character</data>
-      <data key="d24">vaal_architect</data>
-      <data key="d4">Figure called 'The Architect of Destruction' in the flavour text of Hayoxi's Fulmination, who laid explosive powder under the royal temple 'one pinch at a time' and never found the courage to light it. Identity beyond the flavour text is not recorded in the corpus. Placement in the Vaal era is inferred from the royal-temple setting.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">background</data>
-      <data key="d7">[]</data>
-      <data key="d8">vaal</data>
-      <data key="d9">{"in_world_year": null, "relative": "Vaal era (inferred from royal-temple setting; no date stated)", "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">medium</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_hayoxi_s_fulmination", "locator": "flavour_text: 'The Architect of Destruction slipped explosive powder under the royal temple one pinch at a time. For years, he clung to that, never finding the courage to light it.'"}]</data>
-      <data key="d14">["gap_deep_history_vaal_precursor_eternal"]</data>
-      <data key="d15">["vaal"]</data>
-      <data key="d16">["background"]</data>
-      <data key="d18">released</data>
-      <data key="d19">2</data>
-      <data key="d20">3</data>
-      <data key="d21">3</data>
-      <data key="d22">3</data>
       <data key="d23">False</data>
     </node>
     <node id="char_hector_titucius">
@@ -5127,32 +4998,6 @@
       <data key="d22">2</data>
       <data key="d23">False</data>
     </node>
-    <node id="char_jamanra">
-      <data key="d1">Jamanra, the Risen King</data>
-      <data key="d2">["Jamanra, the Abomination"]</data>
-      <data key="d3">character</data>
-      <data key="d24" />
-      <data key="d4">Faridun leader resurrected by the Countess, who locks the Halani Gates, summons sandstorms, and is later executed by Sekhema Asala as Jamanra the Abomination.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">main_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">post_cataclysm</data>
-      <data key="d9">{"in_world_year": null, "relative": "", "story_order": null}</data>
-      <data key="d10">["act_poe2_act2"]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_faridun", "locator": "'Events in Path of Exile 2'"}, {"source_id": "src_poe2wiki_the_trail_of_corruption_act_2", "locator": "Quest 'Defeat Jamanra, the Risen King' / 'Defeat Jamanra, the Abomination'"}, {"source_id": "src_poe2wiki_faridun", "locator": "Events in Path of Exile 2"}]</data>
-      <data key="d14">["eternal_empire", "poe2_acts_1_3"]</data>
-      <data key="d15">["post_cataclysm", "poe2_campaign"]</data>
-      <data key="d16">["main_plot"]</data>
-      <data key="d25">[{"domain": "eternal_empire", "summary": "Faridun revolutionary leader resurrected by corruption in PoE2 Act 2, given death by Asala."}]</data>
-      <data key="d18">released</data>
-      <data key="d19">12</data>
-      <data key="d20">2</data>
-      <data key="d21">1</data>
-      <data key="d22">1</data>
-      <data key="d23">False</data>
-    </node>
     <node id="char_janus_perandus">
       <data key="d1">Janus Perandus</data>
       <data key="d2">[]</data>
@@ -5505,32 +5350,6 @@
       <data key="d20">2</data>
       <data key="d21">3</data>
       <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="char_ketzuli">
-      <data key="d1">Ketzuli, High Priest of the Sun</data>
-      <data key="d2">[]</data>
-      <data key="d3">character</data>
-      <data key="d24" />
-      <data key="d4">Vaal High Priest of the Sun whose writings Alva cites about research in the Temple of Kopec (device/time gateway); boss in the Temple of Kopec defeated by the Exile in PoE2 Act 3.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">main_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">vaal</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">["act_poe2_act3", "poe2_act3"]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_legacy_of_the_vaal", "locator": "Quest 'Defeat Ketzuli, High Priest of the Sun'"}, {"source_id": "src_poe2wiki_legacy_of_the_vaal", "locator": "quest log"}]</data>
-      <data key="d14">["poe2_acts_1_3", "vaal"]</data>
-      <data key="d15">["vaal", "poe2_campaign"]</data>
-      <data key="d16">["main_plot"]</data>
-      <data key="d25">[{"domain": "poe2_acts_1_3", "summary": "Vaal high priest of the Sun God in the Temple of Kopec whose research leads to the time gateway."}]</data>
-      <data key="d18">released</data>
-      <data key="d19">4</data>
-      <data key="d20">2</data>
-      <data key="d21">1</data>
-      <data key="d22">1</data>
       <data key="d23">False</data>
     </node>
     <node id="char_kiloava">
@@ -7739,32 +7558,6 @@
       <data key="d22">1</data>
       <data key="d23">False</data>
     </node>
-    <node id="char_the_arbiter_of_ash">
-      <data key="d1">The Arbiter of Ash</data>
-      <data key="d2">["Arbiter of Ash", "Guardian of the Flame Seed"]</data>
-      <data key="d3">character</data>
-      <data key="d24">pinnacle_boss</data>
-      <data key="d4">Guardian of the Flame Seed, created by the Precursors (PoE wiki, History of Wraeclast; the PoE2 wiki says the Unblinking Eye most likely subjugated it originally, which is speculative). Sealed at the Burning Monolith; fought by the Exile as PoE2's first Atlas pinnacle (0.1-0.4) and as a Fortress quest boss in 0.5, after which a wyrm-rider (Tecrod) steals the Flame Seed. Little else is known.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">endgame_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">precursor</data>
-      <data key="d9">{"in_world_year": null, "relative": "Precursor creation", "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">medium</data>
-      <data key="d13">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "Precursor civilization"}, {"source_id": "src_poe2wiki_legacy_of_the_precursors", "locator": "step 101"}, {"source_id": "src_poe2wiki_the_unblinking_eye", "locator": "most likely the original subjugation of the Arbiter of Ash"}, {"source_id": "src_poewiki_history_of_wraeclast", "locator": "Precursors: 'They also created the Arbiter of Ash (PoE 2) to guard the Flame Seed (PoE 2)'; 'Little is known about the Arbiter and the Flame Seed'"}, {"source_id": "src_poewiki_history_of_wraeclast", "locator": "Precursors section: 'created the Arbiter of Ash (PoE 2) to guard the Flame Seed (PoE 2)'; 'Little is known about the Arbiter and the Flame Seed'"}, {"source_id": "src_poe2wiki_legacy_of_the_precursors", "locator": "step 101 Defeat the Arbiter of Ash"}]</data>
-      <data key="d14">["deep_history", "poe2_endgame", "twilight_order_edicts"]</data>
-      <data key="d15">["precursor", "poe2_endgame"]</data>
-      <data key="d16">["endgame_plot"]</data>
-      <data key="d25">[{"domain": "deep_history", "summary": "Guardian created by the Precursors to guard the Flame Seed; PoE2 endgame boss."}, {"domain": "twilight_order_edicts", "summary": "Precursor-created guardian of the Flame Seed and pinnacle boss of the Burning Monolith. After he falls a wyrm-riding figure (Tecrod) takes the Flame Seed; the Fourth Edict is investigated next. Little is known about him."}]</data>
-      <data key="d18">released</data>
-      <data key="d19">8</data>
-      <data key="d20">2</data>
-      <data key="d21">1</data>
-      <data key="d22">1</data>
-      <data key="d23">False</data>
-    </node>
     <node id="char_the_black_knight">
       <data key="d1">The Black Knight</data>
       <data key="d2">[]</data>
@@ -8222,31 +8015,6 @@
       <data key="d20">1</data>
       <data key="d21">2</data>
       <data key="d22">1</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="char_uromoti">
-      <data key="d1">Uromoti, Architect of Expansion</data>
-      <data key="d3">character</data>
-      <data key="d4">Vaal Architect of Atziri who, per a carving in the Howling Caves, secretly built a vault in a remote mountain, hiding the 'treason' from the Queen and sending his children into it; his name is on a Temple Console medallion. Thought the Queen mad.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">background</data>
-      <data key="d8">vaal</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_environmental_lore", "locator": "'Uromoti's Truth' (Howling Caves)"}, {"source_id": "src_poe2wiki_atziri_s_temple", "locator": "Medallions: 'Uromoti's Medallion'"}]</data>
-      <data key="d12">medium</data>
-      <data key="d2">[]</data>
-      <data key="d24" />
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d7">[]</data>
-      <data key="d11">canon</data>
-      <data key="d14">["vaal"]</data>
-      <data key="d15">["vaal"]</data>
-      <data key="d16">["background"]</data>
-      <data key="d18">released</data>
-      <data key="d19">2</data>
-      <data key="d20">2</data>
-      <data key="d21">2</data>
-      <data key="d22">2</data>
       <data key="d23">False</data>
     </node>
     <node id="char_utula">
@@ -9988,32 +9756,6 @@
       <data key="d22">2</data>
       <data key="d23">False</data>
     </node>
-    <node id="concept_breach_poe2">
-      <data key="d1">Breach and the Keepers of the Flame (PoE2 0.5)</data>
-      <data key="d2">[]</data>
-      <data key="d3">concept</data>
-      <data key="d24" />
-      <data key="d4">0.5 Breach storyline: Ailith and the Keepers of the Flame hold back the Hiveborn from the Monastery of the Keepers; the Genesis Tree is a crafting hub; endgame Breach Domains end in Sky Fortresses with the Breachlords Tul and Esh, then Xesht.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">branch</data>
-      <data key="d7">["breach", "keepers_of_the_flame"]</data>
-      <data key="d8">poe2_endgame</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">medium</data>
-      <data key="d13">[{"source_id": "src_web_gamedeveloper_return_of_the_ancients", "locator": "Breach: Ailith and the Keepers of the Flame hold back the Hiveborn"}, {"source_id": "src_web_domistae_poe2_endgame_guide", "locator": "Breach (Waking the Dreamer)"}]</data>
-      <data key="d14">["poe2_endgame"]</data>
-      <data key="d15">["poe2_endgame"]</data>
-      <data key="d16">["branch"]</data>
-      <data key="d17">["codex audit round 2"]</data>
-      <data key="d18">released</data>
-      <data key="d19">1</data>
-      <data key="d20">2</data>
-      <data key="d21">3</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
     <node id="concept_calendar_moons">
       <data key="d1">Thirteen Moons</data>
       <data key="d2">[]</data>
@@ -10240,31 +9982,6 @@
       <data key="d22">2</data>
       <data key="d23">False</data>
     </node>
-    <node id="concept_doryani_contingencies">
-      <data key="d1">Doryani's contingencies</data>
-      <data key="d2">[]</data>
-      <data key="d3">concept</data>
-      <data key="d24" />
-      <data key="d4">Fan-synthesised reading of Doryani's secret preparations: anti-Beast Precursor weapon, flood-sealed Utzaal, and a time gateway needing Vaal blood. Interpretive; some details rest on tertiary YouTube analysis.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">background</data>
-      <data key="d7">[]</data>
-      <data key="d8">vaal</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">community_theory</data>
-      <data key="d12">low</data>
-      <data key="d13">[{"source_id": "src_yt_1Zt4tv8fjI4", "locator": "[7:07]-[13:30]"}, {"source_id": "src_poe2wiki_legacy_of_the_vaal", "locator": "Doryani dialogue"}]</data>
-      <data key="d14">["vaal"]</data>
-      <data key="d15">["vaal"]</data>
-      <data key="d16">["background"]</data>
-      <data key="d18">released</data>
-      <data key="d19">1</data>
-      <data key="d20">3</data>
-      <data key="d21">2</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
     <node id="concept_essence">
       <data key="d1">Essence</data>
       <data key="d2">[]</data>
@@ -10335,32 +10052,6 @@
       <data key="d16">["meta"]</data>
       <data key="d18">released</data>
       <data key="d19">2</data>
-      <data key="d20">2</data>
-      <data key="d21">2</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="concept_expedition_poe2">
-      <data key="d1">Expedition and The Grand Expedition (PoE2)</data>
-      <data key="d2">[]</data>
-      <data key="d3">concept</data>
-      <data key="d24" />
-      <data key="d4">0.5 Expedition storyline from Ruins of Kingsmarch: Rog searches for Gwennen across an ocean of islands, Medved, Vorana, Uhtred, Olroth lead factions; a Verisium meteor is the goal.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">branch</data>
-      <data key="d7">["expedition", "kingsmarch"]</data>
-      <data key="d8">poe2_endgame</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">medium</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_the_grand_expedition", "locator": "quest log"}, {"source_id": "src_web_gamedeveloper_return_of_the_ancients", "locator": "Expedition: Rog searches for his missing wife, Gwennen"}, {"source_id": "src_web_domistae_poe2_endgame_guide", "locator": "Expedition"}]</data>
-      <data key="d14">["poe2_endgame"]</data>
-      <data key="d15">["poe2_endgame"]</data>
-      <data key="d16">["branch"]</data>
-      <data key="d17">["codex audit round 2"]</data>
-      <data key="d18">released</data>
-      <data key="d19">3</data>
       <data key="d20">2</data>
       <data key="d21">2</data>
       <data key="d22">2</data>
@@ -10840,31 +10531,6 @@
       <data key="d22">2</data>
       <data key="d23">False</data>
     </node>
-    <node id="concept_poe2_atlas_of_worlds">
-      <data key="d1">Atlas of Worlds (PoE2)</data>
-      <data key="d2">[]</data>
-      <data key="d3">concept</data>
-      <data key="d24" />
-      <data key="d4">The PoE2 endgame map network, reached after the campaign via Doryani's Waygate and navigated with Waystones. Rebuilt in 0.5 (Return of the Ancients) with fixed points of interest, storylines and a fully unlockable Atlas passive tree.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">endgame_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">poe2_endgame</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_legacy_of_the_precursors", "locator": "quest log: 'Use the Map Device and the Waystone to enter a Map'"}, {"source_id": "src_web_pcgamesn_return_of_the_ancients", "locator": "Atlas passive tree: Fully remade; zone quest chains"}]</data>
-      <data key="d14">["poe2_endgame"]</data>
-      <data key="d15">["poe2_endgame"]</data>
-      <data key="d16">["endgame_plot"]</data>
-      <data key="d18">released</data>
-      <data key="d19">6</data>
-      <data key="d20">3</data>
-      <data key="d21">2</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
     <node id="concept_prophecy">
       <data key="d1">Prophecy</data>
       <data key="d2">[]</data>
@@ -10936,32 +10602,6 @@
       <data key="d16">["branch"]</data>
       <data key="d18">released</data>
       <data key="d19">5</data>
-      <data key="d20">2</data>
-      <data key="d21">2</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="concept_ritual_poe2">
-      <data key="d1">Ritual and the King in the Mists (PoE2)</data>
-      <data key="d2">[]</data>
-      <data key="d3">concept</data>
-      <data key="d24" />
-      <data key="d4">0.5 Ritual storyline: Aoife, a lost spirit bound by the King in the Mists, appeals to the Wildwood; the prison beneath holds the Bodach; the Rite of the Nameless in Caer Tarth. 0.5.5 adds Ritual altars to every zone.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">branch</data>
-      <data key="d7">["ritual"]</data>
-      <data key="d8">poe2_endgame</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">medium</data>
-      <data key="d13">[{"source_id": "src_web_gamedeveloper_return_of_the_ancients", "locator": "Ritual: Aoife, a lost spirit, bound by the King in the Mists... Bodach ... Rite of the Nameless"}, {"source_id": "src_poe2wiki_forbidden_rites", "locator": "League content"}]</data>
-      <data key="d14">["poe2_endgame"]</data>
-      <data key="d15">["poe2_endgame"]</data>
-      <data key="d16">["branch"]</data>
-      <data key="d17">["codex audit round 2"]</data>
-      <data key="d18">released</data>
-      <data key="d19">4</data>
       <data key="d20">2</data>
       <data key="d21">2</data>
       <data key="d22">2</data>
@@ -11161,30 +10801,6 @@
       <data key="d19">1</data>
       <data key="d20">2</data>
       <data key="d21">3</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="concept_the_edicts">
-      <data key="d1">The Edicts (Precursor murals)</data>
-      <data key="d2">[]</data>
-      <data key="d3">concept</data>
-      <data key="d4">Series of vague Precursor murals described by the PoE2 wiki as depicting the Beast and possibly instructions on how to contain it; numbered First to Fourth in game. Known: Third = instrument is the Weapon (Hooded One recognises it as 'the Weapon I saw in that third mural'); Second = Doryani's guess that the Seed was its instrument; Fourth = investigated in the Epilogue after the Arbiter of Ash (PoE1 wiki editors speculate it caused the Great Fire); First = unexplained threat averted in the Epilogue. The full text of the edicts is not given in any source read. Not to be confused with Count Geonor's hanging edicts in Ogham.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">main_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">precursor</data>
-      <data key="d9">{"in_world_year": null, "relative": "Precursor age, far older than the Vaal and Winter of the World", "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">medium</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_the_beast", "locator": "'It was depicted in their Edicts, vague murals that depicts the Beast and possibly instructions on how to contain it.'"}, {"source_id": "src_poe2wiki_the_search", "locator": "Return to Kingsmarch: Doryani 'The Third Edict? What is the meaning... of these Edicts?'"}, {"source_id": "src_poe2wiki_the_search", "locator": "Return to Kingsmarch: Hooded One 'It is the Weapon I saw in that third mural'; Enter the Excavated Site: Makoru 'These murals... appear to depict the Weapon... and the Beast'"}]</data>
-      <data key="d14">["twilight_order_edicts"]</data>
-      <data key="d15">["precursor"]</data>
-      <data key="d16">["main_plot"]</data>
-      <data key="d18">released</data>
-      <data key="d19">7</data>
-      <data key="d20">3</data>
-      <data key="d21">2</data>
       <data key="d22">2</data>
       <data key="d23">False</data>
     </node>
@@ -11692,31 +11308,6 @@
       <data key="d20">1</data>
       <data key="d21">2</data>
       <data key="d22">1</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="creature_the_nameless">
-      <data key="d1">The Nameless</data>
-      <data key="d2">[]</data>
-      <data key="d3">creature</data>
-      <data key="d24" />
-      <data key="d4">Shadowy beings born with the Wildwood as the 'unseen reflection opposite the mortal world'; led by the King in the Mists; Gruthkul was one.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">main_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">azmeri_ezomyte_ancient</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "Viridian Wildwood"}]</data>
-      <data key="d14">["deep_history"]</data>
-      <data key="d15">["azmeri_ezomyte_ancient"]</data>
-      <data key="d16">["main_plot"]</data>
-      <data key="d18">released</data>
-      <data key="d19">3</data>
-      <data key="d20">2</data>
-      <data key="d21">2</data>
-      <data key="d22">2</data>
       <data key="d23">False</data>
     </node>
     <node id="creature_titans">
@@ -12276,31 +11867,6 @@
       <data key="d19">8</data>
       <data key="d20">1</data>
       <data key="d21">2</data>
-      <data key="d22">1</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="deity_halani">
-      <data key="d1">Halani</data>
-      <data key="d2">["Halani, the Water Goddess"]</data>
-      <data key="d3">deity</data>
-      <data key="d4">Forgotten Maraketh water goddess, found powerless and dying from lack of worship in PoE2 Act 2 Buried Shrines; mother of Azarian.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">main_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">primordial</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">["act_poe2_act2"]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_halani_the_water_goddess", "locator": "intro and dialogue with Azarian"}, {"source_id": "src_poewiki_god", "locator": "section 'Halani'"}, {"source_id": "src_poe2wiki_the_city_of_seven_waters", "locator": "Walkthrough 'Talk to the Water Goddess' / 'End the Water Goddess' suffering'"}]</data>
-      <data key="d14">["gods_cosmology", "poe2_acts_1_3"]</data>
-      <data key="d15">["primordial", "poe2_campaign"]</data>
-      <data key="d16">["main_plot"]</data>
-      <data key="d25">[{"domain": "poe2_acts_1_3", "summary": "Water goddess lying in a shrine at the heart of Keth. She asks the Exile to burn her with Everburning Cinders to end her suffering."}]</data>
-      <data key="d18">released</data>
-      <data key="d19">5</data>
-      <data key="d20">2</data>
-      <data key="d21">1</data>
       <data key="d22">1</data>
       <data key="d23">False</data>
     </node>
@@ -18203,31 +17769,6 @@
       <data key="d22">1</data>
       <data key="d23">False</data>
     </node>
-    <node id="event_poe2_a5_oriath_assault">
-      <data key="d1">Assault on Oriath (planned Act 5)</data>
-      <data key="d2">[]</data>
-      <data key="d3">event</data>
-      <data key="d24" />
-      <data key="d4">Announced Act 5: arrive in Oriath hunting the Beast; datamined quests The Siege of Oriath, Infiltrating Oriath, etc.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">main_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">poe2_campaign</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">["act_poe2_act5"]</data>
-      <data key="d11">inferred</data>
-      <data key="d12">low</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_act_5", "locator": "intro"}, {"source_id": "src_web_poe2db_act5", "locator": "Quests"}]</data>
-      <data key="d14">["poe2_acts_4_plus"]</data>
-      <data key="d15">["poe2_campaign"]</data>
-      <data key="d16">["main_plot"]</data>
-      <data key="d18">datamined_pre_1.0</data>
-      <data key="d19">6</data>
-      <data key="d20">2</data>
-      <data key="d21">1</data>
-      <data key="d22">1</data>
-      <data key="d23">False</data>
-    </node>
     <node id="event_poe2_beast_slain_aftermath">
       <data key="d1">Gods awaken after the Beast's death</data>
       <data key="d2">[]</data>
@@ -18250,32 +17791,6 @@
       <data key="d19">3</data>
       <data key="d20">1</data>
       <data key="d21">2</data>
-      <data key="d22">1</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="event_poe2_trial_of_the_ancestors">
-      <data key="d1">Trial of the Ancestors (PoE2 quest)</data>
-      <data key="d2">["Trial of the Ancestors"]</data>
-      <data key="d3">event</data>
-      <data key="d24" />
-      <data key="d4">Optional PoE2 Act 4 quest unlocked by freeing Matiki; the Exile meets Hinekora in the Trial of the Ancestors and receives the Tattoo of Hinekora.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">branch</data>
-      <data key="d7">["ancestor"]</data>
-      <data key="d8">poe2_campaign</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">["act_poe2_act4"]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_trial_of_the_ancestors_quest_", "locator": "infobox + Rewards"}, {"source_id": "src_poe2wiki_trial_of_the_ancestors_quest", "locator": "Walkthrough"}]</data>
-      <data key="d14">["leagues_late", "poe2_acts_4_plus"]</data>
-      <data key="d15">["poe2_campaign"]</data>
-      <data key="d16">["branch"]</data>
-      <data key="d25">[{"domain": "poe2_acts_4_plus", "summary": "Matiki's rescue leads to Tests of Mettle, Yama's trial and Hinekora, who offers 'Her power... if you will accept it.'"}]</data>
-      <data key="d18">released</data>
-      <data key="d19">9</data>
-      <data key="d20">2</data>
-      <data key="d21">1</data>
       <data key="d22">1</data>
       <data key="d23">False</data>
     </node>
@@ -18377,31 +17892,6 @@
       <data key="d19">7</data>
       <data key="d20">2</data>
       <data key="d21">3</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="event_red_communion">
-      <data key="d1">The Red Communion</data>
-      <data key="d2">[]</data>
-      <data key="d3">event</data>
-      <data key="d24" />
-      <data key="d4">Project that allowed Atziri to commune directly with the Beast. Doryani, privately opposed, was forced to devise it; he learned all he could and prepared contingencies. It triggered the Vaal Cataclysm.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">background</data>
-      <data key="d7">[]</data>
-      <data key="d8">vaal</data>
-      <data key="d9">{"in_world_year": null, "relative": "c. 400 BIC", "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poewiki_the_vaal", "locator": "section 'The Vaal Cataclysm' (PoE2 account)"}, {"source_id": "src_poe2wiki_environmental_lore", "locator": "Spymaster note: 'consequences of the Red Communion'"}]</data>
-      <data key="d14">["vaal"]</data>
-      <data key="d15">["vaal"]</data>
-      <data key="d16">["background"]</data>
-      <data key="d18">released</data>
-      <data key="d19">4</data>
-      <data key="d20">2</data>
-      <data key="d21">2</data>
       <data key="d22">2</data>
       <data key="d23">False</data>
     </node>
@@ -18957,32 +18447,6 @@
       <data key="d21">2</data>
       <data key="d22">1</data>
       <data key="d23">False</data>
-    </node>
-    <node id="event_utzaal_past_cataclysm">
-      <data key="d1">Survive the Utzaal Cataclysm through the gateway</data>
-      <data key="d2">["Exile witnesses the Vaal Cataclysm"]</data>
-      <data key="d3">event</data>
-      <data key="d24" />
-      <data key="d4">The Exile and Alva survive the Cataclysm in Utzaal's past and return through the gateway with Doryani, who then laments that his people are long dead.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">main_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">poe2_campaign</data>
-      <data key="d9">{"in_world_year": null, "relative": "PoE2 campaign", "story_order": 5309}</data>
-      <data key="d10">["act_poe2_act3", "poe2_act3"]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_legacy_of_the_vaal", "locator": "Quest 'Use the Gateway' / 'Survive the Cataclysm'"}, {"source_id": "src_poe2wiki_legacy_of_the_vaal", "locator": "Survive the Cataclysm"}]</data>
-      <data key="d14">["poe2_acts_1_3", "vaal"]</data>
-      <data key="d15">["poe2_campaign"]</data>
-      <data key="d16">["main_plot"]</data>
-      <data key="d25">[{"domain": "vaal", "summary": "Doryani, Alva and the Exile use the gateway as the Cataclysm begins ('It begins...'); they return to the present where Doryani sees Utzaal as a grave."}]</data>
-      <data key="d18">released</data>
-      <data key="d19">11</data>
-      <data key="d20">2</data>
-      <data key="d21">1</data>
-      <data key="d22">1</data>
-      <data key="d23">True</data>
     </node>
     <node id="event_vaal_azmeri_contact">
       <data key="d1">Vaal first contact with the Azmeri</data>
@@ -22007,84 +21471,6 @@
       <data key="d22">1</data>
       <data key="d23">False</data>
     </node>
-    <node id="league_poe2_forbidden_rites">
-      <data key="d1">Forbidden Rites league (PoE2)</data>
-      <data key="d2">["Forbidden Rites (0.5.5)"]</data>
-      <data key="d3">league</data>
-      <data key="d24" />
-      <data key="d4">PoE2 Early Access event league (0.5.5, 2026-09-04) built on Ritual altars in campaign and endgame zones, with unique-boss Ritual clusters per act and Sacred Bloom Wildwood encounters; 0.5.5 also integrates Runes of Aldur and Expedition into the core PoE2 game.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">branch</data>
-      <data key="d7">["ritual"]</data>
-      <data key="d8">poe2_endgame</data>
-      <data key="d9">{"in_world_year": null, "relative": "0.5.5, 2026-09-04", "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_forbidden_rites", "locator": "lead, 'League content' and unique boss rituals"}, {"source_id": "src_poe2wiki_forbidden_rites", "locator": "lead and League content"}]</data>
-      <data key="d14">["leagues_mid", "poe2_endgame"]</data>
-      <data key="d15">["poe2_endgame"]</data>
-      <data key="d16">["branch", "meta"]</data>
-      <data key="d25">[{"domain": "poe2_endgame", "summary": "0.5.5 event league (2026-09-04) running beside Runes of Aldur: Ritual encounters in every campaign and endgame zone, unique-boss Ritual clusters per act, Viridian Wildwood via Sacred Bloom; integrates Runes of Aldur and Expedition into core."}]</data>
-      <data key="d18">released</data>
-      <data key="d19">4</data>
-      <data key="d20">2</data>
-      <data key="d21">1</data>
-      <data key="d22">1</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="league_poe2_rise_of_the_abyssal">
-      <data key="d1">Rise of the Abyssal</data>
-      <data key="d2">["Rise of the Abyssal (0.3.0)", "Rise of the Abyssal league (PoE2)"]</data>
-      <data key="d3">league</data>
-      <data key="d24" />
-      <data key="d4">First 'full' PoE2 league (0.3.0, 2025-08-29 to 2025-12-09): Abyssal fissures open as green cracks near monster packs; closing them reveals an Abyssal Trove and sometimes the Abyssal Depths; preserved bones feed desecration at the Well of Souls (Act 2).</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">branch</data>
-      <data key="d7">["abyss", "poe2_abyss"]</data>
-      <data key="d8">poe2_campaign</data>
-      <data key="d9">{"in_world_year": null, "relative": "2025-08-29 to 2025-12-09", "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_rise_of_the_abyssal_league", "locator": "lead"}, {"source_id": "src_poe2wiki_rise_of_the_abyssal_league", "locator": "infobox: release_version 0.3.0, release_date 2025-08-29"}, {"source_id": "src_poe2wiki_rise_of_the_abyssal_league", "locator": "lead and League content"}, {"source_id": "src_ggg_content_update_0_3_0", "locator": "Rise of the Abyssals section"}]</data>
-      <data key="d14">["leagues_early", "poe2_acts_4_plus", "poe2_endgame"]</data>
-      <data key="d15">["poe2_campaign", "poe2_endgame"]</data>
-      <data key="d16">["branch", "meta"]</data>
-      <data key="d25">[{"domain": "poe2_acts_4_plus", "summary": "Challenge league launched 2025-08-29 with The Third Edict (v0.3.0), the release that added Act 4, the Interludes and Abyss content."}, {"domain": "leagues_early", "summary": "First PoE2 full league, launched 2025-08-29 with version 0.3.0 (The Third Edict); Abysses, preserved bones, the Well of Souls (Act 2) and desecrated modifiers."}]</data>
-      <data key="d18">released</data>
-      <data key="d19">10</data>
-      <data key="d20">2</data>
-      <data key="d21">1</data>
-      <data key="d22">1</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="league_poe2_runes_of_aldur">
-      <data key="d1">Runes of Aldur</data>
-      <data key="d2">["Runes of Aldur league (PoE2)"]</data>
-      <data key="d3">league</data>
-      <data key="d24" />
-      <data key="d4">0.5.0 temporary league: Farrow studies runes on Verisium Remnants (Ezomyte Runesmithing with Kalguuran origins), producing Runic Ward, Kalguuran gems and alloys; folded into the core game with Expedition in 0.5.5.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">branch</data>
-      <data key="d7">["expedition", "kingsmarch", "poe2_runes_of_aldur"]</data>
-      <data key="d8">poe2_endgame</data>
-      <data key="d9">{"in_world_year": null, "relative": "2026-05-29", "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_runes_of_aldur_league", "locator": "lead and 'League content'"}, {"source_id": "src_poe2wiki_runes_of_aldur_league", "locator": "League content"}, {"source_id": "src_web_gamedeveloper_return_of_the_ancients", "locator": "Runes of Aldur (Runesmithing): Farrow, a young blacksmith, reveals the Kalguuran origins of Ezomyte Runesmithing"}]</data>
-      <data key="d14">["leagues_mid", "poe2_endgame"]</data>
-      <data key="d15">["poe2_endgame"]</data>
-      <data key="d16">["branch", "meta"]</data>
-      <data key="d25">[{"domain": "leagues_mid", "summary": "PoE2 Early Access temporary league (0.5.0 'Return of the Ancients', 2026-05-29) in which Farrow studies runes on Verisium Remnants; brings Kalguuran runesmithing, Ward and Kalguuran gems to PoE2."}]</data>
-      <data key="d18">released</data>
-      <data key="d19">4</data>
-      <data key="d20">2</data>
-      <data key="d21">1</data>
-      <data key="d22">1</data>
-      <data key="d23">False</data>
-    </node>
     <node id="league_prophecy">
       <data key="d1">Prophecy league</data>
       <data key="d2">[]</data>
@@ -22989,32 +22375,6 @@
       <data key="d20">2</data>
       <data key="d21">3</data>
       <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="loc_cemetery_of_the_eternals">
-      <data key="d1">Cemetery of the Eternals</data>
-      <data key="d2">[]</data>
-      <data key="d3">location</data>
-      <data key="d24" />
-      <data key="d4">PoE2 Act 1 area in Ogham where Eternal praetors are entombed, with inscriptions claiming the land 'in life and death'.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">main_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">post_cataclysm</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">["act_poe2_act1"]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_sorrow_among_stones", "locator": "quest and area text"}, {"source_id": "src_poe2wiki_act_1", "locator": "area table"}, {"source_id": "src_poe2wiki_sorrow_among_stones", "locator": "Walkthrough"}]</data>
-      <data key="d14">["eternal_empire", "poe2_acts_1_3"]</data>
-      <data key="d15">["post_cataclysm", "poe2_campaign"]</data>
-      <data key="d16">["main_plot", "background"]</data>
-      <data key="d25">[{"domain": "poe2_acts_1_3", "summary": "Act 1 graveyard hosting the Tomb of the Consort and the Mausoleum of the Praetor."}]</data>
-      <data key="d18">released</data>
-      <data key="d19">5</data>
-      <data key="d20">2</data>
-      <data key="d21">1</data>
-      <data key="d22">1</data>
       <data key="d23">False</data>
     </node>
     <node id="loc_chamber_of_innocence">
@@ -24407,31 +23767,6 @@
       <data key="d22">2</data>
       <data key="d23">False</data>
     </node>
-    <node id="loc_precursor_towers">
-      <data key="d1">Precursor Towers</data>
-      <data key="d2">[]</data>
-      <data key="d3">location</data>
-      <data key="d24" />
-      <data key="d4">Precursor Tower system met on the PoE2 Atlas, apparently built for terraforming Wraeclast (per Doryani's research quoted on the History page). In Legacy of the Precursors, activating a Precursor Beacon makes a Precursor Fortress rise from the ground; the Ziggurat sits over ancient 'leylines'.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">endgame_plot</data>
-      <data key="d7">[]</data>
-      <data key="d8">precursor</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">medium</data>
-      <data key="d13">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "Precursor civilization"}, {"source_id": "src_poe2wiki_tower", "locator": "intro"}, {"source_id": "src_poe2wiki_the_grand_project", "locator": "flavour: 'they sought to master this world'"}, {"source_id": "src_poe2wiki_legacy_of_the_precursors", "locator": "Activate the Precursor Beacon: 'the Precursor Fortress will rise from the ground'; Doryani on leylines"}]</data>
-      <data key="d14">["deep_history"]</data>
-      <data key="d15">["precursor"]</data>
-      <data key="d16">["endgame_plot"]</data>
-      <data key="d18">released</data>
-      <data key="d19">3</data>
-      <data key="d20">3</data>
-      <data key="d21">2</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
     <node id="loc_prisoner_s_gate">
       <data key="d1">Prisoner's Gate (Act 6)</data>
       <data key="d2">[]</data>
@@ -24505,32 +23840,6 @@
       <data key="d20">1</data>
       <data key="d21">2</data>
       <data key="d22">1</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="loc_ruins_of_kingsmarch">
-      <data key="d1">Ruins of Kingsmarch</data>
-      <data key="d2">[]</data>
-      <data key="d3">location</data>
-      <data key="d24" />
-      <data key="d4">Devastated Kingsmarch, hub of the Expedition storyline.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">branch</data>
-      <data key="d7">["expedition"]</data>
-      <data key="d8">poe2_endgame</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_the_grand_expedition", "locator": "Travel to Ruins of Kingsmarch"}]</data>
-      <data key="d14">["poe2_endgame"]</data>
-      <data key="d15">["poe2_endgame"]</data>
-      <data key="d16">["branch"]</data>
-      <data key="d17">["codex audit round 2"]</data>
-      <data key="d18">released</data>
-      <data key="d19">3</data>
-      <data key="d20">2</data>
-      <data key="d21">2</data>
-      <data key="d22">2</data>
       <data key="d23">False</data>
     </node>
     <node id="loc_sarn">
@@ -25157,31 +24466,6 @@
       <data key="d19">1</data>
       <data key="d20">2</data>
       <data key="d21">3</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="loc_the_cradle">
-      <data key="d1">The Cradle</data>
-      <data key="d2">[]</data>
-      <data key="d3">location</data>
-      <data key="d24" />
-      <data key="d4">Mirror-portal realm near the Beast where Atziri, the Fell Serpent is fought in PoE2.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">branch</data>
-      <data key="d7">["fate_of_the_vaal"]</data>
-      <data key="d8">vaal</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">medium</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_atziri_the_red_queen", "locator": "Abilities"}]</data>
-      <data key="d14">["vaal"]</data>
-      <data key="d15">["vaal"]</data>
-      <data key="d16">["branch"]</data>
-      <data key="d18">released</data>
-      <data key="d19">2</data>
-      <data key="d20">2</data>
-      <data key="d21">2</data>
       <data key="d22">2</data>
       <data key="d23">False</data>
     </node>
@@ -26337,31 +25621,6 @@
       <data key="d22">2</data>
       <data key="d23">False</data>
     </node>
-    <node id="text_emperors_warning">
-      <data key="d1">Emperor's Warning</data>
-      <data key="d2">[]</data>
-      <data key="d3">text</data>
-      <data key="d24" />
-      <data key="d4">Notice at The Prisoner's arena: 'By the order of Emperor Izaro... The prisoner within is beyond death.' signed Emperor Chitus Perandus.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">background</data>
-      <data key="d7">[]</data>
-      <data key="d8">eternal_empire_fall</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">["act_poe2_act4"]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_environmental_lore", "locator": "Emperor's Warning"}]</data>
-      <data key="d14">["poe2_acts_4_plus"]</data>
-      <data key="d15">["eternal_empire_fall"]</data>
-      <data key="d16">["background"]</data>
-      <data key="d18">released</data>
-      <data key="d19">2</data>
-      <data key="d20">3</data>
-      <data key="d21">2</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
     <node id="text_feverish_writings_niko">
       <data key="d1">Feverish Writings (Niko)</data>
       <data key="d2">[]</data>
@@ -26587,32 +25846,6 @@
       <data key="d22">3</data>
       <data key="d23">False</data>
     </node>
-    <node id="text_precursor_edicts">
-      <data key="d1">Precursor Edicts</data>
-      <data key="d2">[]</data>
-      <data key="d3">text</data>
-      <data key="d24" />
-      <data key="d4">Vague Precursor murals depicting the Beast (or a precursor of it) and possibly instructions for containing it. The corpus separately says Sin later created the Beast from a Precursor Seed of Corruption; any reading that the Beast predates the gods is interpretation.</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">background</data>
-      <data key="d7">[]</data>
-      <data key="d8">precursor</data>
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">inferred</data>
-      <data key="d12">medium</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_the_beast", "locator": "paragraph 1"}]</data>
-      <data key="d14">["deep_history"]</data>
-      <data key="d15">["precursor"]</data>
-      <data key="d16">["background"]</data>
-      <data key="d17">["codex audit round 2"]</data>
-      <data key="d18">released</data>
-      <data key="d19">2</data>
-      <data key="d20">2</data>
-      <data key="d21">3</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
     <node id="text_purity_chronicles">
       <data key="d1">The Purity Chronicles</data>
       <data key="d2">[]</data>
@@ -26734,31 +25967,6 @@
       <data key="d18">released</data>
       <data key="d19">3</data>
       <data key="d20">2</data>
-      <data key="d21">2</data>
-      <data key="d22">2</data>
-      <data key="d23">False</data>
-    </node>
-    <node id="text_vaal_architect_notes">
-      <data key="d1">Architects' notes in Atziri's Temple</data>
-      <data key="d3">text</data>
-      <data key="d4">Environmental texts in Atziri's Temple: 'The Perfect Design' (Architect's living-machine temple, expecting Doryani's proxies to try to stop 'Atziri's Ascension'), 'Disloyalty' (an Architect suspects Doryani is moving against the Queen over the Red Communion) and 'The Forever Queen' (Atziri names a critic her personal Architect).</data>
-      <data key="d5">["poe2"]</data>
-      <data key="d6">background</data>
-      <data key="d8">vaal</data>
-      <data key="d7">["fate_of_the_vaal"]</data>
-      <data key="d13">[{"source_id": "src_poe2wiki_environmental_lore", "locator": "'The Perfect Design', 'Disloyalty', 'The Forever Queen'"}]</data>
-      <data key="d2">[]</data>
-      <data key="d24" />
-      <data key="d9">{"in_world_year": null, "relative": null, "story_order": null}</data>
-      <data key="d10">[]</data>
-      <data key="d11">canon</data>
-      <data key="d12">high</data>
-      <data key="d14">["vaal"]</data>
-      <data key="d15">["vaal"]</data>
-      <data key="d16">["background"]</data>
-      <data key="d18">released</data>
-      <data key="d19">2</data>
-      <data key="d20">3</data>
       <data key="d21">2</data>
       <data key="d22">2</data>
       <data key="d23">False</data>
@@ -27686,20 +26894,6 @@
       <data key="d40">[{"source_id": "src_poewiki_kurai_the_administrator", "locator": "'Hyrri's Gift' section"}]</data>
       <data key="d41">["gap_leagues_thin_storylines"]</data>
     </edge>
-    <edge source="artifact_precursor_weapon" target="concept_corruption" id="e_artifact_precursor_weapon__associated_with__concept_corruption">
-      <data key="d30">e_artifact_precursor_weapon__associated_with__concept_corruption</data>
-      <data key="d31">associated_with</data>
-      <data key="d32">Doryani attempts to harness the Precursor Weapon to destroy corruption.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">precursor</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "section '===Precursor civilization===': the Precursor Weapon 'which Doryani attempts to harness to destroy corruption'"}]</data>
-      <data key="d41">["gap_deep_history_vaal_precursor_eternal"]</data>
-    </edge>
     <edge source="artifact_primeval_remnant" target="loc_forge_of_the_titans" id="e_artifact_primeval_remnant__leads_to__loc_forge_of_the_titans">
       <data key="d30">e_artifact_primeval_remnant__leads_to__loc_forge_of_the_titans</data>
       <data key="d31">leads_to</data>
@@ -27853,20 +27047,6 @@
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poe2wiki_the_beast", "locator": "paragraph 2: 'Using the Seed of Corruption, Sin created the Beast'"}]</data>
       <data key="d41">["gap_deep_history_vaal_precursor_eternal"]</data>
-    </edge>
-    <edge source="artifact_seed_of_corruption" target="deity_beast" id="e_artifact_seed_of_corruption__continues_in__deity_beast">
-      <data key="d30">e_artifact_seed_of_corruption__continues_in__deity_beast</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">The stolen seed grows into the new Beast in PoE2.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">poe2_campaign</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_the_beast", "locator": "last paragraph"}]</data>
-      <data key="d41">["gods_cosmology"]</data>
     </edge>
     <edge source="artifact_seed_of_corruption" target="artifact_dark_ember" id="e_artifact_seed_of_corruption__same_entity_as__artifact_dark_ember">
       <data key="d30">e_artifact_seed_of_corruption__same_entity_as__artifact_dark_ember</data>
@@ -28652,6 +27832,20 @@
       <data key="d40">[{"source_id": "src_poewiki_eternal_empire", "locator": "section 'Reign of Alano Phrecia'"}]</data>
       <data key="d41">["members_g4"]</data>
     </edge>
+    <edge source="char_aldur" target="faction_kalguuran" id="e_char_aldur__founded__faction_kalguuran">
+      <data key="d30">e_char_aldur__founded__faction_kalguuran</data>
+      <data key="d31">founded</data>
+      <data key="d32">Aldur is the first King and nation's founder-figure ('the beginnings of Kalguur was born').</data>
+      <data key="d33">["poe2"]</data>
+      <data key="d34">background</data>
+      <data key="d35">["expedition"]</data>
+      <data key="d36">unknown</data>
+      <data key="d42" />
+      <data key="d38">canon</data>
+      <data key="d39">medium</data>
+      <data key="d40">[{"source_id": "src_poe2wiki_aldur", "locator": "Aldur's reign: 'he, the first Runefather'; first King of Kalguur"}, {"source_id": "src_poewiki_kalguur", "locator": "Runes: \"the first runes were crafted by Aldur, the first Runefather and the first king of Kalguur\""}]</data>
+      <data key="d41">["leagues_mid"]</data>
+    </edge>
     <edge source="char_aldur" target="faction_kalguuran" id="e_char_aldur__leads__faction_kalguuran">
       <data key="d30">e_char_aldur__leads__faction_kalguuran</data>
       <data key="d31">leads</data>
@@ -29028,20 +28222,6 @@
       <data key="d38">canon</data>
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_the_vaal", "locator": "The Vaal Cataclysm"}]</data>
-      <data key="d41">["vaal"]</data>
-    </edge>
-    <edge source="char_atziri" target="event_red_communion" id="e_char_atziri__participates_in__event_red_communion">
-      <data key="d30">e_char_atziri__participates_in__event_red_communion</data>
-      <data key="d31">participates_in</data>
-      <data key="d32">Atziri communed with the Beast.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">vaal</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poewiki_the_vaal", "locator": "PoE2 account"}]</data>
       <data key="d41">["vaal"]</data>
     </edge>
     <edge source="char_atziri" target="event_atziri_nightmare_fate" id="e_char_atziri__leads_to__event_atziri_nightmare_fate">
@@ -30500,20 +29680,6 @@
       <data key="d40">[{"source_id": "src_yt_16jF71G2M6M", "locator": "transcript [0:19]-[0:35]: 'when chiles perandus became the emperor he decided to allow ... he even provided help to malachi and inquisitor maligaro for their experiments' (auto-captions)"}]</data>
       <data key="d41">["gap_deep_history_vaal_precursor_eternal"]</data>
     </edge>
-    <edge source="char_chitus" target="text_emperors_warning" id="e_char_chitus__created__text_emperors_warning">
-      <data key="d30">e_char_chitus__created__text_emperors_warning</data>
-      <data key="d31">created</data>
-      <data key="d32">Signed 'Emperor Chitus Perandus' on the order of Izaro.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">eternal_empire_fall</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_environmental_lore", "locator": "Emperor's Warning"}]</data>
-      <data key="d41">["poe2_acts_4_plus"]</data>
-    </edge>
     <edge source="char_clarissa" target="event_a3_lost_in_love" id="e_char_clarissa__participates_in__event_a3_lost_in_love">
       <data key="d30">e_char_clarissa__participates_in__event_a3_lost_in_love</data>
       <data key="d31">participates_in</data>
@@ -31788,34 +30954,6 @@
       <data key="d40">[{"source_id": "src_poewiki_atziri_lore", "locator": "Davaro"}]</data>
       <data key="d41">["vaal"]</data>
     </edge>
-    <edge source="char_doryani" target="artifact_precursor_weapon" id="e_char_doryani__seeks__artifact_precursor_weapon">
-      <data key="d30">e_char_doryani__seeks__artifact_precursor_weapon</data>
-      <data key="d31">seeks</data>
-      <data key="d32">Doryani sends Exile to find the pieces and translates the writing.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">vaal</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_yt_1Zt4tv8fjI4", "locator": "[7:41]-[7:59]"}, {"source_id": "src_poe2wiki_the_search", "locator": "Talk to Doryani"}]</data>
-      <data key="d41">["deep_history", "twilight_order_edicts"]</data>
-    </edge>
-    <edge source="char_doryani" target="artifact_precursor_weapon" id="e_char_doryani__possesses__artifact_precursor_weapon">
-      <data key="d30">e_char_doryani__possesses__artifact_precursor_weapon</data>
-      <data key="d31">possesses</data>
-      <data key="d32">Doryani holds one piece of the Precursor weapon and the rest are scattered in the Karui archipelago.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">poe2_campaign</data>
-      <data key="d37">5310</data>
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_legacy_of_the_vaal", "locator": "Quest log 'Speak to Doryani' (weapon pieces)"}, {"source_id": "src_poe2wiki_legacy_of_the_vaal", "locator": "Doryani dialogue"}]</data>
-      <data key="d41">["poe2_acts_1_3", "vaal"]</data>
-    </edge>
     <edge source="char_doryani" target="faction_vaal" id="e_char_doryani__member_of__faction_vaal">
       <data key="d30">e_char_doryani__member_of__faction_vaal</data>
       <data key="d31">member_of</data>
@@ -31829,20 +30967,6 @@
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_the_vaal", "locator": "section 'Reign of Queen Atziri' / 'Zerphi': 'Atziri tasked her premier thaumaturgist Doryani'"}, {"source_id": "src_poewiki_doryani", "locator": "page intro: Vaal Royal Thaumaturgist"}]</data>
       <data key="d41">["members_g3"]</data>
-    </edge>
-    <edge source="char_doryani" target="char_exile_poe2" id="e_char_doryani__allies_with__char_exile_poe2">
-      <data key="d30">e_char_doryani__allies_with__char_exile_poe2</data>
-      <data key="d31">allies_with</data>
-      <data key="d32">After capture Doryani agrees to help contain the Beast; the Hooded One says their goals are aligned.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">poe2_campaign</data>
-      <data key="d37">5310</data>
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_legacy_of_the_vaal", "locator": "Quest log 'Speak to Alva' / Hooded One follow-up"}, {"source_id": "src_poe2wiki_legacy_of_the_vaal", "locator": "Doryani dialogue"}]</data>
-      <data key="d41">["poe2_acts_1_3", "vaal"]</data>
     </edge>
     <edge source="char_doryani" target="char_atziri" id="e_char_doryani__opposes__char_atziri">
       <data key="d30">e_char_doryani__opposes__char_atziri</data>
@@ -31912,20 +31036,6 @@
       <data key="d38">canon</data>
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_the_vaal", "locator": "Zerphi"}]</data>
-      <data key="d41">["vaal"]</data>
-    </edge>
-    <edge source="char_doryani" target="event_red_communion" id="e_char_doryani__participates_in__event_red_communion">
-      <data key="d30">e_char_doryani__participates_in__event_red_communion</data>
-      <data key="d31">participates_in</data>
-      <data key="d32">Doryani was forced to devise it.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">vaal</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poewiki_the_vaal", "locator": "PoE2 account"}]</data>
       <data key="d41">["vaal"]</data>
     </edge>
     <edge source="char_doryani" target="deity_beast" id="e_char_doryani__opposes__deity_beast">
@@ -38257,20 +37367,6 @@
       <data key="d40">[{"source_id": "src_poe2wiki_the_beast", "locator": "paragraph 4"}]</data>
       <data key="d41">["poe2_acts_4_plus"]</data>
     </edge>
-    <edge source="char_exile_poe1" target="char_exile_poe2" id="e_char_exile_poe1__continues_in__char_exile_poe2">
-      <data key="d30">e_char_exile_poe1__continues_in__char_exile_poe2</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">Different protagonists; the PoE2 Exile follows ~20 years after the previous exile killed the Beast.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">interlude_between_games</data>
-      <data key="d42" />
-      <data key="d38">inferred</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_the_beast", "locator": "paragraph 4"}]</data>
-      <data key="d41">["poe2_acts_4_plus"]</data>
-    </edge>
     <edge source="char_exile_poe1" target="event_poe1_a2_kill_vaal_oversoul" id="e_char_exile_poe1__participates_in__event_poe1_a2_kill_vaal_oversoul">
       <data key="d30">e_char_exile_poe1__participates_in__event_poe1_a2_kill_vaal_oversoul</data>
       <data key="d31">participates_in</data>
@@ -38340,62 +37436,6 @@
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_solar_eclipse", "locator": "Walkthrough"}]</data>
       <data key="d41">["zz_curation"]</data>
-    </edge>
-    <edge source="char_exile_poe2" target="loc_cemetery_of_the_eternals" id="e_char_exile_poe2__travels_to__loc_cemetery_of_the_eternals">
-      <data key="d30">e_char_exile_poe2__travels_to__loc_cemetery_of_the_eternals</data>
-      <data key="d31">travels_to</data>
-      <data key="d32">PoE2 Act 1.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">post_cataclysm</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_sorrow_among_stones", "locator": "Area"}]</data>
-      <data key="d41">["eternal_empire"]</data>
-    </edge>
-    <edge source="char_exile_poe2" target="char_exile_poe1" id="e_char_exile_poe2__associated_with__char_exile_poe1">
-      <data key="d30">e_char_exile_poe2__associated_with__char_exile_poe1</data>
-      <data key="d31">associated_with</data>
-      <data key="d32">Two distinct protagonists: the PoE1 and PoE2 Exiles share the archetype but are not stated to be the same character.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">meta</data>
-      <data key="d35">[]</data>
-      <data key="d36">interlude_between_games</data>
-      <data key="d42" />
-      <data key="d38">inferred</data>
-      <data key="d39">low</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_lore", "locator": "section 'Lore' (prelude)"}]</data>
-      <data key="d41">["exile_and_sources"]</data>
-    </edge>
-    <edge source="char_exile_poe2" target="char_doryani" id="e_char_exile_poe2__imprisons__char_doryani">
-      <data key="d30">e_char_exile_poe2__imprisons__char_doryani</data>
-      <data key="d31">imprisons</data>
-      <data key="d32">The Exile captures Doryani in the Black Chambers to interrogate him about the Beast; Doryani then agrees to help.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">poe2_campaign</data>
-      <data key="d37">5308</data>
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_legacy_of_the_vaal", "locator": "Quest 'Capture Doryani for his knowledge of the Beast'"}]</data>
-      <data key="d41">["poe2_acts_1_3"]</data>
-    </edge>
-    <edge source="char_exile_poe2" target="char_atziri" id="e_char_exile_poe2__defeats__char_atziri">
-      <data key="d30">e_char_exile_poe2__defeats__char_atziri</data>
-      <data key="d31">defeats</data>
-      <data key="d32">Exile defeats Atziri (Red Queen then Fell Serpent) in her Temple.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">branch</data>
-      <data key="d35">["fate_of_the_vaal", "vaal_temple"]</data>
-      <data key="d36">poe2_endgame</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_fate_of_the_vaal_quest_", "locator": "Defeat Atziri, the Red Queen / Fell Serpent"}, {"source_id": "src_poe2wiki_fate_of_the_vaal_quest_", "locator": "Quest Complete"}]</data>
-      <data key="d41">["poe2_endgame", "vaal"]</data>
     </edge>
     <edge source="char_faustus" target="loc_kingsmarch" id="e_char_faustus__located_in__loc_kingsmarch">
       <data key="d30">e_char_faustus__located_in__loc_kingsmarch</data>
@@ -39138,20 +38178,6 @@
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_victario_s_secrets", "locator": "Hargan dialogue"}, {"source_id": "src_ingame_victario_s_secrets", "locator": "Hargan dialogue"}, {"source_id": "src_poewiki_essence_of_the_hag", "locator": "Hargan"}]</data>
       <data key="d41">["poe1_acts_1_5", "poe1_acts_6_10"]</data>
-    </edge>
-    <edge source="char_hayoxi" target="faction_vaal_architects" id="e_char_hayoxi__associated_with__faction_vaal_architects">
-      <data key="d30">e_char_hayoxi__associated_with__faction_vaal_architects</data>
-      <data key="d31">associated_with</data>
-      <data key="d32">The flavour text calls Hayoxi 'The Architect of Destruction'; the link to the Royal Architects of Atzoatl is an inference from the title, not a stated membership.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">vaal</data>
-      <data key="d42" />
-      <data key="d38">inferred</data>
-      <data key="d39">low</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_hayoxi_s_fulmination", "locator": "flavour_text: 'The Architect of Destruction ... under the royal temple'"}]</data>
-      <data key="d41">["gap_deep_history_vaal_precursor_eternal"]</data>
     </edge>
     <edge source="char_hector_titucius" target="faction_gemling_legion" id="e_char_hector_titucius__member_of__faction_gemling_legion">
       <data key="d30">e_char_hector_titucius__member_of__faction_gemling_legion</data>
@@ -40315,20 +39341,6 @@
       <data key="d40">[{"source_id": "src_poewiki_the_vaal", "locator": "section 'Figures' / 'Jaetai, Vaal Advisor'"}]</data>
       <data key="d41">["members_g3"]</data>
     </edge>
-    <edge source="char_jamanra" target="faction_faridun" id="e_char_jamanra__leads__faction_faridun">
-      <data key="d30">e_char_jamanra__leads__faction_faridun</data>
-      <data key="d31">leads</data>
-      <data key="d32">Jamanra is the revolutionary leader of the Faridun, resurrected to lead them against the Maraketh.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">azmeri_ezomyte_ancient</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "Jamanra"}, {"source_id": "src_poe2wiki_faridun", "locator": "Jamanra"}, {"source_id": "src_poe2wiki_faridun", "locator": "Overview"}]</data>
-      <data key="d41">["deep_history", "eternal_empire", "poe2_acts_1_3"]</data>
-    </edge>
     <edge source="char_janus_perandus" target="char_chitus" id="e_char_janus_perandus__descendant_of__char_chitus">
       <data key="d30">e_char_janus_perandus__descendant_of__char_chitus</data>
       <data key="d31">descendant_of</data>
@@ -40608,6 +39620,20 @@
       <data key="d39">medium</data>
       <data key="d40">[{"source_id": "src_yt_6tP4TcFw4Lo", "locator": "1:05; 16:03"}, {"source_id": "src_poewiki_order_of_the_djinn", "locator": "Members"}]</data>
       <data key="d41">["leagues_early", "leagues_mid"]</data>
+    </edge>
+    <edge source="char_jun" target="faction_order_of_the_djinn" id="e_char_jun__leads__faction_order_of_the_djinn">
+      <data key="d30">e_char_jun__leads__faction_order_of_the_djinn</data>
+      <data key="d31">leads</data>
+      <data key="d32">Jun rebuilds the Order after Catarina.</data>
+      <data key="d33">["poe2"]</data>
+      <data key="d34">background</data>
+      <data key="d35">[]</data>
+      <data key="d36">interlude_between_games</data>
+      <data key="d42" />
+      <data key="d38">canon</data>
+      <data key="d39">high</data>
+      <data key="d40">[{"source_id": "src_poe2wiki_order_of_the_djinn", "locator": "lead"}]</data>
+      <data key="d41">["poe2_endgame"]</data>
     </edge>
     <edge source="char_justicar_casticus" target="event_a5_key_to_freedom" id="e_char_justicar_casticus__participates_in__event_a5_key_to_freedom">
       <data key="d30">e_char_justicar_casticus__participates_in__event_a5_key_to_freedom</data>
@@ -41322,20 +40348,6 @@
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_the_purity_chronicles", "locator": "section 'Purity Rebellion' / Kastov joins Voll in 1333 IC"}]</data>
       <data key="d41">["members_g3"]</data>
-    </edge>
-    <edge source="char_ketzuli" target="char_doryani" id="e_char_ketzuli__serves__char_doryani">
-      <data key="d30">e_char_ketzuli__serves__char_doryani</data>
-      <data key="d31">serves</data>
-      <data key="d32">Tasked to keep working.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">vaal</data>
-      <data key="d42" />
-      <data key="d38">community_theory</data>
-      <data key="d39">low</data>
-      <data key="d40">[{"source_id": "src_yt_1Zt4tv8fjI4", "locator": "[11:36]-[12:20]"}]</data>
-      <data key="d41">["vaal"]</data>
     </edge>
     <edge source="char_kiloava" target="faction_karui_tribe_valako" id="e_char_kiloava__leads__faction_karui_tribe_valako">
       <data key="d30">e_char_kiloava__leads__faction_karui_tribe_valako</data>
@@ -45943,20 +44955,6 @@
       <data key="d40">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "Sirus"}]</data>
       <data key="d41">["poe1_atlas"]</data>
     </edge>
-    <edge source="char_sirus" target="event_poe2_a5_oriath_assault" id="e_char_sirus__continues_in__event_poe2_a5_oriath_assault">
-      <data key="d30">e_char_sirus__continues_in__event_poe2_a5_oriath_assault</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">Oriath's destruction by Sirus precedes its secret rebuild by the Order and the planned Act 5.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">interlude_between_games</data>
-      <data key="d42" />
-      <data key="d38">inferred</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_act_5", "locator": "intro"}]</data>
-      <data key="d41">["poe2_acts_4_plus"]</data>
-    </edge>
     <edge source="char_sirus" target="loc_oriath" id="e_char_sirus__destroyed__loc_oriath">
       <data key="d30">e_char_sirus__destroyed__loc_oriath</data>
       <data key="d31">destroyed</data>
@@ -46783,20 +45781,6 @@
       <data key="d40">[{"source_id": "src_poewiki_betrayal_league", "locator": "Members"}]</data>
       <data key="d41">["leagues_early"]</data>
     </edge>
-    <edge source="char_the_arbiter_of_ash" target="artifact_flame_seed" id="e_char_the_arbiter_of_ash__associated_with__artifact_flame_seed">
-      <data key="d30">e_char_the_arbiter_of_ash__associated_with__artifact_flame_seed</data>
-      <data key="d31">associated_with</data>
-      <data key="d32">Guardian of the Flame Seed; Flame Seed is taken by Tecrod after his defeat.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">endgame_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">precursor</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "Precursor civilization"}, {"source_id": "src_poewiki_history_of_wraeclast", "locator": "Precursors section"}, {"source_id": "src_poe2wiki_tecrod", "locator": "Lore"}]</data>
-      <data key="d41">["deep_history", "twilight_order_edicts"]</data>
-    </edge>
     <edge source="char_the_black_knight" target="loc_starfall_crater" id="e_char_the_black_knight__located_in__loc_starfall_crater">
       <data key="d30">e_char_the_black_knight__located_in__loc_starfall_crater</data>
       <data key="d31">located_in</data>
@@ -46922,20 +45906,6 @@
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poe2wiki_the_trail_of_corruption_act_2", "locator": "'It was I who created the Beast'"}, {"source_id": "src_poe2wiki_the_beast", "locator": "Sin paragraph"}]</data>
       <data key="d41">["twilight_order_edicts"]</data>
-    </edge>
-    <edge source="char_the_king_in_the_mists" target="creature_the_nameless" id="e_char_the_king_in_the_mists__member_of__creature_the_nameless">
-      <data key="d30">e_char_the_king_in_the_mists__member_of__creature_the_nameless</data>
-      <data key="d31">member_of</data>
-      <data key="d32">King is chief of the Nameless.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">azmeri_ezomyte_ancient</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "Viridian Wildwood"}]</data>
-      <data key="d41">["deep_history"]</data>
     </edge>
     <edge source="char_the_king_in_the_mists" target="concept_ritual" id="e_char_the_king_in_the_mists__associated_with__concept_ritual">
       <data key="d30">e_char_the_king_in_the_mists__associated_with__concept_ritual</data>
@@ -47650,34 +46620,6 @@
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_the_undertaker_s_apprentice", "locator": "walkthrough"}]</data>
       <data key="d41">["leagues_late"]</data>
-    </edge>
-    <edge source="char_uromoti" target="faction_vaal_architects" id="e_char_uromoti__member_of__faction_vaal_architects">
-      <data key="d30">e_char_uromoti__member_of__faction_vaal_architects</data>
-      <data key="d31">member_of</data>
-      <data key="d32">Architect of Expansion.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">vaal</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_environmental_lore", "locator": "'Uromoti's Truth'"}]</data>
-      <data key="d41">["vaal"]</data>
-    </edge>
-    <edge source="char_uromoti" target="char_atziri" id="e_char_uromoti__serves__char_atziri">
-      <data key="d30">e_char_uromoti__serves__char_atziri</data>
-      <data key="d31">serves</data>
-      <data key="d32">Served Atziri while secretly building a vault out of fear of her.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">vaal</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_environmental_lore", "locator": "'Uromoti's Truth'"}]</data>
-      <data key="d41">["vaal"]</data>
     </edge>
     <edge source="char_utula" target="event_a5_kings_feast" id="e_char_utula__participates_in__event_a5_kings_feast">
       <data key="d30">e_char_utula__participates_in__event_a5_kings_feast</data>
@@ -49947,20 +48889,6 @@
       <data key="d40">[{"source_id": "src_poewiki_zorath_vile_assembled", "locator": "Entry: 'Zorath's arena is called The Lightless Hollow'"}]</data>
       <data key="d41">["gap_breach_kingsmarch_delve_harbinger_jewels"]</data>
     </edge>
-    <edge source="concept_abyss" target="league_poe2_rise_of_the_abyssal" id="e_concept_abyss__continues_in__league_poe2_rise_of_the_abyssal">
-      <data key="d30">e_concept_abyss__continues_in__league_poe2_rise_of_the_abyssal</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">The Abyss concept returns as a PoE2 league.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">branch</data>
-      <data key="d35">["abyss"]</data>
-      <data key="d36">poe2_endgame</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_rise_of_the_abyssal_league", "locator": "League content"}]</data>
-      <data key="d41">["poe2_endgame"]</data>
-    </edge>
     <edge source="concept_archnemesis_modifiers" target="league_archnemesis" id="e_concept_archnemesis_modifiers__associated_with__league_archnemesis">
       <data key="d30">e_concept_archnemesis_modifiers__associated_with__league_archnemesis</data>
       <data key="d31">associated_with</data>
@@ -50591,21 +49519,6 @@
       <data key="d40">[{"source_id": "src_poewiki_ascendancy_class", "locator": "section 'Overview': 'The first time a character completes each version of the Labyrinth and touches the Altar of Ascendancy in the final treasure room, two Ascendancy skill points are awarded'"}]</data>
       <data key="d41">["gap_exile_classes"]</data>
     </edge>
-    <edge source="concept_atlas" target="concept_poe2_atlas_of_worlds" id="e_concept_atlas__continues_in__concept_poe2_atlas_of_worlds">
-      <data key="d30">e_concept_atlas__continues_in__concept_poe2_atlas_of_worlds</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">PoE2 Atlas of Worlds is the successor of the PoE1 Atlas concept (maps, devices, Atlas passives).</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">endgame_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">poe2_endgame</data>
-      <data key="d42" />
-      <data key="d38">inferred</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_web_pcgamesn_return_of_the_ancients", "locator": "Atlas passive tree remade"}]</data>
-      <data key="d41">["poe2_endgame"]</data>
-      <data key="d43">["codex: direction reversed"]</data>
-    </edge>
     <edge source="concept_atlas_passive_tree" target="concept_atlas" id="e_concept_atlas_passive_tree__part_of__concept_atlas__gap_atlas">
       <data key="d30">e_concept_atlas_passive_tree__part_of__concept_atlas__gap_atlas</data>
       <data key="d31">part_of</data>
@@ -50801,20 +49714,6 @@
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_delirium_league", "locator": "lead paragraph"}]</data>
       <data key="d41">["leagues_mid"]</data>
-    </edge>
-    <edge source="concept_doryani_contingencies" target="char_doryani" id="e_concept_doryani_contingencies__associated_with__char_doryani">
-      <data key="d30">e_concept_doryani_contingencies__associated_with__char_doryani</data>
-      <data key="d31">associated_with</data>
-      <data key="d32">Contingencies.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">vaal</data>
-      <data key="d42" />
-      <data key="d38">community_theory</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_yt_1Zt4tv8fjI4", "locator": "[7:07]-[13:30]"}]</data>
-      <data key="d41">["vaal"]</data>
     </edge>
     <edge source="concept_essence" target="league_essence" id="e_concept_essence__associated_with__league_essence">
       <data key="d30">e_concept_essence__associated_with__league_essence</data>
@@ -52582,20 +51481,6 @@
       <data key="d40">[{"source_id": "src_poewiki_the_first_ones", "locator": "The Greatwolf"}]</data>
       <data key="d41">["leagues_early"]</data>
     </edge>
-    <edge source="deity_gruthkul" target="creature_the_nameless" id="e_deity_gruthkul__member_of__creature_the_nameless">
-      <data key="d30">e_deity_gruthkul__member_of__creature_the_nameless</data>
-      <data key="d31">member_of</data>
-      <data key="d32">Gruthkul was a Nameless.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">azmeri_ezomyte_ancient</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "Gruthkul"}]</data>
-      <data key="d41">["deep_history"]</data>
-    </edge>
     <edge source="deity_gruthkul" target="event_poe1_a7_queen_of_despair" id="e_deity_gruthkul__participates_in__event_poe1_a7_queen_of_despair">
       <data key="d30">e_deity_gruthkul__participates_in__event_poe1_a7_queen_of_despair</data>
       <data key="d31">participates_in</data>
@@ -54136,20 +53021,6 @@
       <data key="d40">[{"source_id": "src_poewiki_kitava_the_insatiable", "locator": "Act 5 fight notes"}, {"source_id": "src_poewiki_sin", "locator": "In-game interactions: Act 5"}, {"source_id": "src_poewiki_kitava_the_insatiable", "locator": "Act 5: Sin saves the player at the last moment"}]</data>
       <data key="d41">["poe1_acts_1_5", "poe1_acts_6_10"]</data>
     </edge>
-    <edge source="deity_sin" target="char_exile_poe2" id="e_deity_sin__guides__char_exile_poe2">
-      <data key="d30">e_deity_sin__guides__char_exile_poe2</data>
-      <data key="d31">guides</data>
-      <data key="d32">As the Hooded One, Sin aids the Exile in tracking the new Beast; the Garukhan shrine in Act 2 hints at his past and he reveals himself as Sin at the end of Act 2.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">poe2_campaign</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_the_hooded_one", "locator": "Lore"}, {"source_id": "src_poewiki_sin", "locator": "Path of Exile 2"}]</data>
-      <data key="d41">["gods_cosmology", "poe1_acts_6_10"]</data>
-    </edge>
     <edge source="deity_sin" target="concept_the_pantheon" id="e_deity_sin__associated_with__concept_the_pantheon">
       <data key="d30">e_deity_sin__associated_with__concept_the_pantheon</data>
       <data key="d31">associated_with</data>
@@ -54317,20 +53188,6 @@
       <data key="d39">medium</data>
       <data key="d40">[{"source_id": "src_poewiki_sin", "locator": "Lore: The Beast"}, {"source_id": "src_poe2wiki_the_beast", "locator": "paragraph 3"}]</data>
       <data key="d41">["poe2_acts_4_plus"]</data>
-    </edge>
-    <edge source="deity_sin" target="char_the_hooded_one" id="e_deity_sin__same_entity_as__char_the_hooded_one">
-      <data key="d30">e_deity_sin__same_entity_as__char_the_hooded_one</data>
-      <data key="d31">same_entity_as</data>
-      <data key="d32">Revealed in Act 2.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">poe2_campaign</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_the_trail_of_corruption_act_2", "locator": "Shrine dialogue"}]</data>
-      <data key="d41">["twilight_order_edicts"]</data>
     </edge>
     <edge source="deity_sin" target="char_doryani" id="e_deity_sin__reveals__char_doryani">
       <data key="d30">e_deity_sin__reveals__char_doryani</data>
@@ -60653,20 +59510,6 @@
       <data key="d40">[{"source_id": "src_poewiki_eternal_empire", "locator": "'Reign of Voll'"}]</data>
       <data key="d41">["eternal_empire"]</data>
     </edge>
-    <edge source="event_red_communion" target="event_vaal_cataclysm" id="e_event_red_communion__causes__event_vaal_cataclysm">
-      <data key="d30">e_event_red_communion__causes__event_vaal_cataclysm</data>
-      <data key="d31">causes</data>
-      <data key="d32">Red Communion triggered the Cataclysm.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">vaal</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poewiki_the_vaal", "locator": "PoE2 account"}]</data>
-      <data key="d41">["vaal"]</data>
-    </edge>
     <edge source="event_return_of_the_sun" target="event_maraketh_golden_age" id="e_event_return_of_the_sun__leads_to__event_maraketh_golden_age">
       <data key="d30">e_event_return_of_the_sun__leads_to__event_maraketh_golden_age</data>
       <data key="d31">leads_to</data>
@@ -61172,20 +60015,6 @@
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "section '====The Vaal Cataclysm====': 'The Vaal Cataclysm, also known as The Fall, was a historical event...'"}]</data>
       <data key="d41">["gap_deep_history_vaal_precursor_eternal"]</data>
-    </edge>
-    <edge source="event_vaal_cataclysm" target="event_utzaal_past_cataclysm" id="e_event_vaal_cataclysm__continues_in__event_utzaal_past_cataclysm">
-      <data key="d30">e_event_vaal_cataclysm__continues_in__event_utzaal_past_cataclysm</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">PoE2 Act 3 shows the Vaal Cataclysm from inside Utzaal's past, via the time gateway, reframing it as Atziri's communion rather than Doryani's alone.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">vaal</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poewiki_doryani", "locator": "History &gt; Vaal Cataclysm (PoE2 recontextualises)"}]</data>
-      <data key="d41">["poe2_acts_1_3"]</data>
     </edge>
     <edge source="event_vaal_cataclysm" target="era_vaal" id="e_event_vaal_cataclysm__part_of__era_vaal">
       <data key="d30">e_event_vaal_cataclysm__part_of__era_vaal</data>
@@ -62517,20 +61346,6 @@
       <data key="d40">[{"source_id": "src_poewiki_the_purity_chronicles", "locator": "section 'Purity Rebellion' / Ezomyte allies"}]</data>
       <data key="d41">["members_g3"]</data>
     </edge>
-    <edge source="faction_ezomyte" target="char_exile_poe2" id="e_faction_ezomyte__allies_with__char_exile_poe2__il">
-      <data key="d30">e_faction_ezomyte__allies_with__char_exile_poe2__il</data>
-      <data key="d31">allies_with</data>
-      <data key="d32">Ezomytes pledge to the war.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">poe2_campaign</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_recruit_the_ezomytes", "locator": "Return to Renly"}]</data>
-      <data key="d41">["poe2_acts_4_plus"]</data>
-    </edge>
     <edge source="faction_faridun" target="faction_maraketh" id="e_faction_faridun__originates_from__faction_maraketh">
       <data key="d30">e_faction_faridun__originates_from__faction_maraketh</data>
       <data key="d31">originates_from</data>
@@ -63357,20 +62172,6 @@
       <data key="d40">[{"source_id": "src_poewiki_karui", "locator": "section 'Afterlife': 'ritualistic combat in honor of the Ancestor, which they call the [[Trial of the Ancestors]]'"}]</data>
       <data key="d41">["members_g1"]</data>
     </edge>
-    <edge source="faction_karui" target="char_exile_poe2" id="e_faction_karui__allies_with__char_exile_poe2__il">
-      <data key="d30">e_faction_karui__allies_with__char_exile_poe2__il</data>
-      <data key="d31">allies_with</data>
-      <data key="d32">Karui pledged by Tavakai.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">poe2_campaign</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_the_search", "locator": "Tavakai: You have my word"}]</data>
-      <data key="d41">["poe2_acts_4_plus"]</data>
-    </edge>
     <edge source="faction_karui" target="char_doryani" id="e_faction_karui__opposes__char_doryani">
       <data key="d30">e_faction_karui__opposes__char_doryani</data>
       <data key="d31">opposes</data>
@@ -64071,20 +62872,6 @@
       <data key="d40">[{"source_id": "src_poewiki_the_azmeri", "locator": "The Maji"}, {"source_id": "src_poewiki_history_of_wraeclast", "locator": "line 149"}]</data>
       <data key="d41">["deep_history", "leagues_late"]</data>
     </edge>
-    <edge source="faction_maji" target="creature_the_nameless" id="e_faction_the_maji__opposes__creature_the_nameless">
-      <data key="d30">e_faction_the_maji__opposes__creature_the_nameless</data>
-      <data key="d31">opposes</data>
-      <data key="d32">Maji purge the Nameless.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">azmeri_ezomyte_ancient</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poewiki_the_azmeri", "locator": "The Maji"}]</data>
-      <data key="d41">["deep_history"]</data>
-    </edge>
     <edge source="faction_maraketh" target="event_a4_highgate_arrival" id="e_faction_maraketh__participates_in__event_a4_highgate_arrival">
       <data key="d30">e_faction_maraketh__participates_in__event_a4_highgate_arrival</data>
       <data key="d31">participates_in</data>
@@ -64183,20 +62970,6 @@
       <data key="d40">[{"source_id": "src_poewiki_order_of_the_djinn", "locator": "lead"}, {"source_id": "src_poewiki_order_of_the_djinn", "locator": "Lead: \"It was founded in ancient times by the Maraketh and the Clayshaper.\""}]</data>
       <data key="d41">["eternal_empire", "leagues_mid"]</data>
     </edge>
-    <edge source="faction_maraketh" target="deity_halani" id="e_faction_maraketh__worships__deity_halani">
-      <data key="d30">e_faction_maraketh__worships__deity_halani</data>
-      <data key="d31">worships</data>
-      <data key="d32">Maraketh water goddess, forgotten.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">primordial</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poewiki_god", "locator": "section 'Halani'"}]</data>
-      <data key="d41">["gods_cosmology"]</data>
-    </edge>
     <edge source="faction_maraketh" target="event_winter_of_the_world" id="e_faction_maraketh__participates_in__event_winter_of_the_world">
       <data key="d30">e_faction_maraketh__participates_in__event_winter_of_the_world</data>
       <data key="d31">participates_in</data>
@@ -64280,20 +63053,6 @@
       <data key="d39">medium</data>
       <data key="d40">[{"source_id": "src_poewiki_the_ruler_of_highgate", "locator": "event entry 'The Ruler of Highgate'"}]</data>
       <data key="d41">["members_g2"]</data>
-    </edge>
-    <edge source="faction_maraketh" target="char_exile_poe2" id="e_faction_maraketh__allies_with__char_exile_poe2__il">
-      <data key="d30">e_faction_maraketh__allies_with__char_exile_poe2__il</data>
-      <data key="d31">allies_with</data>
-      <data key="d32">Maraketh pledge after the Gifting of Water.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">main_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">poe2_campaign</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_recruit_the_maraketh", "locator": "Quest Complete"}]</data>
-      <data key="d41">["poe2_acts_4_plus"]</data>
     </edge>
     <edge source="faction_meridian_free_traders" target="event_exploring_kingsmarch" id="e_faction_meridian_free_traders__participates_in__event_exploring_kingsmarch">
       <data key="d30">e_faction_meridian_free_traders__participates_in__event_exploring_kingsmarch</data>
@@ -64757,62 +63516,6 @@
       <data key="d40">[{"source_id": "src_poewiki_eternal_empire", "locator": "Eternal Empire page, Phrecian succession (Izaro built the Lord's Labyrinth)"}]</data>
       <data key="d41">["members_g1"]</data>
     </edge>
-    <edge source="faction_precursors" target="loc_precursor_towers" id="e_faction_precursors__created__loc_precursor_towers">
-      <data key="d30">e_faction_precursors__created__loc_precursor_towers</data>
-      <data key="d31">created</data>
-      <data key="d32">Precursors built the Tower system for terraforming.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">precursor</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "Precursor civilization"}]</data>
-      <data key="d41">["deep_history"]</data>
-    </edge>
-    <edge source="faction_precursors" target="char_the_arbiter_of_ash" id="e_faction_precursors__created__char_the_arbiter_of_ash">
-      <data key="d30">e_faction_precursors__created__char_the_arbiter_of_ash</data>
-      <data key="d31">created</data>
-      <data key="d32">Precursors created the Arbiter of Ash to guard the Flame Seed.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">endgame_plot</data>
-      <data key="d35">[]</data>
-      <data key="d36">precursor</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "Precursor civilization"}, {"source_id": "src_poewiki_history_of_wraeclast", "locator": "Precursors section"}]</data>
-      <data key="d41">["deep_history", "poe2_endgame", "twilight_order_edicts"]</data>
-    </edge>
-    <edge source="faction_precursors" target="artifact_precursor_weapon" id="e_faction_precursors__created__artifact_precursor_weapon">
-      <data key="d30">e_faction_precursors__created__artifact_precursor_weapon</data>
-      <data key="d31">created</data>
-      <data key="d32">Precursors built the anti-corruption weapon.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">precursor</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "Precursor civilization"}, {"source_id": "src_yt_1Zt4tv8fjI4", "locator": "[7:27]-[7:35]"}]</data>
-      <data key="d41">["deep_history"]</data>
-    </edge>
-    <edge source="faction_precursors" target="text_precursor_edicts" id="e_faction_precursors__created__text_precursor_edicts">
-      <data key="d30">e_faction_precursors__created__text_precursor_edicts</data>
-      <data key="d31">created</data>
-      <data key="d32">Edicts murals depicting the Beast.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">precursor</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_the_beast", "locator": "paragraph 1"}]</data>
-      <data key="d41">["deep_history"]</data>
-    </edge>
     <edge source="faction_precursors" target="event_precursor_cataclysm" id="e_faction_precursors__causes__event_precursor_cataclysm">
       <data key="d30">e_faction_precursors__causes__event_precursor_cataclysm</data>
       <data key="d31">causes</data>
@@ -64882,20 +63585,6 @@
       <data key="d39">medium</data>
       <data key="d40">[{"source_id": "src_poewiki_history_of_wraeclast", "locator": "section '===Precursor civilization===': 'After mastering corruption, they delved deeper into the \"secrets of [the] world\"'"}]</data>
       <data key="d41">["gap_deep_history_vaal_precursor_eternal"]</data>
-    </edge>
-    <edge source="faction_precursors" target="concept_the_edicts" id="e_faction_precursors__created__concept_the_edicts">
-      <data key="d30">e_faction_precursors__created__concept_the_edicts</data>
-      <data key="d31">created</data>
-      <data key="d32">Precursors painted/inscribed the Edicts (murals describing the Beast and how to contain it).</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">precursor</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_the_beast", "locator": "origins paragraph"}]</data>
-      <data key="d41">["twilight_order_edicts"]</data>
     </edge>
     <edge source="faction_primeval_civilization" target="faction_vaal" id="e_faction_primeval_civilization__precedes__faction_vaal">
       <data key="d30">e_faction_primeval_civilization__precedes__faction_vaal</data>
@@ -65204,6 +63893,20 @@
       <data key="d39">medium</data>
       <data key="d40">[{"source_id": "src_poewiki_kalguur", "locator": "===The Triskelion Flame===: \"the Runefathers gathered to forge the Triskelion Flame\""}, {"source_id": "src_poe2wiki_aldur", "locator": "The Triskelion Flame"}]</data>
       <data key="d41">["leagues_late", "leagues_mid"]</data>
+    </edge>
+    <edge source="faction_runefathers" target="char_aldur" id="e_faction_runefathers__student_of__char_aldur">
+      <data key="d30">e_faction_runefathers__student_of__char_aldur</data>
+      <data key="d31">student_of</data>
+      <data key="d32">Apprentices of Aldur.</data>
+      <data key="d33">["poe2"]</data>
+      <data key="d34">background</data>
+      <data key="d35">["expedition"]</data>
+      <data key="d36">unknown</data>
+      <data key="d42" />
+      <data key="d38">canon</data>
+      <data key="d39">medium</data>
+      <data key="d40">[{"source_id": "src_poe2wiki_aldur", "locator": "Aldur's death and the Runefathers"}]</data>
+      <data key="d41">["leagues_mid"]</data>
     </edge>
     <edge source="faction_slave_rebellion" target="event_a5_key_to_freedom" id="e_faction_slave_rebellion__participates_in__event_a5_key_to_freedom">
       <data key="d30">e_faction_slave_rebellion__participates_in__event_a5_key_to_freedom</data>
@@ -66143,20 +64846,6 @@
       <data key="d40">[{"source_id": "src_poewiki_the_watchers_of_decay", "locator": "Book of Memories, Page 9 quote"}, {"source_id": "src_poewiki_history_of_wraeclast", "locator": "The Watchers of Decay"}]</data>
       <data key="d41">["poe1_atlas"]</data>
     </edge>
-    <edge source="league_abyss" target="league_poe2_rise_of_the_abyssal" id="e_league_abyss__continues_in__league_poe2_rise_of_the_abyssal">
-      <data key="d30">e_league_abyss__continues_in__league_poe2_rise_of_the_abyssal</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">PoE1's Abyss league (Lightless, Kulemak) continues as PoE2's Rise of the Abyssal.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">branch</data>
-      <data key="d35">["abyss"]</data>
-      <data key="d36">league_storylines</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_rise_of_the_abyssal_league", "locator": "League content"}, {"source_id": "src_poewiki_abyss_league", "locator": "lead"}, {"source_id": "src_poewiki_the_lightless", "locator": "lead: expanded upon ... in the Rise of the Abyssals league in Path of Exile 2"}]</data>
-      <data key="d41">["leagues_early", "poe2_endgame"]</data>
-    </edge>
     <edge source="league_abyss" target="concept_abyss" id="e_league_abyss__introduced_in__concept_abyss">
       <data key="d30">e_league_abyss__introduced_in__concept_abyss</data>
       <data key="d31">introduced_in</data>
@@ -66282,20 +64971,6 @@
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_anarchy_league", "locator": "release date"}, {"source_id": "src_poewiki_domination_league", "locator": "release date"}]</data>
       <data key="d41">["leagues_early"]</data>
-    </edge>
-    <edge source="league_ancestor" target="event_poe2_trial_of_the_ancestors" id="e_league_ancestor__continues_in__event_poe2_trial_of_the_ancestors">
-      <data key="d30">e_league_ancestor__continues_in__event_poe2_trial_of_the_ancestors</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">The Karui afterlife tournament returns in PoE2 Act 4.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">branch</data>
-      <data key="d35">["ancestor"]</data>
-      <data key="d36">poe2_campaign</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_trial_of_the_ancestors_quest_", "locator": "intro"}, {"source_id": "src_poewiki_ancestor_league", "locator": "'==League mechanic=='"}]</data>
-      <data key="d41">["leagues_late"]</data>
     </edge>
     <edge source="league_ancestor" target="league_affliction" id="e_league_ancestor__precedes__league_affliction">
       <data key="d30">e_league_ancestor__precedes__league_affliction</data>
@@ -66521,20 +65196,6 @@
       <data key="d40">[{"source_id": "src_poewiki_breach_league", "locator": "release date"}, {"source_id": "src_poewiki_harbinger_league", "locator": "release date"}]</data>
       <data key="d41">["leagues_early"]</data>
     </edge>
-    <edge source="league_breach" target="concept_breach_poe2" id="e_league_breach__continues_in__concept_breach_poe2">
-      <data key="d30">e_league_breach__continues_in__concept_breach_poe2</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">PoE1 Breach/Breachlords continue in PoE2.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">branch</data>
-      <data key="d35">["breach"]</data>
-      <data key="d36">poe2_endgame</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_the_dreamer", "locator": "Lore"}]</data>
-      <data key="d41">["poe2_endgame"]</data>
-    </edge>
     <edge source="league_crucible" target="league_ancestor" id="e_league_crucible__precedes__league_ancestor">
       <data key="d30">e_league_crucible__precedes__league_ancestor</data>
       <data key="d31">precedes</data>
@@ -66675,20 +65336,6 @@
       <data key="d40">[{"source_id": "src_poewiki_essence_league", "locator": "release date"}, {"source_id": "src_poewiki_breach_league", "locator": "release date"}]</data>
       <data key="d41">["leagues_early"]</data>
     </edge>
-    <edge source="league_expedition" target="league_poe2_runes_of_aldur" id="e_league_expedition__continues_in__league_poe2_runes_of_aldur">
-      <data key="d30">e_league_expedition__continues_in__league_poe2_runes_of_aldur</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">The PoE1 Expedition mechanic reappears in PoE2: Verisium Remnants can be found in Expedition encounters during the Runes of Aldur league (0.5.0), and 0.5.5 integrates Runes of Aldur and Expedition into the core PoE2 game.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">branch</data>
-      <data key="d35">["expedition"]</data>
-      <data key="d36">poe2_endgame</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_runes_of_aldur_league", "locator": "'League content': 'Remnants can also be found in Expedition encounters'"}, {"source_id": "src_poe2wiki_forbidden_rites", "locator": "'League content': integration of Runes of Aldur and Expedition"}]</data>
-      <data key="d41">["leagues_mid"]</data>
-    </edge>
     <edge source="league_expedition" target="concept_day_zero_rule" id="e_league_expedition__associated_with__concept_day_zero_rule">
       <data key="d30">e_league_expedition__associated_with__concept_day_zero_rule</data>
       <data key="d31">associated_with</data>
@@ -66758,20 +65405,6 @@
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_expedition_league", "locator": "lead"}]</data>
       <data key="d41">["leagues_mid"]</data>
-    </edge>
-    <edge source="league_expedition" target="concept_expedition_poe2" id="e_league_expedition__continues_in__concept_expedition_poe2">
-      <data key="d30">e_league_expedition__continues_in__concept_expedition_poe2</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">PoE1 Expedition continues.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">branch</data>
-      <data key="d35">["expedition"]</data>
-      <data key="d36">poe2_endgame</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_web_gamedeveloper_return_of_the_ancients", "locator": "Expedition"}]</data>
-      <data key="d41">["poe2_endgame"]</data>
     </edge>
     <edge source="league_harbinger" target="concept_harbinger" id="e_league_harbinger__introduced_in__concept_harbinger">
       <data key="d30">e_league_harbinger__introduced_in__concept_harbinger</data>
@@ -67151,20 +65784,6 @@
       <data key="d40">[{"source_id": "src_ggg_legacy_of_phrecia", "locator": "event page"}]</data>
       <data key="d41">["deep_history"]</data>
     </edge>
-    <edge source="league_poe2_rise_of_the_abyssal" target="concept_abyss" id="e_league_poe2_rise_of_the_abyssal__continues_in__concept_abyss">
-      <data key="d30">e_league_poe2_rise_of_the_abyssal__continues_in__concept_abyss</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">PoE2 revisits Abyss.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">branch</data>
-      <data key="d35">["poe2_abyss"]</data>
-      <data key="d36">league_storylines</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_rise_of_the_abyssal_league", "locator": "League content"}]</data>
-      <data key="d41">["leagues_early"]</data>
-    </edge>
     <edge source="league_prophecy" target="char_navali" id="e_league_prophecy__introduced_in__char_navali">
       <data key="d30">e_league_prophecy__introduced_in__char_navali</data>
       <data key="d31">introduced_in</data>
@@ -67249,20 +65868,6 @@
       <data key="d40">[{"source_id": "src_poewiki_rampage_league", "locator": "lead: part of Path of Exile: Forsaken Masters"}]</data>
       <data key="d41">["leagues_early"]</data>
     </edge>
-    <edge source="league_ritual" target="league_poe2_forbidden_rites" id="e_league_ritual__continues_in__league_poe2_forbidden_rites">
-      <data key="d30">e_league_ritual__continues_in__league_poe2_forbidden_rites</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">The PoE1 Ritual altar mechanic continues in PoE2's Forbidden Rites league (0.5.5), which places Ritual encounters in campaign and endgame zones.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">branch</data>
-      <data key="d35">["ritual"]</data>
-      <data key="d36">league_storylines</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_forbidden_rites", "locator": "'Forbidden Rites' lead and 'League content' (Ritual)"}]</data>
-      <data key="d41">["leagues_mid"]</data>
-    </edge>
     <edge source="league_ritual" target="concept_day_zero_rule" id="e_league_ritual__associated_with__concept_day_zero_rule">
       <data key="d30">e_league_ritual__associated_with__concept_day_zero_rule</data>
       <data key="d31">associated_with</data>
@@ -67290,20 +65895,6 @@
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_ritual_league", "locator": "League mechanic"}]</data>
       <data key="d41">["leagues_mid"]</data>
-    </edge>
-    <edge source="league_ritual" target="concept_ritual_poe2" id="e_league_ritual__continues_in__concept_ritual_poe2">
-      <data key="d30">e_league_ritual__continues_in__concept_ritual_poe2</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">Ritual mechanic continues into PoE2.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">branch</data>
-      <data key="d35">["ritual"]</data>
-      <data key="d36">poe2_endgame</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_forbidden_rites", "locator": "main: Ritual"}]</data>
-      <data key="d41">["poe2_endgame"]</data>
     </edge>
     <edge source="league_sanctum" target="league_crucible" id="e_league_sanctum__precedes__league_crucible">
       <data key="d30">e_league_sanctum__precedes__league_crucible</data>
@@ -67389,20 +65980,6 @@
       <data key="d40">[{"source_id": "src_poewiki_sentinel_league", "locator": "League mechanic"}]</data>
       <data key="d41">["leagues_mid"]</data>
     </edge>
-    <edge source="league_settlers_of_kalguur" target="act_poe2_act4" id="e_league_settlers_of_kalguur__continues_in__act_poe2_act4">
-      <data key="d30">e_league_settlers_of_kalguur__continues_in__act_poe2_act4</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">Kingsmarch and the Kalguuran NPCs return as the Act 4 hub in PoE2.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">branch</data>
-      <data key="d35">["kingsmarch"]</data>
-      <data key="d36">poe2_campaign</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poewiki_kingsmarch", "locator": "Trivia"}, {"source_id": "src_poe2wiki_act_4", "locator": "table"}]</data>
-      <data key="d41">["leagues_late"]</data>
-    </edge>
     <edge source="league_settlers_of_kalguur" target="league_mercenaries" id="e_league_settlers_of_kalguur__precedes__league_mercenaries">
       <data key="d30">e_league_settlers_of_kalguur__precedes__league_mercenaries</data>
       <data key="d31">precedes</data>
@@ -67430,20 +66007,6 @@
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_kalguur", "locator": "intro"}, {"source_id": "src_yt_1U2bFh1V9Mo", "locator": "[4:34] Tujen"}]</data>
       <data key="d41">["poe2_acts_4_plus"]</data>
-    </edge>
-    <edge source="league_settlers_of_kalguur" target="loc_ruins_of_kingsmarch" id="e_league_settlers_of_kalguur__continues_in__loc_ruins_of_kingsmarch">
-      <data key="d30">e_league_settlers_of_kalguur__continues_in__loc_ruins_of_kingsmarch</data>
-      <data key="d31">continues_in</data>
-      <data key="d32">Kingsmarch ruined in PoE2.</data>
-      <data key="d33">["poe1", "poe2"]</data>
-      <data key="d34">branch</data>
-      <data key="d35">["kingsmarch"]</data>
-      <data key="d36">poe2_endgame</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_the_grand_expedition", "locator": "Ruins of Kingsmarch"}]</data>
-      <data key="d41">["poe2_endgame"]</data>
     </edge>
     <edge source="league_synthesis" target="concept_day_zero_rule" id="e_league_synthesis__associated_with__concept_day_zero_rule">
       <data key="d30">e_league_synthesis__associated_with__concept_day_zero_rule</data>
@@ -68269,20 +66832,6 @@
       <data key="d38">canon</data>
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_the_vaal", "locator": "The Capital"}]</data>
-      <data key="d41">["vaal"]</data>
-    </edge>
-    <edge source="loc_lira_vaal" target="loc_atziri_s_temple" id="e_loc_lira_vaal__same_entity_as__loc_atziri_s_temple">
-      <data key="d30">e_loc_lira_vaal__same_entity_as__loc_atziri_s_temple</data>
-      <data key="d31">same_entity_as</data>
-      <data key="d32">Same location, defined in the poe2_endgame fragment as Atziri's Temple (Lira Vaal).</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">poe2_endgame</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_atziri_s_temple", "locator": "lead"}]</data>
       <data key="d41">["vaal"]</data>
     </edge>
     <edge source="loc_lord_s_labyrinth" target="loc_sarn" id="e_loc_the_lord_s_labyrinth__located_in__loc_sarn">
@@ -69671,20 +68220,6 @@
       <data key="d40">[{"source_id": "src_book_path_of_exile_origins", "locator": "issues #1-4"}]</data>
       <data key="d41">["exile_and_sources"]</data>
     </edge>
-    <edge source="text_precursor_edicts" target="deity_beast" id="e_text_precursor_edicts__mentions__deity_beast">
-      <data key="d30">e_text_precursor_edicts__mentions__deity_beast</data>
-      <data key="d31">mentions</data>
-      <data key="d32">Edicts depict the Beast.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">[]</data>
-      <data key="d36">precursor</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">medium</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_the_beast", "locator": "paragraph 1"}]</data>
-      <data key="d41">["deep_history"]</data>
-    </edge>
     <edge source="text_purity_chronicles" target="event_siege_of_sarn" id="e_text_purity_chronicles__mentions__event_siege_of_sarn">
       <data key="d30">e_text_purity_chronicles__mentions__event_siege_of_sarn</data>
       <data key="d31">mentions</data>
@@ -69907,34 +68442,6 @@
       <data key="d38">canon</data>
       <data key="d39">high</data>
       <data key="d40">[{"source_id": "src_poewiki_the_vaal", "locator": "Contacting the Azmeri"}]</data>
-      <data key="d41">["vaal"]</data>
-    </edge>
-    <edge source="text_vaal_architect_notes" target="event_red_communion" id="e_text_vaal_architect_notes__mentions__event_red_communion">
-      <data key="d30">e_text_vaal_architect_notes__mentions__event_red_communion</data>
-      <data key="d31">mentions</data>
-      <data key="d32">'Disloyalty' references arguments with Doryani over the consequences of the Red Communion.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">["fate_of_the_vaal"]</data>
-      <data key="d36">vaal</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_environmental_lore", "locator": "'Disloyalty'"}]</data>
-      <data key="d41">["vaal"]</data>
-    </edge>
-    <edge source="text_vaal_architect_notes" target="char_doryani" id="e_text_vaal_architect_notes__mentions__char_doryani">
-      <data key="d30">e_text_vaal_architect_notes__mentions__char_doryani</data>
-      <data key="d31">mentions</data>
-      <data key="d32">Architect suspects Doryani of moving against the Queen.</data>
-      <data key="d33">["poe2"]</data>
-      <data key="d34">background</data>
-      <data key="d35">["fate_of_the_vaal"]</data>
-      <data key="d36">vaal</data>
-      <data key="d42" />
-      <data key="d38">canon</data>
-      <data key="d39">high</data>
-      <data key="d40">[{"source_id": "src_poe2wiki_environmental_lore", "locator": "'Disloyalty'; 'The Perfect Design'"}]</data>
       <data key="d41">["vaal"]</data>
     </edge>
     <edge source="text_vaal_letters" target="char_doryani" id="e_text_vaal_letters__mentions__char_doryani">

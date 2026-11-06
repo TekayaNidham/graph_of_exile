@@ -513,14 +513,14 @@
    "sources": 665
   },
   "poe1": {
-   "nodes": 1066,
-   "edges": 3081,
-   "sources": 555
+   "nodes": 1035,
+   "edges": 3031,
+   "sources": 549
   },
   "poe2": {
-   "nodes": 841,
-   "edges": 2219,
-   "sources": 404
+   "nodes": 604,
+   "edges": 1657,
+   "sources": 319
   }
  },
  "fragments": [

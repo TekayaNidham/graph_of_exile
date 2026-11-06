@@ -276,25 +276,22 @@ report["isolated_nodes"] = sorted(i for i in nodes if G.degree(i) == 0)
 
 
 def view(game):
+    """Master keeps everything. A game view is strict: the other game is masked.
+    Nodes: only entities that appear in this game (games contains it); out-of-game metadata (games == [])
+    only when it attaches to a kept node. Edges: both ends kept and the relation holds in this game
+    (edge games contains it, or the edge has no game tag)."""
     if game is None:
         return set(nodes), final_edges
     keep = {i for i, n in nodes.items() if game in n.get("games", [])}
-    # background / pre-game lore that explains this game's entities
     for e in final_edges:
         for a, b in ((e["source"], e["target"]), (e["target"], e["source"])):
-            if a in keep and b not in keep:
-                nb = nodes[b]
-                if (nb["plot_role"] in ("background", "meta") or nb.get("era") in PRE_GAME_ERAS) and \
-                        (not nb.get("games") or nb.get("era") in PRE_GAME_ERAS):
-                    keep.add(b)
-    # continuity: also keep the other side of continues_in / same_entity_as links (PoE2 is the continuation of PoE1)
-    CONT = {"continues_in", "same_entity_as", "reincarnation_of", "aspect_of", "transforms_into"}
-    for e in final_edges:
-        if e["relation"] in CONT:
-            if e["source"] in keep: keep.add(e["target"])
-            if e["target"] in keep: keep.add(e["source"])
+            if a in keep and b not in keep and not nodes[b].get("games"):
+                keep.add(b)
+    # a relation between two entities that both exist in this game is a standing fact of the shared world and is kept,
+    # unless it belongs to the OTHER game's own story (its era is the other game's campaign/endgame and it is not tagged for this game)
+    other_story = {"poe1": {"poe2_campaign", "poe2_endgame"}, "poe2": {"poe1_campaign", "poe1_atlas"}}[game]
     es = [e for e in final_edges if e["source"] in keep and e["target"] in keep and
-          (not e.get("games") or game in e["games"] or e.get("era") in PRE_GAME_ERAS or e["relation"] in CONT)]
+          (not e.get("games") or game in e["games"] or e.get("era") not in other_story)]
     return keep, es
 
 

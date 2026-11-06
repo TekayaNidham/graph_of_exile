@@ -516,7 +516,7 @@
     const sortRels = (a) => a.sort((x, y) => (x.relation === "next_beat") - (y.relation === "next_beat") || x.relation.localeCompare(y.relation));
     $("#detailBody").innerHTML = `
       <h2 class="d-title ${n.plot_role}">${esc(n.name)}</h2>
-      <div class="d-sub">${esc(n.type)}${n.subtype ? " · " + esc(n.subtype.replace(/_/g, " ")) : ""} · ${esc(ERA_LABEL[n.era] || n.era)} · ${(n.games || []).map((g) => (g === "poe1" ? "PoE 1" : "PoE 2")).join(" & ") || "out-of-game"}</div>
+      <div class="d-sub">${esc(n.type)}${n.subtype ? " · " + esc(n.subtype.replace(/_/g, " ")) : ""} · ${esc(eraLabel(n.era))} · ${(n.games || []).map((g) => (g === "poe1" ? "PoE 1" : "PoE 2")).join(" & ") || "out-of-game"}</div>
       <div class="chips">${chips}</div>
       ${n.aliases && n.aliases.length ? `<div class="d-sub">Also: ${esc(n.aliases.join(", "))}</div>` : ""}
       <p class="d-summary">${esc(n.summary)}</p>
@@ -762,9 +762,15 @@
   window.addEventListener("pointerup", () => (mmDrag = false));
 
   // ---------- journey & story playback ----------
+  function eraLabel(e) {
+    if (S.variant === "poe2" && (e === "poe1_campaign" || e === "poe1_atlas")) return "Returning from the first Exile's time";
+    if (S.variant === "poe1" && (e === "poe2_campaign" || e === "poe2_endgame")) return "Also in PoE2";
+    if (S.variant !== "master" && e === "league_storylines") return "League storylines";
+    return ERA_LABEL[e] || e;
+  }
   function chapterOf(n) {
     const so = n.chronology ? n.chronology.story_order : null;
-    if (so == null) return ERA_LABEL[n.era] || n.era;
+    if (so == null) return eraLabel(n.era);
     const a = (n.acts || [])[0];
     if (a) {
       const m = a.match(/(poe[12])_(act|interlude)(\d+)|(poe[12])_epilogue/);

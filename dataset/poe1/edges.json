@@ -5495,150 +5495,6 @@
   ]
  },
  {
-  "id": "e_faction_precursors__created__loc_precursor_towers",
-  "source": "faction_precursors",
-  "target": "loc_precursor_towers",
-  "relation": "created",
-  "description": "Precursors built the Tower system for terraforming.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "precursor",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Precursor civilization"
-   }
-  ],
-  "domains": [
-   "deep_history"
-  ]
- },
- {
-  "id": "e_faction_precursors__created__char_the_arbiter_of_ash",
-  "source": "faction_precursors",
-  "target": "char_the_arbiter_of_ash",
-  "relation": "created",
-  "description": "Precursors created the Arbiter of Ash to guard the Flame Seed.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "endgame_plot",
-  "branches": [],
-  "era": "precursor",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Precursor civilization"
-   },
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Precursors section"
-   }
-  ],
-  "domains": [
-   "deep_history",
-   "poe2_endgame",
-   "twilight_order_edicts"
-  ]
- },
- {
-  "id": "e_char_the_arbiter_of_ash__associated_with__artifact_flame_seed",
-  "source": "char_the_arbiter_of_ash",
-  "target": "artifact_flame_seed",
-  "relation": "associated_with",
-  "description": "Guardian of the Flame Seed; Flame Seed is taken by Tecrod after his defeat.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "endgame_plot",
-  "branches": [],
-  "era": "precursor",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Precursor civilization"
-   },
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Precursors section"
-   },
-   {
-    "source_id": "src_poe2wiki_tecrod",
-    "locator": "Lore"
-   }
-  ],
-  "domains": [
-   "deep_history",
-   "twilight_order_edicts"
-  ]
- },
- {
-  "id": "e_faction_precursors__created__artifact_precursor_weapon",
-  "source": "faction_precursors",
-  "target": "artifact_precursor_weapon",
-  "relation": "created",
-  "description": "Precursors built the anti-corruption weapon.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "precursor",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Precursor civilization"
-   },
-   {
-    "source_id": "src_yt_1Zt4tv8fjI4",
-    "locator": "[7:27]-[7:35]"
-   }
-  ],
-  "domains": [
-   "deep_history"
-  ]
- },
- {
-  "id": "e_faction_precursors__created__text_precursor_edicts",
-  "source": "faction_precursors",
-  "target": "text_precursor_edicts",
-  "relation": "created",
-  "description": "Edicts murals depicting the Beast.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "precursor",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_beast",
-    "locator": "paragraph 1"
-   }
-  ],
-  "domains": [
-   "deep_history"
-  ]
- },
- {
   "id": "e_faction_precursors__causes__event_precursor_cataclysm",
   "source": "faction_precursors",
   "target": "event_precursor_cataclysm",
@@ -5658,31 +5514,6 @@
    {
     "source_id": "src_poewiki_history_of_wraeclast",
     "locator": "Precursor civilization"
-   }
-  ],
-  "domains": [
-   "deep_history"
-  ]
- },
- {
-  "id": "e_text_precursor_edicts__mentions__deity_beast",
-  "source": "text_precursor_edicts",
-  "target": "deity_beast",
-  "relation": "mentions",
-  "description": "Edicts depict the Beast.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "precursor",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_beast",
-    "locator": "paragraph 1"
    }
   ],
   "domains": [
@@ -5802,36 +5633,6 @@
   "domains": [
    "deep_history",
    "poe2_acts_4_plus"
-  ]
- },
- {
-  "id": "e_char_doryani__seeks__artifact_precursor_weapon",
-  "source": "char_doryani",
-  "target": "artifact_precursor_weapon",
-  "relation": "seeks",
-  "description": "Doryani sends Exile to find the pieces and translates the writing.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "vaal",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_yt_1Zt4tv8fjI4",
-    "locator": "[7:41]-[7:59]"
-   },
-   {
-    "source_id": "src_poe2wiki_the_search",
-    "locator": "Talk to Doryani"
-   }
-  ],
-  "domains": [
-   "deep_history",
-   "twilight_order_edicts"
   ]
  },
  {
@@ -7538,42 +7339,6 @@
   ]
  },
  {
-  "id": "e_char_jamanra__leads__faction_faridun",
-  "source": "char_jamanra",
-  "target": "faction_faridun",
-  "relation": "leads",
-  "description": "Jamanra is the revolutionary leader of the Faridun, resurrected to lead them against the Maraketh.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "azmeri_ezomyte_ancient",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Jamanra"
-   },
-   {
-    "source_id": "src_poe2wiki_faridun",
-    "locator": "Jamanra"
-   },
-   {
-    "source_id": "src_poe2wiki_faridun",
-    "locator": "Overview"
-   }
-  ],
-  "domains": [
-   "deep_history",
-   "eternal_empire",
-   "poe2_acts_1_3"
-  ]
- },
- {
   "id": "e_faction_azmeri__originates_from__loc_azmerian_ranges",
   "source": "faction_azmeri",
   "target": "loc_azmerian_ranges",
@@ -7850,82 +7615,6 @@
   "domains": [
    "deep_history",
    "leagues_late"
-  ]
- },
- {
-  "id": "e_char_the_king_in_the_mists__member_of__creature_the_nameless",
-  "source": "char_the_king_in_the_mists",
-  "target": "creature_the_nameless",
-  "relation": "member_of",
-  "description": "King is chief of the Nameless.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "azmeri_ezomyte_ancient",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Viridian Wildwood"
-   }
-  ],
-  "domains": [
-   "deep_history"
-  ]
- },
- {
-  "id": "e_faction_the_maji__opposes__creature_the_nameless",
-  "source": "faction_maji",
-  "target": "creature_the_nameless",
-  "relation": "opposes",
-  "description": "Maji purge the Nameless.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "azmeri_ezomyte_ancient",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poewiki_the_azmeri",
-    "locator": "The Maji"
-   }
-  ],
-  "domains": [
-   "deep_history"
-  ]
- },
- {
-  "id": "e_deity_gruthkul__member_of__creature_the_nameless",
-  "source": "deity_gruthkul",
-  "target": "creature_the_nameless",
-  "relation": "member_of",
-  "description": "Gruthkul was a Nameless.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "azmeri_ezomyte_ancient",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Gruthkul"
-   }
-  ],
-  "domains": [
-   "deep_history"
   ]
  },
  {
@@ -16537,31 +16226,6 @@
   ]
  },
  {
-  "id": "e_char_exile_poe2__travels_to__loc_cemetery_of_the_eternals",
-  "source": "char_exile_poe2",
-  "target": "loc_cemetery_of_the_eternals",
-  "relation": "travels_to",
-  "description": "PoE2 Act 1.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "post_cataclysm",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_sorrow_among_stones",
-    "locator": "Area"
-   }
-  ],
-  "domains": [
-   "eternal_empire"
-  ]
- },
- {
   "id": "e_char_asala__leads__faction_maraketh",
   "source": "char_asala",
   "target": "faction_maraketh",
@@ -17556,32 +17220,6 @@
    {
     "source_id": "src_poewiki_order_of_the_templar",
     "locator": "intro"
-   }
-  ],
-  "domains": [
-   "exile_and_sources"
-  ]
- },
- {
-  "id": "e_char_exile_poe2__associated_with__char_exile_poe1",
-  "source": "char_exile_poe2",
-  "target": "char_exile_poe1",
-  "relation": "associated_with",
-  "description": "Two distinct protagonists: the PoE1 and PoE2 Exiles share the archetype but are not stated to be the same character.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "meta",
-  "branches": [],
-  "era": "interlude_between_games",
-  "sequence": null,
-  "canon_status": "inferred",
-  "confidence": "low",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_lore",
-    "locator": "section 'Lore' (prelude)"
    }
   ],
   "domains": [
@@ -22440,31 +22078,6 @@
   ]
  },
  {
-  "id": "e_artifact_precursor_weapon__associated_with__concept_corruption",
-  "source": "artifact_precursor_weapon",
-  "target": "concept_corruption",
-  "relation": "associated_with",
-  "description": "Doryani attempts to harness the Precursor Weapon to destroy corruption.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "precursor",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "section '===Precursor civilization===': the Precursor Weapon 'which Doryani attempts to harness to destroy corruption'"
-   }
-  ],
-  "domains": [
-   "gap_deep_history_vaal_precursor_eternal"
-  ]
- },
- {
   "id": "e_concept_vaal_corruption_technology__associated_with__concept_corruption",
   "source": "concept_vaal_corruption_technology",
   "target": "concept_corruption",
@@ -23351,31 +22964,6 @@
    {
     "source_id": "src_poewiki_karui_gods",
     "locator": "intro: 'In the game's lore, The Karui Way has several gods that are representative of or rule over various aspects of the world.'"
-   }
-  ],
-  "domains": [
-   "gap_deep_history_vaal_precursor_eternal"
-  ]
- },
- {
-  "id": "e_char_hayoxi__associated_with__faction_vaal_architects",
-  "source": "char_hayoxi",
-  "target": "faction_vaal_architects",
-  "relation": "associated_with",
-  "description": "The flavour text calls Hayoxi 'The Architect of Destruction'; the link to the Royal Architects of Atzoatl is an inference from the title, not a stated membership.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "vaal",
-  "sequence": null,
-  "canon_status": "inferred",
-  "confidence": "low",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_hayoxi_s_fulmination",
-    "locator": "flavour_text: 'The Architect of Destruction ... under the royal temple'"
    }
   ],
   "domains": [
@@ -31312,37 +30900,6 @@
   ]
  },
  {
-  "id": "e_deity_sin__guides__char_exile_poe2",
-  "source": "deity_sin",
-  "target": "char_exile_poe2",
-  "relation": "guides",
-  "description": "As the Hooded One, Sin aids the Exile in tracking the new Beast; the Garukhan shrine in Act 2 hints at his past and he reveals himself as Sin at the end of Act 2.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "poe2_campaign",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_hooded_one",
-    "locator": "Lore"
-   },
-   {
-    "source_id": "src_poewiki_sin",
-    "locator": "Path of Exile 2"
-   }
-  ],
-  "domains": [
-   "gods_cosmology",
-   "poe1_acts_6_10"
-  ]
- },
- {
   "id": "e_deity_innocence__allies_with__char_exile_poe1",
   "source": "deity_innocence",
   "target": "char_exile_poe1",
@@ -31892,31 +31449,6 @@
    {
     "source_id": "src_poe2wiki_the_beast",
     "locator": "paragraph 2"
-   }
-  ],
-  "domains": [
-   "gods_cosmology"
-  ]
- },
- {
-  "id": "e_artifact_seed_of_corruption__continues_in__deity_beast",
-  "source": "artifact_seed_of_corruption",
-  "target": "deity_beast",
-  "relation": "continues_in",
-  "description": "The stolen seed grows into the new Beast in PoE2.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "poe2_campaign",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_beast",
-    "locator": "last paragraph"
    }
   ],
   "domains": [
@@ -33819,31 +33351,6 @@
    {
     "source_id": "src_poewiki_god",
     "locator": "section 'The Brine King'"
-   }
-  ],
-  "domains": [
-   "gods_cosmology"
-  ]
- },
- {
-  "id": "e_faction_maraketh__worships__deity_halani",
-  "source": "faction_maraketh",
-  "target": "deity_halani",
-  "relation": "worships",
-  "description": "Maraketh water goddess, forgotten.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "primordial",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poewiki_god",
-    "locator": "section 'Halani'"
    }
   ],
   "domains": [
@@ -36315,70 +35822,6 @@
   ],
   "domains": [
    "leagues_early"
-  ]
- },
- {
-  "id": "e_league_poe2_rise_of_the_abyssal__continues_in__concept_abyss",
-  "source": "league_poe2_rise_of_the_abyssal",
-  "target": "concept_abyss",
-  "relation": "continues_in",
-  "description": "PoE2 revisits Abyss.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "poe2_abyss"
-  ],
-  "era": "league_storylines",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_rise_of_the_abyssal_league",
-    "locator": "League content"
-   }
-  ],
-  "domains": [
-   "leagues_early"
-  ]
- },
- {
-  "id": "e_league_abyss__continues_in__league_poe2_rise_of_the_abyssal",
-  "source": "league_abyss",
-  "target": "league_poe2_rise_of_the_abyssal",
-  "relation": "continues_in",
-  "description": "PoE1's Abyss league (Lightless, Kulemak) continues as PoE2's Rise of the Abyssal.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "abyss"
-  ],
-  "era": "league_storylines",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_rise_of_the_abyssal_league",
-    "locator": "League content"
-   },
-   {
-    "source_id": "src_poewiki_abyss_league",
-    "locator": "lead"
-   },
-   {
-    "source_id": "src_poewiki_the_lightless",
-    "locator": "lead: expanded upon ... in the Rise of the Abyssals league in Path of Exile 2"
-   }
-  ],
-  "domains": [
-   "leagues_early",
-   "poe2_endgame"
   ]
  },
  {
@@ -43650,38 +43093,6 @@
   ]
  },
  {
-  "id": "e_league_ancestor__continues_in__event_poe2_trial_of_the_ancestors",
-  "source": "league_ancestor",
-  "target": "event_poe2_trial_of_the_ancestors",
-  "relation": "continues_in",
-  "description": "The Karui afterlife tournament returns in PoE2 Act 4.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "ancestor"
-  ],
-  "era": "poe2_campaign",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_trial_of_the_ancestors_quest_",
-    "locator": "intro"
-   },
-   {
-    "source_id": "src_poewiki_ancestor_league",
-    "locator": "'==League mechanic=='"
-   }
-  ],
-  "domains": [
-   "leagues_late"
-  ]
- },
- {
   "id": "e_char_navali__serves__deity_hinekora",
   "source": "char_navali",
   "target": "deity_hinekora",
@@ -46398,38 +45809,6 @@
   ]
  },
  {
-  "id": "e_league_settlers_of_kalguur__continues_in__act_poe2_act4",
-  "source": "league_settlers_of_kalguur",
-  "target": "act_poe2_act4",
-  "relation": "continues_in",
-  "description": "Kingsmarch and the Kalguuran NPCs return as the Act 4 hub in PoE2.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "kingsmarch"
-  ],
-  "era": "poe2_campaign",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poewiki_kingsmarch",
-    "locator": "Trivia"
-   },
-   {
-    "source_id": "src_poe2wiki_act_4",
-    "locator": "table"
-   }
-  ],
-  "domains": [
-   "leagues_late"
-  ]
- },
- {
   "id": "e_league_settlers_of_kalguur__precedes__league_mercenaries",
   "source": "league_settlers_of_kalguur",
   "target": "league_mercenaries",
@@ -48983,66 +48362,6 @@
    {
     "source_id": "src_poewiki_history_of_wraeclast",
     "locator": "'The Atlas of Worlds' section, Day Zero rule"
-   }
-  ],
-  "domains": [
-   "leagues_mid"
-  ]
- },
- {
-  "id": "e_league_ritual__continues_in__league_poe2_forbidden_rites",
-  "source": "league_ritual",
-  "target": "league_poe2_forbidden_rites",
-  "relation": "continues_in",
-  "description": "The PoE1 Ritual altar mechanic continues in PoE2's Forbidden Rites league (0.5.5), which places Ritual encounters in campaign and endgame zones.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "ritual"
-  ],
-  "era": "league_storylines",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_forbidden_rites",
-    "locator": "'Forbidden Rites' lead and 'League content' (Ritual)"
-   }
-  ],
-  "domains": [
-   "leagues_mid"
-  ]
- },
- {
-  "id": "e_league_expedition__continues_in__league_poe2_runes_of_aldur",
-  "source": "league_expedition",
-  "target": "league_poe2_runes_of_aldur",
-  "relation": "continues_in",
-  "description": "The PoE1 Expedition mechanic reappears in PoE2: Verisium Remnants can be found in Expedition encounters during the Runes of Aldur league (0.5.0), and 0.5.5 integrates Runes of Aldur and Expedition into the core PoE2 game.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "expedition"
-  ],
-  "era": "poe2_endgame",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_runes_of_aldur_league",
-    "locator": "'League content': 'Remnants can also be found in Expedition encounters'"
-   },
-   {
-    "source_id": "src_poe2wiki_forbidden_rites",
-    "locator": "'League content': integration of Runes of Aldur and Expedition"
    }
   ],
   "domains": [
@@ -53024,6 +52343,33 @@
   ]
  },
  {
+  "id": "e_faction_runefathers__student_of__char_aldur",
+  "source": "faction_runefathers",
+  "target": "char_aldur",
+  "relation": "student_of",
+  "description": "Apprentices of Aldur.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "background",
+  "branches": [
+   "expedition"
+  ],
+  "era": "unknown",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_aldur",
+    "locator": "Aldur's death and the Runefathers"
+   }
+  ],
+  "domains": [
+   "leagues_mid"
+  ]
+ },
+ {
   "id": "e_event_first_kalguuran_expedition__leads_to__event_priesthood_conspiracy",
   "source": "event_first_kalguuran_expedition",
   "target": "event_priesthood_conspiracy",
@@ -53732,6 +53078,37 @@
    {
     "source_id": "src_poewiki_kalguur",
     "locator": "Lead: \"several Kalguurans ... are seeking to develop the town of Kingsmarch\""
+   }
+  ],
+  "domains": [
+   "leagues_mid"
+  ]
+ },
+ {
+  "id": "e_char_aldur__founded__faction_kalguuran",
+  "source": "char_aldur",
+  "target": "faction_kalguuran",
+  "relation": "founded",
+  "description": "Aldur is the first King and nation's founder-figure ('the beginnings of Kalguur was born').",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "background",
+  "branches": [
+   "expedition"
+  ],
+  "era": "unknown",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_aldur",
+    "locator": "Aldur's reign: 'he, the first Runefather'; first King of Kalguur"
+   },
+   {
+    "source_id": "src_poewiki_kalguur",
+    "locator": "Runes: \"the first runes were crafted by Aldur, the first Runefather and the first king of Kalguur\""
    }
   ],
   "domains": [
@@ -77057,63 +76434,6 @@
   ]
  },
  {
-  "id": "e_char_exile_poe2__imprisons__char_doryani",
-  "source": "char_exile_poe2",
-  "target": "char_doryani",
-  "relation": "imprisons",
-  "description": "The Exile captures Doryani in the Black Chambers to interrogate him about the Beast; Doryani then agrees to help.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "poe2_campaign",
-  "sequence": 5308,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_vaal",
-    "locator": "Quest 'Capture Doryani for his knowledge of the Beast'"
-   }
-  ],
-  "domains": [
-   "poe2_acts_1_3"
-  ]
- },
- {
-  "id": "e_char_doryani__allies_with__char_exile_poe2",
-  "source": "char_doryani",
-  "target": "char_exile_poe2",
-  "relation": "allies_with",
-  "description": "After capture Doryani agrees to help contain the Beast; the Hooded One says their goals are aligned.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "poe2_campaign",
-  "sequence": 5310,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_vaal",
-    "locator": "Quest log 'Speak to Alva' / Hooded One follow-up"
-   },
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_vaal",
-    "locator": "Doryani dialogue"
-   }
-  ],
-  "domains": [
-   "poe2_acts_1_3",
-   "vaal"
-  ]
- },
- {
   "id": "e_char_the_hooded_one__same_entity_as__deity_sin",
   "source": "char_the_hooded_one",
   "target": "deity_sin",
@@ -77248,37 +76568,6 @@
   ]
  },
  {
-  "id": "e_char_doryani__possesses__artifact_precursor_weapon",
-  "source": "char_doryani",
-  "target": "artifact_precursor_weapon",
-  "relation": "possesses",
-  "description": "Doryani holds one piece of the Precursor weapon and the rest are scattered in the Karui archipelago.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "poe2_campaign",
-  "sequence": 5310,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_vaal",
-    "locator": "Quest log 'Speak to Doryani' (weapon pieces)"
-   },
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_vaal",
-    "locator": "Doryani dialogue"
-   }
-  ],
-  "domains": [
-   "poe2_acts_1_3",
-   "vaal"
-  ]
- },
- {
   "id": "e_char_doryani__participates_in__event_vaal_cataclysm",
   "source": "char_doryani",
   "target": "event_vaal_cataclysm",
@@ -77298,32 +76587,6 @@
    {
     "source_id": "src_poewiki_doryani",
     "locator": "History > Vaal Cataclysm"
-   }
-  ],
-  "domains": [
-   "poe2_acts_1_3"
-  ]
- },
- {
-  "id": "e_event_vaal_cataclysm__continues_in__event_utzaal_past_cataclysm",
-  "source": "event_vaal_cataclysm",
-  "target": "event_utzaal_past_cataclysm",
-  "relation": "continues_in",
-  "description": "PoE2 Act 3 shows the Vaal Cataclysm from inside Utzaal's past, via the time gateway, reframing it as Atziri's communion rather than Doryani's alone.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "vaal",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poewiki_doryani",
-    "locator": "History > Vaal Cataclysm (PoE2 recontextualises)"
    }
   ],
   "domains": [
@@ -77445,109 +76708,6 @@
   ]
  },
  {
-  "id": "e_char_chitus__created__text_emperors_warning",
-  "source": "char_chitus",
-  "target": "text_emperors_warning",
-  "relation": "created",
-  "description": "Signed 'Emperor Chitus Perandus' on the order of Izaro.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "eternal_empire_fall",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_environmental_lore",
-    "locator": "Emperor's Warning"
-   }
-  ],
-  "domains": [
-   "poe2_acts_4_plus"
-  ]
- },
- {
-  "id": "e_faction_ezomyte__allies_with__char_exile_poe2__il",
-  "source": "faction_ezomyte",
-  "target": "char_exile_poe2",
-  "relation": "allies_with",
-  "description": "Ezomytes pledge to the war.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "poe2_campaign",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_recruit_the_ezomytes",
-    "locator": "Return to Renly"
-   }
-  ],
-  "domains": [
-   "poe2_acts_4_plus"
-  ]
- },
- {
-  "id": "e_faction_maraketh__allies_with__char_exile_poe2__il",
-  "source": "faction_maraketh",
-  "target": "char_exile_poe2",
-  "relation": "allies_with",
-  "description": "Maraketh pledge after the Gifting of Water.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "poe2_campaign",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_recruit_the_maraketh",
-    "locator": "Quest Complete"
-   }
-  ],
-  "domains": [
-   "poe2_acts_4_plus"
-  ]
- },
- {
-  "id": "e_faction_karui__allies_with__char_exile_poe2__il",
-  "source": "faction_karui",
-  "target": "char_exile_poe2",
-  "relation": "allies_with",
-  "description": "Karui pledged by Tavakai.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "poe2_campaign",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_search",
-    "locator": "Tavakai: You have my word"
-   }
-  ],
-  "domains": [
-   "poe2_acts_4_plus"
-  ]
- },
- {
   "id": "e_char_exile_poe1__causes__event_poe2_beast_slain_aftermath",
   "source": "char_exile_poe1",
   "target": "event_poe2_beast_slain_aftermath",
@@ -77652,55 +76812,28 @@
   ]
  },
  {
-  "id": "e_char_exile_poe1__continues_in__char_exile_poe2",
-  "source": "char_exile_poe1",
-  "target": "char_exile_poe2",
-  "relation": "continues_in",
-  "description": "Different protagonists; the PoE2 Exile follows ~20 years after the previous exile killed the Beast.",
+  "id": "e_char_jun__leads__faction_order_of_the_djinn",
+  "source": "char_jun",
+  "target": "faction_order_of_the_djinn",
+  "relation": "leads",
+  "description": "Jun rebuilds the Order after Catarina.",
   "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "interlude_between_games",
-  "sequence": null,
-  "canon_status": "inferred",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_beast",
-    "locator": "paragraph 4"
-   }
-  ],
-  "domains": [
-   "poe2_acts_4_plus"
-  ]
- },
- {
-  "id": "e_char_sirus__continues_in__event_poe2_a5_oriath_assault",
-  "source": "char_sirus",
-  "target": "event_poe2_a5_oriath_assault",
-  "relation": "continues_in",
-  "description": "Oriath's destruction by Sirus precedes its secret rebuild by the Order and the planned Act 5.",
-  "games": [
-   "poe1",
    "poe2"
   ],
   "plot_role": "background",
   "branches": [],
   "era": "interlude_between_games",
   "sequence": null,
-  "canon_status": "inferred",
-  "confidence": "medium",
+  "canon_status": "canon",
+  "confidence": "high",
   "sources": [
    {
-    "source_id": "src_poe2wiki_act_5",
-    "locator": "intro"
+    "source_id": "src_poe2wiki_order_of_the_djinn",
+    "locator": "lead"
    }
   ],
   "domains": [
-   "poe2_acts_4_plus"
+   "poe2_endgame"
   ]
  },
  {
@@ -77725,34 +76858,6 @@
    {
     "source_id": "src_poewiki_the_lightless",
     "locator": "Kulemak"
-   }
-  ],
-  "domains": [
-   "poe2_endgame"
-  ]
- },
- {
-  "id": "e_concept_abyss__continues_in__league_poe2_rise_of_the_abyssal",
-  "source": "concept_abyss",
-  "target": "league_poe2_rise_of_the_abyssal",
-  "relation": "continues_in",
-  "description": "The Abyss concept returns as a PoE2 league.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "abyss"
-  ],
-  "era": "poe2_endgame",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_rise_of_the_abyssal_league",
-    "locator": "League content"
    }
   ],
   "domains": [
@@ -77815,40 +76920,6 @@
   ],
   "domains": [
    "poe2_endgame"
-  ]
- },
- {
-  "id": "e_char_exile_poe2__defeats__char_atziri",
-  "source": "char_exile_poe2",
-  "target": "char_atziri",
-  "relation": "defeats",
-  "description": "Exile defeats Atziri (Red Queen then Fell Serpent) in her Temple.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "fate_of_the_vaal",
-   "vaal_temple"
-  ],
-  "era": "poe2_endgame",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_fate_of_the_vaal_quest_",
-    "locator": "Defeat Atziri, the Red Queen / Fell Serpent"
-   },
-   {
-    "source_id": "src_poe2wiki_fate_of_the_vaal_quest_",
-    "locator": "Quest Complete"
-   }
-  ],
-  "domains": [
-   "poe2_endgame",
-   "vaal"
   ]
  },
  {
@@ -78029,62 +77100,6 @@
   ]
  },
  {
-  "id": "e_league_breach__continues_in__concept_breach_poe2",
-  "source": "league_breach",
-  "target": "concept_breach_poe2",
-  "relation": "continues_in",
-  "description": "PoE1 Breach/Breachlords continue in PoE2.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "breach"
-  ],
-  "era": "poe2_endgame",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_dreamer",
-    "locator": "Lore"
-   }
-  ],
-  "domains": [
-   "poe2_endgame"
-  ]
- },
- {
-  "id": "e_league_ritual__continues_in__concept_ritual_poe2",
-  "source": "league_ritual",
-  "target": "concept_ritual_poe2",
-  "relation": "continues_in",
-  "description": "Ritual mechanic continues into PoE2.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "ritual"
-  ],
-  "era": "poe2_endgame",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_forbidden_rites",
-    "locator": "main: Ritual"
-   }
-  ],
-  "domains": [
-   "poe2_endgame"
-  ]
- },
- {
   "id": "e_league_delirium__continues_in__concept_delirium_poe2",
   "source": "league_delirium",
   "target": "concept_delirium_poe2",
@@ -78106,62 +77121,6 @@
    {
     "source_id": "src_web_gamedeveloper_return_of_the_ancients",
     "locator": "Delirium"
-   }
-  ],
-  "domains": [
-   "poe2_endgame"
-  ]
- },
- {
-  "id": "e_league_expedition__continues_in__concept_expedition_poe2",
-  "source": "league_expedition",
-  "target": "concept_expedition_poe2",
-  "relation": "continues_in",
-  "description": "PoE1 Expedition continues.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "expedition"
-  ],
-  "era": "poe2_endgame",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_web_gamedeveloper_return_of_the_ancients",
-    "locator": "Expedition"
-   }
-  ],
-  "domains": [
-   "poe2_endgame"
-  ]
- },
- {
-  "id": "e_league_settlers_of_kalguur__continues_in__loc_ruins_of_kingsmarch",
-  "source": "league_settlers_of_kalguur",
-  "target": "loc_ruins_of_kingsmarch",
-  "relation": "continues_in",
-  "description": "Kingsmarch ruined in PoE2.",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "kingsmarch"
-  ],
-  "era": "poe2_endgame",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_grand_expedition",
-    "locator": "Ruins of Kingsmarch"
    }
   ],
   "domains": [
@@ -78253,31 +77212,6 @@
   ]
  },
  {
-  "id": "e_faction_precursors__created__concept_the_edicts",
-  "source": "faction_precursors",
-  "target": "concept_the_edicts",
-  "relation": "created",
-  "description": "Precursors painted/inscribed the Edicts (murals describing the Beast and how to contain it).",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "precursor",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_beast",
-    "locator": "origins paragraph"
-   }
-  ],
-  "domains": [
-   "twilight_order_edicts"
-  ]
- },
- {
   "id": "e_event_oriath_destroyed_by_sirus__occurs_in__loc_oriath",
   "source": "event_oriath_destroyed_by_sirus",
   "target": "loc_oriath",
@@ -78325,31 +77259,6 @@
    {
     "source_id": "src_poewiki_order_of_the_templar",
     "locator": "Sanctum paragraph"
-   }
-  ],
-  "domains": [
-   "twilight_order_edicts"
-  ]
- },
- {
-  "id": "e_deity_sin__same_entity_as__char_the_hooded_one",
-  "source": "deity_sin",
-  "target": "char_the_hooded_one",
-  "relation": "same_entity_as",
-  "description": "Revealed in Act 2.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "poe2_campaign",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
-    "locator": "Shrine dialogue"
    }
   ],
   "domains": [
@@ -78923,81 +77832,6 @@
    {
     "source_id": "src_poewiki_the_vaal",
     "locator": "The Vaal Cataclysm"
-   }
-  ],
-  "domains": [
-   "vaal"
-  ]
- },
- {
-  "id": "e_event_red_communion__causes__event_vaal_cataclysm",
-  "source": "event_red_communion",
-  "target": "event_vaal_cataclysm",
-  "relation": "causes",
-  "description": "Red Communion triggered the Cataclysm.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "vaal",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poewiki_the_vaal",
-    "locator": "PoE2 account"
-   }
-  ],
-  "domains": [
-   "vaal"
-  ]
- },
- {
-  "id": "e_char_atziri__participates_in__event_red_communion",
-  "source": "char_atziri",
-  "target": "event_red_communion",
-  "relation": "participates_in",
-  "description": "Atziri communed with the Beast.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "vaal",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poewiki_the_vaal",
-    "locator": "PoE2 account"
-   }
-  ],
-  "domains": [
-   "vaal"
-  ]
- },
- {
-  "id": "e_char_doryani__participates_in__event_red_communion",
-  "source": "char_doryani",
-  "target": "event_red_communion",
-  "relation": "participates_in",
-  "description": "Doryani was forced to devise it.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "vaal",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poewiki_the_vaal",
-    "locator": "PoE2 account"
    }
   ],
   "domains": [
@@ -80061,56 +78895,6 @@
   ]
  },
  {
-  "id": "e_char_ketzuli__serves__char_doryani",
-  "source": "char_ketzuli",
-  "target": "char_doryani",
-  "relation": "serves",
-  "description": "Tasked to keep working.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "vaal",
-  "sequence": null,
-  "canon_status": "community_theory",
-  "confidence": "low",
-  "sources": [
-   {
-    "source_id": "src_yt_1Zt4tv8fjI4",
-    "locator": "[11:36]-[12:20]"
-   }
-  ],
-  "domains": [
-   "vaal"
-  ]
- },
- {
-  "id": "e_concept_doryani_contingencies__associated_with__char_doryani",
-  "source": "concept_doryani_contingencies",
-  "target": "char_doryani",
-  "relation": "associated_with",
-  "description": "Contingencies.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "vaal",
-  "sequence": null,
-  "canon_status": "community_theory",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_yt_1Zt4tv8fjI4",
-    "locator": "[7:07]-[13:30]"
-   }
-  ],
-  "domains": [
-   "vaal"
-  ]
- },
- {
   "id": "e_deity_hinekora__opposes__char_doryani",
   "source": "deity_hinekora",
   "target": "char_doryani",
@@ -80659,135 +79443,6 @@
   ]
  },
  {
-  "id": "e_char_uromoti__member_of__faction_vaal_architects",
-  "source": "char_uromoti",
-  "target": "faction_vaal_architects",
-  "relation": "member_of",
-  "description": "Architect of Expansion.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "vaal",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_environmental_lore",
-    "locator": "'Uromoti's Truth'"
-   }
-  ],
-  "domains": [
-   "vaal"
-  ]
- },
- {
-  "id": "e_char_uromoti__serves__char_atziri",
-  "source": "char_uromoti",
-  "target": "char_atziri",
-  "relation": "serves",
-  "description": "Served Atziri while secretly building a vault out of fear of her.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "vaal",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_environmental_lore",
-    "locator": "'Uromoti's Truth'"
-   }
-  ],
-  "domains": [
-   "vaal"
-  ]
- },
- {
-  "id": "e_text_vaal_architect_notes__mentions__event_red_communion",
-  "source": "text_vaal_architect_notes",
-  "target": "event_red_communion",
-  "relation": "mentions",
-  "description": "'Disloyalty' references arguments with Doryani over the consequences of the Red Communion.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [
-   "fate_of_the_vaal"
-  ],
-  "era": "vaal",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_environmental_lore",
-    "locator": "'Disloyalty'"
-   }
-  ],
-  "domains": [
-   "vaal"
-  ]
- },
- {
-  "id": "e_text_vaal_architect_notes__mentions__char_doryani",
-  "source": "text_vaal_architect_notes",
-  "target": "char_doryani",
-  "relation": "mentions",
-  "description": "Architect suspects Doryani of moving against the Queen.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [
-   "fate_of_the_vaal"
-  ],
-  "era": "vaal",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_environmental_lore",
-    "locator": "'Disloyalty'; 'The Perfect Design'"
-   }
-  ],
-  "domains": [
-   "vaal"
-  ]
- },
- {
-  "id": "e_loc_lira_vaal__same_entity_as__loc_atziri_s_temple",
-  "source": "loc_lira_vaal",
-  "target": "loc_atziri_s_temple",
-  "relation": "same_entity_as",
-  "description": "Same location, defined in the poe2_endgame fragment as Atziri's Temple (Lira Vaal).",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "poe2_endgame",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_atziri_s_temple",
-    "locator": "lead"
-   }
-  ],
-  "domains": [
-   "vaal"
-  ]
- },
- {
   "id": "e_event_poe1_a2_kill_vaal_oversoul__part_of__event_a2_shadow_of_the_vaal",
   "source": "event_poe1_a2_kill_vaal_oversoul",
   "target": "event_a2_shadow_of_the_vaal",
@@ -81013,35 +79668,6 @@
   ],
   "curation": [
    "codex: Act 4 not Act 9"
-  ]
- },
- {
-  "id": "e_concept_atlas__continues_in__concept_poe2_atlas_of_worlds",
-  "source": "concept_atlas",
-  "target": "concept_poe2_atlas_of_worlds",
-  "relation": "continues_in",
-  "description": "PoE2 Atlas of Worlds is the successor of the PoE1 Atlas concept (maps, devices, Atlas passives).",
-  "games": [
-   "poe1",
-   "poe2"
-  ],
-  "plot_role": "endgame_plot",
-  "branches": [],
-  "era": "poe2_endgame",
-  "sequence": null,
-  "canon_status": "inferred",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_web_pcgamesn_return_of_the_ancients",
-    "locator": "Atlas passive tree remade"
-   }
-  ],
-  "domains": [
-   "poe2_endgame"
-  ],
-  "curation": [
-   "codex: direction reversed"
   ]
  },
  {

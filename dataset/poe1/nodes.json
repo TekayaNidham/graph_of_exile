@@ -497,69 +497,6 @@
   "is_spine": false
  },
  {
-  "id": "act_poe2_act4",
-  "name": "Act 4 (Ngamakanui)",
-  "aliases": [
-   "Act 4 (PoE2)"
-  ],
-  "type": "act",
-  "subtype": null,
-  "summary": "Fourth act of Path of Exile 2 (added in 0.3.0 The Third Edict). The Exile, the Hooded One and Doryani sail from Kingsmarch around the Karui archipelago Ngamakanui to recover three Precursor weapon pieces, find a forge, and reforge the Weapon meant to destroy the Beast, clashing with the Twilight Order and the Tukohama chieftain Tavakai.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "meta",
-  "branches": [],
-  "era": "poe2_campaign",
-  "chronology": {
-   "in_world_year": null,
-   "relative": "~20 years after PoE1",
-   "story_order": null
-  },
-  "acts": [
-   "act_poe2_act4"
-  ],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_act_4",
-    "locator": "intro"
-   },
-   {
-    "source_id": "src_poe2wiki_act_4",
-    "locator": "intro + Progression"
-   },
-   {
-    "source_id": "src_poe2wiki_the_search",
-    "locator": "quest summary"
-   }
-  ],
-  "domains": [
-   "deep_history",
-   "poe2_acts_4_plus"
-  ],
-  "eras": [
-   "poe2_campaign"
-  ],
-  "plot_roles": [
-   "main_plot",
-   "meta"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "deep_history",
-    "summary": "PoE2's fourth act, set in the Karui archipelago of Ngamakanui, where the player searches for three pieces of the Precursor Weapon (and a way to assemble it) to subdue the Beast."
-   }
-  ],
-  "release_status": "released",
-  "degree": 28,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 2,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
   "id": "artifact_allflame",
   "name": "The Allflame",
   "aliases": [],
@@ -1442,74 +1379,6 @@
   "degree": 1,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
-  "id": "artifact_flame_seed",
-  "name": "Flame Seed",
-  "aliases": [],
-  "type": "artifact",
-  "subtype": null,
-  "summary": "Object guarded by the Arbiter of Ash (Precursor-made guardian); after the Arbiter dies a mysterious wyrm-rider, later revealed as Tecrod, takes it saying 'This power serves a new master...'.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "endgame_plot",
-  "branches": [],
-  "era": "precursor",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Precursor civilization: 'create the Arbiter of Ash to guard the Flame Seed'"
-   },
-   {
-    "source_id": "src_poe2wiki_tecrod",
-    "locator": "A Mysterious Entity riding a wyrm that steals the Flame Seed ... 'This power serves a new master...'"
-   },
-   {
-    "source_id": "src_poe2wiki_tecrod",
-    "locator": "Lore: 'steals the Flame Seed after the Arbiter of Ash is defeated'"
-   },
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Precursor section: Arbiter of Ash created to guard the Flame Seed"
-   }
-  ],
-  "domains": [
-   "deep_history",
-   "poe2_endgame",
-   "twilight_order_edicts"
-  ],
-  "eras": [
-   "precursor",
-   "poe2_endgame"
-  ],
-  "plot_roles": [
-   "endgame_plot"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "deep_history",
-    "summary": "Precursor object guarded by the Arbiter of Ash; very little is known."
-   },
-   {
-    "domain": "twilight_order_edicts",
-    "summary": "Precursor object guarded by the Arbiter of Ash; stolen by a mysterious wyrm rider (Tecrod) after the Arbiter's defeat. Possibly linked to the Fourth Edict (unconfirmed)."
-   }
-  ],
-  "release_status": "released",
-  "degree": 4,
-  "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -2433,115 +2302,6 @@
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
-  "is_spine": false
- },
- {
-  "id": "artifact_precursor_weapon",
-  "name": "Precursor Weapon",
-  "aliases": [
-   "Precursor Weapon",
-   "Precursor Weapon (Weapon in pieces)",
-   "Precursor anti-corruption weapon",
-   "The Weapon (Precursor Weapon)",
-   "The Weapon (instrument of the Third Edict)",
-   "the Weapon"
-  ],
-  "type": "artifact",
-  "subtype": null,
-  "summary": "Device built by the Precursors against corruption; Doryani sought to harness it (a lore video says it was scattered by 400 BIC, Doryani holding one piece and three in the Karui archipelago). In PoE2 Act 4 the Exile hunts its three pieces in Ngamakanui; in the endgame only the Hooded One is said able to wield it against the Beast.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "precursor",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [
-   "act_poe2_act3",
-   "act_poe2_act4",
-   "poe2_act4"
-  ],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Precursor civilization"
-   },
-   {
-    "source_id": "src_yt_1Zt4tv8fjI4",
-    "locator": "[7:07]-[7:49]"
-   },
-   {
-    "source_id": "src_poe2wiki_act_4",
-    "locator": "objective"
-   },
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_vaal",
-    "locator": "Quest log 'Speak to Doryani in Ziggurat Encampment' / Hooded One follow-up"
-   },
-   {
-    "source_id": "src_poe2wiki_the_search",
-    "locator": "Witness the Hooded One reforge the Weapon; Return to Kingsmarch"
-   },
-   {
-    "source_id": "src_poe2wiki_the_search",
-    "locator": "Speak to The Hooded One; Return to Kingsmarch"
-   },
-   {
-    "source_id": "src_poe2wiki_act_4",
-    "locator": "intro: 'search for three parts of the precursor weapon'"
-   },
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_vaal",
-    "locator": "Doryani dialogue"
-   },
-   {
-    "source_id": "src_poe2wiki_act_4",
-    "locator": "lead"
-   }
-  ],
-  "domains": [
-   "deep_history",
-   "poe2_acts_1_3",
-   "poe2_acts_4_plus",
-   "twilight_order_edicts",
-   "vaal"
-  ],
-  "eras": [
-   "precursor",
-   "poe2_campaign"
-  ],
-  "plot_roles": [
-   "main_plot"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "poe2_acts_1_3",
-    "summary": "Ancient anti-Corruption weapon of a lost civilisation, in pieces: Doryani holds one, the others are scattered in Ngamakanui."
-   },
-   {
-    "domain": "poe2_acts_4_plus",
-    "summary": "Three Precursor weapon pieces (rotating on Act 4 islands) are reforged by the Hooded One in the Excavated Site; the inscription reads 'The instrument of the Third Edict', made for cleansing Corruption and destroying the Beast. Radiates intense Corruption and drives Tavakai mad."
-   },
-   {
-    "domain": "twilight_order_edicts",
-    "summary": "Three-piece Precursor device assembled in Act 4 on Arastas/Excavated Site; the instrument of the Third Edict, built to cleanse Corruption and destroy the Beast. Radiates intense Corruption, maddening those near it; Tavakai takes it, falls to blood fever, and is cured when the Hooded One uses it."
-   },
-   {
-    "domain": "vaal",
-    "summary": "Ancient weapon from a lost civilisation designed against corruption; four pieces: Doryani holds one, three are scattered in Ngamakanui."
-   }
-  ],
-  "release_status": "released",
-  "degree": 13,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 1,
-  "exile_distance": 1,
   "is_spine": false
  },
  {
@@ -8743,66 +8503,6 @@
   "is_spine": false
  },
  {
-  "id": "char_exile_poe2",
-  "name": "The Exile (PoE2)",
-  "aliases": [
-   "Exile",
-   "Exile (PoE2)",
-   "PoE2 Exile"
-  ],
-  "type": "character",
-  "subtype": "protagonist",
-  "summary": "The PoE2 protagonist: an Exile in Ogham, sentenced to death by Count Geonor. After escaping the Executioner by jumping into the ocean, the Exile chases the Seed of Corruption released by Geonor across Wraeclast about 20 years after Kitava's death.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "poe2_campaign",
-  "chronology": {
-   "in_world_year": null,
-   "relative": "about 20 years after Kitava's defeat (PoE2 campaign)",
-   "story_order": null
-  },
-  "acts": [
-   "act_poe2_act1"
-  ],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_lore",
-    "locator": "section 'Prelude' and 'Act 1'"
-   },
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_vaal",
-    "locator": "quest log"
-   }
-  ],
-  "domains": [
-   "exile_and_sources",
-   "vaal"
-  ],
-  "eras": [
-   "poe2_campaign"
-  ],
-  "plot_roles": [
-   "main_plot"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "vaal",
-    "summary": "The PoE2 protagonist."
-   }
-  ],
-  "release_status": "released",
-  "degree": 276,
-  "distance_from_char_exile_poe1": 1,
-  "distance_from_char_exile_poe2": 0,
-  "exile_distance": 0,
-  "is_spine": false
- },
- {
   "id": "char_faustus",
   "name": "Faustus, the Financier",
   "aliases": [
@@ -9788,49 +9488,6 @@
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
-  "is_spine": false
- },
- {
-  "id": "char_hayoxi",
-  "name": "Hayoxi",
-  "aliases": [],
-  "type": "character",
-  "subtype": "vaal_architect",
-  "summary": "Figure called 'The Architect of Destruction' in the flavour text of Hayoxi's Fulmination, who laid explosive powder under the royal temple 'one pinch at a time' and never found the courage to light it. Identity beyond the flavour text is not recorded in the corpus. Placement in the Vaal era is inferred from the royal-temple setting.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "vaal",
-  "chronology": {
-   "in_world_year": null,
-   "relative": "Vaal era (inferred from royal-temple setting; no date stated)",
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_hayoxi_s_fulmination",
-    "locator": "flavour_text: 'The Architect of Destruction slipped explosive powder under the royal temple one pinch at a time. For years, he clung to that, never finding the courage to light it.'"
-   }
-  ],
-  "domains": [
-   "gap_deep_history_vaal_precursor_eternal"
-  ],
-  "eras": [
-   "vaal"
-  ],
-  "plot_roles": [
-   "background"
-  ],
-  "release_status": "released",
-  "degree": 2,
-  "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 3,
-  "exile_distance": 3,
   "is_spine": false
  },
  {
@@ -11000,69 +10657,6 @@
   "is_spine": false
  },
  {
-  "id": "char_jamanra",
-  "name": "Jamanra, the Risen King",
-  "aliases": [
-   "Jamanra, the Abomination"
-  ],
-  "type": "character",
-  "subtype": null,
-  "summary": "Faridun leader resurrected by the Countess, who locks the Halani Gates, summons sandstorms, and is later executed by Sekhema Asala as Jamanra the Abomination.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "post_cataclysm",
-  "chronology": {
-   "in_world_year": null,
-   "relative": "",
-   "story_order": null
-  },
-  "acts": [
-   "act_poe2_act2"
-  ],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_faridun",
-    "locator": "'Events in Path of Exile 2'"
-   },
-   {
-    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
-    "locator": "Quest 'Defeat Jamanra, the Risen King' / 'Defeat Jamanra, the Abomination'"
-   },
-   {
-    "source_id": "src_poe2wiki_faridun",
-    "locator": "Events in Path of Exile 2"
-   }
-  ],
-  "domains": [
-   "eternal_empire",
-   "poe2_acts_1_3"
-  ],
-  "eras": [
-   "post_cataclysm",
-   "poe2_campaign"
-  ],
-  "plot_roles": [
-   "main_plot"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "eternal_empire",
-    "summary": "Faridun revolutionary leader resurrected by corruption in PoE2 Act 2, given death by Asala."
-   }
-  ],
-  "release_status": "released",
-  "degree": 12,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 1,
-  "exile_distance": 1,
-  "is_spine": false
- },
- {
   "id": "char_janus_perandus",
   "name": "Janus Perandus",
   "aliases": [],
@@ -11798,64 +11392,6 @@
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
-  "is_spine": false
- },
- {
-  "id": "char_ketzuli",
-  "name": "Ketzuli, High Priest of the Sun",
-  "aliases": [],
-  "type": "character",
-  "subtype": null,
-  "summary": "Vaal High Priest of the Sun whose writings Alva cites about research in the Temple of Kopec (device/time gateway); boss in the Temple of Kopec defeated by the Exile in PoE2 Act 3.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "vaal",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [
-   "act_poe2_act3",
-   "poe2_act3"
-  ],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_vaal",
-    "locator": "Quest 'Defeat Ketzuli, High Priest of the Sun'"
-   },
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_vaal",
-    "locator": "quest log"
-   }
-  ],
-  "domains": [
-   "poe2_acts_1_3",
-   "vaal"
-  ],
-  "eras": [
-   "vaal",
-   "poe2_campaign"
-  ],
-  "plot_roles": [
-   "main_plot"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "poe2_acts_1_3",
-    "summary": "Vaal high priest of the Sun God in the Temple of Kopec whose research leads to the time gateway."
-   }
-  ],
-  "release_status": "released",
-  "degree": 4,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 1,
-  "exile_distance": 1,
   "is_spine": false
  },
  {
@@ -16737,85 +16273,6 @@
   "is_spine": false
  },
  {
-  "id": "char_the_arbiter_of_ash",
-  "name": "The Arbiter of Ash",
-  "aliases": [
-   "Arbiter of Ash",
-   "Guardian of the Flame Seed"
-  ],
-  "type": "character",
-  "subtype": "pinnacle_boss",
-  "summary": "Guardian of the Flame Seed, created by the Precursors (PoE wiki, History of Wraeclast; the PoE2 wiki says the Unblinking Eye most likely subjugated it originally, which is speculative). Sealed at the Burning Monolith; fought by the Exile as PoE2's first Atlas pinnacle (0.1-0.4) and as a Fortress quest boss in 0.5, after which a wyrm-rider (Tecrod) steals the Flame Seed. Little else is known.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "endgame_plot",
-  "branches": [],
-  "era": "precursor",
-  "chronology": {
-   "in_world_year": null,
-   "relative": "Precursor creation",
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Precursor civilization"
-   },
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_precursors",
-    "locator": "step 101"
-   },
-   {
-    "source_id": "src_poe2wiki_the_unblinking_eye",
-    "locator": "most likely the original subjugation of the Arbiter of Ash"
-   },
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Precursors: 'They also created the Arbiter of Ash (PoE 2) to guard the Flame Seed (PoE 2)'; 'Little is known about the Arbiter and the Flame Seed'"
-   },
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Precursors section: 'created the Arbiter of Ash (PoE 2) to guard the Flame Seed (PoE 2)'; 'Little is known about the Arbiter and the Flame Seed'"
-   },
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_precursors",
-    "locator": "step 101 Defeat the Arbiter of Ash"
-   }
-  ],
-  "domains": [
-   "deep_history",
-   "poe2_endgame",
-   "twilight_order_edicts"
-  ],
-  "eras": [
-   "precursor",
-   "poe2_endgame"
-  ],
-  "plot_roles": [
-   "endgame_plot"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "deep_history",
-    "summary": "Guardian created by the Precursors to guard the Flame Seed; PoE2 endgame boss."
-   },
-   {
-    "domain": "twilight_order_edicts",
-    "summary": "Precursor-created guardian of the Flame Seed and pinnacle boss of the Burning Monolith. After he falls a wyrm-riding figure (Tecrod) takes the Flame Seed; the Fourth Edict is investigated next. Little is known about him."
-   }
-  ],
-  "release_status": "released",
-  "degree": 8,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 1,
-  "exile_distance": 1,
-  "is_spine": false
- },
- {
   "id": "char_the_black_knight",
   "name": "The Black Knight",
   "aliases": [],
@@ -17983,53 +17440,6 @@
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
-  "is_spine": false
- },
- {
-  "id": "char_uromoti",
-  "name": "Uromoti, Architect of Expansion",
-  "type": "character",
-  "summary": "Vaal Architect of Atziri who, per a carving in the Howling Caves, secretly built a vault in a remote mountain, hiding the 'treason' from the Queen and sending his children into it; his name is on a Temple Console medallion. Thought the Queen mad.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "era": "vaal",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_environmental_lore",
-    "locator": "'Uromoti's Truth' (Howling Caves)"
-   },
-   {
-    "source_id": "src_poe2wiki_atziri_s_temple",
-    "locator": "Medallions: 'Uromoti's Medallion'"
-   }
-  ],
-  "confidence": "medium",
-  "aliases": [],
-  "subtype": "",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "branches": [],
-  "canon_status": "canon",
-  "domains": [
-   "vaal"
-  ],
-  "eras": [
-   "vaal"
-  ],
-  "plot_roles": [
-   "background"
-  ],
-  "release_status": "released",
-  "degree": 2,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 2,
-  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -21772,59 +21182,6 @@
   "is_spine": false
  },
  {
-  "id": "concept_breach_poe2",
-  "name": "Breach and the Keepers of the Flame (PoE2 0.5)",
-  "aliases": [],
-  "type": "concept",
-  "subtype": null,
-  "summary": "0.5 Breach storyline: Ailith and the Keepers of the Flame hold back the Hiveborn from the Monastery of the Keepers; the Genesis Tree is a crafting hub; endgame Breach Domains end in Sky Fortresses with the Breachlords Tul and Esh, then Xesht.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "breach",
-   "keepers_of_the_flame"
-  ],
-  "era": "poe2_endgame",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_web_gamedeveloper_return_of_the_ancients",
-    "locator": "Breach: Ailith and the Keepers of the Flame hold back the Hiveborn"
-   },
-   {
-    "source_id": "src_web_domistae_poe2_endgame_guide",
-    "locator": "Breach (Waking the Dreamer)"
-   }
-  ],
-  "domains": [
-   "poe2_endgame"
-  ],
-  "eras": [
-   "poe2_endgame"
-  ],
-  "plot_roles": [
-   "branch"
-  ],
-  "curation": [
-   "codex audit round 2"
-  ],
-  "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
   "id": "concept_calendar_moons",
   "name": "Thirteen Moons",
   "aliases": [],
@@ -22286,53 +21643,6 @@
   "is_spine": false
  },
  {
-  "id": "concept_doryani_contingencies",
-  "name": "Doryani's contingencies",
-  "aliases": [],
-  "type": "concept",
-  "subtype": null,
-  "summary": "Fan-synthesised reading of Doryani's secret preparations: anti-Beast Precursor weapon, flood-sealed Utzaal, and a time gateway needing Vaal blood. Interpretive; some details rest on tertiary YouTube analysis.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "vaal",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "community_theory",
-  "confidence": "low",
-  "sources": [
-   {
-    "source_id": "src_yt_1Zt4tv8fjI4",
-    "locator": "[7:07]-[13:30]"
-   },
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_vaal",
-    "locator": "Doryani dialogue"
-   }
-  ],
-  "domains": [
-   "vaal"
-  ],
-  "eras": [
-   "vaal"
-  ],
-  "plot_roles": [
-   "background"
-  ],
-  "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 2,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
   "id": "concept_essence",
   "name": "Essence",
   "aliases": [],
@@ -22466,63 +21776,6 @@
   ],
   "release_status": "released",
   "degree": 2,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 2,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
-  "id": "concept_expedition_poe2",
-  "name": "Expedition and The Grand Expedition (PoE2)",
-  "aliases": [],
-  "type": "concept",
-  "subtype": null,
-  "summary": "0.5 Expedition storyline from Ruins of Kingsmarch: Rog searches for Gwennen across an ocean of islands, Medved, Vorana, Uhtred, Olroth lead factions; a Verisium meteor is the goal.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "expedition",
-   "kingsmarch"
-  ],
-  "era": "poe2_endgame",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_grand_expedition",
-    "locator": "quest log"
-   },
-   {
-    "source_id": "src_web_gamedeveloper_return_of_the_ancients",
-    "locator": "Expedition: Rog searches for his missing wife, Gwennen"
-   },
-   {
-    "source_id": "src_web_domistae_poe2_endgame_guide",
-    "locator": "Expedition"
-   }
-  ],
-  "domains": [
-   "poe2_endgame"
-  ],
-  "eras": [
-   "poe2_endgame"
-  ],
-  "plot_roles": [
-   "branch"
-  ],
-  "curation": [
-   "codex audit round 2"
-  ],
-  "release_status": "released",
-  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -23430,53 +22683,6 @@
   "is_spine": false
  },
  {
-  "id": "concept_poe2_atlas_of_worlds",
-  "name": "Atlas of Worlds (PoE2)",
-  "aliases": [],
-  "type": "concept",
-  "subtype": null,
-  "summary": "The PoE2 endgame map network, reached after the campaign via Doryani's Waygate and navigated with Waystones. Rebuilt in 0.5 (Return of the Ancients) with fixed points of interest, storylines and a fully unlockable Atlas passive tree.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "endgame_plot",
-  "branches": [],
-  "era": "poe2_endgame",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_precursors",
-    "locator": "quest log: 'Use the Map Device and the Waystone to enter a Map'"
-   },
-   {
-    "source_id": "src_web_pcgamesn_return_of_the_ancients",
-    "locator": "Atlas passive tree: Fully remade; zone quest chains"
-   }
-  ],
-  "domains": [
-   "poe2_endgame"
-  ],
-  "eras": [
-   "poe2_endgame"
-  ],
-  "plot_roles": [
-   "endgame_plot"
-  ],
-  "release_status": "released",
-  "degree": 6,
-  "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 2,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
   "id": "concept_prophecy",
   "name": "Prophecy",
   "aliases": [],
@@ -23617,58 +22823,6 @@
   ],
   "release_status": "released",
   "degree": 5,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 2,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
-  "id": "concept_ritual_poe2",
-  "name": "Ritual and the King in the Mists (PoE2)",
-  "aliases": [],
-  "type": "concept",
-  "subtype": null,
-  "summary": "0.5 Ritual storyline: Aoife, a lost spirit bound by the King in the Mists, appeals to the Wildwood; the prison beneath holds the Bodach; the Rite of the Nameless in Caer Tarth. 0.5.5 adds Ritual altars to every zone.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "ritual"
-  ],
-  "era": "poe2_endgame",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_web_gamedeveloper_return_of_the_ancients",
-    "locator": "Ritual: Aoife, a lost spirit, bound by the King in the Mists... Bodach ... Rite of the Nameless"
-   },
-   {
-    "source_id": "src_poe2wiki_forbidden_rites",
-    "locator": "League content"
-   }
-  ],
-  "domains": [
-   "poe2_endgame"
-  ],
-  "eras": [
-   "poe2_endgame"
-  ],
-  "plot_roles": [
-   "branch"
-  ],
-  "curation": [
-   "codex audit round 2"
-  ],
-  "release_status": "released",
-  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -24031,56 +23185,6 @@
   "degree": 1,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
-  "id": "concept_the_edicts",
-  "name": "The Edicts (Precursor murals)",
-  "aliases": [],
-  "type": "concept",
-  "summary": "Series of vague Precursor murals described by the PoE2 wiki as depicting the Beast and possibly instructions on how to contain it; numbered First to Fourth in game. Known: Third = instrument is the Weapon (Hooded One recognises it as 'the Weapon I saw in that third mural'); Second = Doryani's guess that the Seed was its instrument; Fourth = investigated in the Epilogue after the Arbiter of Ash (PoE1 wiki editors speculate it caused the Great Fire); First = unexplained threat averted in the Epilogue. The full text of the edicts is not given in any source read. Not to be confused with Count Geonor's hanging edicts in Ogham.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "precursor",
-  "chronology": {
-   "in_world_year": null,
-   "relative": "Precursor age, far older than the Vaal and Winter of the World",
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_beast",
-    "locator": "'It was depicted in their Edicts, vague murals that depicts the Beast and possibly instructions on how to contain it.'"
-   },
-   {
-    "source_id": "src_poe2wiki_the_search",
-    "locator": "Return to Kingsmarch: Doryani 'The Third Edict? What is the meaning... of these Edicts?'"
-   },
-   {
-    "source_id": "src_poe2wiki_the_search",
-    "locator": "Return to Kingsmarch: Hooded One 'It is the Weapon I saw in that third mural'; Enter the Excavated Site: Makoru 'These murals... appear to depict the Weapon... and the Beast'"
-   }
-  ],
-  "domains": [
-   "twilight_order_edicts"
-  ],
-  "eras": [
-   "precursor"
-  ],
-  "plot_roles": [
-   "main_plot"
-  ],
-  "release_status": "released",
-  "degree": 7,
-  "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -25154,49 +24258,6 @@
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
-  "is_spine": false
- },
- {
-  "id": "creature_the_nameless",
-  "name": "The Nameless",
-  "aliases": [],
-  "type": "creature",
-  "subtype": null,
-  "summary": "Shadowy beings born with the Wildwood as the 'unseen reflection opposite the mortal world'; led by the King in the Mists; Gruthkul was one.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "azmeri_ezomyte_ancient",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Viridian Wildwood"
-   }
-  ],
-  "domains": [
-   "deep_history"
-  ],
-  "eras": [
-   "azmeri_ezomyte_ancient"
-  ],
-  "plot_roles": [
-   "main_plot"
-  ],
-  "release_status": "released",
-  "degree": 3,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 2,
-  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -26615,68 +25676,6 @@
   "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
-  "exile_distance": 1,
-  "is_spine": false
- },
- {
-  "id": "deity_halani",
-  "name": "Halani",
-  "aliases": [
-   "Halani, the Water Goddess"
-  ],
-  "type": "deity",
-  "summary": "Forgotten Maraketh water goddess, found powerless and dying from lack of worship in PoE2 Act 2 Buried Shrines; mother of Azarian.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "primordial",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [
-   "act_poe2_act2"
-  ],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_halani_the_water_goddess",
-    "locator": "intro and dialogue with Azarian"
-   },
-   {
-    "source_id": "src_poewiki_god",
-    "locator": "section 'Halani'"
-   },
-   {
-    "source_id": "src_poe2wiki_the_city_of_seven_waters",
-    "locator": "Walkthrough 'Talk to the Water Goddess' / 'End the Water Goddess' suffering'"
-   }
-  ],
-  "domains": [
-   "gods_cosmology",
-   "poe2_acts_1_3"
-  ],
-  "eras": [
-   "primordial",
-   "poe2_campaign"
-  ],
-  "plot_roles": [
-   "main_plot"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "poe2_acts_1_3",
-    "summary": "Water goddess lying in a shrine at the heart of Keth. She asks the Exile to burn her with Everburning Cinders to end her suffering."
-   }
-  ],
-  "release_status": "released",
-  "degree": 5,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
   "is_spine": false
  },
@@ -38887,55 +37886,6 @@
   "is_spine": false
  },
  {
-  "id": "event_poe2_a5_oriath_assault",
-  "name": "Assault on Oriath (planned Act 5)",
-  "aliases": [],
-  "type": "event",
-  "subtype": null,
-  "summary": "Announced Act 5: arrive in Oriath hunting the Beast; datamined quests The Siege of Oriath, Infiltrating Oriath, etc.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "poe2_campaign",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [
-   "act_poe2_act5"
-  ],
-  "canon_status": "inferred",
-  "confidence": "low",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_act_5",
-    "locator": "intro"
-   },
-   {
-    "source_id": "src_web_poe2db_act5",
-    "locator": "Quests"
-   }
-  ],
-  "domains": [
-   "poe2_acts_4_plus"
-  ],
-  "eras": [
-   "poe2_campaign"
-  ],
-  "plot_roles": [
-   "main_plot"
-  ],
-  "release_status": "datamined_pre_1.0",
-  "degree": 6,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 1,
-  "exile_distance": 1,
-  "is_spine": false
- },
- {
   "id": "event_poe2_beast_slain_aftermath",
   "name": "Gods awaken after the Beast's death",
   "aliases": [],
@@ -38980,66 +37930,6 @@
   "degree": 3,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
-  "exile_distance": 1,
-  "is_spine": false
- },
- {
-  "id": "event_poe2_trial_of_the_ancestors",
-  "name": "Trial of the Ancestors (PoE2 quest)",
-  "aliases": [
-   "Trial of the Ancestors"
-  ],
-  "type": "event",
-  "subtype": null,
-  "summary": "Optional PoE2 Act 4 quest unlocked by freeing Matiki; the Exile meets Hinekora in the Trial of the Ancestors and receives the Tattoo of Hinekora.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "ancestor"
-  ],
-  "era": "poe2_campaign",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [
-   "act_poe2_act4"
-  ],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_trial_of_the_ancestors_quest_",
-    "locator": "infobox + Rewards"
-   },
-   {
-    "source_id": "src_poe2wiki_trial_of_the_ancestors_quest",
-    "locator": "Walkthrough"
-   }
-  ],
-  "domains": [
-   "leagues_late",
-   "poe2_acts_4_plus"
-  ],
-  "eras": [
-   "poe2_campaign"
-  ],
-  "plot_roles": [
-   "branch"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "poe2_acts_4_plus",
-    "summary": "Matiki's rescue leads to Tests of Mettle, Yama's trial and Hinekora, who offers 'Her power... if you will accept it.'"
-   }
-  ],
-  "release_status": "released",
-  "degree": 9,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
   "is_spine": false
  },
@@ -39236,53 +38126,6 @@
   "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
-  "id": "event_red_communion",
-  "name": "The Red Communion",
-  "aliases": [],
-  "type": "event",
-  "subtype": null,
-  "summary": "Project that allowed Atziri to commune directly with the Beast. Doryani, privately opposed, was forced to devise it; he learned all he could and prepared contingencies. It triggered the Vaal Cataclysm.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "vaal",
-  "chronology": {
-   "in_world_year": null,
-   "relative": "c. 400 BIC",
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poewiki_the_vaal",
-    "locator": "section 'The Vaal Cataclysm' (PoE2 account)"
-   },
-   {
-    "source_id": "src_poe2wiki_environmental_lore",
-    "locator": "Spymaster note: 'consequences of the Red Communion'"
-   }
-  ],
-  "domains": [
-   "vaal"
-  ],
-  "eras": [
-   "vaal"
-  ],
-  "plot_roles": [
-   "background"
-  ],
-  "release_status": "released",
-  "degree": 4,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -40337,65 +39180,6 @@
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
   "is_spine": false
- },
- {
-  "id": "event_utzaal_past_cataclysm",
-  "name": "Survive the Utzaal Cataclysm through the gateway",
-  "aliases": [
-   "Exile witnesses the Vaal Cataclysm"
-  ],
-  "type": "event",
-  "subtype": null,
-  "summary": "The Exile and Alva survive the Cataclysm in Utzaal's past and return through the gateway with Doryani, who then laments that his people are long dead.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "poe2_campaign",
-  "chronology": {
-   "in_world_year": null,
-   "relative": "PoE2 campaign",
-   "story_order": 5309
-  },
-  "acts": [
-   "act_poe2_act3",
-   "poe2_act3"
-  ],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_vaal",
-    "locator": "Quest 'Use the Gateway' / 'Survive the Cataclysm'"
-   },
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_vaal",
-    "locator": "Survive the Cataclysm"
-   }
-  ],
-  "domains": [
-   "poe2_acts_1_3",
-   "vaal"
-  ],
-  "eras": [
-   "poe2_campaign"
-  ],
-  "plot_roles": [
-   "main_plot"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "vaal",
-    "summary": "Doryani, Alva and the Exile use the gateway as the Cataclysm begins ('It begins...'); they return to the present where Doryani sees Utzaal as a grave."
-   }
-  ],
-  "release_status": "released",
-  "degree": 11,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 1,
-  "exile_distance": 1,
-  "is_spine": true
  },
  {
   "id": "event_vaal_azmeri_contact",
@@ -46717,205 +45501,6 @@
   "is_spine": false
  },
  {
-  "id": "league_poe2_forbidden_rites",
-  "name": "Forbidden Rites league (PoE2)",
-  "aliases": [
-   "Forbidden Rites (0.5.5)"
-  ],
-  "type": "league",
-  "subtype": null,
-  "summary": "PoE2 Early Access event league (0.5.5, 2026-09-04) built on Ritual altars in campaign and endgame zones, with unique-boss Ritual clusters per act and Sacred Bloom Wildwood encounters; 0.5.5 also integrates Runes of Aldur and Expedition into the core PoE2 game.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "ritual"
-  ],
-  "era": "poe2_endgame",
-  "chronology": {
-   "in_world_year": null,
-   "relative": "0.5.5, 2026-09-04",
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_forbidden_rites",
-    "locator": "lead, 'League content' and unique boss rituals"
-   },
-   {
-    "source_id": "src_poe2wiki_forbidden_rites",
-    "locator": "lead and League content"
-   }
-  ],
-  "domains": [
-   "leagues_mid",
-   "poe2_endgame"
-  ],
-  "eras": [
-   "poe2_endgame"
-  ],
-  "plot_roles": [
-   "branch",
-   "meta"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "poe2_endgame",
-    "summary": "0.5.5 event league (2026-09-04) running beside Runes of Aldur: Ritual encounters in every campaign and endgame zone, unique-boss Ritual clusters per act, Viridian Wildwood via Sacred Bloom; integrates Runes of Aldur and Expedition into core."
-   }
-  ],
-  "release_status": "released",
-  "degree": 4,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 1,
-  "exile_distance": 1,
-  "is_spine": false
- },
- {
-  "id": "league_poe2_rise_of_the_abyssal",
-  "name": "Rise of the Abyssal",
-  "aliases": [
-   "Rise of the Abyssal (0.3.0)",
-   "Rise of the Abyssal league (PoE2)"
-  ],
-  "type": "league",
-  "subtype": null,
-  "summary": "First 'full' PoE2 league (0.3.0, 2025-08-29 to 2025-12-09): Abyssal fissures open as green cracks near monster packs; closing them reveals an Abyssal Trove and sometimes the Abyssal Depths; preserved bones feed desecration at the Well of Souls (Act 2).",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "abyss",
-   "poe2_abyss"
-  ],
-  "era": "poe2_campaign",
-  "chronology": {
-   "in_world_year": null,
-   "relative": "2025-08-29 to 2025-12-09",
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_rise_of_the_abyssal_league",
-    "locator": "lead"
-   },
-   {
-    "source_id": "src_poe2wiki_rise_of_the_abyssal_league",
-    "locator": "infobox: release_version 0.3.0, release_date 2025-08-29"
-   },
-   {
-    "source_id": "src_poe2wiki_rise_of_the_abyssal_league",
-    "locator": "lead and League content"
-   },
-   {
-    "source_id": "src_ggg_content_update_0_3_0",
-    "locator": "Rise of the Abyssals section"
-   }
-  ],
-  "domains": [
-   "leagues_early",
-   "poe2_acts_4_plus",
-   "poe2_endgame"
-  ],
-  "eras": [
-   "poe2_campaign",
-   "poe2_endgame"
-  ],
-  "plot_roles": [
-   "branch",
-   "meta"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "poe2_acts_4_plus",
-    "summary": "Challenge league launched 2025-08-29 with The Third Edict (v0.3.0), the release that added Act 4, the Interludes and Abyss content."
-   },
-   {
-    "domain": "leagues_early",
-    "summary": "First PoE2 full league, launched 2025-08-29 with version 0.3.0 (The Third Edict); Abysses, preserved bones, the Well of Souls (Act 2) and desecrated modifiers."
-   }
-  ],
-  "release_status": "released",
-  "degree": 10,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 1,
-  "exile_distance": 1,
-  "is_spine": false
- },
- {
-  "id": "league_poe2_runes_of_aldur",
-  "name": "Runes of Aldur",
-  "aliases": [
-   "Runes of Aldur league (PoE2)"
-  ],
-  "type": "league",
-  "subtype": null,
-  "summary": "0.5.0 temporary league: Farrow studies runes on Verisium Remnants (Ezomyte Runesmithing with Kalguuran origins), producing Runic Ward, Kalguuran gems and alloys; folded into the core game with Expedition in 0.5.5.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "expedition",
-   "kingsmarch",
-   "poe2_runes_of_aldur"
-  ],
-  "era": "poe2_endgame",
-  "chronology": {
-   "in_world_year": null,
-   "relative": "2026-05-29",
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_runes_of_aldur_league",
-    "locator": "lead and 'League content'"
-   },
-   {
-    "source_id": "src_poe2wiki_runes_of_aldur_league",
-    "locator": "League content"
-   },
-   {
-    "source_id": "src_web_gamedeveloper_return_of_the_ancients",
-    "locator": "Runes of Aldur (Runesmithing): Farrow, a young blacksmith, reveals the Kalguuran origins of Ezomyte Runesmithing"
-   }
-  ],
-  "domains": [
-   "leagues_mid",
-   "poe2_endgame"
-  ],
-  "eras": [
-   "poe2_endgame"
-  ],
-  "plot_roles": [
-   "branch",
-   "meta"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "leagues_mid",
-    "summary": "PoE2 Early Access temporary league (0.5.0 'Return of the Ancients', 2026-05-29) in which Farrow studies runes on Verisium Remnants; brings Kalguuran runesmithing, Ward and Kalguuran gems to PoE2."
-   }
-  ],
-  "release_status": "released",
-  "degree": 4,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 1,
-  "exile_distance": 1,
-  "is_spine": false
- },
- {
   "id": "league_prophecy",
   "name": "Prophecy league",
   "aliases": [],
@@ -48750,68 +47335,6 @@
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
-  "is_spine": false
- },
- {
-  "id": "loc_cemetery_of_the_eternals",
-  "name": "Cemetery of the Eternals",
-  "aliases": [],
-  "type": "location",
-  "subtype": null,
-  "summary": "PoE2 Act 1 area in Ogham where Eternal praetors are entombed, with inscriptions claiming the land 'in life and death'.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [],
-  "era": "post_cataclysm",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [
-   "act_poe2_act1"
-  ],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_sorrow_among_stones",
-    "locator": "quest and area text"
-   },
-   {
-    "source_id": "src_poe2wiki_act_1",
-    "locator": "area table"
-   },
-   {
-    "source_id": "src_poe2wiki_sorrow_among_stones",
-    "locator": "Walkthrough"
-   }
-  ],
-  "domains": [
-   "eternal_empire",
-   "poe2_acts_1_3"
-  ],
-  "eras": [
-   "post_cataclysm",
-   "poe2_campaign"
-  ],
-  "plot_roles": [
-   "main_plot",
-   "background"
-  ],
-  "alt_summaries": [
-   {
-    "domain": "poe2_acts_1_3",
-    "summary": "Act 1 graveyard hosting the Tomb of the Consort and the Mausoleum of the Praetor."
-   }
-  ],
-  "release_status": "released",
-  "degree": 5,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 1,
-  "exile_distance": 1,
   "is_spine": false
  },
  {
@@ -51817,61 +50340,6 @@
   "is_spine": false
  },
  {
-  "id": "loc_precursor_towers",
-  "name": "Precursor Towers",
-  "aliases": [],
-  "type": "location",
-  "subtype": null,
-  "summary": "Precursor Tower system met on the PoE2 Atlas, apparently built for terraforming Wraeclast (per Doryani's research quoted on the History page). In Legacy of the Precursors, activating a Precursor Beacon makes a Precursor Fortress rise from the ground; the Ziggurat sits over ancient 'leylines'.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "endgame_plot",
-  "branches": [],
-  "era": "precursor",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "Precursor civilization"
-   },
-   {
-    "source_id": "src_poe2wiki_tower",
-    "locator": "intro"
-   },
-   {
-    "source_id": "src_poe2wiki_the_grand_project",
-    "locator": "flavour: 'they sought to master this world'"
-   },
-   {
-    "source_id": "src_poe2wiki_legacy_of_the_precursors",
-    "locator": "Activate the Precursor Beacon: 'the Precursor Fortress will rise from the ground'; Doryani on leylines"
-   }
-  ],
-  "domains": [
-   "deep_history"
-  ],
-  "eras": [
-   "precursor"
-  ],
-  "plot_roles": [
-   "endgame_plot"
-  ],
-  "release_status": "released",
-  "degree": 3,
-  "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 2,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
   "id": "loc_prisoner_s_gate",
   "name": "Prisoner's Gate (Act 6)",
   "aliases": [],
@@ -52010,54 +50478,6 @@
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
-  "is_spine": false
- },
- {
-  "id": "loc_ruins_of_kingsmarch",
-  "name": "Ruins of Kingsmarch",
-  "aliases": [],
-  "type": "location",
-  "subtype": null,
-  "summary": "Devastated Kingsmarch, hub of the Expedition storyline.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "expedition"
-  ],
-  "era": "poe2_endgame",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_grand_expedition",
-    "locator": "Travel to Ruins of Kingsmarch"
-   }
-  ],
-  "domains": [
-   "poe2_endgame"
-  ],
-  "eras": [
-   "poe2_endgame"
-  ],
-  "plot_roles": [
-   "branch"
-  ],
-  "curation": [
-   "codex audit round 2"
-  ],
-  "release_status": "released",
-  "degree": 3,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 2,
-  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -53321,51 +51741,6 @@
   "degree": 1,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
-  "id": "loc_the_cradle",
-  "name": "The Cradle",
-  "aliases": [],
-  "type": "location",
-  "subtype": null,
-  "summary": "Mirror-portal realm near the Beast where Atziri, the Fell Serpent is fought in PoE2.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "branch",
-  "branches": [
-   "fate_of_the_vaal"
-  ],
-  "era": "vaal",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_atziri_the_red_queen",
-    "locator": "Abilities"
-   }
-  ],
-  "domains": [
-   "vaal"
-  ],
-  "eras": [
-   "vaal"
-  ],
-  "plot_roles": [
-   "branch"
-  ],
-  "release_status": "released",
-  "degree": 2,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -55672,51 +54047,6 @@
   "is_spine": false
  },
  {
-  "id": "text_emperors_warning",
-  "name": "Emperor's Warning",
-  "aliases": [],
-  "type": "text",
-  "subtype": null,
-  "summary": "Notice at The Prisoner's arena: 'By the order of Emperor Izaro... The prisoner within is beyond death.' signed Emperor Chitus Perandus.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "eternal_empire_fall",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [
-   "act_poe2_act4"
-  ],
-  "canon_status": "canon",
-  "confidence": "high",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_environmental_lore",
-    "locator": "Emperor's Warning"
-   }
-  ],
-  "domains": [
-   "poe2_acts_4_plus"
-  ],
-  "eras": [
-   "eternal_empire_fall"
-  ],
-  "plot_roles": [
-   "background"
-  ],
-  "release_status": "released",
-  "degree": 2,
-  "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 2,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
   "id": "text_feverish_writings_niko",
   "name": "Feverish Writings (Niko)",
   "aliases": [],
@@ -56125,52 +54455,6 @@
   "is_spine": false
  },
  {
-  "id": "text_precursor_edicts",
-  "name": "Precursor Edicts",
-  "aliases": [],
-  "type": "text",
-  "subtype": null,
-  "summary": "Vague Precursor murals depicting the Beast (or a precursor of it) and possibly instructions for containing it. The corpus separately says Sin later created the Beast from a Precursor Seed of Corruption; any reading that the Beast predates the gods is interpretation.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "branches": [],
-  "era": "precursor",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "inferred",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_beast",
-    "locator": "paragraph 1"
-   }
-  ],
-  "domains": [
-   "deep_history"
-  ],
-  "eras": [
-   "precursor"
-  ],
-  "plot_roles": [
-   "background"
-  ],
-  "curation": [
-   "codex audit round 2"
-  ],
-  "release_status": "released",
-  "degree": 2,
-  "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
   "id": "text_purity_chronicles",
   "name": "The Purity Chronicles",
   "aliases": [],
@@ -56381,51 +54665,6 @@
   "release_status": "released",
   "degree": 3,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 2,
-  "exile_distance": 2,
-  "is_spine": false
- },
- {
-  "id": "text_vaal_architect_notes",
-  "name": "Architects' notes in Atziri's Temple",
-  "type": "text",
-  "summary": "Environmental texts in Atziri's Temple: 'The Perfect Design' (Architect's living-machine temple, expecting Doryani's proxies to try to stop 'Atziri's Ascension'), 'Disloyalty' (an Architect suspects Doryani is moving against the Queen over the Red Communion) and 'The Forever Queen' (Atziri names a critic her personal Architect).",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "background",
-  "era": "vaal",
-  "branches": [
-   "fate_of_the_vaal"
-  ],
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_environmental_lore",
-    "locator": "'The Perfect Design', 'Disloyalty', 'The Forever Queen'"
-   }
-  ],
-  "aliases": [],
-  "subtype": "",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "high",
-  "domains": [
-   "vaal"
-  ],
-  "eras": [
-   "vaal"
-  ],
-  "plot_roles": [
-   "background"
-  ],
-  "release_status": "released",
-  "degree": 2,
-  "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false

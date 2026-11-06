@@ -603,15 +603,6 @@
   "reliability": "secondary"
  },
  {
-  "id": "src_poe2wiki_fate_of_the_vaal_quest_",
-  "title": "Fate of the Vaal (quest) - PoE2 Wiki",
-  "url": "https://www.poe2wiki.net/wiki/Fate_of_the_Vaal_(quest)",
-  "type": "wiki",
-  "author_or_channel": "community wiki",
-  "accessed": "2026-11-05",
-  "reliability": "secondary"
- },
- {
   "id": "src_poe2wiki_forbidden_rites",
   "title": "Forbidden Rites - PoE2 Wiki",
   "url": "https://www.poe2wiki.net/wiki/Forbidden_Rites",
@@ -627,15 +618,6 @@
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
-  "reliability": "secondary"
- },
- {
-  "id": "src_poe2wiki_hayoxi_s_fulmination",
-  "title": "Hayoxi's Fulmination - PoE2 Wiki",
-  "url": "https://www.poe2wiki.net/wiki/Hayoxi's_Fulmination",
-  "type": "wiki",
-  "author_or_channel": "community wiki",
-  "accessed": "2026-11-06",
   "reliability": "secondary"
  },
  {
@@ -756,15 +738,6 @@
   "reliability": "secondary"
  },
  {
-  "id": "src_poe2wiki_recruit_the_ezomytes",
-  "title": "Recruit the Ezomytes - PoE2 Wiki",
-  "url": "https://www.poe2wiki.net/wiki/Recruit_the_Ezomytes",
-  "type": "wiki",
-  "author_or_channel": "poe2wiki.net",
-  "accessed": "2026-11-05",
-  "reliability": "secondary"
- },
- {
   "id": "src_poe2wiki_recruit_the_maraketh",
   "title": "Recruit the Maraketh - PoE2 Wiki",
   "url": "https://www.poe2wiki.net/wiki/Recruit_the_Maraketh",
@@ -819,15 +792,6 @@
   "reliability": "secondary"
  },
  {
-  "id": "src_poe2wiki_sorrow_among_stones",
-  "title": "Sorrow Among Stones - PoE2 Wiki",
-  "url": "https://www.poe2wiki.net/wiki/Sorrow_Among_Stones",
-  "type": "wiki",
-  "author_or_channel": "community wiki",
-  "accessed": "2026-11-05",
-  "reliability": "secondary"
- },
- {
   "id": "src_poe2wiki_strange_reflection",
   "title": "Strange Reflection - PoE2 Wiki",
   "url": "https://www.poe2wiki.net/wiki/Strange_Reflection",
@@ -876,15 +840,6 @@
   "id": "src_poe2wiki_the_grand_expedition",
   "title": "The Grand Expedition - PoE2 Wiki",
   "url": "https://www.poe2wiki.net/wiki/The_Grand_Expedition",
-  "type": "wiki",
-  "author_or_channel": "community wiki",
-  "accessed": "2026-11-05",
-  "reliability": "secondary"
- },
- {
-  "id": "src_poe2wiki_the_grand_project",
-  "title": "The Grand Project - PoE2 Wiki",
-  "url": "https://www.poe2wiki.net/wiki/The_Grand_Project",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -4894,15 +4849,6 @@
   "author_or_channel": "PCGamesN",
   "accessed": "2026-11-05",
   "reliability": "secondary"
- },
- {
-  "id": "src_web_poe2db_act5",
-  "title": "Act 5 - PoE2DB datamine",
-  "url": "https://poe2db.tw/us/Act_5",
-  "type": "other",
-  "author_or_channel": "poe2db.tw (datamine)",
-  "accessed": "2026-11-06",
-  "reliability": "tertiary"
  },
  {
   "id": "src_web_poe_vault_phrecia_end",

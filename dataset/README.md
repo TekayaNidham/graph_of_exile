@@ -5,8 +5,8 @@ A sourced, labelled **knowledge graph of Path of Exile lore** (PoE1 + PoE2), cen
 | Variant | Folder | Nodes | Edges | Sources | What it is |
 |---|---|---:|---:|---:|---|
 | **Master** | [`master/`](master/) | 1,433 | 4,268 | 665 | Everything, incl. PoE1 → PoE2 continuity (`continues_in`) |
-| **PoE1 plot** | [`poe1/`](poe1/) | 1,066 | 3,081 | 555 | Entities appearing in Path of Exile 1, plus the deep history that explains them |
-| **PoE2 plot** | [`poe2/`](poe2/) | 841 | 2,219 | 404 | Entities appearing in Path of Exile 2, plus the deep history that explains them |
+| **PoE1 plot** | [`poe1/`](poe1/) | 1,035 | 3,031 | 549 | Only what appears in Path of Exile 1 (PoE2 masked) |
+| **PoE2 plot** | [`poe2/`](poe2/) | 604 | 1,657 | 319 | Only what appears in Path of Exile 2 (PoE1 masked) |
 
 Full breakdowns are in [`STATS.md`](STATS.md) and [`stats.json`](stats.json). Version: **v1.0.0**, built 2026-11-06.
 
@@ -56,7 +56,7 @@ Every node and edge points to its sources with a **locator**: a wiki section, a 
 | `meta` | Containers: acts, leagues, ascendancy classes | 112 |
 
 * **`era`** puts each entity on a single chronological axis: `primordial → precursor → azmeri_ezomyte_ancient → vaal → post_vaal_dark_age → eternal_empire_rise → eternal_empire_fall → post_cataclysm → poe1_campaign → poe1_atlas → league_storylines (league stories that begin alongside PoE1 and often continue into PoE2) → interlude_between_games → poe2_campaign → poe2_endgame`. `era` is where an entity originates; `eras` lists everywhere it appears.
-* **`games`** lists where an entity appears or is mentioned: `["poe1"]`, `["poe2"]` or both. PoE2 is the continuation of PoE1, so entities linked by `same_entity_as` share their game labels, and the PoE1 and PoE2 views also include the far end of `continues_in` / `same_entity_as` links.
+* **`games`** lists where an entity appears or is mentioned: `["poe1"]`, `["poe2"]` or both. PoE2 is the continuation of PoE1, so entities linked by `same_entity_as` share their game labels. **Views:** `master/` has everything, including the PoE1 → PoE2 continuity. `poe1/` and `poe2/` are strict: they contain only entities that appear in that game, and the other game is masked. A relation between two entities that both exist in the game is kept as a standing fact of the shared world; a relation belonging to the other game's own story (its campaign or endgame era, not tagged for this game) is dropped.
 * **`canon_status`** is one of `canon`, `dev_statement`, `inferred` or `community_theory`; **`confidence`** is `high`, `medium` or `low`.
 
 ### The Exile's journey (the spine)
