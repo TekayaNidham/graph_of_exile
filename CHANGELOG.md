@@ -1,6 +1,8 @@
 # Changelog
 
-## v1.0.0 — 2026-11-06 — first public release
+## v0.1.0-alpha — 2026-11-06 — first public alpha
+
+Pre-release: built before Path of Exile 2's 1.0 release (planned 11 December 2026). Datamined Act 5–6 content will be replaced with released lore after 1.0.
 * Dataset: Master (1,433 nodes / 4,268 edges / 665 sources), PoE1 (1,035 / 3,031) and PoE2 (604 / 1,657) variants in JSON, CSV, GraphML + JSON Schema.
 * Exile journey spine: 66 PoE1 beats, 61 PoE2 beats (`next_beat`, with `ordering` required / any_order / provisional).
 * 34 provenance fragments (15 research domains, 7 gap-fill, 6 journey enrichment, 4 faction membership, curation); all 695 wiki source URLs checked against the wiki API (25 repaired).

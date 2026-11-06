@@ -8,9 +8,9 @@ A sourced, labelled **knowledge graph of Path of Exile lore** (PoE1 + PoE2), cen
 | **PoE1 plot** | [`poe1/`](poe1/) | 1,035 | 3,031 | 549 | Only what appears in Path of Exile 1 (PoE2 masked) |
 | **PoE2 plot** | [`poe2/`](poe2/) | 604 | 1,657 | 319 | Only what appears in Path of Exile 2 (PoE1 masked) |
 
-Full breakdowns are in [`STATS.md`](STATS.md) and [`stats.json`](stats.json). Version: **v1.0.0**, built 2026-11-06.
+Full breakdowns are in [`STATS.md`](STATS.md) and [`stats.json`](stats.json). Version: **v0.1.0-alpha**, built 2026-11-06.
 
-> **⚠ PoE2 is in Early Access.** 17 nodes carry `release_status: "datamined_pre_1.0"`. They come from game-file datamines of the unreleased Acts 5–6, may change, and will be revised after PoE2 1.0 (11 December 2026). Filter them out with `release_status == "released"`.
+> **Alpha, pre PoE2 1.0.** PoE2 is in Early Access. 17 nodes carry `release_status: "datamined_pre_1.0"`. They come from game-file datamines of the unreleased Acts 5–6, may change, and will be revised after PoE2 1.0 (11 December 2026). Filter them out with `release_status == "released"`.
 
 ---
 
@@ -126,14 +126,17 @@ const gods = g.nodes.filter(n => n.type === "deity");
 * Thin leagues (Ambush, Nemesis, Archnemesis, Sentinel …) carry little narrative in any source, so they appear only as release containers.
 
 ## Update policy
-Updates are planned for **PoE2 1.0 (11 Dec 2026)**, when the datamined Act 5–6 nodes will be replaced with released content, and after major league launches. Versions follow semver: a minor version adds or corrects content, and a major version breaks the schema.
+This is an **alpha**. The next major update follows **PoE2 1.0 (planned 11 Dec 2026)**, when the datamined Act 5–6 nodes will be replaced with the released lore. Further updates follow major league launches and community corrections (see [CONTRIBUTING.md](../CONTRIBUTING.md)). Versions follow semver: while in `0.x`, the schema may still change.
+
+## Credits
+*Path of Exile* and all of its world, characters and lore are created by **Grinding Gear Games**; this dataset only organises and cites them. Thanks to the editors of [poewiki.net](https://www.poewiki.net) and [poe2wiki.net](https://www.poe2wiki.net), to [poedb.tw](https://poedb.tw) / [poe2db.tw](https://poe2db.tw), and to the lore creators cited in `sources.json` (Kitten Cat Noodle, Gavryn, Lore Of Exile, Talkative Tri, Whispers From Wraeclast, PhoenixDash).
 
 ## Licence
 The dataset is derived in part from community-wiki text licensed **CC BY-NC-SA 3.0**, so it is released under **[CC BY-NC-SA 3.0](LICENSE)**: attribution, non-commercial, share-alike. Code is MIT (see the repository root).
 *Path of Exile* is a trademark of Grinding Gear Games. This is a fan project, not affiliated with or endorsed by Grinding Gear Games.
 
 ## Citation
-See [`../CITATION.cff`](../CITATION.cff). Suggested: *Tekaya, N. (2026). Graph of Exile: a sourced knowledge graph of Path of Exile lore (v1.0.0).*
+See [`../CITATION.cff`](../CITATION.cff). Suggested: *Tekaya, N. (2026). Graph of Exile: a sourced knowledge graph of Path of Exile lore (v0.1.0-alpha).*
 
 ## Corrections & contributions
-Open an issue with the node or edge `id`, what is wrong and a source. Fixes go into `curation/patches.json`, or into a new fragment under `fragments/`, so that every change stays reviewable and reproducible.
+Open an issue with the node or edge `id`, what is wrong and a source. Fixes go into `curation/patches.json`, or into a new fragment under `fragments/`, so that every change stays reviewable and reproducible. See [CONTRIBUTING.md](../CONTRIBUTING.md) for the full protocol. Missed lore is expected in an alpha, and help is very welcome.
