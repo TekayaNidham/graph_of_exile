@@ -1,13 +1,13 @@
 {
  "master": {
-  "nodes": 1413,
-  "edges": 3622,
-  "sources": 658,
+  "nodes": 1434,
+  "edges": 4028,
+  "sources": 662,
   "spine_beats": 127,
   "by_type": {
    "act": 21,
    "artifact": 87,
-   "character": 381,
+   "character": 388,
    "concept": 133,
    "creature": 12,
    "deity": 61,
@@ -15,23 +15,23 @@
    "event": 331,
    "faction": 77,
    "league": 61,
-   "location": 197,
+   "location": 211,
    "text": 35
   },
   "by_plot_role": {
    "meta": 112,
-   "main_plot": 472,
+   "main_plot": 487,
    "branch": 440,
-   "endgame_plot": 125,
+   "endgame_plot": 131,
    "background": 264
   },
   "by_era": {
-   "poe1_campaign": 258,
-   "poe2_campaign": 275,
-   "poe2_endgame": 97,
+   "poe1_campaign": 266,
+   "poe2_campaign": 282,
+   "poe2_endgame": 100,
    "poe1_leagues": 283,
    "eternal_empire_rise": 56,
-   "poe1_atlas": 80,
+   "poe1_atlas": 83,
    "eternal_empire_fall": 76,
    "post_cataclysm": 39,
    "azmeri_ezomyte_ancient": 61,
@@ -115,9 +115,12 @@
    "rampage": 1
   },
   "by_relation": {
+   "participates_in": 779,
+   "occurs_in": 277,
+   "guides": 104,
+   "associated_with": 419,
    "precedes": 100,
    "created": 48,
-   "associated_with": 416,
    "causes": 35,
    "mentions": 65,
    "originates_from": 28,
@@ -125,11 +128,8 @@
    "seeks": 47,
    "introduced_in": 110,
    "leads_to": 92,
-   "occurs_in": 147,
    "travels_to": 27,
-   "guides": 102,
    "aspect_of": 29,
-   "participates_in": 508,
    "betrays": 13,
    "member_of": 189,
    "worships": 51,
@@ -174,34 +174,34 @@
    "patch_notes": 2,
    "in_game_text": 42,
    "other": 19,
-   "wiki": 574,
+   "wiki": 578,
    "youtube": 10
   },
   "by_source_reliability": {
    "primary": 55,
    "tertiary": 25,
-   "secondary": 578
+   "secondary": 582
   },
   "by_confidence": {
-   "high": 918,
+   "high": 936,
    "low": 55,
-   "medium": 440
+   "medium": 443
   },
   "by_canon_status": {
-   "canon": 1347,
+   "canon": 1368,
    "inferred": 44,
    "community_theory": 3,
    "dev_statement": 19
   },
   "by_release_status": {
-   "released": 1396,
+   "released": 1417,
    "datamined_pre_1.0": 17
   }
  },
  "poe1": {
-  "nodes": 1042,
-  "edges": 2616,
-  "sources": 547,
+  "nodes": 1053,
+  "edges": 2833,
+  "sources": 548,
   "spine_beats": 66,
   "by_type": {
    "act": 11,
@@ -214,21 +214,21 @@
    "event": 219,
    "faction": 73,
    "league": 53,
-   "location": 135,
+   "location": 146,
    "text": 28
   },
   "by_plot_role": {
    "meta": 72,
-   "main_plot": 271,
+   "main_plot": 279,
    "branch": 355,
-   "endgame_plot": 88,
+   "endgame_plot": 91,
    "background": 256
   },
   "by_era": {
-   "poe1_campaign": 258,
+   "poe1_campaign": 266,
    "poe1_leagues": 283,
    "eternal_empire_rise": 56,
-   "poe1_atlas": 80,
+   "poe1_atlas": 83,
    "eternal_empire_fall": 76,
    "post_cataclysm": 37,
    "azmeri_ezomyte_ancient": 61,
@@ -311,21 +311,21 @@
    "rampage": 1
   },
   "by_relation": {
+   "participates_in": 489,
+   "occurs_in": 157,
+   "guides": 72,
+   "associated_with": 280,
    "precedes": 77,
    "created": 43,
-   "associated_with": 279,
    "causes": 33,
    "mentions": 63,
    "originates_from": 26,
    "located_in": 131,
    "seeks": 23,
    "leads_to": 73,
-   "occurs_in": 71,
    "introduced_in": 83,
    "travels_to": 20,
-   "guides": 70,
    "aspect_of": 17,
-   "participates_in": 361,
    "betrays": 12,
    "member_of": 170,
    "worships": 49,
@@ -369,39 +369,39 @@
    "forum_post": 6,
    "patch_notes": 2,
    "in_game_text": 42,
-   "wiki": 478,
+   "wiki": 479,
    "other": 6,
    "youtube": 8
   },
   "by_source_reliability": {
    "primary": 55,
-   "secondary": 481,
+   "secondary": 482,
    "tertiary": 11
   },
   "by_confidence": {
-   "high": 674,
+   "high": 685,
    "medium": 335,
    "low": 33
   },
   "by_canon_status": {
-   "canon": 1000,
+   "canon": 1011,
    "community_theory": 3,
    "inferred": 22,
    "dev_statement": 17
   },
   "by_release_status": {
-   "released": 1042
+   "released": 1053
   }
  },
  "poe2": {
-  "nodes": 806,
-  "edges": 1778,
-  "sources": 385,
+  "nodes": 816,
+  "edges": 1967,
+  "sources": 388,
   "spine_beats": 61,
   "by_type": {
    "act": 10,
    "artifact": 47,
-   "character": 215,
+   "character": 222,
    "concept": 73,
    "creature": 6,
    "deity": 54,
@@ -409,19 +409,19 @@
    "event": 186,
    "faction": 57,
    "league": 9,
-   "location": 111,
+   "location": 114,
    "text": 25
   },
   "by_plot_role": {
    "meta": 45,
-   "main_plot": 281,
+   "main_plot": 288,
    "background": 235,
    "branch": 193,
-   "endgame_plot": 52
+   "endgame_plot": 55
   },
   "by_era": {
-   "poe2_campaign": 275,
-   "poe2_endgame": 97,
+   "poe2_campaign": 282,
+   "poe2_endgame": 100,
    "eternal_empire_rise": 47,
    "eternal_empire_fall": 75,
    "post_cataclysm": 32,
@@ -483,9 +483,11 @@
    "warbands": 1
   },
   "by_relation": {
+   "occurs_in": 139,
+   "participates_in": 360,
+   "associated_with": 200,
    "precedes": 46,
    "created": 36,
-   "associated_with": 198,
    "causes": 26,
    "mentions": 27,
    "originates_from": 22,
@@ -493,8 +495,6 @@
    "seeks": 27,
    "introduced_in": 28,
    "leads_to": 56,
-   "occurs_in": 95,
-   "participates_in": 217,
    "betrays": 10,
    "member_of": 94,
    "worships": 37,
@@ -541,27 +541,27 @@
    "patch_notes": 2,
    "in_game_text": 12,
    "other": 17,
-   "wiki": 339,
+   "wiki": 342,
    "youtube": 8
   },
   "by_source_reliability": {
    "primary": 21,
    "tertiary": 22,
-   "secondary": 342
+   "secondary": 345
   },
   "by_confidence": {
-   "high": 482,
+   "high": 489,
    "low": 37,
-   "medium": 287
+   "medium": 290
   },
   "by_canon_status": {
-   "canon": 756,
+   "canon": 766,
    "inferred": 33,
    "community_theory": 2,
    "dev_statement": 15
   },
   "by_release_status": {
-   "released": 789,
+   "released": 799,
    "datamined_pre_1.0": 17
   }
  }

@@ -1188,6 +1188,15 @@
   "reliability": "secondary"
  },
  {
+  "id": "src_poe2wiki_the_arbiter_of_divinity",
+  "title": "The Arbiter of Divinity - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Arbiter_of_Divinity",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
   "id": "src_poe2wiki_the_beast",
   "title": "The Beast - PoE2 Wiki",
   "url": "https://www.poe2wiki.net/wiki/The_Beast",
@@ -1203,6 +1212,15 @@
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_burning_monolith",
+  "title": "The Burning Monolith - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Burning_Monolith",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
   "reliability": "secondary"
  },
  {
@@ -1293,6 +1311,15 @@
   "type": "wiki",
   "author_or_channel": "poe2wiki.net",
   "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_origin_tower",
+  "title": "The Origin Tower - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Origin_Tower",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
   "reliability": "secondary"
  },
  {

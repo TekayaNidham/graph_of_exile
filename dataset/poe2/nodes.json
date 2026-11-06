@@ -3565,7 +3565,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 10,
+  "degree": 21,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -3902,7 +3902,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 14,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -3959,7 +3959,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -4242,7 +4242,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 14,
+  "degree": 15,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -4298,7 +4298,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -4343,7 +4343,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -4588,7 +4588,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -5607,7 +5607,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 13,
+  "degree": 15,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -5780,7 +5780,7 @@
    "codex: left Oriath c. 1450 IC, after the 1339 IC Cataclysm"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 7,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -5959,7 +5959,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 11,
+  "degree": 19,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -6008,7 +6008,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -6088,7 +6088,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 10,
+  "degree": 12,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -6181,7 +6181,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 25,
+  "degree": 27,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -6293,7 +6293,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 44,
+  "degree": 63,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -6350,7 +6350,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -6438,7 +6438,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -6493,6 +6493,51 @@
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
+  "is_spine": false
+ },
+ {
+  "id": "char_elzarah",
+  "name": "Elzarah, the Cobra Lord",
+  "aliases": [],
+  "type": "character",
+  "subtype": "boss",
+  "summary": "Elzarah, the Cobra Lord is a boss the Exile defeats in the Sel Khari Sanctuary during the Recruit the Maraketh interlude.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "chronology": {
+   "in_world_year": null,
+   "relative": "PoE2 Interlude 2 (The Stolen Barya)",
+   "story_order": null
+  },
+  "acts": [
+   "act_poe2_interlude2"
+  ],
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_maraketh",
+    "locator": "Quest log, 'Defeat Elzarah, the Cobra Lord.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ],
+  "eras": [
+   "poe2_campaign"
+  ],
+  "plot_roles": [
+   "main_plot"
+  ],
+  "release_status": "released",
+  "degree": 1,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -6620,7 +6665,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -7017,7 +7062,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -7248,6 +7293,51 @@
   "release_status": "released",
   "degree": 6,
   "distance_from_char_exile_poe1": 2,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
+  "is_spine": false
+ },
+ {
+  "id": "char_heldra",
+  "name": "Heldra of the Black Pyre",
+  "aliases": [],
+  "type": "character",
+  "subtype": "boss",
+  "summary": "Heldra of the Black Pyre is a foe the Exile defeats in Scorched Farmlands alongside Isolde of the White Shroud during the Recruit the Ezomytes interlude.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "chronology": {
+   "in_world_year": null,
+   "relative": "PoE2 Interlude 1 (Curse of Holten)",
+   "story_order": null
+  },
+  "acts": [
+   "act_poe2_interlude1"
+  ],
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_ezomytes",
+    "locator": "Quest log, 'Defeat Isolde and Heldra' ('Defeat Isolde of the White Shroud and Heldra of the Black Pyre.')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ],
+  "eras": [
+   "poe2_campaign"
+  ],
+  "plot_roles": [
+   "main_plot"
+  ],
+  "release_status": "released",
+  "degree": 1,
+  "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
@@ -7613,10 +7703,55 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
+  "is_spine": false
+ },
+ {
+  "id": "char_isolde",
+  "name": "Isolde of the White Shroud",
+  "aliases": [],
+  "type": "character",
+  "subtype": "boss",
+  "summary": "Isolde of the White Shroud is a Holten-linked foe the Exile defeats in Scorched Farmlands alongside Heldra of the Black Pyre during the Recruit the Ezomytes interlude.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "chronology": {
+   "in_world_year": null,
+   "relative": "PoE2 Interlude 1 (Curse of Holten)",
+   "story_order": null
+  },
+  "acts": [
+   "act_poe2_interlude1"
+  ],
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_ezomytes",
+    "locator": "Quest log, 'Defeat Isolde and Heldra' ('Defeat Isolde of the White Shroud and Heldra of the Black Pyre.')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ],
+  "eras": [
+   "poe2_campaign"
+  ],
+  "plot_roles": [
+   "main_plot"
+  ],
+  "release_status": "released",
+  "degree": 1,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -7963,7 +8098,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -8069,7 +8204,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 10,
+  "degree": 12,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -8457,7 +8592,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 6,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -8517,7 +8652,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 25,
+  "degree": 26,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -8677,7 +8812,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -8955,7 +9090,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -9084,7 +9219,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -9219,7 +9354,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -9285,7 +9420,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -9572,7 +9707,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 11,
+  "degree": 17,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -9670,7 +9805,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 34,
+  "degree": 36,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -9746,7 +9881,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 18,
+  "degree": 21,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -10174,7 +10309,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 6,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -10661,7 +10796,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -10749,7 +10884,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -10792,7 +10927,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -10981,7 +11116,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -11037,6 +11172,51 @@
   "is_spine": false
  },
  {
+  "id": "char_rakkar",
+  "name": "Rakkar, the Frozen Talon",
+  "aliases": [],
+  "type": "character",
+  "subtype": "boss",
+  "summary": "Rakkar, the Frozen Talon is a boss the Exile defeats in the Glacial Tarn on the way up Mount Kriar during the Recruit the Vaal interlude.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "chronology": {
+   "in_world_year": null,
+   "relative": "PoE2 Interlude 3 (Doryani's Contingency)",
+   "story_order": null
+  },
+  "acts": [
+   "act_poe2_interlude3"
+  ],
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_vaal",
+    "locator": "Quest log, 'Defeat Rakkar, the Frozen Talon.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ],
+  "eras": [
+   "poe2_campaign"
+  ],
+  "plot_roles": [
+   "main_plot"
+  ],
+  "release_status": "released",
+  "degree": 1,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
+  "is_spine": false
+ },
+ {
   "id": "char_rathbreaker",
   "name": "Rathbreaker",
   "aliases": [],
@@ -11075,7 +11255,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -11184,7 +11364,7 @@
    "codex: PoE2-only NPC"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -11311,7 +11491,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -11416,7 +11596,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 11,
+  "degree": 12,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -11729,7 +11909,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -11915,7 +12095,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -12030,7 +12210,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -12152,10 +12332,55 @@
    }
   ],
   "release_status": "released",
-  "degree": 12,
+  "degree": 14,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
+  "is_spine": false
+ },
+ {
+  "id": "char_siora",
+  "name": "Siora, Blade of the Mists",
+  "aliases": [],
+  "type": "character",
+  "subtype": "boss",
+  "summary": "Siora, Blade of the Mists is a boss the Exile defeats at the altar during the Recruit the Ezomytes interlude.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "chronology": {
+   "in_world_year": null,
+   "relative": "PoE2 Interlude 1 (Curse of Holten)",
+   "story_order": null
+  },
+  "acts": [
+   "act_poe2_interlude1"
+  ],
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_ezomytes",
+    "locator": "Quest log, 'Defeat Siora, Blade of the Mists.' (Siora: 'Darkness descends... and with it, your end!')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ],
+  "eras": [
+   "poe2_campaign"
+  ],
+  "plot_roles": [
+   "main_plot"
+  ],
+  "release_status": "released",
+  "degree": 1,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -12198,6 +12423,51 @@
   "release_status": "released",
   "degree": 4,
   "distance_from_char_exile_poe1": 2,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
+  "is_spine": false
+ },
+ {
+  "id": "char_stormgore",
+  "name": "Stormgore",
+  "aliases": [],
+  "type": "character",
+  "subtype": "boss",
+  "summary": "Stormgore is a boss the Exile defeats in the Etched Ravine on Mount Kriar during the Recruit the Vaal interlude.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "chronology": {
+   "in_world_year": null,
+   "relative": "PoE2 Interlude 3 (Doryani's Contingency)",
+   "story_order": null
+  },
+  "acts": [
+   "act_poe2_interlude3"
+  ],
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_vaal",
+    "locator": "Quest log, 'Defeat Stormgore.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ],
+  "eras": [
+   "poe2_campaign"
+  ],
+  "plot_roles": [
+   "main_plot"
+  ],
+  "release_status": "released",
+  "degree": 1,
+  "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
@@ -12400,7 +12670,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 12,
+  "degree": 17,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -12522,7 +12792,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 11,
+  "degree": 14,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -12610,7 +12880,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -12689,7 +12959,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -12761,7 +13031,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 6,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -12806,7 +13076,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -12893,7 +13163,7 @@
    }
   ],
   "release_status": "datamined_pre_1.0",
-  "degree": 17,
+  "degree": 20,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -13000,7 +13270,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -13154,7 +13424,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 22,
+  "degree": 38,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -13437,7 +13707,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -13482,7 +13752,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -13679,7 +13949,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -14105,7 +14375,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -14263,7 +14533,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -14721,7 +14991,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -14798,7 +15068,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 30,
+  "degree": 31,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -14888,6 +15158,51 @@
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
+  "is_spine": false
+ },
+ {
+  "id": "char_vornas",
+  "name": "Vornas, the Fell Flame",
+  "aliases": [],
+  "type": "character",
+  "subtype": "boss",
+  "summary": "Vornas, the Fell Flame is a boss the Exile defeats after passing the Galai Gates during the Recruit the Maraketh interlude.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "chronology": {
+   "in_world_year": null,
+   "relative": "PoE2 Interlude 2 (The Stolen Barya)",
+   "story_order": null
+  },
+  "acts": [
+   "act_poe2_interlude2"
+  ],
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_maraketh",
+    "locator": "Quest log, 'Defeat Vornas, the Fell Flame.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ],
+  "eras": [
+   "poe2_campaign"
+  ],
+  "plot_roles": [
+   "main_plot"
+  ],
+  "release_status": "released",
+  "degree": 1,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -15183,7 +15498,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -15275,7 +15590,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -15324,7 +15639,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -15441,7 +15756,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -15501,7 +15816,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -19823,7 +20138,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 26,
+  "degree": 28,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -20571,7 +20886,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -20762,7 +21077,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 22,
+  "degree": 24,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -20917,7 +21232,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 31,
+  "degree": 33,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -21987,7 +22302,7 @@
    "codex: identity stated outright in Act 2 (event_hooded_one_reveals_sin)"
   ],
   "release_status": "released",
-  "degree": 43,
+  "degree": 54,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -22752,7 +23067,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 14,
+  "degree": 15,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -22938,7 +23253,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -24537,7 +24852,7 @@
    "codex audit round 2: relic errands in any order"
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 11,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -24651,7 +24966,7 @@
    "codex audit round 2: relic errands in any order"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -24972,7 +25287,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 10,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -25017,7 +25332,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -25062,7 +25377,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 10,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -25107,7 +25422,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -25521,7 +25836,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -25570,7 +25885,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -25615,7 +25930,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -26158,7 +26473,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 10,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -26290,7 +26605,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -26335,7 +26650,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -26856,7 +27171,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -26901,7 +27216,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 10,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -26959,7 +27274,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 9,
+  "degree": 14,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -27004,7 +27319,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -27062,7 +27377,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -27154,7 +27469,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -27206,7 +27521,7 @@
    "codex audit round 2: Kedge Bay holds no Weapon piece"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 12,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -27262,7 +27577,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -27318,7 +27633,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 13,
+  "degree": 17,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -27363,7 +27678,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -27408,7 +27723,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -27457,7 +27772,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -28070,7 +28385,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -28219,7 +28534,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -28425,7 +28740,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -28491,7 +28806,7 @@
    "codex: finale after Origin Tower"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -28538,7 +28853,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 6,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -28586,7 +28901,7 @@
    "tie with 6001; codex: Doryani creation unsupported"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 6,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -28647,7 +28962,7 @@
    "pin story_order after duplicate merge (deterministic)"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -29060,7 +29375,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 13,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -29105,7 +29420,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 15,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -29163,7 +29478,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 12,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -29212,7 +29527,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -29425,7 +29740,7 @@
    "pin story_order after duplicate merge (deterministic)"
   ],
   "release_status": "released",
-  "degree": 9,
+  "degree": 11,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -29518,7 +29833,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -29604,7 +29919,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 6,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -29647,7 +29962,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -29863,7 +30178,7 @@
    "codex: fill 5503->5505 gap"
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 11,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -30651,7 +30966,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -30936,7 +31251,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 6,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -31028,7 +31343,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -31168,7 +31483,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -31213,7 +31528,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 10,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -31494,7 +31809,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -31625,7 +31940,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -31670,7 +31985,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -31719,7 +32034,7 @@
    "codex audit round 2: relic errands in any order"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -31764,7 +32079,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -31856,7 +32171,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -31901,7 +32216,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -32295,7 +32610,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 11,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -32543,7 +32858,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -32863,7 +33178,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -32951,7 +33266,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -32996,7 +33311,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -33402,7 +33717,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -33650,7 +33965,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 10,
+  "degree": 12,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -33745,7 +34060,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 12,
+  "degree": 14,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -34208,7 +34523,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 35,
+  "degree": 36,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -34992,7 +35307,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 31,
+  "degree": 34,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -35852,7 +36167,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 23,
+  "degree": 24,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -36977,7 +37292,54 @@
    }
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
+  "is_spine": false
+ },
+ {
+  "id": "loc_ancient_gateway",
+  "name": "Ancient Gateway",
+  "aliases": [
+   "Ancient Gateway and the Fortress Gateways"
+  ],
+  "type": "location",
+  "subtype": "precursor_gateway_site",
+  "summary": "Precursor gateway site the Exile reaches in Legacy of the Precursors after the Precursor Fortress rises; the Exile uses its levers and a Precursor Beacon there to open the route to the Burning Monolith.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "chronology": {
+   "in_world_year": null,
+   "relative": "Precursor ruins, PoE2 endgame",
+   "story_order": null
+  },
+  "acts": [
+   "act_poe2_epilogue"
+  ],
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "quest log: 'Travel to the Ancient Gateway', 'Explore the Ancient Gateway', 'Find and use Levers', 'Activate the Precursor Beacon'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ],
+  "eras": [
+   "poe2_endgame"
+  ],
+  "plot_roles": [
+   "endgame_plot"
+  ],
+  "release_status": "released",
+  "degree": 1,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -37027,7 +37389,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 4,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -37072,7 +37434,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -37250,7 +37612,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -37819,7 +38181,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -37893,7 +38255,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -37983,7 +38345,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -38086,7 +38448,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 6,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -38135,7 +38497,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -38223,6 +38585,59 @@
   ],
   "plot_roles": [
    "main_plot"
+  ],
+  "release_status": "released",
+  "degree": 1,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
+  "is_spine": false
+ },
+ {
+  "id": "loc_enigma_chambers",
+  "name": "Western and Eastern Enigma Chambers",
+  "aliases": [
+   "Enigma Chambers",
+   "Western Enigma Chamber",
+   "Eastern Enigma Chamber"
+  ],
+  "type": "location",
+  "subtype": "precursor_chamber",
+  "summary": "Two endgame chambers entered through the Western and Eastern Gateways; each holds a boss fight (Count Geonor in the west, Doryani in the east) and a Crisis Fragment (Ancient and Weathered) needed to open the Burning Monolith.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "chronology": {
+   "in_world_year": null,
+   "relative": "Precursor ruins, PoE2 endgame",
+   "story_order": null
+  },
+  "acts": [
+   "act_poe2_epilogue"
+  ],
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "quest log (hidden comment block): 'Travel to the Western Enigma Chamber', 'Defeat Count Geonor', 'Defeat Doryani', 'Pick up the Ancient Crisis Fragment'"
+   },
+   {
+    "source_id": "src_poe2wiki_the_burning_monolith",
+    "locator": "Keys: 'The other two keys can be found in the Western Enigma Chamber and the Eastern Enigma Chamber.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ],
+  "eras": [
+   "poe2_endgame"
+  ],
+  "plot_roles": [
+   "endgame_plot"
   ],
   "release_status": "released",
   "degree": 1,
@@ -38639,10 +39054,10 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 4,
-  "distance_from_char_exile_poe2": 3,
-  "exile_distance": 3,
+  "degree": 3,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -38712,7 +39127,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 16,
+  "degree": 17,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -38761,10 +39176,10 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 4,
-  "distance_from_char_exile_poe2": 3,
-  "exile_distance": 3,
+  "degree": 2,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -38851,10 +39266,10 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 4,
-  "distance_from_char_exile_poe2": 3,
-  "exile_distance": 3,
+  "degree": 2,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -38900,7 +39315,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -39000,7 +39415,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -39215,7 +39630,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -39259,7 +39674,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -39303,7 +39718,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -39376,7 +39791,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 28,
+  "degree": 34,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -39556,7 +39971,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 10,
+  "degree": 11,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -40057,7 +40472,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -40209,7 +40624,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 6,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -40361,7 +40776,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -40612,7 +41027,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 37,
+  "degree": 39,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -40657,10 +41072,58 @@
    "main_plot"
   ],
   "release_status": "released",
+  "degree": 2,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
+  "is_spine": false
+ },
+ {
+  "id": "loc_patriarch_and_matriarch_halls",
+  "name": "The Patriarch and Matriarch Halls",
+  "aliases": [
+   "Patriarch Halls",
+   "Matriarch Halls"
+  ],
+  "type": "location",
+  "subtype": "precursor_hall",
+  "summary": "Two Precursor halls visited in Legacy of the Precursors; the Exile defeats Phyx, Sentinel of the Spark, and Phya, Sentinel of the Cradle, to recover the Origin Spark and Origin Cradle.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "chronology": {
+   "in_world_year": null,
+   "relative": "Precursor ruins, PoE2 endgame",
+   "story_order": null
+  },
+  "acts": [
+   "act_poe2_epilogue"
+  ],
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "quest log (hidden comment block) steps 112-128: 'Travel to the Patriarch Halls', 'Defeat Phyx, Sentinel of the Spark', 'Defeat Phya, Sentinel of the Cradle'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ],
+  "eras": [
+   "poe2_endgame"
+  ],
+  "plot_roles": [
+   "endgame_plot"
+  ],
+  "release_status": "released",
   "degree": 1,
-  "distance_from_char_exile_poe1": 4,
-  "distance_from_char_exile_poe2": 3,
-  "exile_distance": 3,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -40900,7 +41363,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -40945,7 +41408,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -41201,7 +41664,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 18,
+  "degree": 20,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -41265,7 +41728,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -41314,7 +41777,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -41384,7 +41847,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -41706,7 +42169,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 6,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -41846,7 +42309,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 5,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -41948,7 +42411,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -41999,7 +42462,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -42325,7 +42788,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -42596,7 +43059,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -42841,10 +43304,10 @@
    }
   ],
   "release_status": "released",
-  "degree": 2,
-  "distance_from_char_exile_poe1": 4,
-  "distance_from_char_exile_poe2": 3,
-  "exile_distance": 3,
+  "degree": 7,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {

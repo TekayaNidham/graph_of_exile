@@ -1,0 +1,2887 @@
+{
+ "poe1_acts_1_5": [
+  {
+   "id": "event_exiles_sentenced_to_wraeclast",
+   "name": "Exiles Sentenced to Wraeclast",
+   "story_order": 1099,
+   "acts": [
+    "act_poe1_act1"
+   ],
+   "summary": "High Templar Dominus orders criminals of Oriath exiled to Wraeclast. The PoE1 Exile is one of the sentenced, washed up on the Twilight Strand, and escapes a Templar boat.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Present'"
+    },
+    {
+     "source_id": "src_poewiki_letters_of_exile",
+     "locator": "section 'Format' and exile entries 1597-1599 IC"
+    },
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (exile escapes a Templar boat)"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "in:precedes:event_templar_theocracy_oriath(event)",
+    "out:precedes:event_poe1_a10_kill_kitava(event)"
+   ]
+  },
+  {
+   "id": "event_a1_shipwreck",
+   "name": "Exiles Dumped onto the Twilight Strand",
+   "story_order": 1100,
+   "acts": [
+    "act_poe1_act1"
+   ],
+   "summary": "The Exile is among about two dozen exiles dumped into the water off a ship by Dominus's Blackguards and washes up on the Twilight Strand; a Dying Exile says smoke was seen at ruins up the beach (the wiki does not describe a shipwreck as such).",
+   "sources": [
+    {
+     "source_id": "src_poewiki_enemy_at_the_gate",
+     "locator": "Walkthrough: Dying Exile quote \"We're all that made it? They dumped... two dozen of us exiles off that ship.\""
+    },
+    {
+     "source_id": "src_ingame_enemy_at_the_gate",
+     "locator": "Walkthrough: Dying Exile quote \"We're all that made it? They dumped... two dozen of us exiles off that ship.\""
+    }
+   ],
+   "current_links": [
+    "in:leads_to:event_exile_sentenced(event)",
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act1(act)",
+    "out:occurs_in:loc_twilight_strand(location)"
+   ]
+  },
+  {
+   "id": "event_a1_enemy_at_the_gate",
+   "name": "Enemy at the Gate",
+   "story_order": 1101,
+   "acts": [
+    "act_poe1_act1"
+   ],
+   "summary": "The Exile kills Hillock at the end of the Twilight Strand, opening Lioneye's Watch; Tarkleigh rewards them.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_enemy_at_the_gate",
+     "locator": "Quest summary; Tarkleigh dialogue"
+    },
+    {
+     "source_id": "src_ingame_enemy_at_the_gate",
+     "locator": "Quest summary; Tarkleigh dialogue"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act1(act)",
+    "out:occurs_in:loc_twilight_strand(location)",
+    "out:leads_to:loc_lioneye_s_watch(location)"
+   ]
+  },
+  {
+   "id": "event_a1_breaking_some_eggs",
+   "name": "Breaking Some Eggs",
+   "story_order": 1104,
+   "acts": [
+    "act_poe1_act1"
+   ],
+   "summary": "The Exile finds three Karui glyph shells in rhoa nests and fits them to the glyph wall in the Mud Flats to drain the Submerged Passage.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_breaking_some_eggs",
+     "locator": "Walkthrough: Tarkleigh \"They're Karui\""
+    },
+    {
+     "source_id": "src_ingame_breaking_some_eggs",
+     "locator": "Walkthrough: Tarkleigh \"They're Karui\""
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act1(act)"
+   ]
+  },
+  {
+   "id": "event_a1_caged_brute",
+   "name": "The Caged Brute",
+   "story_order": 1106,
+   "acts": [
+    "act_poe1_act1"
+   ],
+   "summary": "The Exile kills Brutus, Warden of Axiom Prison, in the Warden's Chambers, opening the way through the Prison.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_caged_brute",
+     "locator": "Walkthrough; Nessa dialogue on Brutus myth"
+    },
+    {
+     "source_id": "src_ingame_the_caged_brute",
+     "locator": "Walkthrough; Nessa dialogue on Brutus myth"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act1(act)",
+    "in:witnesses:char_piety(character)"
+   ]
+  },
+  {
+   "id": "event_a1_sirens_cadence",
+   "name": "The Siren's Cadence",
+   "story_order": 1108,
+   "acts": [
+    "act_poe1_act1"
+   ],
+   "summary": "The Exile kills Merveil, the Siren, in her lair, freeing the coast and the way to the Southern Forest of Act 2.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_siren_s_cadence",
+     "locator": "Walkthrough; Nessa/Tarkleigh dialogue"
+    },
+    {
+     "source_id": "src_ingame_the_siren_s_cadence",
+     "locator": "Walkthrough; Nessa/Tarkleigh dialogue"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act1(act)"
+   ]
+  },
+  {
+   "id": "event_a2_forest_encampment",
+   "name": "Arrival at the Forest Encampment",
+   "story_order": 1200,
+   "acts": [
+    "act_poe1_act2"
+   ],
+   "summary": "After Merveil the Exile enters the Southern Forest and the Forest Encampment, a small village (Helena calls it 'that Azmeri village by the river') of Greust, Silk, Yeena and Eramir, extorted by bandit lords.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_act_2",
+     "locator": "lead paragraph"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act2(act)"
+   ]
+  },
+  {
+   "id": "event_a2_intruders_in_black",
+   "name": "Intruders in Black",
+   "story_order": 1202,
+   "acts": [
+    "act_poe1_act2"
+   ],
+   "summary": "Greust sends the Exile after the 'warriors in black' (Blackguards) near the Chamber of Sins; the Exile kills Fidelitas, rescues Helena and takes the Baleful Gem from the Strange Device; Helena joins the encampment.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_intruders_in_black",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_ingame_intruders_in_black",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act2(act)"
+   ]
+  },
+  {
+   "id": "event_a2_sharp_and_cruel",
+   "name": "Sharp and Cruel",
+   "story_order": 1203,
+   "acts": [
+    "act_poe1_act2"
+   ],
+   "summary": "Silk asks for his spear lodged in the eye of the Weaver; the Exile kills the Weaver and takes Maligaro's Spike.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sharp_and_cruel",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act2(act)"
+   ]
+  },
+  {
+   "id": "event_a2_deal_with_bandits",
+   "name": "Deal with the Bandits",
+   "story_order": 1206,
+   "acts": [
+    "act_poe1_act2"
+   ],
+   "summary": "Three bandit lords (Alira, Oak, Kraityn) terrorize the encampment; the Exile kills all three for a skill point, or kills two and sides with one for a permanent bonus.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_deal_with_the_bandits",
+     "locator": "Bandit choices table"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act2(act)"
+   ]
+  },
+  {
+   "id": "event_a2_root_of_the_problem",
+   "name": "The Root of the Problem",
+   "story_order": 1207,
+   "acts": [
+    "act_poe1_act2"
+   ],
+   "summary": "Helena has the Exile poison the great tree Lorrata in the Wetlands with Maligaro's Spike and the Baleful Gem, to open the Vaal ruins before Piety can.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_root_of_the_problem",
+     "locator": "Walkthrough: Helena dialogue"
+    },
+    {
+     "source_id": "src_ingame_the_root_of_the_problem",
+     "locator": "Walkthrough: Helena dialogue"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_lorrata(character)",
+    "in:participates_in:artifact_baleful_gem(artifact)",
+    "in:participates_in:artifact_maligaro_s_spike(artifact)",
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act2(act)",
+    "out:causes:event_a2_shadow_of_the_vaal(event)"
+   ]
+  },
+  {
+   "id": "event_a2_shadow_of_the_vaal",
+   "name": "Shadow of the Vaal",
+   "story_order": 1208,
+   "acts": [
+    "act_poe1_act2"
+   ],
+   "summary": "Entering the Vaal Ruins the Exile's touching the Ancient Seal releases a darkness; the Exile climbs the Ancient Pyramid, uses The Apex on the Dark Altar and kills the Vaal Oversoul.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_shadow_of_the_vaal",
+     "locator": "Walkthrough; Vaal Oversoul page"
+    },
+    {
+     "source_id": "src_ingame_shadow_of_the_vaal",
+     "locator": "Walkthrough; Vaal Oversoul page"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act2(act)",
+    "out:reveals:artifact_the_apex(artifact)",
+    "in:causes:event_a2_root_of_the_problem(event)",
+    "out:occurs_in:loc_ancient_pyramid(location)",
+    "out:leads_to:event_a3_sarn_arrival(event)",
+    "in:part_of:event_poe1_a2_kill_vaal_oversoul(event)"
+   ]
+  },
+  {
+   "id": "event_a3_sarn_arrival",
+   "name": "Arrival at Sarn",
+   "story_order": 1300,
+   "acts": [
+    "act_poe1_act3"
+   ],
+   "summary": "The Exile enters the ruined Eternal capital Sarn, overrun by undead, and reaches the Sarn Encampment (Hargan, Clarissa, Maramoa, Grigor).",
+   "sources": [
+    {
+     "source_id": "src_poewiki_act_3",
+     "locator": "lead paragraph"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act3(act)",
+    "in:leads_to:event_a2_shadow_of_the_vaal(event)"
+   ]
+  },
+  {
+   "id": "event_a3_lost_in_love",
+   "name": "Lost in Love",
+   "story_order": 1301,
+   "acts": [
+    "act_poe1_act3"
+   ],
+   "summary": "The Exile rescues Clarissa from Blackguards and retrieves Tolman's bracelet from the Crematorium where Piety tortured him to death; Piety flees.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_lost_in_love",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_ingame_lost_in_love",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act3(act)"
+   ]
+  },
+  {
+   "id": "event_a3_gemling_queen",
+   "name": "The Gemling Queen",
+   "story_order": 1303,
+   "acts": [
+    "act_poe1_act3"
+   ],
+   "summary": "Grigor sends the Exile to Solaris Temple Level 2, where Lady Dialla the Gemling Queen still lives.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_gemling_queen",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_ingame_the_gemling_queen",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act3(act)",
+    "out:leads_to:event_a3_fiery_dust(event)"
+   ]
+  },
+  {
+   "id": "event_a3_ribbon_spool",
+   "name": "The Ribbon Spool",
+   "story_order": 1304,
+   "acts": [
+    "act_poe1_act3"
+   ],
+   "summary": "Dialla asks for her stolen Ribbon Spool from the Battlefront, held by the Ebony Legion. (Optional quest.)",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_ribbon_spool",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act3(act)"
+   ]
+  },
+  {
+   "id": "event_a3_fiery_dust",
+   "name": "Fiery Dust",
+   "story_order": 1305,
+   "acts": [
+    "act_poe1_act3"
+   ],
+   "summary": "Dialla has the Exile fetch Thaumetic Sulphite from the Docks so she can brew Infernal Talc to burn through the Undying Blockade in the Sewers.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_fiery_dust",
+     "locator": "Walkthrough: Dialla dialogue"
+    },
+    {
+     "source_id": "src_ingame_fiery_dust",
+     "locator": "Walkthrough: Dialla dialogue"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act3(act)",
+    "in:leads_to:event_a3_gemling_queen(event)",
+    "out:leads_to:event_a3_sever_right_hand(event)"
+   ]
+  },
+  {
+   "id": "event_a3_pietys_pets",
+   "name": "Piety's Pets",
+   "story_order": 1307,
+   "acts": [
+    "act_poe1_act3"
+   ],
+   "summary": "Grigor sends the Exile to kill Piety in her Lunaris Temple laboratory, where she makes miscreations; she drops the Tower Key (later revealed Malachai saved her).",
+   "sources": [
+    {
+     "source_id": "src_poewiki_piety_s_pets",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_ingame_piety_s_pets",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act3(act)"
+   ]
+  },
+  {
+   "id": "event_a3_sceptre_of_god",
+   "name": "The Sceptre of God",
+   "story_order": 1310,
+   "acts": [
+    "act_poe1_act3"
+   ],
+   "summary": "With Piety's Tower Key the Exile climbs the Sceptre of God and kills High Templar Dominus; Lady Dialla appears and opens the way to Act 4.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_sceptre_of_god_quest",
+     "locator": "Walkthrough; Dominus page"
+    },
+    {
+     "source_id": "src_ingame_the_sceptre_of_god_quest",
+     "locator": "Walkthrough; Dominus page"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act3(act)",
+    "in:leads_to:artifact_tower_key(artifact)",
+    "out:leads_to:event_a4_highgate_arrival(event)",
+    "in:witnesses:char_dialla(character)"
+   ]
+  },
+  {
+   "id": "event_a4_highgate_arrival",
+   "name": "Arrival at Highgate",
+   "story_order": 1400,
+   "acts": [
+    "act_poe1_act4"
+   ],
+   "summary": "Dialla meets the Exile at the Aqueduct and in Highgate asks them to destroy the Beast sealed in the mountain; Oyun and the Maraketh hold Highgate.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_eternal_nightmare",
+     "locator": "Walkthrough: quest log"
+    },
+    {
+     "source_id": "src_ingame_the_eternal_nightmare",
+     "locator": "Walkthrough: quest log"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act4(act)",
+    "in:leads_to:event_a3_sceptre_of_god(event)"
+   ]
+  },
+  {
+   "id": "event_a4_breaking_the_seal",
+   "name": "Breaking the Seal",
+   "story_order": 1401,
+   "acts": [
+    "act_poe1_act4"
+   ],
+   "summary": "The Exile kills Voll, the Brittle Emperor in the Dried Lake, takes Deshret's Banner and breaks Deshret's Seal on the Mines.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_breaking_the_seal",
+     "locator": "Walkthrough: Oyun dialogue"
+    },
+    {
+     "source_id": "src_ingame_breaking_the_seal",
+     "locator": "Walkthrough: Oyun dialogue"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act4(act)"
+   ]
+  },
+  {
+   "id": "event_a4_king_of_fury",
+   "name": "The King of Fury",
+   "story_order": 1403,
+   "acts": [
+    "act_poe1_act4"
+   ],
+   "summary": "The Exile kills King Kaom in Kaom's Stronghold and brings the Eye of Fury to Dialla.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_king_of_fury",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act4(act)"
+   ]
+  },
+  {
+   "id": "event_a4_king_of_desire",
+   "name": "The King of Desire",
+   "story_order": 1404,
+   "acts": [
+    "act_poe1_act4"
+   ],
+   "summary": "The Exile kills Daresso, King of Swords, in the Grand Arena and brings the Eye of Desire to Dialla.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_king_of_desire",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act4(act)"
+   ]
+  },
+  {
+   "id": "event_a4_rapture_device",
+   "name": "Activation of the Rapture Device",
+   "story_order": 1405,
+   "acts": [
+    "act_poe1_act4"
+   ],
+   "summary": "With the two Eyes the Rapture Device in the Crystal Veins is powered (Dialla's life force) and drills into the Belly of the Beast.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_rapture_device",
+     "locator": "lead paragraph"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:artifact_rapture_device(artifact)",
+    "in:participates_in:artifact_eye_of_desire(artifact)",
+    "in:participates_in:artifact_eye_of_fury(artifact)",
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act4(act)"
+   ]
+  },
+  {
+   "id": "event_a4_corpus_malachus",
+   "name": "Corpus Malachus",
+   "story_order": 1406,
+   "acts": [
+    "act_poe1_act4"
+   ],
+   "summary": "Piety, defeated as an Abomination, requires three of Malachai's organs from his Godless Three (Maligaro, Shavronne, Doedre) to open the Black Core.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_corpus_malachus",
+     "locator": "Walkthrough; Piety page Godless Three dialogue"
+    },
+    {
+     "source_id": "src_ingame_corpus_malachus",
+     "locator": "Walkthrough; Piety page Godless Three dialogue"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act4(act)"
+   ]
+  },
+  {
+   "id": "event_a4_kill_malachai",
+   "name": "The Eternal Nightmare: Malachai defeated",
+   "story_order": 1407,
+   "acts": [
+    "act_poe1_act4"
+   ],
+   "summary": "The Exile kills Malachai, The Nightmare, in the Black Core; Piety dies impaled by him in the fight; the Beast dies, ending Act 4.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_eternal_nightmare",
+     "locator": "Walkthrough; Piety page"
+    },
+    {
+     "source_id": "src_ingame_the_eternal_nightmare",
+     "locator": "Walkthrough; Piety page"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act4(act)",
+    "out:leads_to:event_a5_return_to_oriath(event)",
+    "in:witnesses:char_vilenta(character)"
+   ]
+  },
+  {
+   "id": "event_a5_return_to_oriath",
+   "name": "Return to Oriath",
+   "story_order": 1500,
+   "acts": [
+    "act_poe1_act5"
+   ],
+   "summary": "The Exile climbs the Ascent of Mt. Veruso, activates the Resonator and arrives in Oriath's Slave Pens; kills Overseer Krow to reach the rebel camp at Overseer's Tower where Lani rewards them.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_return_to_oriath",
+     "locator": "Walkthrough: quest log"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act5(act)",
+    "in:leads_to:event_a4_kill_malachai(event)"
+   ]
+  },
+  {
+   "id": "event_a5_key_to_freedom",
+   "name": "The Key to Freedom",
+   "story_order": 1501,
+   "acts": [
+    "act_poe1_act5"
+   ],
+   "summary": "Utula demands Justicar Casticus's faithful eyes; the Exile kills Casticus in the Control Blocks and takes the Eyes of Zeal to enter the Templar Courts.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_key_to_freedom",
+     "locator": "Walkthrough: Utula dialogue"
+    },
+    {
+     "source_id": "src_ingame_the_key_to_freedom",
+     "locator": "Walkthrough: Utula dialogue"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act5(act)"
+   ]
+  },
+  {
+   "id": "event_a5_death_to_purity",
+   "name": "Death to Purity",
+   "story_order": 1503,
+   "acts": [
+    "act_poe1_act5"
+   ],
+   "summary": "The Exile kills High Templar Avarius, vessel of the god Innocence, in the Chamber of Innocence; Sin appears.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_death_to_purity",
+     "locator": "Walkthrough: quest log"
+    },
+    {
+     "source_id": "src_ingame_death_to_purity",
+     "locator": "Walkthrough: quest log"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act5(act)"
+   ]
+  },
+  {
+   "id": "event_a5_kings_feast",
+   "name": "The King's Feast",
+   "story_order": 1504,
+   "acts": [
+    "act_poe1_act5"
+   ],
+   "summary": "Bannon asks the Exile to kill Utula to stop the King's Feast; Utula dies but completes the ritual that summons Kitava.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_king_s_feast",
+     "locator": "Walkthrough: Bannon dialogue"
+    },
+    {
+     "source_id": "src_ingame_the_king_s_feast",
+     "locator": "Walkthrough: Bannon dialogue"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act5(act)"
+   ]
+  },
+  {
+   "id": "event_a5_ravenous_god",
+   "name": "Kitava Reawakens and Defeats the Exile",
+   "story_order": 1599,
+   "acts": [
+    "act_poe1_act5",
+    "poe1_act5"
+   ],
+   "summary": "At the end of Act 5 the reawakened Kitava cannot be beaten: his beam destroys the Sign of Purity and Sin snatches the exile from his jaws, telling them to take the ship to Lioneye's Watch. This begins Part Two.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_ravenous_god",
+     "locator": "Walkthrough; Kitava page"
+    },
+    {
+     "source_id": "src_ingame_the_ravenous_god",
+     "locator": "Walkthrough; Kitava page"
+    },
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "In-game interactions, Act 5"
+    },
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "\"A ship sails for Lioneye's Watch not far from here. Be on it.\""
+    },
+    {
+     "source_id": "src_poewiki_kitava_the_insatiable",
+     "locator": "Act 5: battle cannot be won; Kitava's beam destroys the Sign of Purity and Sin saves the player"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:creature_kitavas_heart(creature)",
+    "in:participates_in:char_exile_poe1(character)",
+    "out:part_of:act_poe1_act5(act)",
+    "out:leads_to:event_a6_fallen_from_grace(event)",
+    "in:causes:char_utula(character)",
+    "out:leads_to:event_poe1_a6_return_to_wraeclast(event)"
+   ]
+  }
+ ],
+ "poe1_acts_6_10_epilogue": [
+  {
+   "id": "event_poe1_a6_return_to_wraeclast",
+   "name": "Return to Wraeclast",
+   "story_order": 1601,
+   "acts": [
+    "poe1_act6"
+   ],
+   "summary": "The exile arrives at Lioneye's Watch aboard Lilly Roth's ship, and Sin tasks them with harvesting souls to birth the Dark Ember; the Pantheon is later introduced.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_act_6",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_essence_of_umbra",
+     "locator": "Sin's Act 6 briefing"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act6(act)",
+    "in:leads_to:deity_kitava(deity)",
+    "in:leads_to:event_a5_ravenous_god(event)"
+   ]
+  },
+  {
+   "id": "event_poe1_a6_kill_tukohama",
+   "name": "The Father of War",
+   "story_order": 1603,
+   "acts": [
+    "act_poe1_act6",
+    "poe1_act6"
+   ],
+   "summary": "Required Act 6 quest. The Exile finds the missing Eye of Conquest (from the Dishonoured Queen), enters the Karui Fortress and Tukohama's Keep, and kills Tukohama, the Karui god of war. Sin then introduces the Pantheon. The quest completes when Tarkleigh rewards the Exile in Lioneye's Watch.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_father_of_war",
+     "locator": "infobox: boss 'Tukohama, Karui God of War', key item 'Eye of Conquest', completion 'Talk to Tarkleigh after Tukohama is defeated'; walkthrough: 'After you defeat him, Sin will come and introduce the Pantheon'; Tarkleigh: 'You've killed the Karui war god?'"
+    },
+    {
+     "source_id": "src_poewiki_the_father_of_war",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "in:participates_in:deity_tukohama(deity)",
+    "in:participates_in:deity_sin(deity)",
+    "out:occurs_in:act_poe1_act6(act)"
+   ]
+  },
+  {
+   "id": "event_poe1_a6_kill_shavronne",
+   "name": "Harvesting Shavronne's Soul",
+   "story_order": 1604,
+   "acts": [
+    "poe1_act6"
+   ],
+   "summary": "The exile kills Shavronne's spirit in Axiom Prison; Sin harvests her soul for the Dark Ember.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_essence_of_umbra",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act6(act)",
+    "in:participates_in:char_shavronne(character)"
+   ]
+  },
+  {
+   "id": "event_poe1_a6_kill_abberath",
+   "name": "The Exile Kills Abberath",
+   "story_order": 1605,
+   "acts": [
+    "poe1_act6"
+   ],
+   "summary": "Bestel's request leads to Abberath's death in the Valley of the Fire Drinker.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_cloven_one",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act6(act)",
+    "in:participates_in:deity_abberath(deity)"
+   ]
+  },
+  {
+   "id": "event_poe1_a6_kill_brine_king",
+   "name": "The Exile Kills the Brine King",
+   "story_order": 1607,
+   "acts": [
+    "poe1_act6"
+   ],
+   "summary": "Following Nessa, the exile sails on the Black Crest to the reef and kills the Brine King, unlocking Act 7.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_brine_king_quest",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act6(act)",
+    "in:participates_in:deity_brine_king(deity)"
+   ]
+  },
+  {
+   "id": "event_poe1_a7_kill_maligaro",
+   "name": "Harvesting Maligaro's Soul",
+   "story_order": 1702,
+   "acts": [
+    "poe1_act7"
+   ],
+   "summary": "The exile kills Maligaro's essence in his sanctum; Sin gains his soul.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_essence_of_the_artist",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act7(act)",
+    "in:participates_in:char_maligaro(character)"
+   ]
+  },
+  {
+   "id": "event_poe1_a7_web_of_secrets",
+   "name": "Web of Secrets",
+   "story_order": 1703,
+   "acts": [
+    "poe1_act7"
+   ],
+   "summary": "Act 7 quest: Silk asks the exile to take the venom of Black Death, Maligaro's pet spider, which is killed together with Maligaro in his Sanctum; Silk's strange talk afterwards leads to the Mother of Spiders quest.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_web_of_secrets",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poewiki_the_mother_of_spiders",
+     "locator": "Intro: Silk's strange dialogue at the end of Web of Secrets"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:act_poe1_act7(act)",
+    "in:associated_with:char_silk(character)",
+    "in:participates_in:char_exile_poe1(character)"
+   ]
+  },
+  {
+   "id": "event_poe1_a7_kill_ralakesh",
+   "name": "Ralakesh and Greust",
+   "story_order": 1704,
+   "acts": [
+    "poe1_act7"
+   ],
+   "summary": "The exile kills the possessed Greust to drive Ralakesh back into the relic.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_master_of_a_million_faces",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "out:part_of:event_poe1_a7_master_of_a_million_faces(event)",
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act7(act)",
+    "in:participates_in:deity_ralakesh(deity)"
+   ]
+  },
+  {
+   "id": "event_lighting_the_way",
+   "name": "Lighting the Way",
+   "story_order": 1706,
+   "acts": [
+    "act_poe1_act7"
+   ],
+   "summary": "Act 7 quest: the Exile gathers seven Fireflies in the Dread Thicket and delivers them to Yeena, who brews Fire Dew to burn open the entrance to Arakaali's temple.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_lighting_the_way",
+     "locator": "Quest infobox: start 'Take the first Firefly in the Dread Thicket', completion 'Talk to Yeena'; Walkthrough: 'Yeena needs seven Fireflies to burn open the entrance to Arakaali's temple'"
+    }
+   ],
+   "current_links": [
+    "out:part_of:act_poe1_act7(act)",
+    "out:leads_to:event_poe1_a7_kill_arakaali(event)"
+   ]
+  },
+  {
+   "id": "event_poe1_a7_kill_arakaali",
+   "name": "The Exile Kills Arakaali",
+   "story_order": 1707,
+   "acts": [
+    "poe1_act7"
+   ],
+   "summary": "The exile burns open Arakaali's temple via Yeena's Fire Dew and kills her, failing to save Silk.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_mother_of_spiders",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poewiki_lighting_the_way",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:leads_to:event_lighting_the_way(event)",
+    "out:part_of:event_poe1_a7_mother_of_spiders(event)",
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act7(act)",
+    "in:participates_in:deity_arakaali(deity)"
+   ]
+  },
+  {
+   "id": "event_poe1_a8_kill_doedre",
+   "name": "Harvesting Doedre's Soul",
+   "story_order": 1801,
+   "acts": [
+    "poe1_act8"
+   ],
+   "summary": "The exile kills Doedre in the Cauldron of the Cesspool; Sin harvests her soul.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_essence_of_the_hag",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act8(act)",
+    "in:participates_in:char_doedre(character)"
+   ]
+  },
+  {
+   "id": "event_poe1_a8_lunar_eclipse",
+   "name": "Lunar Eclipse",
+   "story_order": 1802,
+   "acts": [
+    "poe1_act8"
+   ],
+   "summary": "Act 8 required quest: Maramoa sends the Exile through the Sarn sewers to recover the Moon Orb, one of the two ancient treasures needed to confront Lunaris and Solaris.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_lunar_eclipse",
+     "locator": "Walkthrough: 'Find a way through the Sewers so you can search for the Moon Orb'; Maramoa: 'there exists a pair of ancient treasures, the Sun Orb and the Moon Orb. They are our hope\u2026 our desperation.'"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:leads_to:event_poe1_a8_kill_solaris_lunaris(event)",
+    "out:part_of:act_poe1_act8(act)"
+   ]
+  },
+  {
+   "id": "event_poe1_a8_solar_eclipse",
+   "name": "Solar Eclipse",
+   "story_order": 1803,
+   "acts": [
+    "poe1_act8"
+   ],
+   "summary": "Act 8 required quest: Maramoa sends the Exile through the Sarn sewers to recover the Sun Orb, the counterpart of the Moon Orb, needed to confront Solaris and Lunaris.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_solar_eclipse",
+     "locator": "Walkthrough: 'Find a way through the Sewers so you can search for the Sun Orb'; Maramoa: 'there exists a pair of ancient treasures, the Sun Orb and the Moon Orb. They are our hope\u2026 our desperation.'"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:leads_to:event_poe1_a8_kill_solaris_lunaris(event)",
+    "out:part_of:act_poe1_act8(act)"
+   ]
+  },
+  {
+   "id": "event_poe1_a8_kill_solaris_lunaris",
+   "name": "The Exile Kills Solaris and Lunaris",
+   "story_order": 1804,
+   "acts": [
+    "poe1_act8"
+   ],
+   "summary": "With the Sun and Moon Orbs the exile summons and kills both goddesses at the Harbour Bridge, unlocking Act 9.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_lunar_eclipse",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poewiki_solar_eclipse",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poewiki_solaris_and_lunaris",
+     "locator": "Intro"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act8(act)",
+    "in:participates_in:deity_solaris(deity)",
+    "in:participates_in:deity_lunaris(deity)",
+    "in:leads_to:event_poe1_a8_lunar_eclipse(event)",
+    "in:leads_to:event_poe1_a8_solar_eclipse(event)"
+   ]
+  },
+  {
+   "id": "event_poe1_a9_recurring_nightmare",
+   "name": "Recurring Nightmare",
+   "story_order": 1902,
+   "acts": [
+    "act_poe1_act9"
+   ],
+   "summary": "Required Act 9 quest. Sin asks the Exile to gather Basilisk Acid and Trarthan Powder (Refinery, Boiling Lake) so he can burn a new entrance into the Beast. The Exile meets Sin at the Quarry, enters the Belly of the Beast, and kills the Depraved Trinity; Lilly Roth then offers to ferry the Exile to Oriath for Act 10.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_recurring_nightmare",
+     "locator": "walkthrough: 'Talk to Sin in Highgate about the Beast and what to do'; 'Meet Sin at the Quarry, where he will burn open a new entrance into the Belly of the Beast'; completion: 'You have killed the Depraved Trinity. Now talk to Lilly to gain access to Act 10'; Lilly Roth: 'Say the words and we'll set the sails.'"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "in:participates_in:char_depraved_trinity(character)",
+    "in:part_of:event_poe1_a9_enter_beast(event)",
+    "in:part_of:event_poe1_a9_kill_depraved_trinity(event)",
+    "out:leads_to:event_poe1_a10_arrive_oriath(event)"
+   ]
+  },
+  {
+   "id": "event_poe1_a9_enter_beast",
+   "name": "Entering the Beast's Belly",
+   "story_order": 1903,
+   "acts": [
+    "poe1_act9"
+   ],
+   "summary": "Sin burns a new entrance into the Beast's corpse using Basilisk acid and mining powder.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_recurring_nightmare",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "out:part_of:event_poe1_a9_recurring_nightmare(event)",
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act9(act)",
+    "in:participates_in:deity_beast(deity)"
+   ]
+  },
+  {
+   "id": "event_poe1_a9_kill_depraved_trinity",
+   "name": "The Exile Kills the Depraved Trinity",
+   "story_order": 1904,
+   "acts": [
+    "poe1_act9"
+   ],
+   "summary": "The three harvested souls merge into the Depraved Trinity in the Rotting Core and are destroyed; Lilly then offers passage to Oriath.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_recurring_nightmare",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poewiki_the_depraved_trinity",
+     "locator": "Intro"
+    }
+   ],
+   "current_links": [
+    "out:part_of:event_poe1_a9_recurring_nightmare(event)",
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act9(act)",
+    "in:part_of:char_shavronne(character)",
+    "in:part_of:char_maligaro(character)",
+    "in:part_of:char_doedre(character)"
+   ]
+  },
+  {
+   "id": "event_poe1_a10_arrive_oriath",
+   "name": "Return to Oriath",
+   "story_order": 1951,
+   "acts": [
+    "poe1_act10"
+   ],
+   "summary": "Lilly Roth ferries the exile to Oriath Docks; Lani describes Vilenta's betrayal.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_act_10",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_safe_passage",
+     "locator": "Lani dialogue"
+    }
+   ],
+   "current_links": [
+    "in:leads_to:event_poe1_a9_recurring_nightmare(event)",
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act10(act)"
+   ]
+  },
+  {
+   "id": "event_poe1_a10_rescue_bannon",
+   "name": "The Exile Rescues Bannon",
+   "story_order": 1952,
+   "acts": [
+    "poe1_act10"
+   ],
+   "summary": "The exile saves Bannon from Kitava's cultists on the Cathedral Rooftop.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_safe_passage",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "out:part_of:act_poe1_act10(act)",
+    "in:participates_in:char_bannon(character)",
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act10(act)"
+   ]
+  },
+  {
+   "id": "event_poe1_a10_resurrect_innocence",
+   "name": "Bannon Resurrects Innocence",
+   "story_order": 1953,
+   "acts": [
+    "poe1_act10"
+   ],
+   "summary": "Bannon uses the Staff of Avarius and sacrifices himself to host the reborn Innocence.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_death_and_rebirth",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act10(act)",
+    "in:participates_in:deity_innocence(deity)"
+   ]
+  },
+  {
+   "id": "event_poe1_a10_break_horns",
+   "name": "Innocence Breaks Kitava's Horns",
+   "story_order": 1954,
+   "acts": [
+    "poe1_act10"
+   ],
+   "summary": "Innocence destroys the black gates blocking the Canals.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_an_end_to_hunger",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_act10(act)"
+   ]
+  },
+  {
+   "id": "event_poe1_a10_kill_kitava",
+   "name": "The Exile Kills Kitava",
+   "story_order": 1955,
+   "acts": [
+    "act_poe1_act10",
+    "poe1_act10"
+   ],
+   "summary": "In the Feeding Trough, with Sin and Innocence's help, the exile kills Kitava and unlocks the Epilogue; Sin: 'you are no exile'.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (Act 5 to Act 10 sequence)"
+    },
+    {
+     "source_id": "src_poewiki_an_end_to_hunger",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poewiki_kitava_the_insatiable",
+     "locator": "Final boss of Act 10"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "in:precedes:event_exiles_sentenced_to_wraeclast(event)",
+    "out:precedes:event_seed_of_corruption_released(event)",
+    "out:precedes:event_atlas_defeat_elder(event)",
+    "out:leads_to:event_toward_the_future(event)",
+    "in:participates_in:creature_kitavas_heart(creature)",
+    "out:occurs_in:act_poe1_act10(act)",
+    "in:participates_in:deity_kitava(deity)"
+   ]
+  },
+  {
+   "id": "event_poe1_epilogue_sail_away",
+   "name": "Sailing Away from Oriath",
+   "story_order": 2001,
+   "acts": [
+    "poe1_epilogue"
+   ],
+   "summary": "After Kitava's death Lilly Roth, in a class-specific line, offers to sail the exile away from Oriath and the quest 'Toward the Future' leads to the Epilogue.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_toward_the_future",
+     "locator": "Lilly dialogue"
+    }
+   ],
+   "current_links": [
+    "in:leads_to:event_toward_the_future(event)",
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_epilogue(act)"
+   ]
+  },
+  {
+   "id": "event_poe1_epilogue_atlas_begins",
+   "name": "Karui Shores and the Atlas of Worlds",
+   "story_order": 2003,
+   "acts": [
+    "poe1_epilogue"
+   ],
+   "summary": "The exile reaches Karui Shores and starts mapping.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_a_call_to_arms",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poewiki_campaign",
+     "locator": "Overview"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:occurs_in:act_poe1_epilogue(act)"
+   ]
+  }
+ ],
+ "poe1_atlas": [
+  {
+   "id": "event_atlas_call_to_arms",
+   "name": "Commissioned by Kirac, the Exile Enters the Atlas",
+   "story_order": 3001,
+   "acts": [],
+   "summary": "After the campaign the Exile receives a tier-1 map from Commander Kirac, kills a map boss and is commissioned to aid the Citizen Vanguard.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_a_call_to_arms",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poewiki_the_atlas_of_worlds",
+     "locator": "objective"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)"
+   ]
+  },
+  {
+   "id": "event_atlas_shaper_hunt",
+   "name": "Zana's Hidden Architect: the Shaper Hunt",
+   "story_order": 3010,
+   "acts": [],
+   "summary": "Legacy story: Zana sends the Exile into Shaper-influenced maps; seven memory fragments reveal the Shaper's origin as Valdo.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_hidden_architect",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poewiki_the_shaper_quest",
+     "locator": "Assignments"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)"
+   ]
+  },
+  {
+   "id": "event_atlas_defeat_shaper",
+   "name": "The Exile Defeats the Shaper",
+   "story_order": 3020,
+   "acts": [],
+   "summary": "After breaking the four Guardians, the Exile and Zana beat the Shaper in his Realm; he drops The Shaper's Key.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sanity_s_requiem",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poewiki_the_shaper_quest",
+     "locator": "Assignment 11-12"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:causes:event_atlas_defeat_elder(event)"
+   ]
+  },
+  {
+   "id": "event_atlas_defeat_elder",
+   "name": "The Exile and Zana Expel the Elder",
+   "story_order": 3030,
+   "acts": [],
+   "summary": "The Exile lures the Elder to the centre of the Atlas and Zana uses the Cosmic Arcana to expel it; the Elder is defeated (Shaper route). Sirus's sacrifice belongs only to the Elderslayers version (event_atlas_elderslayers).",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Elder and the Shaper' and 'Defeat of the Elder'"
+    },
+    {
+     "source_id": "src_poewiki_the_eldritch_decay_quest",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Zana section"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "in:precedes:event_poe1_a10_kill_kitava(event)",
+    "in:causes:event_atlas_defeat_shaper(event)",
+    "out:leads_to:event_atlas_conquerors(event)",
+    "out:leads_to:concept_the_struggle(concept)"
+   ]
+  },
+  {
+   "id": "event_atlas_sirus_awakens",
+   "name": "Sirus Awakens and Burns Oriath",
+   "story_order": 3060,
+   "acts": [],
+   "summary": "Sirus returns with a storm, builds his own device, burns Oriath; the Exile defeats him; Zana leaves the Atlas.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Sirus"
+    },
+    {
+     "source_id": "src_poewiki_sirus_journals",
+     "locator": "Journal 4"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)"
+   ]
+  },
+  {
+   "id": "event_atlas_maven_witness",
+   "name": "The Envoy Introduces the Maven",
+   "story_order": 3070,
+   "acts": [],
+   "summary": "Map bosses killed under the Maven's witness earn her Beacon and Invitations.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_maven_quest",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poewiki_the_atlas_of_worlds",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "out:precedes:event_the_mavens_game(event)",
+    "in:participates_in:char_exile_poe1(character)",
+    "in:part_of:artifact_maven_beacon(artifact)",
+    "in:participates_in:char_envoy(character)",
+    "in:participates_in:char_maven(character)"
+   ]
+  },
+  {
+   "id": "event_the_mavens_game",
+   "name": "The Maven's Game (quest)",
+   "story_order": 3075,
+   "acts": [
+    "act_poe1_epilogue"
+   ],
+   "summary": "Epilogue quest that starts when the Exile enters Absence of Mercy and Empathy with a Maven's Writ; it culminates in the Maven pinnacle boss fight. Defeating the Maven unlocks the Ceremonial Voidstone (reported to Commander Kirac); the quest's final steps have the Exile use an Atlas Book of Skill for 1 Atlas passive skill point and 2 Atlas passive respec points.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_maven_s_game",
+     "locator": "infobox (required=no, start 'Obtain a The Maven's Writ', completion 'Defeat The Maven') and Walkthrough: quest-log lines 'Challenge the Maven', 'Talk to Commander Kirac', 'Use the Atlas Book of Skill'; version history 3.13.0 'Introduced to the game'"
+    },
+    {
+     "source_id": "src_poewiki_the_maven_quest",
+     "locator": "Walkthrough, final paragraph: after the final invitation the player forms 'The Maven's Writ which is used to challenge The Maven'"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "in:participates_in:char_maven(character)",
+    "in:precedes:event_atlas_maven_witness(event)",
+    "out:associated_with:artifact_atlas_book_of_skill(artifact)",
+    "out:associated_with:artifact_voidstone(artifact)"
+   ]
+  },
+  {
+   "id": "event_atlas_siege",
+   "name": "Siege of the Atlas: Exarch and Eater",
+   "story_order": 3080,
+   "acts": [],
+   "summary": "Eldritch Horrors (Searing Exarch, Eater of Worlds, Black Star, Infinite Hunger) approach; the Exile defeats their champions.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_searing_exarch_quest",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poewiki_the_eater_of_worlds_quest",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "in:part_of:event_searing_exarch_quest(event)",
+    "in:part_of:event_eater_of_worlds_quest(event)",
+    "in:participates_in:char_exile_poe1(character)",
+    "in:participates_in:deity_searing_exarch(deity)",
+    "in:participates_in:char_black_star(character)",
+    "in:participates_in:deity_eater_of_worlds(deity)",
+    "in:participates_in:char_infinite_hunger(character)"
+   ]
+  },
+  {
+   "id": "event_searing_exarch_quest",
+   "name": "The Searing Exarch (quest)",
+   "story_order": 3082,
+   "acts": [
+    "act_poe1_epilogue"
+   ],
+   "summary": "Epilogue quest added in 3.17.0 and run in parallel with The Maven and The Eater of Worlds quests. The Envoy gives the Luminous Astrolabe, which lets the Exile add Searing Exarch influence to Tier 9 to 16 maps. The Tier 11 map boss drops a Polaric Invitation to the Black Star's arena (area level 79); the Tier 16 map boss drops an Incandescent Invitation to the Searing Exarch's arena (The Absence of Patience and Wisdom). The Black Star is defeated first, then the Searing Exarch. The quest pays out Atlas passive points (2 skill points, 4 respec points on completion) and an Omniscient Voidstone via Kirac; the Exarch drops an Eldritch Voidstone if The Eater of Worlds was defeated first.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_searing_exarch_quest",
+     "locator": "infobox (boss The Searing Exarch) and Walkthrough: quest intro 'This quest runs in parallel to The Maven (quest) and The Eater of Worlds (quest)'; 'Use the Luminous Astrolabe', 'Polaric Invitation', 'Incandescent Invitation' steps; Quest Complete log 'You have gained 2 Atlas Passive Skill Points and 4 Atlas Passive Respec Points'; version history 3.17.0"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:introduced_in:league_siege_of_the_atlas(league)",
+    "out:part_of:event_atlas_siege(event)",
+    "in:participates_in:deity_searing_exarch(deity)",
+    "in:participates_in:char_black_star(character)",
+    "in:participates_in:char_envoy(character)",
+    "in:associated_with:artifact_voidstone(artifact)"
+   ]
+  },
+  {
+   "id": "event_eater_of_worlds_quest",
+   "name": "The Eater of Worlds (quest)",
+   "story_order": 3084,
+   "acts": [
+    "act_poe1_epilogue"
+   ],
+   "summary": "Epilogue quest added in 3.17.0 and run in parallel with the Maven and Searing Exarch quests. The Envoy gives the Flesh Compass, which lets the Exile add Eater of Worlds influence to Tier 9 to 16 maps. The Tier 11 map boss drops a Writhing Invitation to the Infinite Hunger's arena (Seething Chyme); the Tier 16 map boss drops a Screaming Invitation to the Eater of Worlds' arena (Absence of Symmetry and Harmony). After The Infinite Hunger is defeated, the Atlas Book of Skill (Eldritch) is obtained; Kirac gives the Grasping Voidstone on completion. The Eater drops an Eldritch Voidstone if The Searing Exarch was defeated first.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_eater_of_worlds_quest",
+     "locator": "infobox (boss The Eater of Worlds) and Walkthrough: 'Use the Flesh Compass', 'Writhing Invitation', 'Screaming Invitation' steps; log 'You have obtained the Atlas Book of Skill (Eldritch)'; Defeat The Eater of Worlds: 'If the Searing Exarch was defeated first...'; version history 3.17.0"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe1(character)",
+    "out:introduced_in:league_siege_of_the_atlas(league)",
+    "out:part_of:event_atlas_siege(event)",
+    "in:participates_in:deity_eater_of_worlds(deity)",
+    "in:participates_in:char_infinite_hunger(character)",
+    "in:participates_in:char_envoy(character)",
+    "in:associated_with:artifact_voidstone(artifact)"
+   ]
+  },
+  {
+   "id": "event_zana_destroys_atlas",
+   "name": "Zana the Originator Fractures the Atlas",
+   "story_order": 3095,
+   "acts": [],
+   "summary": "After the Incarnation of Dread, Zana tells Eagon she must destroy the Atlas, 'I am the catalyst', fracturing it into four quadrants and burning its pages; 3.28.0 rendering visible as the destroyed Atlas.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_threads_of_the_originator",
+     "locator": "Witness Zana and Eagon; Rewards 3.28 image"
+    }
+   ],
+   "current_links": [
+    "in:causes:char_zana_the_originator(character)",
+    "in:participates_in:char_exile_poe1(character)",
+    "in:leads_to:event_atlas_rework_3_28(event)"
+   ]
+  }
+ ],
+ "poe2_acts_1_3": [
+  {
+   "id": "event_poe2_exile_death_sentence",
+   "name": "Exile Escapes Ogham",
+   "story_order": 5100,
+   "acts": [
+    "act_poe2_act1"
+   ],
+   "summary": "Count Geonor sentences the PoE2 Exile to death. The Exile narrowly escapes the Executioner's hanging by jumping into the ocean.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude' (Count Geonor reign of terror)"
+    },
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "Prelude > Count Geonor"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "in:precedes:event_seed_of_corruption_released(event)",
+    "out:occurs_in:loc_ogham(location)",
+    "out:part_of:act_poe2_act1(act)"
+   ]
+  },
+  {
+   "id": "event_reaching_clearfell",
+   "name": "Slay the Bloated Miller",
+   "story_order": 5101,
+   "acts": [
+    "act_poe2_act1"
+   ],
+   "summary": "The Exile follows a wounded man's warning to Clearfell, kills the Bloated Miller, and receives a reward from Renly (the quest is on The Riverbank; the Miller attacks the camp).",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_reaching_clearfell",
+     "locator": "Walkthrough"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_riverbank(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act1(act)"
+   ]
+  },
+  {
+   "id": "event_secrets_in_the_dark",
+   "name": "Release the Hooded One from the Tree of Souls",
+   "story_order": 5102,
+   "acts": [
+    "act_poe2_act1"
+   ],
+   "summary": "In the Grelwood the Exile finds the Tree of Souls holding the Hooded One; Una says only runes can break the binding, so the Exile collects Runes of Power from the Red Vale and stabs them into the Tree with the forged Rune Spikes.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_secrets_in_the_dark",
+     "locator": "Quest 'Use the Rune Spikes' / 'Speak to Una'"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_red_vale(location)",
+    "out:occurs_in:loc_the_grelwood(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act1(act)"
+   ]
+  },
+  {
+   "id": "event_the_mysterious_shade",
+   "name": "Revive the Hooded One with Count Lachlann's ring",
+   "story_order": 5103,
+   "acts": [
+    "act_poe2_act1"
+   ],
+   "summary": "Through the Grim Tangle, the Exile brings Count Lachlann's ring to Una, who revives the Hooded One; he reveals the Seed of Corruption is in Ogham and must be recovered.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_mysterious_shade",
+     "locator": "Quest 'Witness the revival of the Hooded One'"
+    }
+   ],
+   "current_links": [
+    "in:associated_with:artifact_count_lachlanns_ring(artifact)",
+    "out:occurs_in:loc_grim_tangle(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act1(act)"
+   ]
+  },
+  {
+   "id": "event_sorrow_among_stones",
+   "name": "Open the Memorial Gate for Lachlann",
+   "story_order": 5104,
+   "acts": [
+    "act_poe2_act1"
+   ],
+   "summary": "In the Cemetery of the Eternals the Exile destroys Asinia and Praetor Draven for the two Memorial Key pieces, opens the gate, and puts Lachlann to rest.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_sorrow_among_stones",
+     "locator": "Quest 'Follow Lachlann' / 'End Lachlann's Suffering'"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_cemetery_of_the_eternals(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act1(act)"
+   ]
+  },
+  {
+   "id": "event_trail_of_corruption_act1",
+   "name": "Kill the Executioner and free Leitis",
+   "story_order": 5105,
+   "acts": [
+    "act_poe2_act1"
+   ],
+   "summary": "The Exile finds the Executioner at Ogham Village, frees his prisoner Leitis, and Leitis (who says 'He killed Eamon') then asks the Exile to depose Count Geonor.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption",
+     "locator": "Quest 'Talk to Leitis' / 'Quest Complete'"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_ogham_village(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act1(act)"
+   ]
+  },
+  {
+   "id": "event_mad_wolf_of_ogham",
+   "name": "Slay Count Geonor in Ogham Manor",
+   "story_order": 5106,
+   "acts": [
+    "act_poe2_act1"
+   ],
+   "summary": "The Exile infiltrates Ogham Manor and kills Count Geonor, freeing Ogham; Oriana escapes with the Beast, and the Hooded One sends the Exile east toward the Vastiri.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_mad_wolf_of_ogham",
+     "locator": "Quest 'Kill the Mad Wolf' / 'Return to Town'"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_ogham_manor(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act1(act)"
+   ]
+  },
+  {
+   "id": "event_earning_passage",
+   "name": "Earn passage on the Ardura caravan",
+   "story_order": 5200,
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "summary": "The Exile defeats the Sun Clan hyenas and their leader Rathbreaker for Zarka, who admits the Exile to the Ardura akhara as a jingakh.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_earning_passage",
+     "locator": "Walkthrough 'Defeat Rathbreaker' / 'Enter the Ardura Caravan'"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_vastiri(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act2(act)"
+   ]
+  },
+  {
+   "id": "event_mawdun_mine_rudja",
+   "name": "Rudja and the Faridun defector at Mawdun Mine",
+   "story_order": 5201,
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "summary": "At Mawdun Quarry and Mine, the Exile defeats Rudja and frees the defector Risu, who reveals Jamanra's plan to feed the Beast and that the Halani Gates are closed.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "Quest 'Defeat Rudja, Dread Engineer' / 'Talk to Risu about the closed Gates'"
+    }
+   ],
+   "current_links": [
+    "out:part_of:event_poe2_trail_of_corruption_act2(event)",
+    "out:occurs_in:loc_mawdun_mine(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act2(act)"
+   ]
+  },
+  {
+   "id": "event_halani_gates_first_battle",
+   "name": "First battle at the Halani Gates",
+   "story_order": 5203,
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "summary": "The Exile opens the gates with Asala; Jamanra, the Risen King, is fought at the gates and retreats behind an impassable sandstorm (Faridun page), while the Countess escapes.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "Quest 'Open the third Gate' / 'Return to the Ardura Caravan'"
+    },
+    {
+     "source_id": "src_yt_6W2cqV9l3wE",
+     "locator": "[14:20] Halani Gates closed; [23:10] Countess described (auto-captions)"
+    }
+   ],
+   "current_links": [
+    "out:part_of:event_poe2_trail_of_corruption_act2(event)",
+    "out:occurs_in:loc_halani_gates(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act2(act)"
+   ]
+  },
+  {
+   "id": "event_city_of_seven_waters",
+   "name": "Keth: the Essence of Water",
+   "story_order": 5204,
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "summary": "Following the sand-buried city of Keth, the Exile defeats Azarian, the Forsaken Son, and burns the Water Goddess Halani at her request to recover the Essence of Water.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_city_of_seven_waters",
+     "locator": "Walkthrough 'Defeat Azarian' / 'End the Water Goddess' suffering'"
+    }
+   ],
+   "current_links": [
+    "in:associated_with:artifact_essence_of_water(artifact)",
+    "out:part_of:event_poe2_trail_of_corruption_act2(event)",
+    "out:occurs_in:loc_buried_shrines(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act2(act)"
+   ]
+  },
+  {
+   "id": "event_theft_of_ivory",
+   "name": "Mastodon Tusks from the Bone Pits",
+   "story_order": 5205,
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "summary": "In the Bone Pits the Exile defeats Ekbab and Iktab for the Mastodon Tusks that Jamanra wanted for lightning powers.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_a_theft_of_ivory",
+     "locator": "Walkthrough 'Defeat Ekbab, Ancient Steed and Iktab'"
+    }
+   ],
+   "current_links": [
+    "out:part_of:event_poe2_trail_of_corruption_act2(event)",
+    "out:occurs_in:loc_bone_pits(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act2(act)"
+   ]
+  },
+  {
+   "id": "event_crown_of_stone",
+   "name": "Flame Ruby from the Titan Grotto",
+   "story_order": 5206,
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "summary": "Through the Titan Grotto's Rite of Flame, the Exile defeats Zalmarath, the Colossus, and recovers the Flame Ruby for Zarka.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_a_crown_of_stone",
+     "locator": "Walkthrough 'Defeat Zalmarath, the Colossus'"
+    }
+   ],
+   "current_links": [
+    "out:part_of:event_poe2_trail_of_corruption_act2(event)",
+    "out:occurs_in:loc_titan_grotto(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act2(act)"
+   ]
+  },
+  {
+   "id": "event_horn_of_vastiri_recreated",
+   "name": "Recreate the Horn of the Vastiri",
+   "story_order": 5207,
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "summary": "With Zarka, the Exile reforges the Horn of the Vastiri from the three sub-quest items to counter Jamanra's sandstorm, retracing Orbala's footsteps.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "Quest log 'Recreate the Horn of the Vastiri'"
+    }
+   ],
+   "current_links": [
+    "out:part_of:event_poe2_trail_of_corruption_act2(event)",
+    "out:occurs_in:loc_ardura_caravan(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act2(act)"
+   ]
+  },
+  {
+   "id": "event_sandstorm_dispelled",
+   "name": "Dispel the sandstorm with the Horn of the Vastiri",
+   "story_order": 5208,
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "summary": "The Exile sounds the Horn of the Vastiri at the sandstorm, dispelling Jamanra's barrier, and Asala then turns the caravan toward Deshar.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "Quest 'Use the Horn of the Vastiri' / 'Speak to Asala'"
+    }
+   ],
+   "current_links": [
+    "out:part_of:event_poe2_trail_of_corruption_act2(event)",
+    "out:occurs_in:loc_halani_gates(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act2(act)"
+   ]
+  },
+  {
+   "id": "event_tor_gul_defeat",
+   "name": "Defeat Tor Gul in the Spires of Deshar",
+   "story_order": 5209,
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "summary": "In Deshar the Exile climbs the Path of Mourning to the Spires, where the Faridun have taken the honoured dead, and defeats Tor Gul, the Defiler.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "Quest 'Defeat Tor Gul, the Defiler'"
+    }
+   ],
+   "current_links": [
+    "out:part_of:event_poe2_trail_of_corruption_act2(event)",
+    "out:occurs_in:loc_deshar(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act2(act)"
+   ]
+  },
+  {
+   "id": "event_dreadnought_jamanra_abomination",
+   "name": "Board the Dreadnought and defeat Jamanra, the Abomination",
+   "story_order": 5210,
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "summary": "The Exile boards the Dreadnought; Jamanra the Abomination fights, the Countess escapes, and Asala beheads Jamanra. The Beast escapes with the Countess once more.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "Quest 'Defeat Jamanra, the Abomination' / 'Speak to Asala'"
+    }
+   ],
+   "current_links": [
+    "out:part_of:event_poe2_trail_of_corruption_act2(event)",
+    "out:occurs_in:loc_the_dreadnought(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act2(act)"
+   ]
+  },
+  {
+   "id": "event_hooded_one_reveals_sin",
+   "name": "The Hooded One reveals he is Sin",
+   "story_order": 5211,
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "summary": "At a shrine northwest of the caravan, the Hooded One confesses he is Sin, the Thief of Virtue, and that he created the Beast; he sends the Exile south into the long-ago Vaal jungles to find a way to drain the Beast.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "Quest log 'Speak to the Hooded One in the Shrine to the Northwest' (quote 'I am... a god. I am the Thief of Virtue. I am Sin.')"
+    },
+    {
+     "source_id": "src_yt_6W2cqV9l3wE",
+     "locator": "[77:11] 'I am the thief of virtue.' / [77:14] 'I am sin.' (Gavryn, Act 2 full dialogue, auto-captions)"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_vastiri(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act2(act)"
+   ]
+  },
+  {
+   "id": "event_ziggurat_arrival",
+   "name": "Arrive at the Ziggurat Encampment in Utzaal",
+   "story_order": 5300,
+   "acts": [
+    "act_poe2_act3"
+   ],
+   "summary": "The Hooded One sends the Exile to Utzaal; the Exile crosses the Sandswept Marsh to the Ziggurat, meeting Oswald and Alva.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Quest 'Explore Ziggurat Encampment'"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_ziggurat_encampment(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act3(act)"
+   ]
+  },
+  {
+   "id": "event_xyclucian_machinarium",
+   "name": "Defeat Xyclucian and enter the Machinarium",
+   "story_order": 5301,
+   "acts": [
+    "act_poe2_act3"
+   ],
+   "summary": "In the Chimeral Wetlands the Exile defeats Xyclucian, the Chimera, and enters Jiquani's Machinarium, where Alva sends them after a small Soul Core.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Quest 'Defeat Xyclucian, the Chimera' / 'Enter Jiquani's Machinarium'"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_chimeral_wetlands(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act3(act)"
+   ]
+  },
+  {
+   "id": "event_zicoatl_large_soul_core",
+   "name": "Defeat Zicoatl and take the large Soul Core",
+   "story_order": 5302,
+   "acts": [
+    "act_poe2_act3"
+   ],
+   "summary": "Inside Jiquani's Sanctum the Exile powers two generators with medium Soul Cores and defeats Zicoatl, Warden of the Core, to take the large Soul Core.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Quest 'Activate two Generators' / 'Defeat Zicoatl, Warden of the Core'"
+    }
+   ],
+   "current_links": [
+    "in:associated_with:artifact_large_soul_core(artifact)",
+    "out:occurs_in:loc_jiquani_sanctum(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act3(act)"
+   ]
+  },
+  {
+   "id": "event_matlan_waterways_drained",
+   "name": "Drain the lake through the Matlan Waterways",
+   "story_order": 5303,
+   "acts": [
+    "act_poe2_act3"
+   ],
+   "summary": "The Exile powers the Infested Barrens altar with the large Soul Core and activates the Matlan Waterways, revealing the Sunken City of Utzaal.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Quest 'Activate The Matlan Waterways' / 'Talk to Alva'"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_matlan_waterways(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act3(act)"
+   ]
+  },
+  {
+   "id": "event_queen_of_filth_idol",
+   "name": "The Temple Door Idol from the Queen of Filth",
+   "story_order": 5304,
+   "acts": [
+    "act_poe2_act3"
+   ],
+   "summary": "The Exile enters the Drowned City and Aggorat, defeats the Queen of Filth, and takes the Temple Door Idol to open the Temple of Kopec.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Quest 'Defeat the Queen of Filth' / 'Pick up the Temple Door Idol'"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_aggorat(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act3(act)"
+   ]
+  },
+  {
+   "id": "event_temple_of_kopec_ketzuli",
+   "name": "Defeat Ketzuli in the Temple of Kopec",
+   "story_order": 5305,
+   "acts": [
+    "act_poe2_act3"
+   ],
+   "summary": "In the Temple of Kopec the Exile defeats Ketzuli, High Priest of the Sun, and Alva activates an elevator and gateway into the Ziggurat's past.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Quest 'Defeat Ketzuli, High Priest of the Sun' / 'Ride the Elevator'"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_temple_of_kopec(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act3(act)"
+   ]
+  },
+  {
+   "id": "event_time_portal_utzaal_past",
+   "name": "Enter the time gateway to Utzaal's past",
+   "story_order": 5306,
+   "acts": [
+    "act_poe2_act3"
+   ],
+   "summary": "The gateway sends the Exile and Alva into Utzaal's past, where the Vaal see Alva and the Exile as threats while the Cataclysm is imminent.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Quest 'Enter the Time Portal' / 'Enter Utzaal in the past'"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_ziggurat_encampment(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act3(act)"
+   ]
+  },
+  {
+   "id": "event_viper_napuatzi_defeat",
+   "name": "Defeat Viper Napuatzi in Utzaal's past",
+   "story_order": 5307,
+   "acts": [
+    "act_poe2_act3"
+   ],
+   "summary": "In Utzaal's past the Vaal general Viper Napuatzi has Alva taken to Doryani; the Exile defeats Napuatzi to open the path.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Quest 'Defeat Viper Napuatzi' / 'Rescue Alva'"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_ziggurat_encampment(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act3(act)"
+   ]
+  },
+  {
+   "id": "event_doryani_captured",
+   "name": "Capture Doryani in the Black Chambers",
+   "story_order": 5308,
+   "acts": [
+    "act_poe2_act3",
+    "poe2_act3"
+   ],
+   "summary": "The Exile fights through Aggorat to the Black Chambers, rescues Alva, and captures Doryani, who agrees to help contain the Beast with a piece of the Precursor weapon.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Quest 'Capture Doryani for his knowledge of the Beast'"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Capture Doryani"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_black_chambers(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act3(act)",
+    "in:leads_to:event_poe2_a3_utzaal_time_travel(event)",
+    "out:leads_to:event_utzaal_past_cataclysm(event)"
+   ]
+  },
+  {
+   "id": "event_utzaal_past_cataclysm",
+   "name": "Survive the Utzaal Cataclysm through the gateway",
+   "story_order": 5309,
+   "acts": [
+    "act_poe2_act3",
+    "poe2_act3"
+   ],
+   "summary": "The Exile and Alva survive the Cataclysm in Utzaal's past and return through the gateway with Doryani, who then laments that his people are long dead.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Quest 'Use the Gateway' / 'Survive the Cataclysm'"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Survive the Cataclysm"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_ziggurat_encampment(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act3(act)",
+    "in:continues_in:event_vaal_cataclysm(event)",
+    "in:leads_to:event_doryani_captured(event)",
+    "out:part_of:event_vaal_cataclysm(event)"
+   ]
+  },
+  {
+   "id": "event_doryani_joins_exile",
+   "name": "Doryani joins the Exile and the Hooded One in the present",
+   "story_order": 5310,
+   "acts": [
+    "act_poe2_act3"
+   ],
+   "summary": "In the present Doryani confirms he holds one piece of an ancient anti-Corruption weapon; Alva proposes Kingsmarch as a base, and the Hooded One decides the group should travel south to Ngamakanui to find the other pieces.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Quest 'Speak to Alva' / 'Travel to Kingsmarch'"
+    }
+   ],
+   "current_links": [
+    "out:occurs_in:loc_ziggurat_encampment(location)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act3(act)"
+   ]
+  }
+ ],
+ "poe2_act4_interludes_act5": [
+  {
+   "id": "event_poe2_a4_arrive_kingsmarch",
+   "name": "Arrival in Kingsmarch",
+   "story_order": 5400,
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "summary": "Exile, Hooded One and Doryani reach Kingsmarch to find the Weapon; Doryani laments science never recovered; the Hooded One says the Kalguurans 'have potential'.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Talk to Doryani"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act4(act)"
+   ]
+  },
+  {
+   "id": "event_poe2_a4_hire_aurora_may",
+   "name": "Charter of the Aurora May",
+   "story_order": 5401,
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "summary": "Alva introduces Rog, who sells a Boat Charter for Vaal treasure; Makoru and Kanu will take the Exile to the most dangerous islands.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Talk to Alva; Take the Boat Charter"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act4(act)"
+   ]
+  },
+  {
+   "id": "event_poe2_a4_island_weapon_pieces",
+   "name": "Island search for weapon pieces",
+   "story_order": 5402,
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "summary": "The Exile sails the Karui islands (e.g. Isle of Kin, Shrike Island, Whakapanu, Abandoned Prison) to find the three Weapon pieces, whose island locations rotate; bosses include Krutog, Diamora, the Prisoner and the Scourge of the Skies. Kedge Bay is separate Dark Mists content.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "Progression + piece table"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Explore the Islands"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act4(act)"
+   ]
+  },
+  {
+   "id": "event_poe2_a4_precursor_script_memory",
+   "name": "Hooded One recalls Precursor script",
+   "story_order": 5403,
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "summary": "On the first and second Weapon pieces the Hooded One recognises Precursor writing from a faded mortal memory (a woman's lap, a vivid book; later: sent to live among the Azmeri with a brother and sister, but earlier 'somewhere else' with works of stone, metal and glass).",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Witness the Hooded One (1st and 2nd pieces)"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Witness The Hooded One (first and second pieces)"
+    }
+   ],
+   "current_links": [
+    "out:reveals:char_the_hooded_one(character)",
+    "out:part_of:act_poe2_act4(act)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:precedes:event_poe2_a4_reveal_third_edict(event)",
+    "in:participates_in:char_the_hooded_one(character)"
+   ]
+  },
+  {
+   "id": "event_poe2_a4_utopia_oath",
+   "name": "Utopia on Arastas",
+   "story_order": 5404,
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "summary": "Missionary Lorandis sends the Exile to Arastas to swear an oath to the Saviour; Servitor Marius offers Utopia; refusal completes the quest, and Benedictus and Kanu's treachery follow.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_utopia",
+     "locator": "Quest description"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Travel to Arastas"
+    }
+   ],
+   "current_links": [
+    "in:associated_with:concept_utopia(concept)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act4(act)"
+   ]
+  },
+  {
+   "id": "event_poe2_a4_defeat_torvian",
+   "name": "Exile defeats Torvian",
+   "story_order": 5405,
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "summary": "On Arastas the Exile defeats Torvian, Hand of the Saviour, after the Twilight Order ambush at the church.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Defeat Torvian, Hand of the Saviour"
+    },
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "Progression: Arastas boss"
+    }
+   ],
+   "current_links": [
+    "out:part_of:act_poe2_act4(act)",
+    "in:participates_in:char_exile_poe2(character)",
+    "in:participates_in:char_torvian(character)",
+    "out:precedes:event_poe2_a4_defeat_benedictus(event)"
+   ]
+  },
+  {
+   "id": "event_poe2_a4_defeat_benedictus",
+   "name": "Exile defeats Benedictus",
+   "story_order": 5406,
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "summary": "In the Excavation the Countess leaves Benedictus to hold the Exile; he is defeated, and Kanu, begging to be taken along, reveals the Beast is in Oriath before Tavakai strikes him down.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Confront Kanu and the First Herald; Defeat Benedictus"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Defeat Benedictus"
+    }
+   ],
+   "current_links": [
+    "out:part_of:act_poe2_act4(act)",
+    "in:participates_in:char_exile_poe2(character)",
+    "in:participates_in:char_benedictus(character)",
+    "in:precedes:event_poe2_a4_defeat_torvian(event)",
+    "out:precedes:event_poe2_a4_reveal_third_edict(event)",
+    "out:reveals:event_twilight_order_rebuilds_oriath(event)",
+    "out:precedes:event_poe2_siege_of_oriath(event)"
+   ]
+  },
+  {
+   "id": "event_poe2_a4_tavakai_steals_weapon",
+   "name": "Tavakai seizes the Weapon",
+   "story_order": 5407,
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "summary": "After the reforging Tavakai takes the Weapon for the Karui and flees to Ngakanu with Makoru; the Hooded One warns of its Corruption.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Witness the Hooded One reforge the Weapon"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act4(act)"
+   ]
+  },
+  {
+   "id": "event_poe2_a4_reveal_third_edict",
+   "name": "Weapon reforged; Third Edict revealed",
+   "story_order": 5408,
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "summary": "In the Excavated Site the Hooded One reforges the Weapon and Tavakai seizes it; back in Kingsmarch the Hooded One reads the inscription 'The instrument of the Third Edict', made to cleanse Corruption and destroy the Beast.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Witness the Hooded One reforge the Weapon; Return to Kingsmarch"
+    }
+   ],
+   "current_links": [
+    "out:reveals:artifact_precursor_weapon(artifact)",
+    "out:part_of:act_poe2_act4(act)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:reveals:text_edict_third(text)",
+    "in:precedes:event_poe2_a4_defeat_benedictus(event)",
+    "in:precedes:event_poe2_a4_precursor_script_memory(event)",
+    "out:occurs_in:loc_the_excavation(location)",
+    "out:reveals:concept_the_edicts(concept)",
+    "in:participates_in:char_the_hooded_one(character)",
+    "in:witnesses:char_doryani(character)",
+    "in:leads_to:event_poe2_geonor_seizes_seed(event)"
+   ]
+  },
+  {
+   "id": "event_poe2_a4_defeat_tavakai",
+   "name": "Tavakai defeated at Heart of the Tribe",
+   "story_order": 5409,
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "summary": "Tavakai fights in three phases; Tukohama rejects him ('This... is not the Way'); the Exile defeats him.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Defeat Tavakai"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act4(act)"
+   ]
+  },
+  {
+   "id": "event_poe2_a4_sin_cures_tavakai",
+   "name": "Sin cures Tavakai and Makoru",
+   "story_order": 5410,
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "summary": "The Hooded One, called Sin in the quest log, cures Tavakai and Makoru of Blood Fever with the Weapon; Tavakai pledges the Karui to fight Oriana.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Witness Sin cure Tavakai and Makoru"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act4(act)"
+   ]
+  },
+  {
+   "id": "event_poe2_a4_call_to_arms",
+   "name": "Alliance plan against Oriath",
+   "story_order": 5411,
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "summary": "The Hooded One decides to call the Ezomytes, Maraketh and Vaal (Doryani's reserves) to war before assaulting Oriath; the Karui are already allied.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Speak to the Hooded One"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_act4(act)"
+   ]
+  },
+  {
+   "id": "event_poe2_interlude_recruit_ezomytes",
+   "name": "Recruit the Ezomytes (Curse of Holten)",
+   "story_order": 5501,
+   "acts": [
+    "act_poe2_interlude1"
+   ],
+   "summary": "Exile kills Isolde, Heldra, Siora, then Thane Wulfric and Lady Elswyth, ending Holten's blight; Renly pledges all clans to the war.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_ezomytes",
+     "locator": "Quest log"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_interlude1(act)"
+   ]
+  },
+  {
+   "id": "event_poe2_interlude_recruit_maraketh",
+   "name": "Recruit the Maraketh (The Stolen Barya)",
+   "story_order": 5502,
+   "acts": [
+    "act_poe2_interlude2"
+   ],
+   "summary": "Exile defeats Elzarah, Vornas and Prince Azmadi to save the First Barya; Asala completes the Gifting of Water and brings the Maraketh to Kingsmarch.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_maraketh",
+     "locator": "Quest log"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_interlude2(act)"
+   ]
+  },
+  {
+   "id": "event_poe2_interlude_recruit_vaal",
+   "name": "Recruit the Vaal (Doryani's Contingency)",
+   "story_order": 5503,
+   "acts": [
+    "act_poe2_interlude3"
+   ],
+   "summary": "The code phrase 'the time of the sparrow has come' and defeat of Rakkar, Stormgore, Zolin and Zelina secures the Cuachic.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "Quest log"
+    },
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "quest log"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_interlude3(act)"
+   ]
+  },
+  {
+   "id": "event_poe2_siege_of_oriath",
+   "name": "Siege of Oriath",
+   "story_order": 5504,
+   "acts": [
+    "act_poe2_act4",
+    "act_poe2_interlude3"
+   ],
+   "summary": "Act 4 quest unlocked after the three Interludes: the Hooded One says Wraeclast has united and proposes an assault on Oriath, but the Exile ends up at the Ziggurat Refuge, where the endgame begins.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_siege_of_oriath",
+     "locator": "Walkthrough; infobox act = 4"
+    },
+    {
+     "source_id": "src_poe2wiki_siege_of_oriath",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poe2wiki_siege_of_oriath",
+     "locator": "infobox: completion 'End up at the Ziggurat Refuge'"
+    },
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "Quest Complete: 'If we do manage to stop the Twilight Order and slay the Beast...'"
+    }
+   ],
+   "current_links": [
+    "out:part_of:act_poe2_interlude3(act)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:leads_to:event_poe2_legacy_of_the_precursors(event)",
+    "in:precedes:event_poe2_a4_defeat_benedictus(event)",
+    "out:opposes:faction_twilight_order(faction)"
+   ]
+  },
+  {
+   "id": "event_poe2_interlude_ziggurat_refuge",
+   "name": "Landing at the Ziggurat Refuge",
+   "story_order": 5505,
+   "acts": [
+    "act_poe2_interlude3"
+   ],
+   "summary": "Siege of Oriath ends not at Oriath but at the Ziggurat Refuge; Quest Complete text says 'despite your attempts to travel to Oriath'. Why is not stated; the Beast's corruption holds the Hooded One in thrall afterwards.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_siege_of_oriath",
+     "locator": "Quest Complete"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Doryani: Beast's Corruption holds the Hooded One"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:leads_to:event_poe2_legacy_of_the_precursors(event)"
+   ]
+  },
+  {
+   "id": "event_poe2_a5_infiltrating_oriath",
+   "name": "Infiltrating Oriath (PoE2 Act 5, datamined)",
+   "story_order": 5511,
+   "acts": [
+    "act_poe2_act5"
+   ],
+   "summary": "Datamined Act 5 Normal quest listed by PoE2DB after The Siege of Oriath; the table gives no description. Unconfirmed until Act 5 is released.",
+   "sources": [
+    {
+     "source_id": "src_web_poe2db_act5",
+     "locator": "Act 5 Quest table: 'Infiltrating Oriath' row (Normal; reward none listed)"
+    },
+    {
+     "source_id": "src_poe2wiki_quest",
+     "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+    }
+   ],
+   "current_links": [
+    "out:part_of:act_poe2_act5(act)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:occurs_in:loc_oriath(location)",
+    "in:precedes:event_poe2_a5_oriath_assault(event)",
+    "out:precedes:event_poe2_a5_pinned_down(event)"
+   ]
+  },
+  {
+   "id": "event_poe2_a5_pinned_down",
+   "name": "Pinned Down (PoE2 Act 5, datamined)",
+   "story_order": 5512,
+   "acts": [
+    "act_poe2_act5"
+   ],
+   "summary": "Datamined Act 5 Normal quest listed by PoE2DB; reward Reefsteel Greaves. No description in the datamine.",
+   "sources": [
+    {
+     "source_id": "src_web_poe2db_act5",
+     "locator": "Act 5 Quest table: 'Pinned Down' row (Normal; reward Reefsteel Greaves)"
+    },
+    {
+     "source_id": "src_poe2wiki_quest",
+     "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+    }
+   ],
+   "current_links": [
+    "out:part_of:act_poe2_act5(act)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:occurs_in:loc_oriath(location)",
+    "in:precedes:event_poe2_a5_infiltrating_oriath(event)",
+    "out:precedes:event_poe2_a5_pleasure_and_pain(event)"
+   ]
+  },
+  {
+   "id": "event_poe2_a5_pleasure_and_pain",
+   "name": "Pleasure and Pain (PoE2 Act 5, datamined)",
+   "story_order": 5513,
+   "acts": [
+    "act_poe2_act5"
+   ],
+   "summary": "Datamined Act 5 Normal quest listed by PoE2DB; reward Rogue's Marker x5. No description in the datamine.",
+   "sources": [
+    {
+     "source_id": "src_web_poe2db_act5",
+     "locator": "Act 5 Quest table: 'Pleasure and Pain' row (Normal; reward Rogue's Marker x5)"
+    },
+    {
+     "source_id": "src_poe2wiki_quest",
+     "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+    }
+   ],
+   "current_links": [
+    "out:part_of:act_poe2_act5(act)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:occurs_in:loc_oriath(location)",
+    "in:precedes:event_poe2_a5_pinned_down(event)",
+    "out:precedes:event_poe2_a5_no_rest_for_the_blighted(event)"
+   ]
+  },
+  {
+   "id": "event_poe2_a5_no_rest_for_the_blighted",
+   "name": "No Rest for the Blighted (PoE2 Act 5, datamined)",
+   "story_order": 5514,
+   "acts": [
+    "act_poe2_act5"
+   ],
+   "summary": "Datamined Act 5 Normal quest listed by PoE2DB; its reward is labelled [DNT-UNUSED] Blighted Core Bomb, so it may not be in the live game.",
+   "sources": [
+    {
+     "source_id": "src_web_poe2db_act5",
+     "locator": "Act 5 Quest table: 'No Rest for the Blighted' row (Normal; reward [DNT-UNUSED] Blighted Core Bomb)"
+    },
+    {
+     "source_id": "src_poe2wiki_quest",
+     "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+    }
+   ],
+   "current_links": [
+    "out:part_of:act_poe2_act5(act)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:occurs_in:loc_oriath(location)",
+    "in:precedes:event_poe2_a5_pleasure_and_pain(event)"
+   ]
+  }
+ ],
+ "poe2_endgame": [
+  {
+   "id": "event_poe2_legacy_of_the_precursors",
+   "name": "Legacy of the Precursors (endgame quest)",
+   "story_order": 6001,
+   "acts": [
+    "act_poe2_epilogue"
+   ],
+   "summary": "The primary PoE2 endgame quest: the Hooded One sleeps, held in thrall by the Beast's Corruption; Doryani proposes recovering Precursor knowledge via the Waygate, leading to the Precursor Tower, the Fortress, the Burning Monolith, the Arbiter of Ash and (0.5) the Arbiter of Divinity.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Quest log"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "lead: primary endgame quest obtained immediately upon reaching the endgame; quest log 'Check on the Hooded One' / 'Speak to Doryani'"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Quest log steps 1-147, Quest Complete"
+    }
+   ],
+   "current_links": [
+    "in:leads_to:event_poe2_interlude_ziggurat_refuge(event)",
+    "out:part_of:act_poe2_epilogue(act)",
+    "in:participates_in:char_exile_poe2(character)",
+    "out:occurs_in:concept_poe2_atlas_of_worlds(concept)",
+    "in:leads_to:event_poe2_siege_of_oriath(event)",
+    "out:reveals:text_edict_fourth(text)",
+    "out:reveals:text_edict_first(text)"
+   ]
+  },
+  {
+   "id": "event_poe2_epilogue_waygate",
+   "name": "Doryani's Waygate",
+   "story_order": 6005,
+   "acts": [
+    "act_poe2_epilogue"
+   ],
+   "summary": "Doryani introduces and activates a Waygate on Precursor leylines at the Ziggurat; Waystones and the Map Device open the endgame Atlas. Who originally built the Waygate is not stated.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Speak to Doryani: leylines, Waygate"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:part_of:act_poe2_epilogue(act)"
+   ]
+  },
+  {
+   "id": "event_poe2_waygate_first_map",
+   "name": "Testing the Waygate",
+   "story_order": 6010,
+   "acts": [],
+   "summary": "Doryani has the Exile run the first Waystone map; he had not tested the Waygate beforehand ('Science is a process').",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "quest steps 'Select and enter a Map' / Doryani 'Our first step is a success! The Waygate does indeed work.'"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)"
+   ]
+  },
+  {
+   "id": "event_poe2_precursor_tower",
+   "name": "Activating the Precursor Tower",
+   "story_order": 6020,
+   "acts": [],
+   "summary": "The Exile reaches a Precursor Tower and activates its beacon; an Irradiated Tablet drops and (in 0.5) the Precursor Fortress rises from the ground in a cinematic.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Activate the Precursor Beacon: 'An Irradiated Tablet will drop, and the Precursor Fortress will rise from the ground in a cinematic.'"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)"
+   ]
+  },
+  {
+   "id": "event_poe2_ancient_gateway",
+   "name": "Ancient Gateway and the Fortress Gateways",
+   "story_order": 6030,
+   "acts": [],
+   "summary": "After the Fortress rises, the Exile travels to the Ancient Gateway, uses levers to reach the central platform, summons Doryani and activates another Precursor Beacon, which opens the way to the Burning Monolith (quest log, Legacy of the Precursors).",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "quest log: 'Travel to the Ancient Gateway', 'Defeat the Precursor Separator', 'Ride the Elevator'"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)"
+   ]
+  },
+  {
+   "id": "event_poe2_burning_monolith",
+   "name": "The Burning Monolith",
+   "story_order": 6040,
+   "acts": [],
+   "summary": "Endgame site reached during Legacy of the Precursors ('Reach the Burning Monolith') after the Ancient Gateway. In 0.1-0.4 it was found directly on the Atlas and opened with three Crisis Fragments (The Pinnacle of Flame); in 0.5 it stands inside the Precursor Fortress.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "'Reach the Burning Monolith', 'Return to the Burning Monolith'"
+    },
+    {
+     "source_id": "src_poe2wiki_the_pinnacle_of_flame",
+     "locator": "Find The Burning Monolith on the endgame map; obtain three Crisis Fragments to open the locked door"
+    }
+   ],
+   "current_links": [
+    "out:leads_to:event_poe2_vaal_incursion(event)",
+    "out:leads_to:event_poe2_faridun_foray(event)",
+    "out:leads_to:event_poe2_ezomyte_infiltration(event)",
+    "in:participates_in:char_exile_poe2(character)"
+   ]
+  },
+  {
+   "id": "event_poe2_enigma_chambers",
+   "name": "Western and Eastern Gateways, Enigma Chambers: Count Geonor and Doryani",
+   "story_order": 6050,
+   "acts": [],
+   "summary": "From the Burning Monolith the Exile clears the Western Gateway (guardian: Precursor Separator) and Eastern Gateway (Precursor Refiner) via levers, then fights Count Geonor in the Western Enigma Chamber (Ancient Crisis Fragment) and Doryani in the Eastern Enigma Chamber (Weathered Crisis Fragment) (quest log; this section of the wiki log is in a hidden comment block, so medium confidence). The Doryani and Geonor fights echo the Citadel bosses of 0.1-0.4.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "'Defeat Count Geonor', 'Defeat Doryani', 'Pick up the Ancient Crisis Fragment', 'Pick up the Weathered Crisis Fragment'"
+    },
+    {
+     "source_id": "src_web_domistae_poe2_endgame_guide",
+     "locator": "Enigma Chambers drop the two Crisis Fragments"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)"
+   ]
+  },
+  {
+   "id": "event_poe2_defeat_arbiter_of_ash",
+   "name": "Defeating the Arbiter of Ash",
+   "story_order": 6060,
+   "acts": [],
+   "summary": "The Exile kills the Arbiter of Ash at the Burning Monolith. In 0.5 it is a quest boss inside the Fortress and no longer the apex; afterwards a mysterious rider on a wyrm (Tecrod) steals the Flame Seed.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "step 101 'Defeat the Arbiter of Ash'"
+    },
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore: Mysterious Entity riding a wyrm steals the Flame Seed after the Arbiter of Ash is defeated"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "step 101"
+    },
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:occurs_in:loc_the_burning_monolith(location)",
+    "out:precedes:event_poe2_defeat_arbiter_of_divinity(event)",
+    "out:leads_to:event_poe2_defeat_arbiter_of_divinity(event)"
+   ]
+  },
+  {
+   "id": "event_poe2_precursor_halls",
+   "name": "The Patriarch and Matriarch Halls",
+   "story_order": 6065,
+   "acts": [],
+   "summary": "After the Arbiter of Ash falls and the Origin Tower is explored, Doryani sends the Exile to the Patriarch and Matriarch Halls: defeat Phyx, Sentinel of the Spark (Origin Spark) and Phya, Sentinel of the Cradle (Origin Cradle); the two are combined in the Precursor Reactor into the Origin Core. Source steps sit in a hidden comment block of the quest log (medium).",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "steps 112-137: 'Defeat Phyx, Sentinel of the Spark', 'Defeat Phya, Sentinel of the Cradle', 'Pick up the Origin Spark/Cradle', 'Activate the Precursor Reactor', 'Pick up the Origin Core'"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)"
+   ]
+  },
+  {
+   "id": "event_poe2_origin_tower",
+   "name": "The Origin Core and the Origin Tower",
+   "story_order": 6070,
+   "acts": [],
+   "summary": "Combining the Origin Cradle and Origin Spark (from the Matriarch and Patriarch Halls) in the Precursor Reactor yields the Origin Core; when the Exile places it in the Origin Tower, Tecrod's wyrm incapacitates the Exile and Tecrod exults 'With this, the Master shall know unending power!' before the Arbiter of Divinity destroys his body.",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore: when the player places the Origin Core into the Origin Tower, Tecrod's wyrm incapacitates the character"
+    },
+    {
+     "source_id": "src_web_domistae_poe2_endgame_guide",
+     "locator": "Matriarch and Patriarch Halls drop Origin Cradle and Origin Spark; combine into Origin Core at the Precursor Reactor"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "in:part_of:artifact_origin_core(artifact)"
+   ]
+  },
+  {
+   "id": "event_poe2_defeat_arbiter_of_divinity",
+   "name": "Arbiter of Divinity destroys Tecrod; First Edict averted",
+   "story_order": 6080,
+   "acts": [],
+   "summary": "In the Origin Tower the Exile places the Origin Core; Tecrod's wyrm incapacitates the Exile and Tecrod exults 'With this, the Master shall know unending power!'; the Arbiter of Divinity destroys Tecrod's body ('Your kind shall never ordain the First Edict!') and is then fought by the Exile (quest step 141).",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "step 141 'Defeat the Arbiter of Divinity'"
+    },
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "his body is destroyed by the Arbiter of Divinity"
+    },
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "steps 139-141, Quest Complete"
+    }
+   ],
+   "current_links": [
+    "in:participates_in:char_exile_poe2(character)",
+    "out:occurs_in:loc_the_origin_tower(location)",
+    "in:precedes:event_poe2_defeat_arbiter_of_ash(event)",
+    "in:leads_to:event_poe2_defeat_arbiter_of_ash(event)"
+   ]
+  }
+ ]
+}

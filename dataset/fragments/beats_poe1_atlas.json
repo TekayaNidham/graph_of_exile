@@ -1,0 +1,880 @@
+{
+  "domain": "beats_poe1_atlas",
+  "sources": [
+    {
+      "id": "src_poewiki_a_call_to_arms",
+      "title": "A Call to Arms - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/A_Call_to_Arms",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_history_of_wraeclast",
+      "title": "History of Wraeclast - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/History_of_Wraeclast",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_sanity_s_requiem",
+      "title": "Sanity's Requiem - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Sanity's_Requiem",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_atlas_of_worlds",
+      "title": "The Atlas of Worlds (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Atlas_of_Worlds",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_eater_of_worlds_quest",
+      "title": "The Eater of Worlds (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Eater_of_Worlds_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_eldritch_decay_quest",
+      "title": "The Eldritch Decay (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Eldritch_Decay_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_hidden_architect",
+      "title": "The Hidden Architect - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Hidden_Architect",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_maven_quest",
+      "title": "The Maven (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Maven_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_maven_s_game",
+      "title": "The Maven's Game - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Maven's_Game",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_searing_exarch_quest",
+      "title": "The Searing Exarch (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Searing_Exarch_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_shaper_quest",
+      "title": "The Shaper (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Shaper_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_threads_of_the_originator",
+      "title": "Threads of the Originator - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Threads_of_the_Originator",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_elder_quest",
+      "title": "The Elder (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Elder_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "loc_absence_of_mercy_and_empathy",
+      "name": "Absence of Mercy and Empathy",
+      "aliases": [],
+      "type": "location",
+      "subtype": "atlas_map_realm",
+      "summary": "The Maven's realm in the Atlas; entering it with a The Maven's Writ starts The Maven's Game epilogue quest and hosts the Maven pinnacle fight.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Atlas epilogue (after the campaign)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maven_s_game",
+          "locator": "intro paragraph: 'This quest will automatically be obtained after entering Absence of Mercy and Empathy using a The Maven's Writ'"
+        }
+      ]
+    },
+    {
+      "id": "loc_absence_of_patience_and_wisdom",
+      "name": "Absence of Patience and Wisdom",
+      "aliases": [],
+      "type": "location",
+      "subtype": "atlas_map_realm",
+      "summary": "Atlas map realm where The Searing Exarch is fought in the Searing Exarch epilogue quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Atlas epilogue (after the campaign)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_searing_exarch_quest",
+          "locator": "Quest log: 'Enter The Absence of Patience and Wisdom'"
+        }
+      ]
+    },
+    {
+      "id": "loc_absence_of_symmetry_and_harmony",
+      "name": "Absence of Symmetry and Harmony",
+      "aliases": [],
+      "type": "location",
+      "subtype": "atlas_map_realm",
+      "summary": "Atlas map realm where The Eater of Worlds is fought in the Eater of Worlds epilogue quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Atlas epilogue (after the campaign)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eater_of_worlds_quest",
+          "locator": "Quest log: 'Enter Absence of Symmetry and Harmony'"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_char_kirac__participates_in__event_atlas_call_to_arms",
+      "source": "char_kirac",
+      "target": "event_atlas_call_to_arms",
+      "relation": "participates_in",
+      "description": "Commander Kirac, in the Karui Shores War Room, gives the Exile the Tier 1 map that starts the Atlas quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_a_call_to_arms",
+          "locator": "Walkthrough: 'Upon entering Karui Shores ... War Room ... Commander Kirac ... give the player a Tier 1 map'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_atlas_call_to_arms__occurs_in__loc_karui_shores",
+      "source": "event_atlas_call_to_arms",
+      "target": "loc_karui_shores",
+      "relation": "occurs_in",
+      "description": "The commissioning takes place in the Karui Shores War Room.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_a_call_to_arms",
+          "locator": "Walkthrough: 'Upon entering Karui Shores for the first time'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_atlas_call_to_arms__occurs_in__loc_atlas_of_worlds",
+      "source": "event_atlas_call_to_arms",
+      "target": "loc_atlas_of_worlds",
+      "relation": "occurs_in",
+      "description": "The map boss the Exile kills to complete the quest is fought in a Tier 1 Atlas map.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_atlas_of_worlds",
+          "locator": "objective: entering the Atlas maps via portals; 'Defeat the Map Boss and return to Commander Kirac'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_shaper__participates_in__event_atlas_shaper_hunt",
+      "source": "char_shaper",
+      "target": "event_atlas_shaper_hunt",
+      "relation": "participates_in",
+      "description": "The Shaper, Valdo reduced to a shell, is the subject of the seven memory fragments in this legacy quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_shaper_quest",
+          "locator": "Assignments: memory fragments of the Shaper"
+        }
+      ]
+    },
+    {
+      "id": "e_event_atlas_shaper_hunt__occurs_in__loc_atlas_of_worlds",
+      "source": "event_atlas_shaper_hunt",
+      "target": "loc_atlas_of_worlds",
+      "relation": "occurs_in",
+      "description": "The hunt takes place in Shaper-influenced Atlas maps (Tier 2 to 6).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_hidden_architect",
+          "locator": "Walkthrough: 'Players must explore Shaper-influenced maps'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_shaper__participates_in__event_atlas_defeat_shaper",
+      "source": "char_shaper",
+      "target": "event_atlas_defeat_shaper",
+      "relation": "participates_in",
+      "description": "The Shaper is the boss the Exile and Zana defeat in his Realm after the four Guardians are broken.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sanity_s_requiem",
+          "locator": "Walkthrough: 'enter the Shaper's Realm and defeat The Shaper'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_zana__participates_in__event_atlas_defeat_shaper",
+      "source": "char_zana",
+      "target": "event_atlas_defeat_shaper",
+      "relation": "participates_in",
+      "description": "Zana fights alongside the Exile against the Shaper in his Realm.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'The Atlas of Worlds' > 'Zana': 'Encountering the Shaper in the Shaper's Realm, Zana and the exile were attacked by the Shaper ... he was defeated by the exile and Zana.'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_atlas_defeat_shaper__occurs_in__loc_shapers_realm",
+      "source": "event_atlas_defeat_shaper",
+      "target": "loc_shapers_realm",
+      "relation": "occurs_in",
+      "description": "The Shaper is defeated in the Shaper's Realm at the centre of the Atlas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sanity_s_requiem",
+          "locator": "objective: 'access the Shaper's Realm in the centre of the Atlas'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_elder__participates_in__event_atlas_defeat_elder",
+      "source": "char_elder",
+      "target": "event_atlas_defeat_elder",
+      "relation": "participates_in",
+      "description": "The Elder is the boss expelled from the Atlas after being lured to its centre.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eldritch_decay_quest",
+          "locator": "Walkthrough: 'To spawn the Elder at the Shaper's Realm ... defeat the other Shaper Guardian'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_zana__participates_in__event_atlas_defeat_elder",
+      "source": "char_zana",
+      "target": "event_atlas_defeat_elder",
+      "relation": "participates_in",
+      "description": "Zana uses the Cosmic Arcana to expel the Elder from the Atlas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'Defeat of the Elder' and 'Zana section'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_atlas_defeat_elder__occurs_in__loc_shapers_realm",
+      "source": "event_atlas_defeat_elder",
+      "target": "loc_shapers_realm",
+      "relation": "occurs_in",
+      "description": "The Elder is lured to the centre of the Atlas, where the Shaper's Realm is.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eldritch_decay_quest",
+          "locator": "Walkthrough: 'To spawn the Elder at the Shaper's Realm'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_atlas_defeat_elder__occurs_in__loc_absence_of_value_and_meaning",
+      "source": "event_atlas_defeat_elder",
+      "target": "loc_absence_of_value_and_meaning",
+      "relation": "occurs_in",
+      "description": "The Elder is fought in the Absence of Value and Meaning Atlas realm.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_elder_quest",
+          "locator": "Walkthrough, 'The Elder': 'Use these fragments to defeat The Elder in Absence of Value and Meaning.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_sirus__participates_in__event_atlas_sirus_awakens",
+      "source": "char_sirus",
+      "target": "event_atlas_sirus_awakens",
+      "relation": "participates_in",
+      "description": "Sirus returns with a storm, builds his own device and burns Oriath before the Exile defeats him.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'The Atlas of Worlds' > 'The Elderslayers' > 'Sirus': 'Sirus returned with a great storm ... created his own map device and used it to enter Oriath ... Oriath was burned to the ground.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_zana__participates_in__event_atlas_sirus_awakens",
+      "source": "char_zana",
+      "target": "event_atlas_sirus_awakens",
+      "relation": "participates_in",
+      "description": "Zana is present for Sirus's return and then leaves the Atlas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'Sirus'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_atlas_sirus_awakens__occurs_in__loc_oriath",
+      "source": "event_atlas_sirus_awakens",
+      "target": "loc_oriath",
+      "relation": "occurs_in",
+      "description": "Sirus burns Oriath during his return.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'Sirus'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_atlas_maven_witness__occurs_in__loc_atlas_of_worlds",
+      "source": "event_atlas_maven_witness",
+      "target": "loc_atlas_of_worlds",
+      "relation": "occurs_in",
+      "description": "The Envoy introduces the Maven while the Exile kills map bosses in the Atlas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maven_quest",
+          "locator": "Walkthrough: map bosses killed under the Maven's witness"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kirac__participates_in__event_the_mavens_game",
+      "source": "char_kirac",
+      "target": "event_the_mavens_game",
+      "relation": "participates_in",
+      "description": "After the Maven is defeated and the Ceremonial Voidstone unlocked, Commander Kirac gives the Exile a reward.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maven_s_game",
+          "locator": "quest-log 'Talk to Commander Kirac'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_the_mavens_game__occurs_in__loc_absence_of_mercy_and_empathy",
+      "source": "event_the_mavens_game",
+      "target": "loc_absence_of_mercy_and_empathy",
+      "relation": "occurs_in",
+      "description": "The quest starts on entering Absence of Mercy and Empathy and culminates in the Maven fight there.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maven_s_game",
+          "locator": "intro paragraph: 'after entering Absence of Mercy and Empathy using a The Maven's Writ'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_atlas_siege__occurs_in__loc_atlas_of_worlds",
+      "source": "event_atlas_siege",
+      "target": "loc_atlas_of_worlds",
+      "relation": "occurs_in",
+      "description": "The Eldritch Horrors approach the Atlas and the Exile defeats their champions there.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_searing_exarch_quest",
+          "locator": "Walkthrough"
+        },
+        {
+          "source_id": "src_poewiki_the_eater_of_worlds_quest",
+          "locator": "Walkthrough"
+        }
+      ]
+    },
+    {
+      "id": "e_event_atlas_siege__occurs_in__loc_absence_of_patience_and_wisdom",
+      "source": "event_atlas_siege",
+      "target": "loc_absence_of_patience_and_wisdom",
+      "relation": "occurs_in",
+      "description": "The Searing Exarch is fought in Absence of Patience and Wisdom.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_searing_exarch_quest",
+          "locator": "Walkthrough: 'defeat The Searing Exarch' in 'Absence of Patience and Wisdom'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_atlas_siege__occurs_in__loc_absence_of_symmetry_and_harmony",
+      "source": "event_atlas_siege",
+      "target": "loc_absence_of_symmetry_and_harmony",
+      "relation": "occurs_in",
+      "description": "The Eater of Worlds is fought in Absence of Symmetry and Harmony.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eater_of_worlds_quest",
+          "locator": "Walkthrough: 'defeat the The Eater of Worlds' in 'Absence of Symmetry and Harmony'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_searing_exarch_quest__occurs_in__loc_absence_of_patience_and_wisdom",
+      "source": "event_searing_exarch_quest",
+      "target": "loc_absence_of_patience_and_wisdom",
+      "relation": "occurs_in",
+      "description": "The Exarch boss is fought in Absence of Patience and Wisdom.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_searing_exarch_quest",
+          "locator": "Walkthrough: Searing Exarch objective"
+        }
+      ]
+    },
+    {
+      "id": "e_event_searing_exarch_quest__occurs_in__loc_atlas_of_worlds",
+      "source": "event_searing_exarch_quest",
+      "target": "loc_atlas_of_worlds",
+      "relation": "occurs_in",
+      "description": "The Envoy finds the Exarch's influence in yellow (T6+) Atlas maps.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_searing_exarch_quest",
+          "locator": "Walkthrough: 'While the player is exploring yellow maps (T6+) ... The Envoy'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_eater_of_worlds_quest__occurs_in__loc_absence_of_symmetry_and_harmony",
+      "source": "event_eater_of_worlds_quest",
+      "target": "loc_absence_of_symmetry_and_harmony",
+      "relation": "occurs_in",
+      "description": "The Eater of Worlds is fought in Absence of Symmetry and Harmony.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eater_of_worlds_quest",
+          "locator": "Walkthrough: Eater of Worlds objective"
+        }
+      ]
+    },
+    {
+      "id": "e_event_eater_of_worlds_quest__occurs_in__loc_atlas_of_worlds",
+      "source": "event_eater_of_worlds_quest",
+      "target": "loc_atlas_of_worlds",
+      "relation": "occurs_in",
+      "description": "The Envoy finds the Eater's influence in yellow (T6+) Atlas maps.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eater_of_worlds_quest",
+          "locator": "Walkthrough: 'While the player is mapping yellow maps (T6+) ... The Envoy'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_eagon_caeserius__participates_in__event_zana_destroys_atlas",
+      "source": "char_eagon_caeserius",
+      "target": "event_zana_destroys_atlas",
+      "relation": "participates_in",
+      "description": "Zana tells Eagon that she must destroy the Atlas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_threads_of_the_originator",
+          "locator": "Walkthrough, final section (Zana and Eagon dialogue)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_zana_destroys_atlas__occurs_in__loc_atlas_of_worlds",
+      "source": "event_zana_destroys_atlas",
+      "target": "loc_atlas_of_worlds",
+      "relation": "occurs_in",
+      "description": "Zana fractures the Atlas itself.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_threads_of_the_originator",
+          "locator": "Walkthrough, final section"
+        }
+      ]
+    },
+    {
+      "id": "e_char_helena__guides__event_atlas_call_to_arms",
+      "source": "char_helena",
+      "target": "event_atlas_call_to_arms",
+      "relation": "guides",
+      "description": "Helena directs the Exile from Karui Shores to the War Room to find Commander Kirac.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_a_call_to_arms",
+          "locator": "Walkthrough: 'talk to Helena. She will direct the player to the War Room'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_citizen_vanguard__associated_with__event_atlas_call_to_arms",
+      "source": "faction_citizen_vanguard",
+      "target": "event_atlas_call_to_arms",
+      "relation": "associated_with",
+      "description": "The Exile is commissioned by Commander Kirac to aid the Citizen Vanguard.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_a_call_to_arms",
+          "locator": "completion text: 'commissioned by Commander Kirac to aid the Citizen Vanguard'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_zana__guides__event_atlas_shaper_hunt",
+      "source": "char_zana",
+      "target": "event_atlas_shaper_hunt",
+      "relation": "guides",
+      "description": "Zana, as quest giver, sends the Exile into Shaper-influenced maps.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_hidden_architect",
+          "locator": "Background: 'a quest given to the player by Zana'; Walkthrough start 'Talk to Zana'"
+        }
+      ]
+    }
+  ]
+}

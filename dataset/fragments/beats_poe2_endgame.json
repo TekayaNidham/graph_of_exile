@@ -1,0 +1,775 @@
+{
+  "domain": "beats_poe2_endgame",
+  "sources": [
+    {
+      "id": "src_poe2wiki_legacy_of_the_precursors",
+      "title": "Legacy of the Precursors - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Legacy_of_the_Precursors",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_tecrod",
+      "title": "Tecrod - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Tecrod",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_arbiter_of_ash",
+      "title": "The Arbiter of Ash - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Arbiter_of_Ash",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_arbiter_of_divinity",
+      "title": "The Arbiter of Divinity - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Arbiter_of_Divinity",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_doryani",
+      "title": "Doryani - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Doryani",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_burning_monolith",
+      "title": "The Burning Monolith - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Burning_Monolith",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_origin_tower",
+      "title": "The Origin Tower - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Origin_Tower",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "loc_ancient_gateway",
+      "name": "Ancient Gateway",
+      "aliases": [
+        "Ancient Gateway and the Fortress Gateways"
+      ],
+      "type": "location",
+      "subtype": "precursor_gateway_site",
+      "summary": "Precursor gateway site the Exile reaches in Legacy of the Precursors after the Precursor Fortress rises; the Exile uses its levers and a Precursor Beacon there to open the route to the Burning Monolith.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Precursor ruins, PoE2 endgame",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "quest log: 'Travel to the Ancient Gateway', 'Explore the Ancient Gateway', 'Find and use Levers', 'Activate the Precursor Beacon'"
+        }
+      ]
+    },
+    {
+      "id": "loc_enigma_chambers",
+      "name": "Western and Eastern Enigma Chambers",
+      "aliases": [
+        "Enigma Chambers",
+        "Western Enigma Chamber",
+        "Eastern Enigma Chamber"
+      ],
+      "type": "location",
+      "subtype": "precursor_chamber",
+      "summary": "Two endgame chambers entered through the Western and Eastern Gateways; each holds a boss fight (Count Geonor in the west, Doryani in the east) and a Crisis Fragment (Ancient and Weathered) needed to open the Burning Monolith.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Precursor ruins, PoE2 endgame",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "quest log (hidden comment block): 'Travel to the Western Enigma Chamber', 'Defeat Count Geonor', 'Defeat Doryani', 'Pick up the Ancient Crisis Fragment'"
+        },
+        {
+          "source_id": "src_poe2wiki_the_burning_monolith",
+          "locator": "Keys: 'The other two keys can be found in the Western Enigma Chamber and the Eastern Enigma Chamber.'"
+        }
+      ]
+    },
+    {
+      "id": "loc_patriarch_and_matriarch_halls",
+      "name": "The Patriarch and Matriarch Halls",
+      "aliases": [
+        "Patriarch Halls",
+        "Matriarch Halls"
+      ],
+      "type": "location",
+      "subtype": "precursor_hall",
+      "summary": "Two Precursor halls visited in Legacy of the Precursors; the Exile defeats Phyx, Sentinel of the Spark, and Phya, Sentinel of the Cradle, to recover the Origin Spark and Origin Cradle.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Precursor ruins, PoE2 endgame",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "quest log (hidden comment block) steps 112-128: 'Travel to the Patriarch Halls', 'Defeat Phyx, Sentinel of the Spark', 'Defeat Phya, Sentinel of the Cradle'"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_event_poe2_legacy_of_the_precursors__occurs_in__loc_ziggurat_refuge",
+      "source": "event_poe2_legacy_of_the_precursors",
+      "target": "loc_ziggurat_refuge",
+      "relation": "occurs_in",
+      "description": "The quest's Doryani briefing takes place at the Ziggurat, where he explains his Waygate plan.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Take a Waystone from Doryani': 'Take a Waystone reward from Doryani in The Ziggurat Refuge.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_doryani__participates_in__event_poe2_legacy_of_the_precursors",
+      "source": "char_doryani",
+      "target": "event_poe2_legacy_of_the_precursors",
+      "relation": "participates_in",
+      "description": "Doryani is the quest giver, proposing to recover Precursor knowledge through the Waygate.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Speak to Doryani': 'I have already been working on a plan... The machine you see here... I call it... a Waygate.'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_epilogue_waygate__occurs_in__loc_ziggurat_refuge",
+      "source": "event_poe2_epilogue_waygate",
+      "target": "loc_ziggurat_refuge",
+      "relation": "occurs_in",
+      "description": "Doryani presents the Waygate built over the leylines beneath the Ziggurat.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Speak to Doryani: leylines, Waygate': 'This Ziggurat was built over what my ancestors called leylines.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_doryani__participates_in__event_poe2_epilogue_waygate",
+      "source": "char_doryani",
+      "target": "event_poe2_epilogue_waygate",
+      "relation": "participates_in",
+      "description": "Doryani introduces the Waygate built over the leylines and gives the Exile the Waystone.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Speak to Doryani: leylines, Waygate': Doryani introduces the Waygate and gives the Waystone."
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_waygate_first_map__occurs_in__loc_ziggurat_refuge",
+      "source": "event_poe2_waygate_first_map",
+      "target": "loc_ziggurat_refuge",
+      "relation": "occurs_in",
+      "description": "The Exile takes the Waystone from Doryani at the Ziggurat Refuge and enters the first Map through the Waygate.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Take a Waystone from Doryani' / 'Select and enter a Map': 'Take a Waystone reward from Doryani in The Ziggurat Refuge.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_doryani__participates_in__event_poe2_waygate_first_map",
+      "source": "char_doryani",
+      "target": "event_poe2_waygate_first_map",
+      "relation": "participates_in",
+      "description": "Doryani sends the Exile through the untested Waygate and then declares it a success ('Science is a process').",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Speak to Doryani': 'Our first step is a success! The Waygate does indeed work.' / 'Science is a process.'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_precursor_tower__occurs_in__loc_precursor_towers",
+      "source": "event_poe2_precursor_tower",
+      "target": "loc_precursor_towers",
+      "relation": "occurs_in",
+      "description": "The Exile travels to a Precursor Tower and activates its beacon.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Travel to the Precursor Tower': 'Travel to the Precursor Tower.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_doryani__participates_in__event_poe2_precursor_tower",
+      "source": "char_doryani",
+      "target": "event_poe2_precursor_tower",
+      "relation": "participates_in",
+      "description": "Doryani identifies the tower as Precursor and orders the beacon activated ('I'm making... a judgement call. Do it.').",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Speak to Doryani' (Travel to the Precursor Tower): 'This tower is indeed Precursor. We should activate it'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_ancient_gateway__occurs_in__loc_ancient_gateway",
+      "source": "event_poe2_ancient_gateway",
+      "target": "loc_ancient_gateway",
+      "relation": "occurs_in",
+      "description": "The Exile explores the Ancient Gateway, uses its levers and activates a Precursor Beacon there.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Travel to the Ancient Gateway', 'Explore the Ancient Gateway', 'Activate the Precursor Beacon'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_doryani__participates_in__event_poe2_ancient_gateway",
+      "source": "char_doryani",
+      "target": "event_poe2_ancient_gateway",
+      "relation": "participates_in",
+      "description": "Doryani is summoned at the Ancient Gateway's central platform and speaks with the Exile there.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Reach the central platform', 'Summon Doryani', 'Speak to Doryani' (quest log steps after 'Explore the Ancient Gateway')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_burning_monolith__occurs_in__loc_the_burning_monolith",
+      "source": "event_poe2_burning_monolith",
+      "target": "loc_the_burning_monolith",
+      "relation": "occurs_in",
+      "description": "The Exile reaches and explores the Burning Monolith, the endgame site where the Arbiter of Ash waits.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Reach the Burning Monolith', 'Explore the Burning Monolith'"
+        },
+        {
+          "source_id": "src_poe2wiki_the_burning_monolith",
+          "locator": "Lead: 'The Burning Monolith is a special area in the Precursor Fortress.'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_burning_monolith__occurs_in__loc_the_precursor_fortress",
+      "source": "event_poe2_burning_monolith",
+      "target": "loc_the_precursor_fortress",
+      "relation": "occurs_in",
+      "description": "The Burning Monolith is a special area inside the Precursor Fortress in the 0.5 layout.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_burning_monolith",
+          "locator": "Lead: 'The Burning Monolith is a special area in the Precursor Fortress.'; Version history 0.5.0: 'moved into the Fortress'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_doryani__participates_in__event_poe2_burning_monolith",
+      "source": "char_doryani",
+      "target": "event_poe2_burning_monolith",
+      "relation": "participates_in",
+      "description": "Doryani is spoken to during the Burning Monolith sequence of the quest ('Speak to Doryani' after 'Explore the Burning Monolith').",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Explore the Burning Monolith' / 'Speak to Doryani' (quest log after 'Reach the Burning Monolith')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_enigma_chambers__occurs_in__loc_enigma_chambers",
+      "source": "event_poe2_enigma_chambers",
+      "target": "loc_enigma_chambers",
+      "relation": "occurs_in",
+      "description": "The Exile fights in the Western and Eastern Enigma Chambers behind the Gateways.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Travel to the Western Enigma Chamber', 'Explore the Eastern Enigma Chamber'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_geonor_epilogue_echo__participates_in__event_poe2_enigma_chambers",
+      "source": "char_geonor_epilogue_echo",
+      "target": "event_poe2_enigma_chambers",
+      "relation": "participates_in",
+      "description": "Count Geonor is defeated in the Western Enigma Chamber, which yields the Ancient Crisis Fragment.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Defeat Count Geonor' (Western Enigma Chamber) / 'Pick up the Ancient Crisis Fragment'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_doryani__participates_in__event_poe2_enigma_chambers",
+      "source": "char_doryani",
+      "target": "event_poe2_enigma_chambers",
+      "relation": "participates_in",
+      "description": "Doryani, Royal Thaumaturge, is fought in the Eastern Enigma Chamber, which yields the Weathered Crisis Fragment.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Defeat Doryani' (Eastern Enigma Chamber) / 'Pick up the Weathered Crisis Fragment'"
+        },
+        {
+          "source_id": "src_poe2wiki_the_burning_monolith",
+          "locator": "Keys table: 'Doryani, Royal Thaumaturge | Weathered Crisis Fragment'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_the_arbiter_of_ash__participates_in__event_poe2_defeat_arbiter_of_ash",
+      "source": "char_the_arbiter_of_ash",
+      "target": "event_poe2_defeat_arbiter_of_ash",
+      "relation": "participates_in",
+      "description": "The Arbiter of Ash is the pinnacle boss of the Burning Monolith and is defeated in quest step 101.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_arbiter_of_ash",
+          "locator": "MonsterBox location: 'The Burning Monolith'; lead: 'the pinnacle boss of The Burning Monolith'"
+        },
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "step 101 'Defeat the Arbiter of Ash'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tecrod__participates_in__event_poe2_defeat_arbiter_of_ash",
+      "source": "char_tecrod",
+      "target": "event_poe2_defeat_arbiter_of_ash",
+      "relation": "participates_in",
+      "description": "After the Arbiter falls, Tecrod's mysterious entity riding a wyrm steals the Flame Seed.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tecrod",
+          "locator": "Lore: 'A Mysterious Entity riding a wyrm that steals the Flame Seed after the Arbiter of Ash is defeated... This figure is revealed to be Tecrod'"
+        },
+        {
+          "source_id": "src_poe2wiki_the_arbiter_of_ash",
+          "locator": "Lore: 'The Mysterious Entity that steals the Flame Seed after the Arbiter of Ash is defeated is Tecrod.'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_precursor_halls__occurs_in__loc_patriarch_and_matriarch_halls",
+      "source": "event_poe2_precursor_halls",
+      "target": "loc_patriarch_and_matriarch_halls",
+      "relation": "occurs_in",
+      "description": "The Exile explores the Patriarch and Matriarch Halls to take the Origin Spark and Origin Cradle.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "steps 112-128: 'Travel to the Patriarch Halls', 'Explore Matriarch Halls', 'Pick up the Origin Cradle'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_phyx__participates_in__event_poe2_precursor_halls",
+      "source": "char_phyx",
+      "target": "event_poe2_precursor_halls",
+      "relation": "participates_in",
+      "description": "Phyx, Sentinel of the Spark, is defeated in the Patriarch Halls to recover the Origin Spark.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "steps 114 and 126: 'Defeat Phyx, Sentinel of the Spark' / 'Pick up the Origin Spark'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_phya__participates_in__event_poe2_precursor_halls",
+      "source": "char_phya",
+      "target": "event_poe2_precursor_halls",
+      "relation": "participates_in",
+      "description": "Phya, Sentinel of the Cradle, is defeated in the Matriarch Halls to recover the Origin Cradle.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "steps 120-122: 'Defeat Phya, Sentinel of the Cradle' / 'Pick up the Origin Cradle'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_origin_tower__occurs_in__loc_the_origin_tower",
+      "source": "event_poe2_origin_tower",
+      "target": "loc_the_origin_tower",
+      "relation": "occurs_in",
+      "description": "The Origin Core is made in the Precursor Reactor inside the Origin Tower, and the Exile places it at the tower's top.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_origin_tower",
+          "locator": "Layout: 'a room called the Precursor Reactor'; 'The Origin Core can be placed at the center to fight The Arbiter of Divinity.'"
+        },
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "'Travel to the Origin Tower', 'Place the Origin Spark in the Precursor Reactor', 'Ascend the Tower'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tecrod__participates_in__event_poe2_origin_tower",
+      "source": "char_tecrod",
+      "target": "event_poe2_origin_tower",
+      "relation": "participates_in",
+      "description": "Tecrod's wyrm incapacitates the Exile when the Origin Core is placed, and Tecrod exults that the Master shall know unending power.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tecrod",
+          "locator": "Lore: 'when the player character places the Origin Core into the Origin Tower, Tecrod's wyrm incapacitates the character'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_doryani__participates_in__event_poe2_origin_tower",
+      "source": "char_doryani",
+      "target": "event_poe2_origin_tower",
+      "relation": "participates_in",
+      "description": "Doryani directs the Origin Core ritual at the Origin Tower (steps 131-134).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "steps 131-134: 'Speak to Doryani', 'Return to Doryani at the Origin Tower', 'Place the Origin Spark in the Precursor Reactor'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_the_arbiter_of_divinity__participates_in__event_poe2_defeat_arbiter_of_divinity",
+      "source": "char_the_arbiter_of_divinity",
+      "target": "event_poe2_defeat_arbiter_of_divinity",
+      "relation": "participates_in",
+      "description": "The Arbiter of Divinity destroys Tecrod's body and is then fought by the Exile in the Origin Tower.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_arbiter_of_divinity",
+          "locator": "MonsterBox location: 'The Origin Tower'; lead: 'the pinnacle boss of The Origin Tower'"
+        },
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "step 141 'Defeat the Arbiter of Divinity'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tecrod__participates_in__event_poe2_defeat_arbiter_of_divinity",
+      "source": "char_tecrod",
+      "target": "event_poe2_defeat_arbiter_of_divinity",
+      "relation": "participates_in",
+      "description": "Tecrod is destroyed by the Arbiter of Divinity, which declares 'Your kind shall never ordain the First Edict!'",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tecrod",
+          "locator": "Lore: 'his body is destroyed by the Arbiter of Divinity: Your kind shall never ordain the First Edict!'"
+        },
+        {
+          "source_id": "src_poe2wiki_the_arbiter_of_divinity",
+          "locator": "Lore: 'The Mysterious Entity that is destroyed by the Arbiter of Divinity is Tecrod.'"
+        }
+      ]
+    }
+  ]
+}

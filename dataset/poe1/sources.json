@@ -2691,6 +2691,15 @@
   "reliability": "secondary"
  },
  {
+  "id": "src_poewiki_lilly_roth",
+  "title": "Lilly Roth - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Lilly_Roth",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
   "id": "src_poewiki_list_of_scourge_league_challenges",
   "title": "List of Scourge league challenges - PoE Wiki",
   "url": "https://www.poewiki.net/wiki/List_of_Scourge_league_challenges",

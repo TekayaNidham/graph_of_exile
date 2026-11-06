@@ -31,13 +31,15 @@
   const COMM = ["#e0a43a", "#8b8bff", "#1ba29b", "#d0402e", "#b48ad8", "#7f9f4a", "#af6025", "#5b8fd8", "#e8cf98", "#c45a8a", "#3fa0a0", "#c9923a",
     "#8fb35a", "#a35c3a", "#6a7fd0", "#d0a0d0", "#9e9e5a", "#5aa07f", "#d07f5a", "#7a7a9e"];
   const SPEED_MS = [11000, 8500, 6500, 4800, 3200];
+  // entity-first view: events are hidden and drawn as "shared event" links between the entities involved
+  const ENTITY = new Set(["character", "deity", "faction", "location", "artifact", "creature"]);
 
   // ---------- state ----------
   const S = {
     variant: "master", layout: "p", colorBy: "plot_role", sizeBy: "pr", labels: "auto",
     roles: new Set(ROLES), eras: new Set(ERAS), types: new Set(TYPES), branches: null, rels: null,
     conf: new Set(["high", "medium", "low"]), datamined: true, spineOnly: false, maxDist: 8,
-    selected: null, hops: 1, journeyGame: "poe1", playing: false, beat: -1, exileToggle: 0,
+    selected: null, hops: 1, journeyGame: "poe1", playing: false, beat: -1, exileToggle: 0, events: false,
   };
   let D = null; // current data
   let cy = null;
@@ -51,10 +53,12 @@
     if (["p", "t", "r", "c"].includes(h.get("l"))) S.layout = h.get("l");
     if (h.get("color")) S.colorBy = h.get("color");
     if (h.get("size")) S.sizeBy = h.get("size");
+    S.events = h.get("ev") === "1";
     S.pendingNode = h.get("n");
   }
   function writeHash() {
     const h = new URLSearchParams({ v: S.variant, l: S.layout, color: S.colorBy, size: S.sizeBy });
+    if (S.events) h.set("ev", "1");
     if (S.selected) h.set("n", S.selected);
     history.replaceState(null, "", "#" + h.toString());
   }
@@ -115,6 +119,9 @@
       "curve-style": "haystack", "haystack-radius": 0, width: 1, "line-color": "#6b5434", opacity: 0.32,
       "transition-property": "opacity, line-color, width", "transition-duration": reduceMotion ? 0 : 180,
     } },
+    { selector: "edge.derived", style: { "line-color": "#8a6a3b", "line-style": "dashed", "line-dash-pattern": [5, 4], opacity: 0.28 } },
+    { selector: "edge.trailx", style: { "curve-style": "bezier", width: 5, "line-color": "#f0c060", opacity: 0.95, "target-arrow-shape": "triangle", "target-arrow-color": "#f0c060", "arrow-scale": 1.1, "z-index": 90 } },
+    { selector: "node.beat-loc", style: { "border-width": 6, "border-color": "#fff3cf", "underlay-color": "#e0a43a", "underlay-padding": 16, "underlay-opacity": 0.4, "z-index": 100, "min-zoomed-font-size": 0 } },
     { selector: "edge.spine", style: { "line-color": "#e0a43a", width: 2.6, opacity: 0.75 } },
     { selector: "edge.spine.endgame", style: { "line-color": "#d0402e" } },
     { selector: "edge.dim", style: { opacity: 0.035 } },
@@ -152,6 +159,7 @@
     S.variant = variant;
     document.querySelectorAll("#variants button").forEach((b) => b.classList.toggle("active", b.dataset.v === variant));
     D = await loadVariant(variant);
+    if (document.fonts && document.fonts.ready) await Promise.race([document.fonts.ready, new Promise((r) => setTimeout(r, 1500))]);
     byId = new Map(D.nodes.map((n) => [n.id, n]));
     // facets that depend on data
     const allBranches = new Set(["(none)"]); D.nodes.forEach((n) => (n.branches || []).forEach((b) => allBranches.add(b)));
@@ -176,6 +184,51 @@
       els.push({ group: "edges", classes: (spineE ? "spine" + (e.plot_role === "endgame_plot" ? " endgame" : "") : "") + (xera && !spineE ? " xera" : ""),
         data: { id: e.id, source: e.source, target: e.target, rel: e.relation.replace(/_/g, " "), raw: e } });
     }
+    // ---- entity-first: derive "shared event" links between entities that take part in the same event
+    S.adj = new Map();
+    const direct = new Set(), evNbr = new Map();
+    const addAdj = (a, b, rel, dir) => { if (!S.adj.has(a)) S.adj.set(a, []); S.adj.get(a).push({ other: b, rel, dir }); };
+    for (const e of D.edges) {
+      const a = byId.get(e.source), b = byId.get(e.target);
+      if (!a || !b) continue;
+      addAdj(a.id, b.id, e.relation, "out"); addAdj(b.id, a.id, e.relation, "in");
+      direct.add(a.id < b.id ? a.id + "|" + b.id : b.id + "|" + a.id);
+      if (e.relation === "next_beat") continue;
+      if (a.type === "event" && ENTITY.has(b.type)) (evNbr.get(a.id) || evNbr.set(a.id, []).get(a.id)).push(b.id);
+      if (b.type === "event" && ENTITY.has(a.type)) (evNbr.get(b.id) || evNbr.set(b.id, []).get(b.id)).push(a.id);
+    }
+    const derived = new Map();
+    const link = (x, y, ev) => {
+      if (x === y) return;
+      const key = x < y ? x + "|" + y : y + "|" + x;
+      if (direct.has(key)) return;
+      if (!derived.has(key)) derived.set(key, { x, y, events: [] });
+      const d = derived.get(key); if (!d.events.includes(ev)) d.events.push(ev);
+    };
+    S.spineEnt = new Set(["char_exile_poe1", "char_exile_poe2"]);
+    for (const [ev, list] of evNbr) {
+      const ents = [...new Set(list)], E = byId.get(ev);
+      if (E.chronology && E.chronology.story_order != null) ents.forEach((i) => S.spineEnt.add(i));
+      const locs = ents.filter((i) => byId.get(i).type === "location"), others = ents.filter((i) => byId.get(i).type !== "location");
+      others.forEach((o) => locs.forEach((l) => link(o, l, ev)));
+      if (others.length <= 6) { for (let i = 0; i < others.length; i++) for (let j = i + 1; j < others.length; j++) link(others[i], others[j], ev); }
+      else {
+        const hub = others.find((i) => i.startsWith("char_exile_")) || [...others].sort((a, b) => (byId.get(b).pr || 0) - (byId.get(a).pr || 0))[0];
+        others.forEach((o) => link(hub, o, ev));
+      }
+      if (!others.length) for (let i = 1; i < locs.length; i++) link(locs[i - 1], locs[i], ev);
+    }
+    const RANK = { main_plot: 0, endgame_plot: 1, branch: 2, background: 3, meta: 4 };
+    for (const [key, d] of derived) {
+      const evs = d.events.map((i) => byId.get(i)).sort((a, b) => (RANK[a.plot_role] ?? 9) - (RANK[b.plot_role] ?? 9));
+      const raw = { id: "d_" + key, source: d.x, target: d.y, relation: "shared_event", events: d.events, plot_role: evs[0].plot_role,
+        description: "Together in: " + evs.map((x) => x.name).join("; "), branches: [...new Set(evs.flatMap((x) => x.branches || []))],
+        games: [...new Set(evs.flatMap((x) => x.games || []))], canon_status: "inferred", confidence: "medium",
+        sources: evs.slice(0, 3).flatMap((x) => (x.sources || []).slice(0, 1)) };
+      els.push({ group: "edges", classes: "derived", data: { id: raw.id, source: d.x, target: d.y, rel: evs[0].name + (evs.length > 1 ? ` (+${evs.length - 1})` : ""), raw } });
+    }
+    D._derivedCount = derived.size;
+    S.rels.add("shared_event"); S._relSeen.add("shared_event");
     if (cy) cy.destroy();
     cy = cytoscape({
       container: $("#cy"), elements: els, style: STYLE, layout: { name: "preset" },
@@ -227,6 +280,7 @@
     checkList($("#fType"), TYPES.filter((t) => types.has(t)).map((t) => [t, types.get(t)]), S.types, { swatch: (k) => TYPE_COLOR[k] });
     renderBranches();
     const rels = new Map(); D.edges.forEach((e) => rels.set(e.relation, (rels.get(e.relation) || 0) + 1));
+    rels.set("shared_event", D._derivedCount || 0);
     checkList($("#fRel"), [...rels].sort((a, b) => b[1] - a[1]), S.rels, {});
     const conf = countBy((n) => n.confidence);
     checkList($("#fConf"), ["high", "medium", "low"].filter((c) => conf.has(c)).map((c) => [c, conf.get(c)]), S.conf, { swatch: (k) => CONF_COLOR[k], label: (k) => k + " confidence" });
@@ -246,7 +300,11 @@
     const b = n.branches && n.branches.length ? n.branches : ["(none)"];
     if (!b.some((x) => S.branches.has(x))) return false;
     if (S.maxDist < 8 && (n.exile_distance == null || n.exile_distance > S.maxDist)) return false;
-    if (S.spineOnly && !(n.chronology && n.chronology.story_order != null)) return false;
+    if (!S.events && n.type === "event") return false;
+    if (S.spineOnly) {
+      if (S.events && !(n.chronology && n.chronology.story_order != null)) return false;
+      if (!S.events && !S.spineEnt.has(n.id)) return false;
+    }
     return true;
   }
   function applyFilters() {
@@ -258,9 +316,10 @@
         el.toggleClass("hidden", !ok);
         if (ok) vis.add(el.id());
       });
-      cy.edges().forEach((el) => {
+      cy.edges().not(".trailx").forEach((el) => {
         const e = el.data("raw");
-        const ok = vis.has(e.source) && vis.has(e.target) && (S.rels.has(e.relation) || (S.spineOnly && e.relation === "next_beat"));
+        const ok = vis.has(e.source) && vis.has(e.target) && (S.rels.has(e.relation) || (S.spineOnly && e.relation === "next_beat")) &&
+          (e.relation !== "shared_event" || !S.events);
         el.toggleClass("hidden", !ok);
       });
     });
@@ -307,6 +366,15 @@
     mmDirty = true;
   }
 
+  // camera: fit a collection, but never zoom closer than maxZ
+  function focusOn(eles, pad = 110, maxZ = 1.4, dur = 800) {
+    if (!eles || !eles.length) return;
+    const bb = eles.boundingBox(), W = cy.width(), H = cy.height();
+    const z = Math.min(maxZ, Math.max(cy.minZoom(), Math.min((W - 2 * pad) / Math.max(bb.w, 1), (H - 2 * pad) / Math.max(bb.h, 1))));
+    const pan = { x: W / 2 - z * (bb.x1 + bb.w / 2), y: H / 2 - z * (bb.y1 + bb.h / 2) };
+    cy.stop(); cy.animate({ zoom: z, pan }, { duration: reduceMotion ? 0 : dur, easing: "ease-in-out-cubic" });
+  }
+
   // ---------- selection & neighbourhood ----------
   function neighbourhood(el, hops) {
     let nb = el.closedNeighborhood(":visible");
@@ -337,7 +405,7 @@
     $("#hopBar").hidden = false;
     if (center) {
       const nb = neighbourhood(el, Math.min(S.hops, 1));
-      cy.animate({ fit: { eles: nb, padding: 90 }, duration: reduceMotion ? 0 : 500, easing: "ease-in-out-cubic" });
+      focusOn(nb, 90, 1.6, 500);
     }
     document.querySelectorAll(".beat").forEach((b) => b.classList.toggle("sel", b.dataset.id === id));
     writeHash();
@@ -401,6 +469,12 @@
         <dt>Importance</dt><dd>#${rank} of ${D.nodes.length} (PageRank)</dd>
         ${n.cm >= 0 && D.communities[n.cm] ? `<dt>Community</dt><dd>${esc(D.communities[n.cm].label)} circle</dd>` : ""}
       </dl>
+      ${(() => {
+        const beats = (S.adj.get(n.id) || []).map((x) => byId.get(x.other)).filter((x) => x && x.type === "event" && x.chronology && x.chronology.story_order != null)
+          .sort((a, b) => a.chronology.story_order - b.chronology.story_order);
+        const uniq = [...new Map(beats.map((b) => [b.id, b])).values()];
+        return uniq.length && n.type !== "event" ? `<div class="rels"><h4>In the Exile's journey (${uniq.length})</h4>${uniq.map((b) => `<div class="rel"><a data-go="${esc(b.id)}">${esc(b.name)}</a> <span class="rel-tag">${esc(chapterOf(b))}</span></div>`).join("")}</div>` : "";
+      })()}
       <div class="rels">
         ${out.length ? `<h4>Relations (${out.length})</h4>${sortRels(out).map((e) => relRow(e, e.target, "out")).join("")}` : ""}
         ${inc.length ? `<h4>Referenced by (${inc.length})</h4>${sortRels(inc).map((e) => relRow(e, e.source, "in")).join("")}` : ""}
@@ -412,6 +486,15 @@
   }
   function renderEdgeDetails(e) {
     const a = byId.get(e.source), b = byId.get(e.target);
+    if (e.relation === "shared_event") {
+      $("#detailBody").innerHTML = `
+        <h2 class="d-title ${e.plot_role}">${esc(a?.name)} <span class="small">&amp;</span> ${esc(b?.name)}</h2>
+        <div class="d-sub">appear together in ${e.events.length} event${e.events.length > 1 ? "s" : ""}</div>
+        <div class="rels">${e.events.map((id) => byId.get(id)).map((ev) => `<div class="rel"><a data-go="${esc(ev.id)}">${esc(ev.name)}</a><span class="desc">${esc(ev.summary || "")}</span></div>`).join("")}</div>
+        <div class="rels"><h4>People &amp; places</h4><div class="rel"><a data-go="${esc(e.source)}">${esc(a?.name)}</a></div><div class="rel"><a data-go="${esc(e.target)}">${esc(b?.name)}</a></div></div>`;
+      $("#details").hidden = false; document.body.classList.add("details-open");
+      return;
+    }
     $("#detailBody").innerHTML = `
       <h2 class="d-title ${e.plot_role}">${esc(a?.name)} <span class="small">${esc(relLabel(e.relation))}</span> ${esc(b?.name)}</h2>
       <div class="chips"><span class="chip role-${e.plot_role}">${ROLE_LABEL[e.plot_role]}</span>${(e.branches || []).map((x) => `<span class="chip">${esc(x)}</span>`).join("")}<span class="chip">${esc(e.canon_status)} · ${esc(e.confidence)}</span></div>
@@ -437,7 +520,7 @@
     });
     cy.on("mouseout", "node.n", (ev) => { tip.hidden = true; if (!S.selected && !S.playing) ev.target.connectedEdges().removeClass("hl"); });
     cy.on("tap", "node.n", (ev) => select(ev.target.id(), { center: false }));
-    cy.on("tap", "edge", (ev) => { stopPlay(); renderEdgeDetails(ev.target.data("raw")); });
+    cy.on("tap", "edge", (ev) => { if (ev.target.hasClass("trailx")) return; stopPlay(); renderEdgeDetails(ev.target.data("raw")); });
     cy.on("tap", (ev) => { if (ev.target === cy) { clearSelection(); hideCard(); } });
     cy.on("boxend", () => setTimeout(() => {
       const sel = cy.nodes(".n:selected");
@@ -457,7 +540,7 @@
     else if (S.colorBy === "game") items = [["both games", GAME_COLOR.both], ["PoE 1", GAME_COLOR.poe1], ["PoE 2", GAME_COLOR.poe2], ["out-of-game", GAME_COLOR.none]];
     else if (S.colorBy === "cm") items = (D?.communities || []).slice(0, 12).map((c, i) => [`${c.label} (${c.size})`, COMM[i % COMM.length]]);
     $("#legend").innerHTML = items.map(([l, c]) => `<span><i style="background:${c}"></i>${esc(l)}</span>`).join("") +
-      `<span class="small">shape = type · size = ${({ pr: "PageRank", bt: "betweenness", degree: "degree", none: "uniform" })[S.sizeBy]}</span>`;
+      `<span class="small">${S.events ? "" : "dashed = shared event · "}shape = type · size = ${({ pr: "PageRank", bt: "betweenness", degree: "degree", none: "uniform" })[S.sizeBy]}</span>`;
   }
 
   // ---------- search ----------
@@ -608,7 +691,9 @@
       const chp = chapterOf(n);
       if (chp !== last) { html += `<div class="chapter" aria-hidden="true">${esc(chp)}</div>`; last = chp; }
       const dm = n.release_status && n.release_status !== "released";
-      html += `<div class="beat ${n.plot_role}${dm ? " datamined" : ""}" role="listitem" tabindex="0" data-i="${i}" data-id="${esc(n.id)}" title="${esc(n.summary || "")}"><span class="no">${i + 1}</span>${esc(n.name)}</div>`;
+      const pl = primaryOf(n.id);
+      const sub = [pl.loc && byId.get(pl.loc).name, pl.who && byId.get(pl.who).name].filter(Boolean).join(" · ");
+      html += `<div class="beat ${n.plot_role}${dm ? " datamined" : ""}" role="listitem" tabindex="0" data-i="${i}" data-id="${esc(n.id)}" title="${esc(n.summary || "")}"><span class="no">${i + 1}</span>${esc(n.name)}${sub ? `<span class="where">${esc(sub)}</span>` : ""}</div>`;
     });
     track.innerHTML = html || `<span class="hint">No journey in this view.</span>`;
     S.beat = -1;
@@ -619,7 +704,14 @@
   $("#journey").addEventListener("keydown", (ev) => { const b = ev.target.closest(".beat"); if (b && (ev.key === "Enter" || ev.key === " ")) { ev.preventDefault(); stopPlay(); goToBeat(+b.dataset.i, { manual: true }); } });
   $("#journeyGame").addEventListener("change", (ev) => { stopPlay(); S.journeyGame = ev.target.value; buildJourney(); clearTrail(); });
 
-  function clearTrail() { if (cy) cy.elements().removeClass("visited trail beat-active"); }
+  function primaryOf(evId) {
+    // most important location and character/deity of an event
+    const nb = (S.adj.get(evId) || []).map((x) => byId.get(x.other)).filter(Boolean);
+    const best = (arr) => arr.sort((a, b) => (b.pr || 0) - (a.pr || 0))[0]?.id;
+    return { loc: best(nb.filter((x) => x.type === "location")),
+      who: best(nb.filter((x) => (x.type === "character" || x.type === "deity") && !x.id.startsWith("char_exile_"))) };
+  }
+  function clearTrail() { if (cy) { cy.elements().removeClass("visited trail beat-active beat-loc"); cy.remove(cy.edges(".trailx")); } }
   function participants(el) {
     // who/what is involved in this beat: neighbours that are not other beats
     return el.neighborhood("node.n").filter((x) => !(x.data("raw").chronology && x.data("raw").chronology.story_order != null));
@@ -630,6 +722,7 @@
     S.beat = i;
     const n = spine[i], el = cy.getElementById(n.id);
     S.selected = null; $("#hopBar").hidden = true;
+    if (!S.events) { entityBeat(i, n, el); return afterBeat(i, n, el, manual); }
     cy.batch(() => {
       cy.elements().removeClass("faded hl focus ctx path beat-active force-show");
       clearTrail();
@@ -644,8 +737,38 @@
     if ($("#followCam").checked) {
       const ppl = participants(el);
       const focus = el.union(ppl.length > 14 ? ppl.sort((a, b) => (b.data("raw").pr || 0) - (a.data("raw").pr || 0)).slice(0, 14) : ppl);
-      cy.stop(); cy.animate({ fit: { eles: focus, padding: 110 }, duration: reduceMotion ? 0 : 900, easing: "ease-in-out-cubic" });
+      focusOn(focus, 110, 1.2, 900);
     }
+    afterBeat(i, n, el, manual);
+  }
+  function entityBeat(i, n, el) {
+    // entity-first story step: light up who & where; trail runs place -> place
+    const exile = cy.getElementById(S.journeyGame === "poe1" ? "char_exile_poe1" : "char_exile_poe2");
+    const ppl = participants(el).filter((x) => x.data("raw").type !== "event");
+    const locs = [];
+    for (let k = 0; k <= i; k++) { const l = primaryOf(spine[k].id).loc; if (l && locs[locs.length - 1] !== l) locs.push(l); }
+    cy.batch(() => {
+      cy.elements().removeClass("faded hl focus ctx path beat-active force-show");
+      clearTrail();
+      const trail = [];
+      for (let k = 1; k < locs.length; k++) trail.push({ group: "edges", classes: "trailx", data: { id: `trail_${k}_${locs[k - 1]}_${locs[k]}`, source: locs[k - 1], target: locs[k], rel: "", raw: { relation: "trail" } } });
+      const tr = cy.add(trail);
+      const visitedLocs = cy.collection(locs.map((l) => cy.getElementById(l)));
+      visitedLocs.addClass("visited force-show");
+      const group = ppl.union(exile);
+      const inner = group.edgesWith(group).filter((e) => !e.hasClass("hidden") || e.hasClass("derived"));
+      cy.elements().not(group).not(inner).not(visitedLocs).not(tr).not(".band").addClass("faded");
+      group.addClass("ctx force-show"); inner.addClass("hl force-show");
+      const cur = primaryOf(n.id).loc;
+      if (cur) cy.getElementById(cur).addClass("beat-loc");
+      else exile.addClass("beat-loc");
+    });
+    if ($("#followCam").checked) {
+      const focus = ppl.length ? (ppl.length > 14 ? ppl.sort((a, b) => (b.data("raw").pr || 0) - (a.data("raw").pr || 0)).slice(0, 14) : ppl) : exile;
+      focusOn(focus, 130, 1.2, 900);
+    }
+  }
+  function afterBeat(i, n, el, manual) {
     document.querySelectorAll(".beat").forEach((b, k) => { b.classList.toggle("sel", k === i); b.classList.toggle("visited", k < i); });
     const cur = document.querySelector(`.beat[data-i="${i}"]`);
     cur?.scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", inline: "center", block: "nearest" });
@@ -716,6 +839,11 @@
   $("#colorBy").addEventListener("change", (ev) => { S.colorBy = ev.target.value; applyEncoding(); writeHash(); });
   $("#sizeBy").addEventListener("change", (ev) => { S.sizeBy = ev.target.value; applyEncoding(); writeHash(); });
   $("#labels").addEventListener("change", (ev) => { S.labels = ev.target.value; applyEncoding(); });
+  $("#showEvents").addEventListener("change", (ev) => {
+    S.events = ev.target.checked; stopPlay(); hideCard(); clearTrail(); S.beat = -1; updateProgress();
+    document.querySelectorAll(".beat").forEach((b) => b.classList.remove("sel", "visited"));
+    applyFilters(); renderLegend(); writeHash();
+  });
   $("#distance").addEventListener("input", (ev) => { S.maxDist = +ev.target.value; $("#distanceVal").textContent = S.maxDist >= 8 ? "all" : S.maxDist; applyFilters(); });
   $("#spineOnly").addEventListener("click", (ev) => {
     S.spineOnly = !S.spineOnly; ev.target.classList.toggle("on", S.spineOnly); ev.target.setAttribute("aria-pressed", S.spineOnly);
@@ -765,7 +893,7 @@
 
   // ---------- boot ----------
   readHash();
-  $("#colorBy").value = S.colorBy; $("#sizeBy").value = S.sizeBy;
+  $("#colorBy").value = S.colorBy; $("#sizeBy").value = S.sizeBy; $("#showEvents").checked = S.events;
   requestAnimationFrame(drawMinimap);
   // labels are measured with the web fonts once they have loaded (avoids clipped labels)
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { if (cy) cy.style().update(); });

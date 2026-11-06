@@ -1,19 +1,19 @@
 {
  "variants": {
   "master": {
-   "nodes": 1413,
-   "edges": 3622,
-   "sources": 658
+   "nodes": 1434,
+   "edges": 4028,
+   "sources": 662
   },
   "poe1": {
-   "nodes": 1042,
-   "edges": 2616,
-   "sources": 547
+   "nodes": 1053,
+   "edges": 2833,
+   "sources": 548
   },
   "poe2": {
-   "nodes": 806,
-   "edges": 1778,
-   "sources": 385
+   "nodes": 816,
+   "edges": 1967,
+   "sources": 388
   }
  },
  "eras": [

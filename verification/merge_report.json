@@ -492,6 +492,7 @@
   "event_a3_sceptre_of_god | loc_sceptre_of_god",
   "event_a5_return_to_oriath | event_poe1_a10_arrive_oriath",
   "event_poe2_burning_monolith | loc_the_burning_monolith",
+  "event_poe2_precursor_halls | loc_patriarch_and_matriarch_halls",
   "event_purity_rebellion | faction_purity_rebellion"
  ],
  "unreachable_from_exile": [
@@ -506,22 +507,28 @@
  ],
  "stats": {
   "master": {
-   "nodes": 1413,
-   "edges": 3622,
-   "sources": 658
+   "nodes": 1434,
+   "edges": 4028,
+   "sources": 662
   },
   "poe1": {
-   "nodes": 1042,
-   "edges": 2616,
-   "sources": 547
+   "nodes": 1053,
+   "edges": 2833,
+   "sources": 548
   },
   "poe2": {
-   "nodes": 806,
-   "edges": 1778,
-   "sources": 385
+   "nodes": 816,
+   "edges": 1967,
+   "sources": 388
   }
  },
  "fragments": [
+  "beats_poe1_acts_1_5.json",
+  "beats_poe1_acts_6_10_epilogue.json",
+  "beats_poe1_atlas.json",
+  "beats_poe2_act4_interludes_act5.json",
+  "beats_poe2_acts_1_3.json",
+  "beats_poe2_endgame.json",
   "deep_history.json",
   "eternal_empire.json",
   "exile_and_sources.json",
@@ -548,20 +555,20 @@
   "zz_curation.json"
  ],
  "by_plot_role": {
+  "main_plot": 487,
+  "endgame_plot": 131,
   "background": 264,
-  "main_plot": 472,
   "branch": 440,
-  "meta": 112,
-  "endgame_plot": 125
+  "meta": 112
  },
  "by_type": {
+  "location": 211,
+  "character": 388,
   "era": 17,
-  "location": 197,
   "league": 61,
   "artifact": 87,
   "text": 35,
   "event": 331,
-  "character": 381,
   "creature": 12,
   "faction": 77,
   "deity": 61,

@@ -4,9 +4,9 @@ A sourced, labelled **knowledge graph of Path of Exile lore** (PoE1 + PoE2), cen
 
 | Variant | Folder | Nodes | Edges | Sources | What it is |
 |---|---|---:|---:|---:|---|
-| **Master** | [`master/`](master/) | 1,413 | 3,622 | 658 | Everything, incl. PoE1 → PoE2 continuity (`continues_in`) |
-| **PoE1 plot** | [`poe1/`](poe1/) | 1,042 | 2,616 | 547 | Entities appearing in Path of Exile 1, plus the deep history that explains them |
-| **PoE2 plot** | [`poe2/`](poe2/) | 806 | 1,778 | 385 | Entities appearing in Path of Exile 2, plus the deep history that explains them |
+| **Master** | [`master/`](master/) | 1,434 | 4,028 | 662 | Everything, incl. PoE1 → PoE2 continuity (`continues_in`) |
+| **PoE1 plot** | [`poe1/`](poe1/) | 1,053 | 2,833 | 548 | Entities appearing in Path of Exile 1, plus the deep history that explains them |
+| **PoE2 plot** | [`poe2/`](poe2/) | 816 | 1,967 | 388 | Entities appearing in Path of Exile 2, plus the deep history that explains them |
 
 Full breakdowns are in [`STATS.md`](STATS.md) and [`stats.json`](stats.json). Version: **v1.0.0**, built 2026-11-06.
 
@@ -31,7 +31,7 @@ Everything else:
 |---|---|
 | [`schema/SCHEMA.md`](schema/SCHEMA.md) | Field-by-field documentation, controlled vocabularies, id rules |
 | [`schema/graph.schema.json`](schema/graph.schema.json) | JSON Schema (draft 2020-12); all three `graph.json` files validate against it |
-| [`fragments/`](fragments/) | The 24 per-domain research fragments the graph is merged from (provenance) |
+| [`fragments/`](fragments/) | The 30 per-domain research fragments the graph is merged from (provenance) |
 | [`curation/`](curation/) | `id_aliases.json` (duplicate → canonical id) and `patches.json` (audited corrections, each with a reason) |
 
 ---
@@ -48,8 +48,8 @@ Every node and edge points to its sources with a **locator**: a wiki section, a 
 
 | `plot_role` | Meaning | Nodes |
 |---|---|---:|
-| `main_plot` | The Exile's critical path through the campaigns | 472 |
-| `endgame_plot` | The Atlas storylines (Shaper/Elder → Sirus → Maven → Exarch & Eater; PoE2 Arbiters) | 125 |
+| `main_plot` | The Exile's critical path through the campaigns | 487 |
+| `endgame_plot` | The Atlas storylines (Shaper/Elder → Sirus → Maven → Exarch & Eater; PoE2 Arbiters) | 131 |
 | `branch` | League / side-mechanic / optional side-quest lore; `branches` names which (70 tags, e.g. `breach`, `ritual`, `kingsmarch`, `delve`, `twilight_order`, `campaign_side_quest`) | 440 |
 | `background` | Deep history the Exile doesn't live through (Precursors, Vaal, Eternal Empire…) | 264 |
 | `meta` | Containers: acts, leagues, ascendancy classes | 112 |
@@ -110,12 +110,12 @@ const gods = g.nodes.filter(n => n.type === "deity");
 1. **Corpus.** We collected 687 lore, NPC, quest, league, act, boss and class pages from [poewiki.net](https://www.poewiki.net) and [poe2wiki.net](https://www.poe2wiki.net) through the MediaWiki API, together with YouTube lore-video transcripts and official GGG announcements, patch notes and forum posts.
 2. **Research.** 15 domain researchers (AI agents) each wrote a schema-validated fragment for one area: deep history, the Vaal, the Eternal Empire, the PoE1 acts, the Atlas, the leagues in three eras, the gods, the PoE2 acts, the Twilight Order & Edicts, the PoE2 endgame, and the Exile & sources.
 3. **Independent verification.** A separate agent re-checked every claim in each fragment against the cited source. It fixed, downgraded or removed claims and wrote a changelog for each domain; see [`../verification/`](../verification/).
-4. **Gap-fill.** A completeness critic compared the graph with every corpus page, and 7 gap-fill fragments followed, each verified again.
+4. **Gap-fill.** A completeness critic compared the graph with every corpus page, and 7 gap-fill fragments followed, each verified again. Then every one of the 127 journey beats was linked to its characters (quest givers, bosses, allies) and its location from the quest pages: 6 more fragments, each verified independently. 123 of 127 beats now have a character and 125 have a location; the rest are datamined Act 5 beats with no released detail.
 5. **Two external audits.** An independent model (OpenAI Codex) audited facts, chronology, labels and duplicates twice, finding 72 and then 48 issues. Accepted fixes are applied by the reproducible curation layer, and one item was rejected with counter-evidence ([`curation/patches.json`](curation/patches.json)).
 6. **Deterministic build.** `scripts/merge.py` produces the three variants; `scripts/validate_fragment.py --strict-refs` and the JSON Schema both pass with 0 errors.
 
 ### Source mix (master)
-574 wiki pages · 42 in-game texts (quoted dialogue and lore) · 10 YouTube lore videos · 6 official forum posts · 2 patch notes · 2 official sites · 3 books/comics · 19 other (news and guides).
+578 wiki pages · 42 in-game texts (quoted dialogue and lore) · 10 YouTube lore videos · 6 official forum posts · 2 patch notes · 2 official sites · 3 books/comics · 19 other (news and guides).
 
 ### Known limitations
 * AI-assisted compilation. Two independent verification passes and two external audits ran over the graph, but errors can remain. **Please report them** (see below).

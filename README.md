@@ -23,9 +23,9 @@
 
 | Variant | Nodes | Edges | Sources | |
 |---|---:|---:|---:|---|
-| [**Master**](dataset/master/) | 1,413 | 3,622 | 658 | Everything, incl. PoE1 → PoE2 continuity |
-| [**PoE1 plot**](dataset/poe1/) | 1,042 | 2,616 | 547 | Path of Exile 1 and the history behind it |
-| [**PoE2 plot**](dataset/poe2/) | 806 | 1,778 | 385 | Path of Exile 2 and the history behind it |
+| [**Master**](dataset/master/) | 1,434 | 4,028 | 662 | Everything, incl. PoE1 → PoE2 continuity |
+| [**PoE1 plot**](dataset/poe1/) | 1,053 | 2,833 | 548 | Path of Exile 1 and the history behind it |
+| [**PoE2 plot**](dataset/poe2/) | 816 | 1,967 | 388 | Path of Exile 2 and the history behind it |
 
 * **Formats:** JSON, CSV and GraphML (Gephi, networkx, Cytoscape, Neo4j …), plus a JSON Schema.
 * **Sources:** every node and edge cites them, with a locator (wiki section, quoted dialogue or video timestamp) and a reliability grade.
@@ -34,7 +34,7 @@
   * `era` follows one timeline, from the *primordial* age to the *PoE2 endgame*
   * `games` and `canon_status` / `confidence` complete the set
 * **The Exile's journey:** a `next_beat` spine runs through 66 PoE1 beats (shipwreck → Kitava → Atlas → the Originator) and 61 PoE2 beats (Ogham → Act 4 → Interludes → Arbiter of Divinity).
-* **Provenance:** 15 domain research fragments and 7 gap-fill fragments were each independently verified, then audited twice by a second model. All corrections are reproducible from [`dataset/curation/`](dataset/curation/).
+* **Provenance:** 15 domain research fragments, 7 gap-fill fragments and 6 journey-enrichment fragments were each independently verified, then audited twice by a second model. All corrections are reproducible from [`dataset/curation/`](dataset/curation/).
 
 ```python
 import json
@@ -53,7 +53,8 @@ print(kitava["summary"], [s["source_id"] for s in kitava["sources"]])
 
 <p align="center"><img src="docs/img/explorer_focus.jpg" alt="Explorer: Kitava's neighbourhood with details and sources" width="900"></p>
 
-* **Story mode:** ▶ plays the Exile's journey beat by beat. The camera follows, the path lights up, and optional story cards show participants and sources.
+* **People and places first:** characters, gods, factions and locations are the nodes; events become dashed *shared event* links between them (toggle *Show events as nodes* for the raw event view).
+* **Story mode:** ▶ plays the Exile's journey beat by beat, lighting up who is involved and where, while a gold trail follows the Exile from place to place. The camera follows, the path lights up, and optional story cards show participants and sources.
 * **Five layouts:** a force-directed web; a chronological timeline of era clusters with journey lines; Exile-centred radial rings; Louvain community clusters; and a live re-flow of whatever is visible.
 * **Encodings:** colour by plot role, era, type, community, confidence or game; size by PageRank, betweenness or degree.
 * **Focus + context:** k-hop neighbourhood highlighting, hover previews, box selection, a minimap, and linked facet counts that update with every filter.

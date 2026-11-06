@@ -1,5 +1,4790 @@
 [
  {
+  "id": "e_event_poe2_a4_arrive_kingsmarch__occurs_in__loc_kingsmarch",
+  "source": "event_poe2_a4_arrive_kingsmarch",
+  "target": "loc_kingsmarch",
+  "relation": "occurs_in",
+  "description": "The arrival beat takes place in Kingsmarch, where the Exile reaches Doryani.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Talk to Doryani (quest log: 'You have arrived in Kingsmarch')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_a4_arrive_kingsmarch",
+  "source": "char_doryani",
+  "target": "event_poe2_a4_arrive_kingsmarch",
+  "relation": "participates_in",
+  "description": "Doryani is present in Kingsmarch on arrival and laments the state of the city.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Talk to Doryani: Doryani: 'This is it? This... is Kingsmarch? Science and civilisation must have never recovered.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_poe2_a4_arrive_kingsmarch",
+  "source": "char_the_hooded_one",
+  "target": "event_poe2_a4_arrive_kingsmarch",
+  "relation": "participates_in",
+  "description": "The Hooded One is with the Exile and Doryani on arrival and comments on the Kalguurans.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Talk to Doryani: The Hooded One: 'Your time was different, yes, but don't discount the Kalguurans just yet. They have potential.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_hire_aurora_may__occurs_in__loc_kingsmarch",
+  "source": "event_poe2_a4_hire_aurora_may",
+  "target": "loc_kingsmarch",
+  "relation": "occurs_in",
+  "description": "The charter deal with Alva, Rog and Makoru takes place in Kingsmarch.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Talk to Alva / Take the Boat Charter (Alva, Rog and Makoru all speak in Kingsmarch; Makoru: 'we only operate under the Meridian Free Traders of Kingsmarch')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_alva__participates_in__event_poe2_a4_hire_aurora_may",
+  "source": "char_alva",
+  "target": "event_poe2_a4_hire_aurora_may",
+  "relation": "participates_in",
+  "description": "Alva introduces the Exile to Rog, the charter seller.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Talk to Alva: Alva: 'Ah, there you are! This is my contact Rog, a trader with a keen eye for valuable artefacts!'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_rog__participates_in__event_poe2_a4_hire_aurora_may",
+  "source": "char_rog",
+  "target": "event_poe2_a4_hire_aurora_may",
+  "relation": "participates_in",
+  "description": "Rog sells the Boat Charter in exchange for Vaal treasure.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Talk to Alva: Rog, the Dealer: 'Kalguuran merchant vessels don't intentionally seek out danger... Take it to her.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_makoru__participates_in__event_poe2_a4_hire_aurora_may",
+  "source": "char_makoru",
+  "target": "event_poe2_a4_hire_aurora_may",
+  "relation": "participates_in",
+  "description": "Makoru, captain of the Aurora May, is the ship's captain the charter secures.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Talk to Makoru: Makoru: 'Welcome aboard. I'm Makoru. Captain of the Aurora May.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_kanu__participates_in__event_poe2_a4_hire_aurora_may",
+  "source": "char_kanu",
+  "target": "event_poe2_a4_hire_aurora_may",
+  "relation": "participates_in",
+  "description": "Kanu, first mate of the Aurora May, is part of the crew hired in this beat.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Talk to Makoru: Kanu: 'If you're lookin' for a ship, best speak to the boss, Makoru.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_island_weapon_pieces__occurs_in__loc_isle_of_kin",
+  "source": "event_poe2_a4_island_weapon_pieces",
+  "target": "loc_isle_of_kin",
+  "relation": "occurs_in",
+  "description": "One of the rotating islands where a Weapon piece may be found is Isle of Kin.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_act_4",
+    "locator": "Progression: island map and 'Precursor weapon pieces & Matiki locations' table (Isle of Kin, Volcanic Warrens)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_island_weapon_pieces__occurs_in__loc_shrike_island",
+  "source": "event_poe2_a4_island_weapon_pieces",
+  "target": "loc_shrike_island",
+  "relation": "occurs_in",
+  "description": "Shrike Island is one of the rotating islands holding a Weapon piece.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_act_4",
+    "locator": "Progression: island map (Shrike Island, Boss: Scourge of the Skies) and piece-location table"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_island_weapon_pieces__occurs_in__loc_whakapanu_island",
+  "source": "event_poe2_a4_island_weapon_pieces",
+  "target": "loc_whakapanu_island",
+  "relation": "occurs_in",
+  "description": "Whakapanu Island is one of the rotating islands holding a Weapon piece.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_act_4",
+    "locator": "Progression: island map (Whakapanu Island, Singing Caverns, Boss: Diamora, Song of Death)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_krutog__participates_in__event_poe2_a4_island_weapon_pieces",
+  "source": "char_krutog",
+  "target": "event_poe2_a4_island_weapon_pieces",
+  "relation": "participates_in",
+  "description": "Krutog, Lord of Kin is a boss the Exile fights while searching the islands for Weapon pieces.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_act_4",
+    "locator": "Progression: island map (Volcanic Warrens, Isle of Kin, Boss: Krutog, Lord of Kin)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_scourge_of_the_skies__participates_in__event_poe2_a4_island_weapon_pieces",
+  "source": "char_scourge_of_the_skies",
+  "target": "event_poe2_a4_island_weapon_pieces",
+  "relation": "participates_in",
+  "description": "The Scourge of the Skies is a boss the Exile fights on Shrike Island during the piece search.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_act_4",
+    "locator": "Progression: island map (Shrike Island, Boss: Scourge of the Skies)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_diamora__participates_in__event_poe2_a4_island_weapon_pieces",
+  "source": "char_diamora",
+  "target": "event_poe2_a4_island_weapon_pieces",
+  "relation": "participates_in",
+  "description": "Diamora, Song of Death is a boss the Exile fights in Singing Caverns during the piece search.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_act_4",
+    "locator": "Progression: island map (Singing Caverns, Whakapanu Island, Boss: Diamora, Song of Death)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_the_prisoner__participates_in__event_poe2_a4_island_weapon_pieces",
+  "source": "char_the_prisoner",
+  "target": "event_poe2_a4_island_weapon_pieces",
+  "relation": "participates_in",
+  "description": "The Prisoner is a boss in Solitary Confinement, reached while searching for Weapon pieces; that area is not one of the three listed occurs_in locations.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_act_4",
+    "locator": "Progression: island map (Solitary Confinement, Abandoned Prison, Boss: The Prisoner)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_makoru__participates_in__event_poe2_a4_island_weapon_pieces",
+  "source": "char_makoru",
+  "target": "event_poe2_a4_island_weapon_pieces",
+  "relation": "participates_in",
+  "description": "Makoru's ship carries the Exile between the islands during the piece search.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Explore the Islands: 'You have obtained a weapon piece. Speak to Makoru to travel to a new island.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_a4_precursor_script_memory",
+  "source": "char_doryani",
+  "target": "event_poe2_a4_precursor_script_memory",
+  "relation": "participates_in",
+  "description": "Doryani is present and works to translate the Precursor script the Hooded One recognises.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Witness The Hooded One: Doryani: 'The first example of Precursor writing I've ever seen!'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_utopia_oath__occurs_in__loc_kingsmarch",
+  "source": "event_poe2_a4_utopia_oath",
+  "target": "loc_kingsmarch",
+  "relation": "occurs_in",
+  "description": "The Utopia quest starts with Missionary Lorandis in Kingsmarch.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_utopia",
+    "locator": "Quest description: 'It is begun by speaking with Missionary Lorandis in Kingsmarch'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_utopia_oath__occurs_in__loc_arastas",
+  "source": "event_poe2_a4_utopia_oath",
+  "target": "loc_arastas",
+  "relation": "occurs_in",
+  "description": "The oath to the Saviour and the offer of Utopia both happen on Arastas.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_utopia",
+    "locator": "Quest description: 'encourages you to journey to Arastas take an oath to The Saviour'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_lorandis__participates_in__event_poe2_a4_utopia_oath",
+  "source": "char_lorandis",
+  "target": "event_poe2_a4_utopia_oath",
+  "relation": "participates_in",
+  "description": "Missionary Lorandis sends the Exile to Arastas to swear the oath.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_utopia",
+    "locator": "Quest description: Missionary Lorandis begins the quest in Kingsmarch and sends the Exile to Arastas"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_servitor_marius__participates_in__event_poe2_a4_utopia_oath",
+  "source": "char_servitor_marius",
+  "target": "event_poe2_a4_utopia_oath",
+  "relation": "participates_in",
+  "description": "Servitor Marius offers the Exile membership in Utopia, and the refusal completes the quest.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_utopia",
+    "locator": "Quest description: 'He proposes to join their Utopia or donate to their cause'; completion 'Speak with Servitor Marius'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_defeat_torvian__occurs_in__loc_arastas",
+  "source": "event_poe2_a4_defeat_torvian",
+  "target": "loc_arastas",
+  "relation": "occurs_in",
+  "description": "The fight against Torvian takes place on Arastas.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_act_4",
+    "locator": "Progression: island map (Arastas, Boss: Torvian, Hand of the Saviour)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_defeat_benedictus__occurs_in__loc_the_excavation",
+  "source": "event_poe2_a4_defeat_benedictus",
+  "target": "loc_the_excavation",
+  "relation": "occurs_in",
+  "description": "The fight against Benedictus takes place in the Excavation.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_act_4",
+    "locator": "Progression: island map (The Excavation, Boss: Benedictus, First Herald of Utopia)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_the_countess__participates_in__event_poe2_a4_defeat_benedictus",
+  "source": "char_the_countess",
+  "target": "event_poe2_a4_defeat_benedictus",
+  "relation": "participates_in",
+  "description": "The Countess leaves Benedictus to hold the Exile and retreats.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Confront Kanu and the First Herald: The Countess: 'First Herald... deal with them.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_kanu__participates_in__event_poe2_a4_defeat_benedictus",
+  "source": "char_kanu",
+  "target": "event_poe2_a4_defeat_benedictus",
+  "relation": "participates_in",
+  "description": "Kanu begs to be taken along and reveals the Beast is in Oriath.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Defeat Benedictus: Kanu: 'Please, please, please! Take me with you, please!'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_tavakai__participates_in__event_poe2_a4_defeat_benedictus",
+  "source": "char_tavakai",
+  "target": "event_poe2_a4_defeat_benedictus",
+  "relation": "participates_in",
+  "description": "Tavakai strikes Kanu down after Kanu's confession.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Defeat Benedictus: Tavukai: 'Hyaaahhh!' ... 'Let the ancestors judge him.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_makoru__participates_in__event_poe2_a4_defeat_benedictus",
+  "source": "char_makoru",
+  "target": "event_poe2_a4_defeat_benedictus",
+  "relation": "participates_in",
+  "description": "Makoru witnesses Kanu's treachery during the Benedictus fight.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Defeat Benedictus: Makoru: 'Treason is unforgivable.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_tavakai_steals_weapon__occurs_in__loc_the_excavation",
+  "source": "event_poe2_a4_tavakai_steals_weapon",
+  "target": "loc_the_excavation",
+  "relation": "occurs_in",
+  "description": "The reforging and seizure take place in the Excavated Site, which is within the Excavation.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Enter the Excavated Site: Makoru: 'These murals... They appear to depict the Weapon... and the Beast.' (wiki names 'Excavated Site'; treated as the Excavation)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_tavakai__participates_in__event_poe2_a4_tavakai_steals_weapon",
+  "source": "char_tavakai",
+  "target": "event_poe2_a4_tavakai_steals_weapon",
+  "relation": "participates_in",
+  "description": "Tavakai takes the reforged Weapon for the Karui.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Witness the Hooded One reforge the Weapon: Tavakai: 'Taking what is rightfully ours. The Karui will now be stronger than ever before!'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_makoru__participates_in__event_poe2_a4_tavakai_steals_weapon",
+  "source": "char_makoru",
+  "target": "event_poe2_a4_tavakai_steals_weapon",
+  "relation": "participates_in",
+  "description": "Makoru is taken along by Tavakai when he flees.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Witness the Hooded One reforge the Weapon: 'Tavakai flees, taking Makoru with him.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_poe2_a4_tavakai_steals_weapon",
+  "source": "char_the_hooded_one",
+  "target": "event_poe2_a4_tavakai_steals_weapon",
+  "relation": "participates_in",
+  "description": "The Hooded One performs the reforging and then warns of the Weapon's Corruption.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Witness the Hooded One reforge the Weapon: The Hooded One: 'This will take most of my strength... Stand back.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_reveal_third_edict__occurs_in__loc_kingsmarch",
+  "source": "event_poe2_a4_reveal_third_edict",
+  "target": "loc_kingsmarch",
+  "relation": "occurs_in",
+  "description": "The inscription is read back in Kingsmarch.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Return to Kingsmarch: The Hooded One: 'There is no doubt now in my mind... The symbols declare it The instrument of the Third Edict.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_reveal_third_edict__occurs_in__loc_the_excavation",
+  "source": "event_poe2_a4_reveal_third_edict",
+  "target": "loc_the_excavation",
+  "relation": "occurs_in",
+  "description": "The Weapon is reforged in the Excavated Site before the inscription is read in Kingsmarch.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [
+   "twilight_order"
+  ],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Witness the Hooded One reforge the Weapon (after 'Enter the Excavated Site'): The Hooded One: 'you've done well... Stand back.' (wiki names 'Excavated Site'; treated as the Excavation)"
+   },
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Enter the Excavated Site"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5",
+   "twilight_order_edicts"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_a4_reveal_third_edict",
+  "source": "char_doryani",
+  "target": "event_poe2_a4_reveal_third_edict",
+  "relation": "participates_in",
+  "description": "Doryani reacts to the inscription and asks about the Edicts.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Return to Kingsmarch: Doryani: 'The Third Edict? What is the meaning... of these Edicts?'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_makoru__participates_in__event_poe2_a4_reveal_third_edict",
+  "source": "char_makoru",
+  "target": "event_poe2_a4_reveal_third_edict",
+  "relation": "participates_in",
+  "description": "Makoru is present for the reforging and seizure.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Witness the Hooded One reforge the Weapon: Makoru: 'You fool! They need the Weapon! The world is at stake!'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_tavakai__participates_in__event_poe2_a4_reveal_third_edict",
+  "source": "char_tavakai",
+  "target": "event_poe2_a4_reveal_third_edict",
+  "relation": "participates_in",
+  "description": "Tavakai is present for the reforging and seizes the Weapon.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Witness the Hooded One reforge the Weapon: Tavakai: 'Behold! The might of the Karui!'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_defeat_tavakai__occurs_in__loc_heart_of_the_tribe",
+  "source": "event_poe2_a4_defeat_tavakai",
+  "target": "loc_heart_of_the_tribe",
+  "relation": "occurs_in",
+  "description": "Tavakai's three-phase fight takes place at the Heart of the Tribe.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_act_4",
+    "locator": "Progression: island map (Heart of the Tribe, Act Boss: Tavakai, the Chieftain)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_defeat_tavakai__occurs_in__loc_ngakanu",
+  "source": "event_poe2_a4_defeat_tavakai",
+  "target": "loc_ngakanu",
+  "relation": "occurs_in",
+  "description": "The Heart of the Tribe lies within the Ngakanu area.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_act_4",
+    "locator": "Progression: island map (Ngakanu, with Heart of the Tribe below it)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_tavakai__participates_in__event_poe2_a4_defeat_tavakai",
+  "source": "char_tavakai",
+  "target": "event_poe2_a4_defeat_tavakai",
+  "relation": "participates_in",
+  "description": "Tavakai is the boss the Exile defeats in this beat.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Defeat Tavakai: Tavakai: 'I must be stronger... For the Karui!'; Phase 3: 'The power of the Ancestors is mine!'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_deity_tukohama__participates_in__event_poe2_a4_defeat_tavakai",
+  "source": "deity_tukohama",
+  "target": "event_poe2_a4_defeat_tavakai",
+  "relation": "participates_in",
+  "description": "Tukohama, the Karui god of war, rejects Tavakai's appeal during the fight.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Defeat Tavakai: Tukohama: 'This... is not the Way.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_sin_cures_tavakai__occurs_in__loc_heart_of_the_tribe",
+  "source": "event_poe2_a4_sin_cures_tavakai",
+  "target": "loc_heart_of_the_tribe",
+  "relation": "occurs_in",
+  "description": "The cure follows Tavakai's defeat, and the location is inferred from that fight.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Witness Sin cure Tavakai and Makoru (the quest log does not name a place; placed where Tavakai was defeated)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_poe2_a4_sin_cures_tavakai",
+  "source": "char_the_hooded_one",
+  "target": "event_poe2_a4_sin_cures_tavakai",
+  "relation": "participates_in",
+  "description": "The Hooded One, called Sin in the quest log, uses the Weapon to cure Tavakai and Makoru.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Witness Sin cure Tavakai and Makoru: The Hooded One: 'I believe so... But we have to move quickly. You must relinquish the Weapon.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_tavakai__participates_in__event_poe2_a4_sin_cures_tavakai",
+  "source": "char_tavakai",
+  "target": "event_poe2_a4_sin_cures_tavakai",
+  "relation": "participates_in",
+  "description": "Tavakai is cured of Blood Fever and pledges the Karui to the coming war.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Witness Sin cure Tavakai and Makoru: Tavakai: 'Forgive me... daughter. The fever took hold, and I... I lost my way.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_makoru__participates_in__event_poe2_a4_sin_cures_tavakai",
+  "source": "char_makoru",
+  "target": "event_poe2_a4_sin_cures_tavakai",
+  "relation": "participates_in",
+  "description": "Makoru is cured of Blood Fever alongside Tavakai.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Witness Sin cure Tavakai and Makoru: Makoru: 'Father!'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_a4_call_to_arms__occurs_in__loc_kingsmarch",
+  "source": "event_poe2_a4_call_to_arms",
+  "target": "loc_kingsmarch",
+  "relation": "occurs_in",
+  "description": "The alliance plan is made in Kingsmarch.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Speak to the Hooded One (after Return to Kingsmarch): 'Now, we need allies... before we assault Oriath.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_poe2_a4_call_to_arms",
+  "source": "char_the_hooded_one",
+  "target": "event_poe2_a4_call_to_arms",
+  "relation": "participates_in",
+  "description": "The Hooded One decides to call the allies to war before the assault on Oriath.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Speak to the Hooded One: 'Now, we need allies... We should call upon the Ezomytes and the Maraketh.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_a4_call_to_arms",
+  "source": "char_doryani",
+  "target": "event_poe2_a4_call_to_arms",
+  "relation": "participates_in",
+  "description": "Doryani offers his reserve forces to the alliance.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Speak to the Hooded One: Doryani: 'As it so happens, I may... also have some forces in reserve.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_faction_karui__participates_in__event_poe2_a4_call_to_arms",
+  "source": "faction_karui",
+  "target": "event_poe2_a4_call_to_arms",
+  "relation": "participates_in",
+  "description": "The Karui are already part of the alliance when the plan is made.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Speak to the Hooded One: 'The Karui are already with us.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_faction_ezomyte__associated_with__event_poe2_a4_call_to_arms",
+  "source": "faction_ezomyte",
+  "target": "event_poe2_a4_call_to_arms",
+  "relation": "associated_with",
+  "description": "The Ezomytes are named as the first allies the Hooded One plans to call.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Speak to the Hooded One: 'We should call upon the Ezomytes and the Maraketh.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_faction_maraketh__associated_with__event_poe2_a4_call_to_arms",
+  "source": "faction_maraketh",
+  "target": "event_poe2_a4_call_to_arms",
+  "relation": "associated_with",
+  "description": "The Maraketh are named as allies the Hooded One plans to call.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_search",
+    "locator": "Speak to the Hooded One: 'We should call upon the Ezomytes and the Maraketh.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_interlude_recruit_ezomytes__occurs_in__loc_ogham",
+  "source": "event_poe2_interlude_recruit_ezomytes",
+  "target": "loc_ogham",
+  "relation": "occurs_in",
+  "description": "The Ezomyte recruitment begins and Renly is met in Ogham.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_ezomytes",
+    "locator": "Speak to the Hooded One: 'To Ogham, then.'; Speak to Renly"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_interlude_recruit_ezomytes__occurs_in__loc_holten",
+  "source": "event_poe2_interlude_recruit_ezomytes",
+  "target": "loc_holten",
+  "relation": "occurs_in",
+  "description": "The bosses Thane Wulfric and Lady Elswyth are fought in Holten.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_ezomytes",
+    "locator": "Speak to Renly: Renly: 'Our neighbours... in Holten. Thane Wulfric and Lady Elswyth have lost their bloody minds.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_poe2_interlude_recruit_ezomytes",
+  "source": "char_the_hooded_one",
+  "target": "event_poe2_interlude_recruit_ezomytes",
+  "relation": "participates_in",
+  "description": "The Hooded One starts the quest by sending the Exile to Ogham.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_ezomytes",
+    "locator": "Speak to the Hooded One: 'To Ogham, then. Hopefully, they've had time to rebuild.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_renly__participates_in__event_poe2_interlude_recruit_ezomytes",
+  "source": "char_renly",
+  "target": "event_poe2_interlude_recruit_ezomytes",
+  "relation": "participates_in",
+  "description": "Renly asks for the Ezomytes' help and later pledges them to the war.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_ezomytes",
+    "locator": "Speak to Renly: Renly: 'It's good you're here. Our will to survive is being tested, yet again.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_thane_wulfric__participates_in__event_poe2_interlude_recruit_ezomytes",
+  "source": "char_thane_wulfric",
+  "target": "event_poe2_interlude_recruit_ezomytes",
+  "relation": "participates_in",
+  "description": "Thane Wulfric and Lady Elswyth are the Holten bosses the Exile defeats in this quest.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_ezomytes",
+    "locator": "Completion: 'Defeat Thane Wulfric and Lady Elswyth'; Defeat the Thane and Lady"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_isolde__participates_in__event_poe2_interlude_recruit_ezomytes",
+  "source": "char_isolde",
+  "target": "event_poe2_interlude_recruit_ezomytes",
+  "relation": "participates_in",
+  "description": "Isolde of the White Shroud is one of the bosses the Exile defeats in Scorched Farmlands.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_ezomytes",
+    "locator": "Quest log: 'Defeat Isolde of the White Shroud and Heldra of the Black Pyre.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_heldra__participates_in__event_poe2_interlude_recruit_ezomytes",
+  "source": "char_heldra",
+  "target": "event_poe2_interlude_recruit_ezomytes",
+  "relation": "participates_in",
+  "description": "Heldra of the Black Pyre is defeated alongside Isolde in Scorched Farmlands.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_ezomytes",
+    "locator": "Quest log: 'Defeat Isolde of the White Shroud and Heldra of the Black Pyre.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_siora__participates_in__event_poe2_interlude_recruit_ezomytes",
+  "source": "char_siora",
+  "target": "event_poe2_interlude_recruit_ezomytes",
+  "relation": "participates_in",
+  "description": "Siora, Blade of the Mists, is a boss the Exile defeats at the altar.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_ezomytes",
+    "locator": "Quest log: 'Defeat Siora, Blade of the Mists.' Siora: 'Darkness descends... and with it, your end!'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_faction_ezomyte__participates_in__event_poe2_interlude_recruit_ezomytes",
+  "source": "faction_ezomyte",
+  "target": "event_poe2_interlude_recruit_ezomytes",
+  "relation": "participates_in",
+  "description": "The Ezomyte clans are pledged to the war once Holten is cleared.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_ezomytes",
+    "locator": "Return to Renly in Ogham: Renly: 'The Thanes will answer the call. The clans will all join this war.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_interlude_recruit_maraketh__occurs_in__loc_khari_bazaar",
+  "source": "event_poe2_interlude_recruit_maraketh",
+  "target": "loc_khari_bazaar",
+  "relation": "occurs_in",
+  "description": "The Maraketh recruitment starts with a trip to the Bazaar where Asala is found.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_maraketh",
+    "locator": "Speak to the Hooded One to travel to the Bazaar; Speak to Asala"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_interlude_recruit_maraketh__occurs_in__loc_khari_crossing",
+  "source": "event_poe2_interlude_recruit_maraketh",
+  "target": "loc_khari_crossing",
+  "relation": "occurs_in",
+  "description": "The Exile searches the Khari Crossing for the tower and the Galai Gates.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_maraketh",
+    "locator": "Travel to The Khari Crossing and locate the tower of Ab Binayi; Find the Galai Gates"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_interlude_recruit_maraketh__occurs_in__loc_qimah",
+  "source": "event_poe2_interlude_recruit_maraketh",
+  "target": "loc_qimah",
+  "relation": "occurs_in",
+  "description": "The Gifting of Water is disrupted by Azmadi in Qimah and its reservoir.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_maraketh",
+    "locator": "Explore Qimah in search of the Ceremony Site; Explore Qimah Reservoir"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_poe2_interlude_recruit_maraketh",
+  "source": "char_the_hooded_one",
+  "target": "event_poe2_interlude_recruit_maraketh",
+  "relation": "participates_in",
+  "description": "The Hooded One sends the Exile to the Maraketh.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_maraketh",
+    "locator": "Speak to the Hooded One: 'At this time of year, I know where to find the Ardura akhara.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_asala__participates_in__event_poe2_interlude_recruit_maraketh",
+  "source": "char_asala",
+  "target": "event_poe2_interlude_recruit_maraketh",
+  "relation": "participates_in",
+  "description": "Asala is the Sekhema who needs the First Barya returned for the Gifting of Water and later joins the war.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_maraketh",
+    "locator": "Speak to Asala: Sekhema Asala: 'Yes. We have learned this as well... The sel khari... have not arrived.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_zarka__participates_in__event_poe2_interlude_recruit_maraketh",
+  "source": "char_zarka",
+  "target": "event_poe2_interlude_recruit_maraketh",
+  "relation": "participates_in",
+  "description": "Zarka reveals the location of the sel khari to the Exile.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_maraketh",
+    "locator": "Speak to Zarka: Zarka: 'Ascend the tower of Ab Binayi. At its height you will find a guiding seal.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_jado__participates_in__event_poe2_interlude_recruit_maraketh",
+  "source": "char_jado",
+  "target": "event_poe2_interlude_recruit_maraketh",
+  "relation": "participates_in",
+  "description": "Jado, of the Order of the Djinn, helps the Exile recover the First Barya.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_maraketh",
+    "locator": "Speak to Asala: Jado: 'I infiltrated the sel khari to protect the First Barya.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_elzarah__participates_in__event_poe2_interlude_recruit_maraketh",
+  "source": "char_elzarah",
+  "target": "event_poe2_interlude_recruit_maraketh",
+  "relation": "participates_in",
+  "description": "Elzarah, the Cobra Lord, is a boss the Exile defeats in the sel khari sanctuary.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_maraketh",
+    "locator": "Quest log: 'Defeat Elzarah, the Cobra Lord.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_vornas__participates_in__event_poe2_interlude_recruit_maraketh",
+  "source": "char_vornas",
+  "target": "event_poe2_interlude_recruit_maraketh",
+  "relation": "participates_in",
+  "description": "Vornas, the Fell Flame, is a boss the Exile defeats after the Galai Gates.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_maraketh",
+    "locator": "Quest log: 'Defeat Vornas, the Fell Flame.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_azmadi__participates_in__event_poe2_interlude_recruit_maraketh",
+  "source": "char_azmadi",
+  "target": "event_poe2_interlude_recruit_maraketh",
+  "relation": "participates_in",
+  "description": "Azmadi, the Faridun Prince, is a boss the Exile defeats in Qimah Reservoir.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_maraketh",
+    "locator": "Defeat Azmadi, the Faridun Prince: Azmadi: 'The Faridun shall rise!'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_faction_maraketh__participates_in__event_poe2_interlude_recruit_maraketh",
+  "source": "faction_maraketh",
+  "target": "event_poe2_interlude_recruit_maraketh",
+  "relation": "participates_in",
+  "description": "The Maraketh join the alliance on completion of the quest.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_maraketh",
+    "locator": "Quest Complete: 'The Maraketh will join you in your journey to Oriath.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_interlude_recruit_vaal__occurs_in__loc_mount_kriar",
+  "source": "event_poe2_interlude_recruit_vaal",
+  "target": "loc_mount_kriar",
+  "relation": "occurs_in",
+  "description": "The Vaal recruitment takes place on Mount Kriar.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_vaal",
+    "locator": "Speak to Doryani: Doryani: 'Before us stands Mount Kriar, the most isolated peak in the Azmeri Ranges.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_interlude_recruit_vaal__occurs_in__loc_cuachic_vault",
+  "source": "event_poe2_interlude_recruit_vaal",
+  "target": "loc_cuachic_vault",
+  "relation": "occurs_in",
+  "description": "The final confrontation with Zolin and Zelina takes place in the Cuachic Vault.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_vaal",
+    "locator": "Enter the Cuachic Vault; Defeat Zolin and Zelina"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_poe2_interlude_recruit_vaal",
+  "source": "char_the_hooded_one",
+  "target": "event_poe2_interlude_recruit_vaal",
+  "relation": "participates_in",
+  "description": "The Hooded One sends the Exile to Mount Kriar.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_vaal",
+    "locator": "Speak to the Hooded One: 'Let us seek out Doryani's reserves... whatever they may be.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_interlude_recruit_vaal",
+  "source": "char_doryani",
+  "target": "event_poe2_interlude_recruit_vaal",
+  "relation": "participates_in",
+  "description": "Doryani gives the code phrase and later appears to command the Cuachic.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_vaal",
+    "locator": "Speak to Doryani: Doryani: 'If their discipline and loyalty endure... they will know us by a certain phrase.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_zolin_and_zelina__participates_in__event_poe2_interlude_recruit_vaal",
+  "source": "char_zolin_and_zelina",
+  "target": "event_poe2_interlude_recruit_vaal",
+  "relation": "participates_in",
+  "description": "Zolin and Zelina are bosses the Exile defeats in the Cuachic Vault.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_vaal",
+    "locator": "Quest log: 'Defeat Zolin and Zelina.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_rakkar__participates_in__event_poe2_interlude_recruit_vaal",
+  "source": "char_rakkar",
+  "target": "event_poe2_interlude_recruit_vaal",
+  "relation": "participates_in",
+  "description": "Rakkar, the Frozen Talon, is a boss the Exile defeats on the way up Mount Kriar.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_vaal",
+    "locator": "Quest log: 'Defeat Rakkar, the Frozen Talon.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_stormgore__participates_in__event_poe2_interlude_recruit_vaal",
+  "source": "char_stormgore",
+  "target": "event_poe2_interlude_recruit_vaal",
+  "relation": "participates_in",
+  "description": "Stormgore is a boss the Exile defeats in the Etched Ravine on Mount Kriar.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_vaal",
+    "locator": "Quest log: 'Defeat Stormgore.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_faction_cuachic__participates_in__event_poe2_interlude_recruit_vaal",
+  "source": "faction_cuachic",
+  "target": "event_poe2_interlude_recruit_vaal",
+  "relation": "participates_in",
+  "description": "The Cuachic join the alliance once the Vaal are convinced.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_recruit_the_vaal",
+    "locator": "Quest Complete: 'You have convinced the Vaal to aid you.'; Doryani: 'The Cuachic shall join our cause.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_siege_of_oriath__occurs_in__loc_kingsmarch",
+  "source": "event_poe2_siege_of_oriath",
+  "target": "loc_kingsmarch",
+  "relation": "occurs_in",
+  "description": "The assault on Oriath is planned in Kingsmarch.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_siege_of_oriath",
+    "locator": "Speak to Hooded One: 'Speak to Hooded One in Kingsmarch.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_siege_of_oriath__occurs_in__loc_ziggurat_refuge",
+  "source": "event_poe2_siege_of_oriath",
+  "target": "loc_ziggurat_refuge",
+  "relation": "occurs_in",
+  "description": "The siege ends at the Ziggurat Refuge instead of Oriath.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_siege_of_oriath",
+    "locator": "Quest Complete: 'have ended up in the Ziggurat Refuge despite your attempts to travel to Oriath'; infobox completion 'End up at the Ziggurat Refuge'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_poe2_siege_of_oriath",
+  "source": "char_the_hooded_one",
+  "target": "event_poe2_siege_of_oriath",
+  "relation": "participates_in",
+  "description": "The Hooded One proposes and plans the assault on Oriath.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_siege_of_oriath",
+    "locator": "Speak to Hooded One: 'Wraeclast has finally united... Come, let us plan our assault on Oriath.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_siege_of_oriath",
+  "source": "char_doryani",
+  "target": "event_poe2_siege_of_oriath",
+  "relation": "participates_in",
+  "description": "Doryani presents the strategy for the assault on Oriath.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_siege_of_oriath",
+    "locator": "Speak to Hooded One: Doryani: 'I've been working on a strategy of sorts.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_event_poe2_interlude_ziggurat_refuge__occurs_in__loc_ziggurat_refuge",
+  "source": "event_poe2_interlude_ziggurat_refuge",
+  "target": "loc_ziggurat_refuge",
+  "relation": "occurs_in",
+  "description": "The Exile ends up at the Ziggurat Refuge, where Doryani later explains the Hooded One's condition.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "Siege of Oriath Quest Complete: 'have ended up in the Ziggurat Refuge despite your attempts to travel to Oriath'; Legacy of the Precursors: 'Speak to Doryani'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_interlude_ziggurat_refuge",
+  "source": "char_doryani",
+  "target": "event_poe2_interlude_ziggurat_refuge",
+  "relation": "participates_in",
+  "description": "Doryani explains that the Beast's Corruption holds the Hooded One in thrall.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "Legacy of the Precursors, Speak to Doryani: Doryani: 'As we feared, the Beast's Corruption holds the Hooded One in thrall.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_poe2_interlude_ziggurat_refuge",
+  "source": "char_the_hooded_one",
+  "target": "event_poe2_interlude_ziggurat_refuge",
+  "relation": "participates_in",
+  "description": "The Hooded One is found asleep and cannot be woken, held by the Beast's Corruption.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "Check on the Hooded One (quest log) and Speak to Doryani: Doryani: 'Nothing we do can wake him.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_act4_interludes_act5"
+  ]
+ },
+ {
+  "id": "e_char_count_geonor__participates_in__event_poe2_exile_death_sentence",
+  "source": "char_count_geonor",
+  "target": "event_poe2_exile_death_sentence",
+  "relation": "participates_in",
+  "description": "Count Geonor sentences the Exile to death during his reign of terror in Ogham.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_lore",
+    "locator": "Prelude > Count Geonor"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_the_executioner__participates_in__event_poe2_exile_death_sentence",
+  "source": "char_the_executioner",
+  "target": "event_poe2_exile_death_sentence",
+  "relation": "participates_in",
+  "description": "The Executioner attempts to hang the Exile, who escapes by jumping into the ocean.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_lore",
+    "locator": "Prelude > Count Geonor"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_the_bloated_miller__participates_in__event_reaching_clearfell",
+  "source": "char_the_bloated_miller",
+  "target": "event_reaching_clearfell",
+  "relation": "participates_in",
+  "description": "The Bloated Miller is the diseased boss the Exile must slay on The Riverbank.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_reaching_clearfell",
+    "locator": "Quest infobox boss = The Bloated Miller / Walkthrough 'Slay the Bloated Miller'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_renly__participates_in__event_reaching_clearfell",
+  "source": "char_renly",
+  "target": "event_reaching_clearfell",
+  "relation": "participates_in",
+  "description": "Renly, the Clearfell blacksmith, rewards the Exile with an Uncut Skill Gem for slaying the Miller.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_reaching_clearfell",
+    "locator": "Walkthrough 'Talk to the Blacksmith' / 'Take Renly's reward'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_una__participates_in__event_secrets_in_the_dark",
+  "source": "char_una",
+  "target": "event_secrets_in_the_dark",
+  "relation": "participates_in",
+  "description": "Una advises that only ancient runes can break the Count's binding on the Hooded One and later speaks to the Exile after his release.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_secrets_in_the_dark",
+    "locator": "Walkthrough 'Ask Una for help' / 'Speak to Una'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_renly__participates_in__event_secrets_in_the_dark",
+  "source": "char_renly",
+  "target": "event_secrets_in_the_dark",
+  "relation": "participates_in",
+  "description": "Renly forges the three Runes of Power into Rune Spikes.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_secrets_in_the_dark",
+    "locator": "Walkthrough 'Bring the Runes to Renly' / 'Take the Rune Spikes from Renly'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_the_rust_king__participates_in__event_secrets_in_the_dark",
+  "source": "char_the_rust_king",
+  "target": "event_secrets_in_the_dark",
+  "relation": "participates_in",
+  "description": "The Rust King guards the final Rune of Power in the Red Vale and is defeated for it.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_secrets_in_the_dark",
+    "locator": "Walkthrough 'Defeat the Rust King'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_secrets_in_the_dark",
+  "source": "char_the_hooded_one",
+  "target": "event_secrets_in_the_dark",
+  "relation": "participates_in",
+  "description": "The Hooded One is released from the Tree of Souls when the Rune Spikes are stabbed into the runes.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_secrets_in_the_dark",
+    "locator": "Walkthrough 'Use the Rune Spikes' / 'Speak to Una' (Una: 'He's unconscious, but he's breathing')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_event_the_mysterious_shade__occurs_in__loc_clearfell",
+  "source": "event_the_mysterious_shade",
+  "target": "loc_clearfell",
+  "relation": "occurs_in",
+  "description": "Una revives the Hooded One at Clearfell Encampment after the Exile brings Count Lachlann's Ring.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_mysterious_shade",
+    "locator": "Walkthrough 'Bring Count Lachlann's Ring to Una' / 'Witness the revival of the Hooded One'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_una__participates_in__event_the_mysterious_shade",
+  "source": "char_una",
+  "target": "event_the_mysterious_shade",
+  "relation": "participates_in",
+  "description": "Una uses Count Lachlann's ring to heal the Hooded One and learns the Seed of Corruption is the cause of Ogham's affliction.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_mysterious_shade",
+    "locator": "Walkthrough 'Witness the revival of the Hooded One' (Una: 'You found the ring!')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_the_mysterious_shade",
+  "source": "char_the_hooded_one",
+  "target": "event_the_mysterious_shade",
+  "relation": "participates_in",
+  "description": "The Hooded One is revived and warns that the Seed of Corruption must be put back.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_mysterious_shade",
+    "locator": "Walkthrough 'Witness the revival of the Hooded One' (The Hooded One quote)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_lachlann__participates_in__event_sorrow_among_stones",
+  "source": "char_lachlann",
+  "target": "event_sorrow_among_stones",
+  "relation": "participates_in",
+  "description": "Lachlann of Endless Lament asks the Exile for the Memorial Gate keys and is put to rest at the end of the quest.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_sorrow_among_stones",
+    "locator": "Quest header 'start = Talk to Lachlann the Lost' / 'End Lachlann's Suffering'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_asinia__participates_in__event_sorrow_among_stones",
+  "source": "char_asinia",
+  "target": "event_sorrow_among_stones",
+  "relation": "participates_in",
+  "description": "Asinia, the Praetor's Consort, is destroyed in the Tomb of the Consort for her Memorial Key piece.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_sorrow_among_stones",
+    "locator": "Walkthrough 'Destroy Asinia, the Praetor's Consort'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_draven__participates_in__event_sorrow_among_stones",
+  "source": "char_draven",
+  "target": "event_sorrow_among_stones",
+  "relation": "participates_in",
+  "description": "Praetor Draven is destroyed in the Mausoleum for his Memorial Key piece.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_sorrow_among_stones",
+    "locator": "Walkthrough 'Destroy Praetor Draven'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_the_executioner__participates_in__event_trail_of_corruption_act1",
+  "source": "char_the_executioner",
+  "target": "event_trail_of_corruption_act1",
+  "relation": "participates_in",
+  "description": "The Executioner is the boss the Exile kills at Ogham Village.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption",
+    "locator": "Quest infobox boss = The Executioner / Walkthrough 'Kill the Executioner'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_leitis__participates_in__event_trail_of_corruption_act1",
+  "source": "char_leitis",
+  "target": "event_trail_of_corruption_act1",
+  "relation": "participates_in",
+  "description": "Leitis, the Executioner's prisoner, is freed and asks the Exile to depose Count Geonor.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption",
+    "locator": "Walkthrough 'Free the Prisoner' / 'Talk to Leitis' (Leitis: 'He killed Eamon.')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_count_geonor__participates_in__event_mad_wolf_of_ogham",
+  "source": "char_count_geonor",
+  "target": "event_mad_wolf_of_ogham",
+  "relation": "participates_in",
+  "description": "Count Geonor, the Mad Wolf, is the boss the Exile slays in Ogham Manor.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_mad_wolf_of_ogham",
+    "locator": "Quest infobox boss = Count Geonor / Walkthrough 'Kill the Mad Wolf'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_the_countess__participates_in__event_mad_wolf_of_ogham",
+  "source": "char_the_countess",
+  "target": "event_mad_wolf_of_ogham",
+  "relation": "participates_in",
+  "description": "Oriana, The Countess, escapes Ogham Manor with the Beast.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_mad_wolf_of_ogham",
+    "locator": "Walkthrough 'Return to Town' ('Oriana has escaped with the Beast')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_deity_beast__participates_in__event_mad_wolf_of_ogham",
+  "source": "deity_beast",
+  "target": "event_mad_wolf_of_ogham",
+  "relation": "participates_in",
+  "description": "The fledgling Beast escapes Ogham Manor with Oriana, leaving corruption in its wake.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_mad_wolf_of_ogham",
+    "locator": "Walkthrough 'Return to Town' / Hooded One quote ('The fledgling Beast is leaving Corruption in its wake')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_leitis__participates_in__event_mad_wolf_of_ogham",
+  "source": "char_leitis",
+  "target": "event_mad_wolf_of_ogham",
+  "relation": "participates_in",
+  "description": "Leitis sends the Exile into the Manor to find a way in and depose Count Geonor.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_mad_wolf_of_ogham",
+    "locator": "Quest header 'start = Talk to Leitis' / Walkthrough 'Infiltrate the Manor'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_mad_wolf_of_ogham",
+  "source": "char_the_hooded_one",
+  "target": "event_mad_wolf_of_ogham",
+  "relation": "participates_in",
+  "description": "The Hooded One sends the Exile east in pursuit of Oriana and the Beast.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_mad_wolf_of_ogham",
+    "locator": "Walkthrough 'Return to Town' / 'Travel East'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_event_earning_passage__occurs_in__loc_ardura_caravan",
+  "source": "event_earning_passage",
+  "target": "loc_ardura_caravan",
+  "relation": "occurs_in",
+  "description": "Zarka grants the Exile passage as a jingakh and the quest ends on entering the Ardura Caravan.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_earning_passage",
+    "locator": "Walkthrough 'Enter the Ardura Caravan' / Quest Complete"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_zarka__participates_in__event_earning_passage",
+  "source": "char_zarka",
+  "target": "event_earning_passage",
+  "relation": "participates_in",
+  "description": "Zarka, leader of the Ardura caravan, asks the Exile to clear the raiders and then admits them as a jingakh.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_earning_passage",
+    "locator": "Walkthrough 'Earn passage on the caravan' / 'Speak to Zarka'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_rathbreaker__participates_in__event_earning_passage",
+  "source": "char_rathbreaker",
+  "target": "event_earning_passage",
+  "relation": "participates_in",
+  "description": "Rathbreaker, leader of the Sun Clan hyenas, is the boss the Exile defeats.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_earning_passage",
+    "locator": "Quest infobox boss = Rathbreaker / Walkthrough 'Defeat Rathbreaker'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_earning_passage",
+  "source": "char_the_hooded_one",
+  "target": "event_earning_passage",
+  "relation": "participates_in",
+  "description": "The Hooded One sends the Exile to find a Maraketh caravan to aid the pursuit of the Seed of Corruption.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_earning_passage",
+    "locator": "Walkthrough 'Speak to the Hooded One' (Hooded One quote on the Maraketh caravan)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_rudja__participates_in__event_mawdun_mine_rudja",
+  "source": "char_rudja",
+  "target": "event_mawdun_mine_rudja",
+  "relation": "participates_in",
+  "description": "Rudja, the Dread Engineer, is defeated in Mawdun Mine.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Quest 'Defeat Rudja, Dread Engineer'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_risu__participates_in__event_mawdun_mine_rudja",
+  "source": "char_risu",
+  "target": "event_mawdun_mine_rudja",
+  "relation": "participates_in",
+  "description": "Risu, a Faridun defector, is found in Mawdun Mine and taken back to the caravan, where she reveals Jamanra's plan to feed the Beast Deshar's honoured dead.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Walkthrough 'Talk to the Defector' / 'Return to the Caravan's lead cart' (Risu quote)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_faction_faridun__participates_in__event_mawdun_mine_rudja",
+  "source": "faction_faridun",
+  "target": "event_mawdun_mine_rudja",
+  "relation": "participates_in",
+  "description": "The Faridun run a foundry in Mawdun Mine, where Rudja is defeated.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Walkthrough 'Investigate Mawdun Mine' ('a foundry run by the Faridun')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_asala__participates_in__event_halani_gates_first_battle",
+  "source": "char_asala",
+  "target": "event_halani_gates_first_battle",
+  "relation": "participates_in",
+  "description": "Sekhema Asala fights alongside the Exile to open the Halani Gates.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Walkthrough 'Assist Asala in opening the Gates' / 'Open the third Gate'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_jamanra__participates_in__event_halani_gates_first_battle",
+  "source": "char_jamanra",
+  "target": "event_halani_gates_first_battle",
+  "relation": "participates_in",
+  "description": "Jamanra, the Risen King, leads the Faridun defending the Gates and is fought there.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Walkthrough 'Defeat Jamanra, the Risen King'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_event_city_of_seven_waters__occurs_in__loc_keth",
+  "source": "event_city_of_seven_waters",
+  "target": "loc_keth",
+  "relation": "occurs_in",
+  "description": "The Exile enters the sand-buried city of Keth and reaches its Sanctum for the Essence of Water.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_city_of_seven_waters",
+    "locator": "Walkthrough 'Search for the Buried Shrines' / 'Find the Sanctum at the heart of Keth'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_azarian__participates_in__event_city_of_seven_waters",
+  "source": "char_azarian",
+  "target": "event_city_of_seven_waters",
+  "relation": "participates_in",
+  "description": "Azarian, the Forsaken Son, is the unique boss the Exile must defeat to reach the Essence of Water.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_city_of_seven_waters",
+    "locator": "Quest infobox / Walkthrough 'Defeat Azarian, the Forsaken Son'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_deity_halani__participates_in__event_city_of_seven_waters",
+  "source": "deity_halani",
+  "target": "event_city_of_seven_waters",
+  "relation": "participates_in",
+  "description": "The Water Goddess Halani asks the Exile to burn her with the Everburning Cinders to end her suffering.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_city_of_seven_waters",
+    "locator": "Walkthrough 'Talk to the Water Goddess' / 'End the Water Goddess' suffering'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_asala__participates_in__event_city_of_seven_waters",
+  "source": "char_asala",
+  "target": "event_city_of_seven_waters",
+  "relation": "participates_in",
+  "description": "Asala sends the Exile after the sandstorm to recover the Essence of Water for the Horn.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_city_of_seven_waters",
+    "locator": "Quest header 'start = Speak to Sekhema Asala after encountering the sandstorm at the Halani Gates'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_ekbab__participates_in__event_theft_of_ivory",
+  "source": "char_ekbab",
+  "target": "event_theft_of_ivory",
+  "relation": "participates_in",
+  "description": "Ekbab, Ancient Steed, guards the Mastodon Tusks in the Bone Pits and is defeated.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_a_theft_of_ivory",
+    "locator": "Walkthrough 'Defeat Ekbab, Ancient Steed and Iktab, the Deathlord'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_iktab__participates_in__event_theft_of_ivory",
+  "source": "char_iktab",
+  "target": "event_theft_of_ivory",
+  "relation": "participates_in",
+  "description": "Iktab, the Deathlord, assists Ekbab in the Bone Pits and is defeated.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_a_theft_of_ivory",
+    "locator": "Walkthrough 'Defeat Ekbab, Ancient Steed and Iktab, the Deathlord'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_zarka__participates_in__event_theft_of_ivory",
+  "source": "char_zarka",
+  "target": "event_theft_of_ivory",
+  "relation": "participates_in",
+  "description": "Zarka receives the Mastodon Tusks for safekeeping at the Ardura Caravan and gives the reward.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_a_theft_of_ivory",
+    "locator": "Walkthrough 'Talk to Zarka' / 'Take the Reward'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_zalmarath__participates_in__event_crown_of_stone",
+  "source": "char_zalmarath",
+  "target": "event_crown_of_stone",
+  "relation": "participates_in",
+  "description": "Zalmarath, the Colossus, is defeated at the Rite of Flame in the Titan Grotto and drops the Flame Ruby.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_a_crown_of_stone",
+    "locator": "Quest infobox boss = Zalmarath, the Colossus / Walkthrough 'Defeat Zalmarath, the Colossus and retrieve the Flame Ruby'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_zarka__participates_in__event_crown_of_stone",
+  "source": "char_zarka",
+  "target": "event_crown_of_stone",
+  "relation": "participates_in",
+  "description": "Zarka receives the Flame Ruby at the Ardura Caravan and rewards the Exile.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_a_crown_of_stone",
+    "locator": "Walkthrough 'Take the Flame Ruby to town' / 'Take the reward from Zarka'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_asala__participates_in__event_crown_of_stone",
+  "source": "char_asala",
+  "target": "event_crown_of_stone",
+  "relation": "participates_in",
+  "description": "Asala starts the quest after the sandstorm encounter at the Halani Gates.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_a_crown_of_stone",
+    "locator": "Quest header 'start = Speak to Sekhema Asala after encountering the sandstorm at the Halani Gates'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_zarka__participates_in__event_horn_of_vastiri_recreated",
+  "source": "char_zarka",
+  "target": "event_horn_of_vastiri_recreated",
+  "relation": "participates_in",
+  "description": "Zarka reforges the Horn of the Vastiri with the Exile from the Flame Ruby, Essence of Water and Mastodon Tusks.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Quest log 'Recreate the Horn of the Vastiri' / 'Take the Horn of the Vastiri' (Zarka quote)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_asala__participates_in__event_horn_of_vastiri_recreated",
+  "source": "char_asala",
+  "target": "event_horn_of_vastiri_recreated",
+  "relation": "participates_in",
+  "description": "Asala explains Orbala's footsteps and that the Horn can be recreated by retracing them in any order.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Quest log 'Speak to Asala' ('We can retrace Orbala's steps in any order.')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_asala__participates_in__event_sandstorm_dispelled",
+  "source": "char_asala",
+  "target": "event_sandstorm_dispelled",
+  "relation": "participates_in",
+  "description": "Asala speaks to the Exile after the Horn dispels the sandstorm and grants access to Deshar.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Quest log 'Speak to Asala' ('I am hesitant to allow you access to sacred Deshar')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_tor_gul__participates_in__event_tor_gul_defeat",
+  "source": "char_tor_gul",
+  "target": "event_tor_gul_defeat",
+  "relation": "participates_in",
+  "description": "Tor Gul, the Defiler, is the boss defeated on the way to the Spires of Deshar.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Quest 'Defeat Tor Gul, the Defiler'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_event_tor_gul_defeat__occurs_in__loc_path_of_mourning",
+  "source": "event_tor_gul_defeat",
+  "target": "loc_path_of_mourning",
+  "relation": "occurs_in",
+  "description": "Tor Gul, the Defiler, is met on the way to the Spires of Deshar, after the Exile travels the Path of Mourning.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Walkthrough 'Travel through the Path of Mourning' / 'Defeat Tor Gul, the Defiler' (page does not state the fight location)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_faction_faridun__participates_in__event_tor_gul_defeat",
+  "source": "faction_faridun",
+  "target": "event_tor_gul_defeat",
+  "relation": "participates_in",
+  "description": "The Faridun, having escaped with the Beast, are defended by Tor Gul.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Walkthrough 'Defeat Tor Gul, the Defiler' ('The Faridun have escaped with the Beast.')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_jamanra__participates_in__event_dreadnought_jamanra_abomination",
+  "source": "char_jamanra",
+  "target": "event_dreadnought_jamanra_abomination",
+  "relation": "participates_in",
+  "description": "Jamanra, the Abomination, is the boss fought on the Dreadnought.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Quest 'Defeat Jamanra, the Abomination' (phase 1 and phase 2)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_asala__participates_in__event_dreadnought_jamanra_abomination",
+  "source": "char_asala",
+  "target": "event_dreadnought_jamanra_abomination",
+  "relation": "participates_in",
+  "description": "Asala beheads Jamanra in phase 2 after he is reduced to 1 life, ending the fight.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Quest 'Defeat Jamanra, the Abomination' ('In Phase 2 ... interact with Sekhema Asala to have her behead him.')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_the_countess__participates_in__event_dreadnought_jamanra_abomination",
+  "source": "char_the_countess",
+  "target": "event_dreadnought_jamanra_abomination",
+  "relation": "participates_in",
+  "description": "The Countess escapes the Dreadnought with the Beast after Jamanra severs the section holding it.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Quest 'Defeat Jamanra, the Abomination' ('allowing the Countess to escape')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_deity_beast__participates_in__event_dreadnought_jamanra_abomination",
+  "source": "deity_beast",
+  "target": "event_dreadnought_jamanra_abomination",
+  "relation": "participates_in",
+  "description": "The Beast is held in the Dreadnought and escapes once more with the Countess.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Quest 'Defeat Jamanra, the Abomination' ('The Beast escapes with the Countess once more' / Jamanra severs the section holding the Beast)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_hooded_one_reveals_sin",
+  "source": "char_the_hooded_one",
+  "target": "event_hooded_one_reveals_sin",
+  "relation": "participates_in",
+  "description": "The Hooded One confesses to the Exile that he is Sin, the Thief of Virtue, and that he created the Beast.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Quest log 'Speak to the Hooded One in the Shrine to the Northwest' (quote 'I am... a god. I am the Thief of Virtue. I am Sin.')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_deity_sin__participates_in__event_hooded_one_reveals_sin",
+  "source": "deity_sin",
+  "target": "event_hooded_one_reveals_sin",
+  "relation": "participates_in",
+  "description": "The Hooded One's revealed identity is Sin, the Thief of Virtue.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+    "locator": "Quest log 'Speak to the Hooded One in the Shrine to the Northwest' (quote 'I am Sin.')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_oswald__participates_in__event_ziggurat_arrival",
+  "source": "char_oswald",
+  "target": "event_ziggurat_arrival",
+  "relation": "participates_in",
+  "description": "Oswald, the treasure hunters' Quartermaster, greets the Exile at the Ziggurat camp.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Explore Ziggurat Encampment' (Oswald quote)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_alva__participates_in__event_ziggurat_arrival",
+  "source": "char_alva",
+  "target": "event_ziggurat_arrival",
+  "relation": "participates_in",
+  "description": "Alva Valai introduces herself to the Exile at the Ziggurat Encampment.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Explore Ziggurat Encampment' (Alva quote)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_event_xyclucian_machinarium__occurs_in__loc_jiquani_machinarium",
+  "source": "event_xyclucian_machinarium",
+  "target": "loc_jiquani_machinarium",
+  "relation": "occurs_in",
+  "description": "After the Chimera is defeated the Exile enters Jiquani's Machinarium.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Enter Jiquani's Machinarium'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_xyclucian__participates_in__event_xyclucian_machinarium",
+  "source": "char_xyclucian",
+  "target": "event_xyclucian_machinarium",
+  "relation": "participates_in",
+  "description": "Xyclucian, the Chimera, is the guardian boss blocking the entrance to the Machinarium.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Defeat Xyclucian, the Chimera' ('A massive beast seems to be guarding the entrance')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_alva__participates_in__event_xyclucian_machinarium",
+  "source": "char_alva",
+  "target": "event_xyclucian_machinarium",
+  "relation": "participates_in",
+  "description": "Alva asks the Exile to find a small Soul Core to power the stone door's mechanism.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Ask Alva for advice' / 'Search for a small Soul Core' (Alva quote)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_zicoatl__participates_in__event_zicoatl_large_soul_core",
+  "source": "char_zicoatl",
+  "target": "event_zicoatl_large_soul_core",
+  "relation": "participates_in",
+  "description": "Zicoatl, Warden of the Core, is defeated to take the large Soul Core from the construct.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Defeat Zicoatl' / 'Pick up the Large Soul Core'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_alva__participates_in__event_zicoatl_large_soul_core",
+  "source": "char_alva",
+  "target": "event_zicoatl_large_soul_core",
+  "relation": "participates_in",
+  "description": "Alva identifies the large Soul Core and advises which generators to activate.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Speak to Alva' (Alva quote: 'This is the largest Soul Core I've ever seen!')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_event_matlan_waterways_drained__occurs_in__loc_infested_barrens",
+  "source": "event_matlan_waterways_drained",
+  "target": "loc_infested_barrens",
+  "relation": "occurs_in",
+  "description": "The Exile powers the stone altar in the Infested Barrens with the large Soul Core.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Return to Infested Barrens and activate the Stone Altar'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_matlan_waterways_drained",
+  "source": "char_the_hooded_one",
+  "target": "event_matlan_waterways_drained",
+  "relation": "participates_in",
+  "description": "The Hooded One proposes lowering the lake using the Vaal canals.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Talk to the Hooded One' ('Ask the Hooded One about lowering the water level')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_alva__participates_in__event_matlan_waterways_drained",
+  "source": "char_alva",
+  "target": "event_matlan_waterways_drained",
+  "relation": "participates_in",
+  "description": "Alva confirms the revealed city and sends the Exile to the Temple of Kopec's locked door.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Talk to Alva' (Alva quote about Kopec)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_queen_of_filth__participates_in__event_queen_of_filth_idol",
+  "source": "char_queen_of_filth",
+  "target": "event_queen_of_filth_idol",
+  "relation": "participates_in",
+  "description": "The Queen of Filth is defeated in Aggorat and drops the Temple Door Idol.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Defeat the Queen of Filth' / 'Pick up the Temple Door Idol'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_ketzuli__participates_in__event_temple_of_kopec_ketzuli",
+  "source": "char_ketzuli",
+  "target": "event_temple_of_kopec_ketzuli",
+  "relation": "participates_in",
+  "description": "Ketzuli, High Priest of the Sun, is defeated in the Temple of Kopec.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Defeat Ketzuli, High Priest of the Sun'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_alva__participates_in__event_temple_of_kopec_ketzuli",
+  "source": "char_alva",
+  "target": "event_temple_of_kopec_ketzuli",
+  "relation": "participates_in",
+  "description": "Alva deciphers the runes in the Temple and activates the elevator and gateway.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Speak to Alva' (Alva quote: 'It.. worked!?')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_alva__participates_in__event_time_portal_utzaal_past",
+  "source": "char_alva",
+  "target": "event_time_portal_utzaal_past",
+  "relation": "participates_in",
+  "description": "Alva accompanies the Exile through the time gateway and is seen as a threat by the Vaal.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Enter Utzaal in the past' (Alva quote: 'Are these... living Vaal?')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_time_portal_utzaal_past",
+  "source": "char_doryani",
+  "target": "event_time_portal_utzaal_past",
+  "relation": "participates_in",
+  "description": "Doryani is present as the gateway activates ('It begins...').",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Enter Utzaal in the past' (Doryani quote)"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_event_viper_napuatzi_defeat__occurs_in__loc_utzaal",
+  "source": "event_viper_napuatzi_defeat",
+  "target": "loc_utzaal",
+  "relation": "occurs_in",
+  "description": "The Exile fights the Vaal forces of Utzaal's past.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Explore Utzaal in the past' ('Halt! Your rampage ends here!')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_viper_napuatzi__participates_in__event_viper_napuatzi_defeat",
+  "source": "char_viper_napuatzi",
+  "target": "event_viper_napuatzi_defeat",
+  "relation": "participates_in",
+  "description": "Viper Napuatzi, the Vaal general, has Alva taken to Doryani and is defeated.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Explore Utzaal in the past' / 'Defeat Viper Napuatzi'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_alva__participates_in__event_viper_napuatzi_defeat",
+  "source": "char_alva",
+  "target": "event_viper_napuatzi_defeat",
+  "relation": "participates_in",
+  "description": "Alva is seized by Viper Napuatzi's forces and must be rescued.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Defeat Viper Napuatzi' ('Take her! Bring her to Doryani!')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_event_doryani_captured__occurs_in__loc_aggorat",
+  "source": "event_doryani_captured",
+  "target": "loc_aggorat",
+  "relation": "occurs_in",
+  "description": "The Exile fights through Aggorat to reach the Black Chambers.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Fight through Aggorat and search for the Black Chambers'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_doryani_captured",
+  "source": "char_doryani",
+  "target": "event_doryani_captured",
+  "relation": "participates_in",
+  "description": "Doryani, the Vaal expert on the Beast, is captured in the Black Chambers and agrees to help contain the Beast.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Capture Doryani for his knowledge of the Beast'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_alva__participates_in__event_doryani_captured",
+  "source": "char_alva",
+  "target": "event_doryani_captured",
+  "relation": "participates_in",
+  "description": "Alva is rescued from the Black Chambers and persuades Doryani to come to the present.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Capture Doryani' (Alva quote: 'Help me-')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_event_utzaal_past_cataclysm__occurs_in__loc_utzaal",
+  "source": "event_utzaal_past_cataclysm",
+  "target": "loc_utzaal",
+  "relation": "occurs_in",
+  "description": "The Exile and Alva survive the Cataclysm striking Utzaal in its past.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Survive the Cataclysm'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_utzaal_past_cataclysm",
+  "source": "char_doryani",
+  "target": "event_utzaal_past_cataclysm",
+  "relation": "participates_in",
+  "description": "Doryani returns through the gateway and laments that his people are long dead.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Speak to Doryani' (Doryani quote: 'Utzaal... my people... they're all long dead.')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_alva__participates_in__event_utzaal_past_cataclysm",
+  "source": "char_alva",
+  "target": "event_utzaal_past_cataclysm",
+  "relation": "participates_in",
+  "description": "Alva survives the Cataclysm and returns through the gateway with the Exile.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Speak to Alva' ('Oh good, you're alive!')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_doryani_joins_exile",
+  "source": "char_doryani",
+  "target": "event_doryani_joins_exile",
+  "relation": "participates_in",
+  "description": "Doryani confirms he holds one piece of the Precursor weapon and points the group to Ngamakanui.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Speak to Doryani' ('We must travel to the archipelago the Karui call Ngamakanui.')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_alva__participates_in__event_doryani_joins_exile",
+  "source": "char_alva",
+  "target": "event_doryani_joins_exile",
+  "relation": "participates_in",
+  "description": "Alva proposes Kingsmarch as a base and offers a ship charter from her contact.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Speak to Alva' / 'Travel to Kingsmarch'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_char_the_hooded_one__participates_in__event_doryani_joins_exile",
+  "source": "char_the_hooded_one",
+  "target": "event_doryani_joins_exile",
+  "relation": "participates_in",
+  "description": "The Hooded One decides the group should travel south to Ngamakanui.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "main_plot",
+  "branches": [],
+  "era": "poe2_campaign",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_vaal",
+    "locator": "Quest log 'Speak to Alva' ('If he thinks we should travel south to Ngamakanui, then so we shall.')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_acts_1_3"
+  ]
+ },
+ {
+  "id": "e_event_poe2_legacy_of_the_precursors__occurs_in__loc_ziggurat_refuge",
+  "source": "event_poe2_legacy_of_the_precursors",
+  "target": "loc_ziggurat_refuge",
+  "relation": "occurs_in",
+  "description": "The quest's Doryani briefing takes place at the Ziggurat, where he explains his Waygate plan.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Take a Waystone from Doryani': 'Take a Waystone reward from Doryani in The Ziggurat Refuge.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_legacy_of_the_precursors",
+  "source": "char_doryani",
+  "target": "event_poe2_legacy_of_the_precursors",
+  "relation": "participates_in",
+  "description": "Doryani is the quest giver, proposing to recover Precursor knowledge through the Waygate.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Speak to Doryani': 'I have already been working on a plan... The machine you see here... I call it... a Waygate.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_event_poe2_epilogue_waygate__occurs_in__loc_ziggurat_refuge",
+  "source": "event_poe2_epilogue_waygate",
+  "target": "loc_ziggurat_refuge",
+  "relation": "occurs_in",
+  "description": "Doryani presents the Waygate built over the leylines beneath the Ziggurat.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Speak to Doryani: leylines, Waygate': 'This Ziggurat was built over what my ancestors called leylines.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_epilogue_waygate",
+  "source": "char_doryani",
+  "target": "event_poe2_epilogue_waygate",
+  "relation": "participates_in",
+  "description": "Doryani introduces the Waygate built over the leylines and gives the Exile the Waystone.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Speak to Doryani: leylines, Waygate': Doryani introduces the Waygate and gives the Waystone."
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_event_poe2_waygate_first_map__occurs_in__loc_ziggurat_refuge",
+  "source": "event_poe2_waygate_first_map",
+  "target": "loc_ziggurat_refuge",
+  "relation": "occurs_in",
+  "description": "The Exile takes the Waystone from Doryani at the Ziggurat Refuge and enters the first Map through the Waygate.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Take a Waystone from Doryani' / 'Select and enter a Map': 'Take a Waystone reward from Doryani in The Ziggurat Refuge.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_waygate_first_map",
+  "source": "char_doryani",
+  "target": "event_poe2_waygate_first_map",
+  "relation": "participates_in",
+  "description": "Doryani sends the Exile through the untested Waygate and then declares it a success ('Science is a process').",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Speak to Doryani': 'Our first step is a success! The Waygate does indeed work.' / 'Science is a process.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_event_poe2_precursor_tower__occurs_in__loc_precursor_towers",
+  "source": "event_poe2_precursor_tower",
+  "target": "loc_precursor_towers",
+  "relation": "occurs_in",
+  "description": "The Exile travels to a Precursor Tower and activates its beacon.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Travel to the Precursor Tower': 'Travel to the Precursor Tower.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_precursor_tower",
+  "source": "char_doryani",
+  "target": "event_poe2_precursor_tower",
+  "relation": "participates_in",
+  "description": "Doryani identifies the tower as Precursor and orders the beacon activated ('I'm making... a judgement call. Do it.').",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Speak to Doryani' (Travel to the Precursor Tower): 'This tower is indeed Precursor. We should activate it'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_event_poe2_ancient_gateway__occurs_in__loc_ancient_gateway",
+  "source": "event_poe2_ancient_gateway",
+  "target": "loc_ancient_gateway",
+  "relation": "occurs_in",
+  "description": "The Exile explores the Ancient Gateway, uses its levers and activates a Precursor Beacon there.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Travel to the Ancient Gateway', 'Explore the Ancient Gateway', 'Activate the Precursor Beacon'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_ancient_gateway",
+  "source": "char_doryani",
+  "target": "event_poe2_ancient_gateway",
+  "relation": "participates_in",
+  "description": "Doryani is summoned at the Ancient Gateway's central platform and speaks with the Exile there.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Reach the central platform', 'Summon Doryani', 'Speak to Doryani' (quest log steps after 'Explore the Ancient Gateway')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_event_poe2_burning_monolith__occurs_in__loc_the_burning_monolith",
+  "source": "event_poe2_burning_monolith",
+  "target": "loc_the_burning_monolith",
+  "relation": "occurs_in",
+  "description": "The Exile reaches and explores the Burning Monolith, the endgame site where the Arbiter of Ash waits.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Reach the Burning Monolith', 'Explore the Burning Monolith'"
+   },
+   {
+    "source_id": "src_poe2wiki_the_burning_monolith",
+    "locator": "Lead: 'The Burning Monolith is a special area in the Precursor Fortress.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_event_poe2_burning_monolith__occurs_in__loc_the_precursor_fortress",
+  "source": "event_poe2_burning_monolith",
+  "target": "loc_the_precursor_fortress",
+  "relation": "occurs_in",
+  "description": "The Burning Monolith is a special area inside the Precursor Fortress in the 0.5 layout.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_burning_monolith",
+    "locator": "Lead: 'The Burning Monolith is a special area in the Precursor Fortress.'; Version history 0.5.0: 'moved into the Fortress'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_burning_monolith",
+  "source": "char_doryani",
+  "target": "event_poe2_burning_monolith",
+  "relation": "participates_in",
+  "description": "Doryani is spoken to during the Burning Monolith sequence of the quest ('Speak to Doryani' after 'Explore the Burning Monolith').",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Explore the Burning Monolith' / 'Speak to Doryani' (quest log after 'Reach the Burning Monolith')"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_event_poe2_enigma_chambers__occurs_in__loc_enigma_chambers",
+  "source": "event_poe2_enigma_chambers",
+  "target": "loc_enigma_chambers",
+  "relation": "occurs_in",
+  "description": "The Exile fights in the Western and Eastern Enigma Chambers behind the Gateways.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Travel to the Western Enigma Chamber', 'Explore the Eastern Enigma Chamber'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_geonor_epilogue_echo__participates_in__event_poe2_enigma_chambers",
+  "source": "char_geonor_epilogue_echo",
+  "target": "event_poe2_enigma_chambers",
+  "relation": "participates_in",
+  "description": "Count Geonor is defeated in the Western Enigma Chamber, which yields the Ancient Crisis Fragment.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Defeat Count Geonor' (Western Enigma Chamber) / 'Pick up the Ancient Crisis Fragment'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_enigma_chambers",
+  "source": "char_doryani",
+  "target": "event_poe2_enigma_chambers",
+  "relation": "participates_in",
+  "description": "Doryani, Royal Thaumaturge, is fought in the Eastern Enigma Chamber, which yields the Weathered Crisis Fragment.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Defeat Doryani' (Eastern Enigma Chamber) / 'Pick up the Weathered Crisis Fragment'"
+   },
+   {
+    "source_id": "src_poe2wiki_the_burning_monolith",
+    "locator": "Keys table: 'Doryani, Royal Thaumaturge | Weathered Crisis Fragment'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_the_arbiter_of_ash__participates_in__event_poe2_defeat_arbiter_of_ash",
+  "source": "char_the_arbiter_of_ash",
+  "target": "event_poe2_defeat_arbiter_of_ash",
+  "relation": "participates_in",
+  "description": "The Arbiter of Ash is the pinnacle boss of the Burning Monolith and is defeated in quest step 101.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_arbiter_of_ash",
+    "locator": "MonsterBox location: 'The Burning Monolith'; lead: 'the pinnacle boss of The Burning Monolith'"
+   },
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "step 101 'Defeat the Arbiter of Ash'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_tecrod__participates_in__event_poe2_defeat_arbiter_of_ash",
+  "source": "char_tecrod",
+  "target": "event_poe2_defeat_arbiter_of_ash",
+  "relation": "participates_in",
+  "description": "After the Arbiter falls, Tecrod's mysterious entity riding a wyrm steals the Flame Seed.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_tecrod",
+    "locator": "Lore: 'A Mysterious Entity riding a wyrm that steals the Flame Seed after the Arbiter of Ash is defeated... This figure is revealed to be Tecrod'"
+   },
+   {
+    "source_id": "src_poe2wiki_the_arbiter_of_ash",
+    "locator": "Lore: 'The Mysterious Entity that steals the Flame Seed after the Arbiter of Ash is defeated is Tecrod.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_event_poe2_precursor_halls__occurs_in__loc_patriarch_and_matriarch_halls",
+  "source": "event_poe2_precursor_halls",
+  "target": "loc_patriarch_and_matriarch_halls",
+  "relation": "occurs_in",
+  "description": "The Exile explores the Patriarch and Matriarch Halls to take the Origin Spark and Origin Cradle.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "steps 112-128: 'Travel to the Patriarch Halls', 'Explore Matriarch Halls', 'Pick up the Origin Cradle'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_phyx__participates_in__event_poe2_precursor_halls",
+  "source": "char_phyx",
+  "target": "event_poe2_precursor_halls",
+  "relation": "participates_in",
+  "description": "Phyx, Sentinel of the Spark, is defeated in the Patriarch Halls to recover the Origin Spark.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "steps 114 and 126: 'Defeat Phyx, Sentinel of the Spark' / 'Pick up the Origin Spark'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_phya__participates_in__event_poe2_precursor_halls",
+  "source": "char_phya",
+  "target": "event_poe2_precursor_halls",
+  "relation": "participates_in",
+  "description": "Phya, Sentinel of the Cradle, is defeated in the Matriarch Halls to recover the Origin Cradle.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "steps 120-122: 'Defeat Phya, Sentinel of the Cradle' / 'Pick up the Origin Cradle'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_event_poe2_origin_tower__occurs_in__loc_the_origin_tower",
+  "source": "event_poe2_origin_tower",
+  "target": "loc_the_origin_tower",
+  "relation": "occurs_in",
+  "description": "The Origin Core is made in the Precursor Reactor inside the Origin Tower, and the Exile places it at the tower's top.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_origin_tower",
+    "locator": "Layout: 'a room called the Precursor Reactor'; 'The Origin Core can be placed at the center to fight The Arbiter of Divinity.'"
+   },
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "'Travel to the Origin Tower', 'Place the Origin Spark in the Precursor Reactor', 'Ascend the Tower'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_tecrod__participates_in__event_poe2_origin_tower",
+  "source": "char_tecrod",
+  "target": "event_poe2_origin_tower",
+  "relation": "participates_in",
+  "description": "Tecrod's wyrm incapacitates the Exile when the Origin Core is placed, and Tecrod exults that the Master shall know unending power.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_tecrod",
+    "locator": "Lore: 'when the player character places the Origin Core into the Origin Tower, Tecrod's wyrm incapacitates the character'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_doryani__participates_in__event_poe2_origin_tower",
+  "source": "char_doryani",
+  "target": "event_poe2_origin_tower",
+  "relation": "participates_in",
+  "description": "Doryani directs the Origin Core ritual at the Origin Tower (steps 131-134).",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "steps 131-134: 'Speak to Doryani', 'Return to Doryani at the Origin Tower', 'Place the Origin Spark in the Precursor Reactor'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_the_arbiter_of_divinity__participates_in__event_poe2_defeat_arbiter_of_divinity",
+  "source": "char_the_arbiter_of_divinity",
+  "target": "event_poe2_defeat_arbiter_of_divinity",
+  "relation": "participates_in",
+  "description": "The Arbiter of Divinity destroys Tecrod's body and is then fought by the Exile in the Origin Tower.",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_the_arbiter_of_divinity",
+    "locator": "MonsterBox location: 'The Origin Tower'; lead: 'the pinnacle boss of The Origin Tower'"
+   },
+   {
+    "source_id": "src_poe2wiki_legacy_of_the_precursors",
+    "locator": "step 141 'Defeat the Arbiter of Divinity'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
+  "id": "e_char_tecrod__participates_in__event_poe2_defeat_arbiter_of_divinity",
+  "source": "char_tecrod",
+  "target": "event_poe2_defeat_arbiter_of_divinity",
+  "relation": "participates_in",
+  "description": "Tecrod is destroyed by the Arbiter of Divinity, which declares 'Your kind shall never ordain the First Edict!'",
+  "games": [
+   "poe2"
+  ],
+  "plot_role": "endgame_plot",
+  "branches": [],
+  "era": "poe2_endgame",
+  "sequence": null,
+  "canon_status": "canon",
+  "confidence": "high",
+  "sources": [
+   {
+    "source_id": "src_poe2wiki_tecrod",
+    "locator": "Lore: 'his body is destroyed by the Arbiter of Divinity: Your kind shall never ordain the First Edict!'"
+   },
+   {
+    "source_id": "src_poe2wiki_the_arbiter_of_divinity",
+    "locator": "Lore: 'The Mysterious Entity that is destroyed by the Arbiter of Divinity is Tecrod.'"
+   }
+  ],
+  "domains": [
+   "beats_poe2_endgame"
+  ]
+ },
+ {
   "id": "e_era_primordial__precedes__era_precursor",
   "source": "era_primordial",
   "target": "era_precursor",
@@ -43044,33 +47829,6 @@
    {
     "source_id": "src_poe2wiki_the_search",
     "locator": "Quest log order"
-   }
-  ],
-  "domains": [
-   "twilight_order_edicts"
-  ]
- },
- {
-  "id": "e_event_poe2_a4_reveal_third_edict__occurs_in__loc_the_excavation",
-  "source": "event_poe2_a4_reveal_third_edict",
-  "target": "loc_the_excavation",
-  "relation": "occurs_in",
-  "description": "Excavated Site murals.",
-  "games": [
-   "poe2"
-  ],
-  "plot_role": "main_plot",
-  "branches": [
-   "twilight_order"
-  ],
-  "era": "poe2_campaign",
-  "sequence": null,
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poe2wiki_the_search",
-    "locator": "Enter the Excavated Site"
    }
   ],
   "domains": [

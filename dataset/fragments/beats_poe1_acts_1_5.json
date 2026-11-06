@@ -1,0 +1,3023 @@
+{
+  "domain": "beats_poe1_acts_1_5",
+  "sources": [
+    {
+      "id": "src_poewiki_act_2",
+      "title": "Act 2 - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Act_2",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_act_3",
+      "title": "Act 3 - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Act_3",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_breaking_some_eggs",
+      "title": "Breaking Some Eggs - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Breaking_Some_Eggs",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_breaking_the_seal",
+      "title": "Breaking the Seal - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Breaking_the_Seal",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_corpus_malachus",
+      "title": "Corpus Malachus - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Corpus_Malachus",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_deal_with_the_bandits",
+      "title": "Deal with the Bandits - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Deal_with_the_Bandits",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_death_to_purity",
+      "title": "Death to Purity - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Death_to_Purity",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_enemy_at_the_gate",
+      "title": "Enemy at the Gate - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Enemy_at_the_Gate",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_fiery_dust",
+      "title": "Fiery Dust - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Fiery_Dust",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_history_of_wraeclast",
+      "title": "History of Wraeclast - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/History_of_Wraeclast",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_intruders_in_black",
+      "title": "Intruders in Black - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Intruders_in_Black",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_lost_in_love",
+      "title": "Lost in Love - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Lost_in_Love",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_malachai_the_nightmare",
+      "title": "Malachai, The Nightmare - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Malachai,_The_Nightmare",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_order_of_the_templar",
+      "title": "Order of the Templar - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Order_of_the_Templar",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_piety_s_pets",
+      "title": "Piety s Pets - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Piety%27s_Pets",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_rapture_device",
+      "title": "Rapture Device - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Rapture_Device",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_return_to_oriath",
+      "title": "Return to Oriath - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary",
+      "url": "https://www.poewiki.net/wiki/Return_to_Oriath"
+    },
+    {
+      "id": "src_poewiki_shadow_of_the_vaal",
+      "title": "Shadow of the Vaal - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Shadow_of_the_Vaal",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_sharp_and_cruel",
+      "title": "Sharp and Cruel - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Sharp_and_Cruel",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_caged_brute",
+      "title": "The Caged Brute - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Caged_Brute",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_eternal_nightmare",
+      "title": "The Eternal Nightmare - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Eternal_Nightmare",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_gemling_queen",
+      "title": "The Gemling Queen - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Gemling_Queen",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_key_to_freedom",
+      "title": "The Key to Freedom - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Key_to_Freedom",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_king_of_desire",
+      "title": "The King of Desire - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_King_of_Desire",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_king_of_fury",
+      "title": "The King of Fury - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_King_of_Fury",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_king_s_feast",
+      "title": "The King s Feast - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_King%27s_Feast",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_ravenous_god",
+      "title": "The Ravenous God - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Ravenous_God",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_ribbon_spool",
+      "title": "The Ribbon Spool - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Ribbon_Spool",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_root_of_the_problem",
+      "title": "The Root of the Problem - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Root_of_the_Problem",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_sceptre_of_god_quest",
+      "title": "The Sceptre of God quest  - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Sceptre_of_God_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_siren_s_cadence",
+      "title": "The Siren s Cadence - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Siren%27s_Cadence",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "loc_submerged_passage",
+      "name": "The Submerged Passage",
+      "aliases": [
+        "Submerged Passage"
+      ],
+      "type": "location",
+      "subtype": "cave",
+      "summary": "Flooded tidal cave in the Act 1 Mud Flats, behind the glyph wall. It is drained when the three Karui glyphs are fitted into the wall.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_breaking_some_eggs",
+          "locator": "Quest objective 'open the Submerged Passage'; 'The Submerged Passage is now open'"
+        }
+      ]
+    },
+    {
+      "id": "loc_the_wetlands_act2",
+      "name": "The Wetlands (Act 2)",
+      "aliases": [
+        "The Wetlands",
+        "Wetlands (Act 2)"
+      ],
+      "type": "location",
+      "subtype": "area",
+      "summary": "Act 2 wetland area where the great tree Lorrata has rooted itself across the entrance to the Vaal Ruins. The Exile poisons the tree with Maligaro's Spike and the Baleful Gem.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act2"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_root_of_the_problem",
+          "locator": "Quest objective 'Poison the tree, Lorrata, in The Wetlands'"
+        }
+      ]
+    },
+    {
+      "id": "loc_the_sewers",
+      "name": "The Sewers",
+      "aliases": [
+        "Sewers (Sarn)"
+      ],
+      "type": "location",
+      "subtype": "area",
+      "summary": "Filthy tunnels under the river between Sarn's districts, filled with the Undying. An Undying Blockade bars the way and is burned away with Infernal Talc.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_fiery_dust",
+          "locator": "Walkthrough: 'Approach the Undying Blockade in The Sewers'"
+        }
+      ]
+    },
+    {
+      "id": "loc_the_battlefront",
+      "name": "The Battlefront",
+      "aliases": [
+        "Battlefront"
+      ],
+      "type": "location",
+      "subtype": "area",
+      "summary": "Sarn battlefront held by the Ebony Legion. A Blackguard chest here holds the Ribbon Spool, guarded by an optional boss.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ribbon_spool",
+          "locator": "Walkthrough: 'Find the Ribbon Spool in the Battlefront'"
+        }
+      ]
+    },
+    {
+      "id": "loc_the_aqueduct",
+      "name": "The Aqueduct",
+      "aliases": [
+        "Aqueduct"
+      ],
+      "type": "location",
+      "subtype": "area",
+      "summary": "Act 4 area on the way to Highgate, where Lady Dialla first waits for the Exile to ask them to destroy the Beast.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act4"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eternal_nightmare",
+          "locator": "Walkthrough quest log: 'Dialla is waiting for you on the Aqueduct'"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_char_dominus__participates_in__event_exiles_sentenced_to_wraeclast",
+      "source": "char_dominus",
+      "target": "event_exiles_sentenced_to_wraeclast",
+      "relation": "participates_in",
+      "description": "High Templar Dominus orders the criminals of Oriath exiled to Wraeclast.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'The Present'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_templar__participates_in__event_exiles_sentenced_to_wraeclast",
+      "source": "faction_templar",
+      "target": "event_exiles_sentenced_to_wraeclast",
+      "relation": "participates_in",
+      "description": "The Templar theocracy of Oriath carries out the sentence of exile.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_order_of_the_templar",
+          "locator": "section 'Lore'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_exiles_sentenced_to_wraeclast__occurs_in__loc_oriath",
+      "source": "event_exiles_sentenced_to_wraeclast",
+      "target": "loc_oriath",
+      "relation": "occurs_in",
+      "description": "The sentencing takes place in Oriath, before the exiles are shipped to Wraeclast.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'Oriath'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_dying_exile__participates_in__event_a1_shipwreck",
+      "source": "char_dying_exile",
+      "target": "event_a1_shipwreck",
+      "relation": "participates_in",
+      "description": "A Dying Exile on the Twilight Strand describes the two dozen exiles dumped from the ship and points the Exile towards the smoke.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_enemy_at_the_gate",
+          "locator": "Walkthrough: Dying Exile quote \"We're all that made it? They dumped... two dozen of us exiles off that ship\""
+        }
+      ]
+    },
+    {
+      "id": "e_faction_ebony_legion__participates_in__event_a1_shipwreck",
+      "source": "faction_ebony_legion",
+      "target": "event_a1_shipwreck",
+      "relation": "participates_in",
+      "description": "Dominus's Blackguards are the ones who dumped the exiles into the water.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_enemy_at_the_gate",
+          "locator": "Walkthrough: Tarkleigh quote \"[Dominus's] Blackguards dumped us in the water out there\""
+        }
+      ]
+    },
+    {
+      "id": "e_char_hillock__participates_in__event_a1_enemy_at_the_gate",
+      "source": "char_hillock",
+      "target": "event_a1_enemy_at_the_gate",
+      "relation": "participates_in",
+      "description": "Hillock, the Blacksmith, is the boss the Exile kills outside Lioneye's Watch.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_enemy_at_the_gate",
+          "locator": "Quest infobox boss=Hillock; objective 'Kill Hillock. He is outside the town.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tarkleigh__participates_in__event_a1_enemy_at_the_gate",
+      "source": "char_tarkleigh",
+      "target": "event_a1_enemy_at_the_gate",
+      "relation": "participates_in",
+      "description": "Tarkleigh gives the Exile the reward for killing Hillock.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_enemy_at_the_gate",
+          "locator": "Quest infobox completion=Talk to Tarkleigh; Walkthrough 'Talk to Tarkleigh for your reward'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_dying_exile__participates_in__event_a1_enemy_at_the_gate",
+      "source": "char_dying_exile",
+      "target": "event_a1_enemy_at_the_gate",
+      "relation": "participates_in",
+      "description": "The Dying Exile on the beach sends the Exile up the beach, where the quest begins.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_enemy_at_the_gate",
+          "locator": "Walkthrough: '(Optional) Talk to the nearby Dying Exile ... there may be people further up the beach'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a1_breaking_some_eggs__occurs_in__loc_submerged_passage",
+      "source": "event_a1_breaking_some_eggs",
+      "target": "loc_submerged_passage",
+      "relation": "occurs_in",
+      "description": "The three glyphs are fitted into the glyph wall in the Mud Flats, opening the Submerged Passage.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_breaking_some_eggs",
+          "locator": "Quest infobox objective 'open the Submerged Passage'; Walkthrough 'The Submerged Passage is now open'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tarkleigh__participates_in__event_a1_breaking_some_eggs",
+      "source": "char_tarkleigh",
+      "target": "event_a1_breaking_some_eggs",
+      "relation": "participates_in",
+      "description": "Tarkleigh identifies the Karui glyph shells and tells the Exile where to fit them.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_breaking_some_eggs",
+          "locator": "Walkthrough: Tarkleigh dialogue 'complete the set, fit them into the sockets, and stand well back'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_brutus__participates_in__event_a1_caged_brute",
+      "source": "char_brutus",
+      "target": "event_a1_caged_brute",
+      "relation": "participates_in",
+      "description": "Brutus, Warden of Axiom Prison, is the boss fought in the Warden's Chambers.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_caged_brute",
+          "locator": "Quest infobox boss=Brutus, Lord Incarcerator; objective 'Kill Brutus in the Warden's Chambers'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tarkleigh__participates_in__event_a1_caged_brute",
+      "source": "char_tarkleigh",
+      "target": "event_a1_caged_brute",
+      "relation": "participates_in",
+      "description": "Tarkleigh starts the quest and briefs the Exile on Brutus.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_caged_brute",
+          "locator": "Quest infobox start=Talk to Tarkleigh; Walkthrough Tarkleigh dialogue"
+        }
+      ]
+    },
+    {
+      "id": "e_char_nessa__participates_in__event_a1_caged_brute",
+      "source": "char_nessa",
+      "target": "event_a1_caged_brute",
+      "relation": "participates_in",
+      "description": "Nessa tells the Exile the history of Brutus as Warden of Axiom Prison.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_caged_brute",
+          "locator": "Walkthrough: Nessa dialogue 'The tale of Brutus was a popular one in the schools of Theopolis'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a1_caged_brute__occurs_in__loc_axiom_prison",
+      "source": "event_a1_caged_brute",
+      "target": "loc_axiom_prison",
+      "relation": "occurs_in",
+      "description": "The Caged Brute is fought in the Warden's Chambers of Axiom Prison.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_caged_brute",
+          "locator": "Objective: 'Kill Brutus in the Warden's Chambers in the Upper Prison'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_merveil__participates_in__event_a1_sirens_cadence",
+      "source": "char_merveil",
+      "target": "event_a1_sirens_cadence",
+      "relation": "participates_in",
+      "description": "Merveil, the Siren, is the boss the Exile kills in her lair.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_siren_s_cadence",
+          "locator": "Quest infobox boss=Merveil, the Siren; objective 'Kill Merveil, in her lair'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_nessa__participates_in__event_a1_sirens_cadence",
+      "source": "char_nessa",
+      "target": "event_a1_sirens_cadence",
+      "relation": "participates_in",
+      "description": "Nessa starts the quest and warns the Exile about Merveil.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_siren_s_cadence",
+          "locator": "Quest infobox start=Talk to Nessa"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a1_sirens_cadence__occurs_in__loc_merveil_s_lair",
+      "source": "event_a1_sirens_cadence",
+      "target": "loc_merveil_s_lair",
+      "relation": "occurs_in",
+      "description": "The fight with Merveil takes place in her lair at the head of Siren's Cove.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_siren_s_cadence",
+          "locator": "Objective 'Kill Merveil, in her lair'; completion 'Enter the Forest' from her lair"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a2_forest_encampment__occurs_in__loc_forest_encampment",
+      "source": "event_a2_forest_encampment",
+      "target": "loc_forest_encampment",
+      "relation": "occurs_in",
+      "description": "The Exile arrives at the Forest Encampment, the village in the Southern Forest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_act_2",
+          "locator": "Act 2 walkthrough: The Forest Encampment is the town of Act 2"
+        }
+      ]
+    },
+    {
+      "id": "e_char_greust__participates_in__event_a2_forest_encampment",
+      "source": "char_greust",
+      "target": "event_a2_forest_encampment",
+      "relation": "participates_in",
+      "description": "Greust, the Forest Encampment's weapon and armour vendor, is present in the village; he is the quest giver of Intruders in Black. The 'leader' wording was not supported by the cited page.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_intruders_in_black",
+          "locator": "Walkthrough: Greust dialogue 'Nothing like this... Bring back the light' (Greust leads the encampment)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_silk__participates_in__event_a2_forest_encampment",
+      "source": "char_silk",
+      "target": "event_a2_forest_encampment",
+      "relation": "participates_in",
+      "description": "Silk is one of the Forest Encampment villagers, and gives out the Sharp and Cruel quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sharp_and_cruel",
+          "locator": "Walkthrough intro: quest 'given by Silk in Forest Encampment'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_yeena__participates_in__event_a2_forest_encampment",
+      "source": "char_yeena",
+      "target": "event_a2_forest_encampment",
+      "relation": "participates_in",
+      "description": "Yeena, a Forest Encampment resident, dreams of the shadow and is the quest source.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_shadow_of_the_vaal",
+          "locator": "Quest walkthrough: 'talk to Yeena in the Forest Encampment to receive this quest'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_eramir__participates_in__event_a2_forest_encampment",
+      "source": "char_eramir",
+      "target": "event_a2_forest_encampment",
+      "relation": "participates_in",
+      "description": "Eramir, a Forest Encampment resident, gives the Exile the bandit contract and its reward.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_deal_with_the_bandits",
+          "locator": "Quest infobox start=Talk to Eramir; Quest text 'Eramir and the Forest Encampment'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_greust__participates_in__event_a2_intruders_in_black",
+      "source": "char_greust",
+      "target": "event_a2_intruders_in_black",
+      "relation": "participates_in",
+      "description": "Greust sends the Exile east to investigate the warriors in black.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_intruders_in_black",
+          "locator": "Quest infobox start=Talk to Greust; Walkthrough Greust dialogue 'Go east and find these warriors in black'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_fidelitas__participates_in__event_a2_intruders_in_black",
+      "source": "char_fidelitas",
+      "target": "event_a2_intruders_in_black",
+      "relation": "participates_in",
+      "description": "Fidelitas, the Mourning, is the boss the Exile kills in the Chamber of Sins.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_intruders_in_black",
+          "locator": "Quest infobox boss=Fidelitas, the Mourning; objective 'Kill Fidelitas'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_helena__participates_in__event_a2_intruders_in_black",
+      "source": "char_helena",
+      "target": "event_a2_intruders_in_black",
+      "relation": "participates_in",
+      "description": "Helena is the girl the Exile rescues from Fidelitas and then brings into the encampment.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_intruders_in_black",
+          "locator": "Walkthrough: Helena dialogue 'Help me!' and 'Meet Helena in town'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_ebony_legion__participates_in__event_a2_intruders_in_black",
+      "source": "faction_ebony_legion",
+      "target": "event_a2_intruders_in_black",
+      "relation": "participates_in",
+      "description": "Greust's quest describes the warriors in black as Blackguards searching the Chamber of Sins. The page's Trivia says Act 2 Blackguards actually appear in the Western Forest, so the link is only medium confidence.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_intruders_in_black",
+          "locator": "Walkthrough: Helena dialogue 'My days with the Ebony Legion are done!'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a2_intruders_in_black__occurs_in__loc_chamber_of_sins",
+      "source": "event_a2_intruders_in_black",
+      "target": "loc_chamber_of_sins",
+      "relation": "occurs_in",
+      "description": "The Blackguards are investigated and fought inside the Chamber of Sins.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_intruders_in_black",
+          "locator": "Objective: 'Investigate the Blackguards in the Chamber of Sins'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_silk__participates_in__event_a2_sharp_and_cruel",
+      "source": "char_silk",
+      "target": "event_a2_sharp_and_cruel",
+      "relation": "participates_in",
+      "description": "Silk asks the Exile to retrieve his spear from the Weaver and rewards the Exile for it.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sharp_and_cruel",
+          "locator": "Quest infobox start=Talk to Silk; Walkthrough Silk dialogue 'my best spear still in mother's eye'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_the_weaver__participates_in__event_a2_sharp_and_cruel",
+      "source": "char_the_weaver",
+      "target": "event_a2_sharp_and_cruel",
+      "relation": "participates_in",
+      "description": "The Weaver, a giant spider, is killed to recover Maligaro's Spike.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sharp_and_cruel",
+          "locator": "Quest infobox boss=The Weaver; objective 'Kill The Weaver'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a2_sharp_and_cruel__occurs_in__loc_the_weaver_s_chambers",
+      "source": "event_a2_sharp_and_cruel",
+      "target": "loc_the_weaver_s_chambers",
+      "relation": "occurs_in",
+      "description": "The Weaver is killed in the Weaver's Chambers, reached from the Western Forest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sharp_and_cruel",
+          "locator": "Walkthrough: 'venture into The Weaver's Chambers (entrance located in The Western Forest)'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a2_sharp_and_cruel__occurs_in__loc_forest_encampment",
+      "source": "event_a2_sharp_and_cruel",
+      "target": "loc_forest_encampment",
+      "relation": "occurs_in",
+      "description": "The quest is started and resolved in the Forest Encampment, where Silk lives.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sharp_and_cruel",
+          "locator": "Walkthrough: quest given by Silk in Forest Encampment; reward on return 'Talk to Silk'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kraityn__participates_in__event_a2_deal_with_bandits",
+      "source": "char_kraityn",
+      "target": "event_a2_deal_with_bandits",
+      "relation": "participates_in",
+      "description": "Kraityn is one of the three bandit lords who terrorise the Forest Encampment.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_deal_with_the_bandits",
+          "locator": "Quest infobox boss1=Kraityn"
+        }
+      ]
+    },
+    {
+      "id": "e_char_alira__participates_in__event_a2_deal_with_bandits",
+      "source": "char_alira",
+      "target": "event_a2_deal_with_bandits",
+      "relation": "participates_in",
+      "description": "Alira is one of the three bandit lords; she can be killed or spared.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_deal_with_the_bandits",
+          "locator": "Quest infobox boss2=Alira"
+        }
+      ]
+    },
+    {
+      "id": "e_char_oak__participates_in__event_a2_deal_with_bandits",
+      "source": "char_oak",
+      "target": "event_a2_deal_with_bandits",
+      "relation": "participates_in",
+      "description": "Oak is one of the three bandit lords; he can be killed or spared.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_deal_with_the_bandits",
+          "locator": "Quest infobox boss3=Oak"
+        }
+      ]
+    },
+    {
+      "id": "e_char_eramir__participates_in__event_a2_deal_with_bandits",
+      "source": "char_eramir",
+      "target": "event_a2_deal_with_bandits",
+      "relation": "participates_in",
+      "description": "Eramir gives the bandit quest and the reward for killing or sparing the bandit lords.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_deal_with_the_bandits",
+          "locator": "Quest infobox start=Talk to Eramir; reward table 'Eramir'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_bandit_lords__participates_in__event_a2_deal_with_bandits",
+      "source": "faction_bandit_lords",
+      "target": "event_a2_deal_with_bandits",
+      "relation": "participates_in",
+      "description": "The three bandit lords (Alira, Oak, Kraityn) are the Bandit Lords faction.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_deal_with_the_bandits",
+          "locator": "Lead paragraph and 'Bandit choices' section"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a2_deal_with_bandits__occurs_in__loc_forest_encampment",
+      "source": "event_a2_deal_with_bandits",
+      "target": "loc_forest_encampment",
+      "relation": "occurs_in",
+      "description": "The bandit lords terrorise the Forest Encampment, and the choice is made there.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_deal_with_the_bandits",
+          "locator": "Lead: bandit leaders 'terrorizing The Forest Encampment'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_helena__participates_in__event_a2_root_of_the_problem",
+      "source": "char_helena",
+      "target": "event_a2_root_of_the_problem",
+      "relation": "participates_in",
+      "description": "Helena gives the Exile the poison plan to open the Vaal Ruins before Piety.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_root_of_the_problem",
+          "locator": "Quest infobox start='Talk to Helena in Forest Encampment'; Walkthrough Helena dialogue"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a2_root_of_the_problem__occurs_in__loc_the_wetlands_act2",
+      "source": "event_a2_root_of_the_problem",
+      "target": "loc_the_wetlands_act2",
+      "relation": "occurs_in",
+      "description": "The great tree Lorrata is poisoned in the Wetlands.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_root_of_the_problem",
+          "locator": "Quest infobox objective 'Poison the tree, Lorrata'; Walkthrough 'poison the tree, Lorrata, in The Wetlands'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a2_root_of_the_problem__occurs_in__loc_vaal_ruins_poe1",
+      "source": "event_a2_root_of_the_problem",
+      "target": "loc_vaal_ruins_poe1",
+      "relation": "occurs_in",
+      "description": "The quest is completed on reaching the Vaal Ruins through the cleared roots.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_root_of_the_problem",
+          "locator": "Quest infobox completion='You have reached The Vaal Ruins'"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_vaal_oversoul__participates_in__event_a2_shadow_of_the_vaal",
+      "source": "deity_vaal_oversoul",
+      "target": "event_a2_shadow_of_the_vaal",
+      "relation": "participates_in",
+      "description": "The Vaal Oversoul is the boss the Exile kills at the top of the Ancient Pyramid.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_shadow_of_the_vaal",
+          "locator": "Quest infobox boss=Vaal Oversoul; objective 'Kill the Vaal Oversoul'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_yeena__participates_in__event_a2_shadow_of_the_vaal",
+      "source": "char_yeena",
+      "target": "event_a2_shadow_of_the_vaal",
+      "relation": "participates_in",
+      "description": "Yeena dreams of the shadow and gives the Exile the quest to send it home.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_shadow_of_the_vaal",
+          "locator": "Quest infobox start=Talk to Yeena; Walkthrough Yeena dialogue 'I dreamed this'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_eramir__participates_in__event_a2_shadow_of_the_vaal",
+      "source": "char_eramir",
+      "target": "event_a2_shadow_of_the_vaal",
+      "relation": "participates_in",
+      "description": "Eramir blames the Exile for the darkness that follows the touching of the Ancient Seal.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_shadow_of_the_vaal",
+          "locator": "Quest walkthrough: Eramir dialogue 'you’ve caused this. Now we all suffer your consequences'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a2_shadow_of_the_vaal__occurs_in__loc_vaal_ruins_poe1",
+      "source": "event_a2_shadow_of_the_vaal",
+      "target": "loc_vaal_ruins_poe1",
+      "relation": "occurs_in",
+      "description": "Touching the Ancient Seal in the Vaal Ruins releases the darkness.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_shadow_of_the_vaal",
+          "locator": "Walkthrough: 'Once you touch the Ancient Seal in the Vaal Ruins, you will initiate this quest'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a3_sarn_arrival__occurs_in__loc_sarn",
+      "source": "event_a3_sarn_arrival",
+      "target": "loc_sarn",
+      "relation": "occurs_in",
+      "description": "The Exile enters the ruined capital Sarn, overrun by the undead.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_in_love",
+          "locator": "Walkthrough: Tolman and Clarissa 'went missing in Sarn Slums' in the City of Sarn"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a3_sarn_arrival__occurs_in__loc_sarn_encampment",
+      "source": "event_a3_sarn_arrival",
+      "target": "loc_sarn_encampment",
+      "relation": "occurs_in",
+      "description": "The Exile reaches the Sarn Encampment, the survivors' camp.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_in_love",
+          "locator": "Walkthrough: quest 'given to you by Maramoa upon arriving in Sarn Encampment'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_hargan__participates_in__event_a3_sarn_arrival",
+      "source": "char_hargan",
+      "target": "event_a3_sarn_arrival",
+      "relation": "participates_in",
+      "description": "Hargan, the Sarn Encampment's weapon and armour vendor, is present in the encampment when the Exile arrives. 'Survivor' wording was not supported by the cited page.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_act_3",
+          "locator": "Act 3 vendor list: 'Hargan - weapon (except wands) and armour vendor'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_maramoa__participates_in__event_a3_sarn_arrival",
+      "source": "char_maramoa",
+      "target": "event_a3_sarn_arrival",
+      "relation": "participates_in",
+      "description": "Maramoa greets the Exile at the Sarn Encampment and gives the Lost in Love quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_in_love",
+          "locator": "Walkthrough: quest 'given to you by Maramoa upon arriving in Sarn Encampment'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_grigor__participates_in__event_a3_sarn_arrival",
+      "source": "char_grigor",
+      "target": "event_a3_sarn_arrival",
+      "relation": "participates_in",
+      "description": "Grigor is a poet-scholar of the Sarn Encampment.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_piety_s_pets",
+          "locator": "Quest walkthrough: quest 'given to the player by Grigor in The Sarn Encampment'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_maramoa__participates_in__event_a3_lost_in_love",
+      "source": "char_maramoa",
+      "target": "event_a3_lost_in_love",
+      "relation": "participates_in",
+      "description": "Maramoa gives the Exile the quest to find Clarissa and Tolman.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_in_love",
+          "locator": "Walkthrough: 'This Quest is given to you by Maramoa upon arriving in Sarn Encampment'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_clarissa__participates_in__event_a3_lost_in_love",
+      "source": "char_clarissa",
+      "target": "event_a3_lost_in_love",
+      "relation": "participates_in",
+      "description": "Clarissa is rescued from the Blackguards in Sarn and sends the Exile after Tolman.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_in_love",
+          "locator": "Quest infobox start 'Meeting Clarissa in City of Sarn'; objective 'Rescue Clarissa and Tolman'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tolman__participates_in__event_a3_lost_in_love",
+      "source": "char_tolman",
+      "target": "event_a3_lost_in_love",
+      "relation": "participates_in",
+      "description": "Tolman was dragged off by Piety's henchmen and is found dead in the Crematorium.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_in_love",
+          "locator": "Quest infobox key_item=Tolman's Bracelet; Walkthrough 'take his bracelet' at the Crematorium"
+        }
+      ]
+    },
+    {
+      "id": "e_char_piety__participates_in__event_a3_lost_in_love",
+      "source": "char_piety",
+      "target": "event_a3_lost_in_love",
+      "relation": "participates_in",
+      "description": "Piety is the boss at the Crematorium and flees after losing half her health.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_in_love",
+          "locator": "Quest infobox boss=Piety of Theopolis; Walkthrough 'Piety (who flees after losing half of her health)'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_ebony_legion__participates_in__event_a3_lost_in_love",
+      "source": "faction_ebony_legion",
+      "target": "event_a3_lost_in_love",
+      "relation": "participates_in",
+      "description": "A full team of Blackguards guards the Crematorium and Clarissa's captors.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_in_love",
+          "locator": "Walkthrough: 'fighting off a full team of blackguards and Piety'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a3_lost_in_love__occurs_in__loc_the_crematorium",
+      "source": "event_a3_lost_in_love",
+      "target": "loc_the_crematorium",
+      "relation": "occurs_in",
+      "description": "Tolman's body and bracelet are found at the end of the Crematorium.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_in_love",
+          "locator": "Walkthrough: 'the Crematorium ... at the end ... Tolman's body and take his bracelet'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a3_lost_in_love__occurs_in__loc_sarn",
+      "source": "event_a3_lost_in_love",
+      "target": "loc_sarn",
+      "relation": "occurs_in",
+      "description": "Clarissa is rescued from the Blackguards in the City of Sarn.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_in_love",
+          "locator": "Walkthrough: Clarissa rescued from Blackguards 'in City of Sarn'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_grigor__participates_in__event_a3_gemling_queen",
+      "source": "char_grigor",
+      "target": "event_a3_gemling_queen",
+      "relation": "participates_in",
+      "description": "Grigor sends the Exile to the Gemling Queen with the ode 'Of Jewels and Eternity'.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_gemling_queen",
+          "locator": "Quest infobox start=Talk to Grigor; Walkthrough Grigor's ode"
+        }
+      ]
+    },
+    {
+      "id": "e_char_dialla__participates_in__event_a3_gemling_queen",
+      "source": "char_dialla",
+      "target": "event_a3_gemling_queen",
+      "relation": "participates_in",
+      "description": "Lady Dialla, the Gemling Queen, is found in the tomb on Level 2 of the Solaris Temple.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_gemling_queen",
+          "locator": "Quest walkthrough: find 'Lady Dialla, the Gemling Queen'; completion 'Talk to Lady Dialla'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a3_gemling_queen__occurs_in__loc_solaris_temple",
+      "source": "event_a3_gemling_queen",
+      "target": "loc_solaris_temple",
+      "relation": "occurs_in",
+      "description": "The Gemling Queen's tomb is in the Solaris Temple, Level 2.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_gemling_queen",
+          "locator": "Walkthrough: 'Travel to The Solaris Temple Level 2 and find Lady Dialla'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_dialla__participates_in__event_a3_ribbon_spool",
+      "source": "char_dialla",
+      "target": "event_a3_ribbon_spool",
+      "relation": "participates_in",
+      "description": "Dialla asks the Exile to recover her Ribbon Spool, which was stolen by the black cockroaches.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ribbon_spool",
+          "locator": "Quest infobox start=Talk to Lady Dialla; Dialla's lore quote on the stolen Ribbon Spool"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_ebony_legion__participates_in__event_a3_ribbon_spool",
+      "source": "faction_ebony_legion",
+      "target": "event_a3_ribbon_spool",
+      "relation": "participates_in",
+      "description": "The Ebony Legion holds the stolen Ribbon Spool.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ribbon_spool",
+          "locator": "Quest log quote: 'The Ebony Legion has stolen the Ribbon Spool.'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a3_ribbon_spool__occurs_in__loc_the_battlefront",
+      "source": "event_a3_ribbon_spool",
+      "target": "loc_the_battlefront",
+      "relation": "occurs_in",
+      "description": "The Ribbon Spool is recovered from a Blackguard chest in the Battlefront.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ribbon_spool",
+          "locator": "Walkthrough: 'Find the Ribbon Spool in the Battlefront ... guarded by Captain Aurelianus'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_dialla__participates_in__event_a3_fiery_dust",
+      "source": "char_dialla",
+      "target": "event_a3_fiery_dust",
+      "relation": "participates_in",
+      "description": "Dialla sends the Exile to fetch Thaumetic Sulphite so she can brew Infernal Talc.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_fiery_dust",
+          "locator": "Quest infobox start=Talk to Lady Dialla; Dialla's dialogue on Thaumetic Sulphite and Infernal Talc"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a3_fiery_dust__occurs_in__loc_the_sewers",
+      "source": "event_a3_fiery_dust",
+      "target": "loc_the_sewers",
+      "relation": "occurs_in",
+      "description": "The Undying Blockade blocks the Sewers and is burned away with Infernal Talc.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_fiery_dust",
+          "locator": "Walkthrough: 'Approach the Undying Blockade in The Sewers'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_grigor__participates_in__event_a3_pietys_pets",
+      "source": "char_grigor",
+      "target": "event_a3_pietys_pets",
+      "relation": "participates_in",
+      "description": "Grigor sends the Exile to kill Piety in her laboratory.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_piety_s_pets",
+          "locator": "Quest infobox start=Talk to Grigor; walkthrough 'given ... by Grigor in The Sarn Encampment'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_piety__participates_in__event_a3_pietys_pets",
+      "source": "char_piety",
+      "target": "event_a3_pietys_pets",
+      "relation": "participates_in",
+      "description": "Piety is the boss the Exile kills in her Lunaris Temple laboratory.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_piety_s_pets",
+          "locator": "Quest infobox boss=Piety; objective 'Kill Piety'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a3_pietys_pets__occurs_in__loc_lunaris_temple",
+      "source": "event_a3_pietys_pets",
+      "target": "loc_lunaris_temple",
+      "relation": "occurs_in",
+      "description": "Piety's laboratory in the Lunaris Temple is where she is killed.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_piety_s_pets",
+          "locator": "Walkthrough: 'Find Piety in her laboratory in The Lunaris Temple Level 2 and kill her'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_dominus__participates_in__event_a3_sceptre_of_god",
+      "source": "char_dominus",
+      "target": "event_a3_sceptre_of_god",
+      "relation": "participates_in",
+      "description": "Dominus is the boss at the summit of the Sceptre of God.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_sceptre_of_god_quest",
+          "locator": "Quest infobox boss=Dominus; objective 'Kill Dominus'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_dialla__participates_in__event_a3_sceptre_of_god",
+      "source": "char_dialla",
+      "target": "event_a3_sceptre_of_god",
+      "relation": "participates_in",
+      "description": "Lady Dialla is the one who completes the quest and opens the way to Act 4.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_sceptre_of_god_quest",
+          "locator": "Quest infobox completion='Talk to Lady Dialla'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_grigor__participates_in__event_a3_sceptre_of_god",
+      "source": "char_grigor",
+      "target": "event_a3_sceptre_of_god",
+      "relation": "participates_in",
+      "description": "Grigor can start the quest by describing the Sceptre of God and Dominus's laboratory.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_sceptre_of_god_quest",
+          "locator": "Walkthrough: 'Alternatively, talk to Grigor before picking up the key to start the quest'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a3_sceptre_of_god__occurs_in__loc_sceptre_of_god",
+      "source": "event_a3_sceptre_of_god",
+      "target": "loc_sceptre_of_god",
+      "relation": "occurs_in",
+      "description": "Most of the quest events happen in the Sceptre of God, the tower in Sarn.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_sceptre_of_god_quest",
+          "locator": "Lead: 'Most of the quest events are located in The Sceptre of God'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a4_highgate_arrival__occurs_in__loc_highgate",
+      "source": "event_a4_highgate_arrival",
+      "target": "loc_highgate",
+      "relation": "occurs_in",
+      "description": "Highgate is an encampment held by the Maraketh, where Dialla waits.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eternal_nightmare",
+          "locator": "Walkthrough quest log: 'You have reached Highgate, an encampment occupied by the Maraketh'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a4_highgate_arrival__occurs_in__loc_the_aqueduct",
+      "source": "event_a4_highgate_arrival",
+      "target": "loc_the_aqueduct",
+      "relation": "occurs_in",
+      "description": "Dialla first meets the Exile on the Aqueduct before the way to Highgate.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eternal_nightmare",
+          "locator": "Walkthrough quest log: 'Dialla is waiting for you on the Aqueduct'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_dialla__participates_in__event_a4_highgate_arrival",
+      "source": "char_dialla",
+      "target": "event_a4_highgate_arrival",
+      "relation": "participates_in",
+      "description": "Dialla asks the Exile to destroy the Beast sealed in the mountain.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eternal_nightmare",
+          "locator": "Walkthrough quest log: 'Dialla is waiting for you on the Aqueduct. Talk to her'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_oyun__participates_in__event_a4_highgate_arrival",
+      "source": "char_oyun",
+      "target": "event_a4_highgate_arrival",
+      "relation": "participates_in",
+      "description": "Oyun, the Maraketh akhara leader, gives advice on the darkness in the mountain.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eternal_nightmare",
+          "locator": "Walkthrough quest log: 'Talk to Oyun for advice'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_maraketh__participates_in__event_a4_highgate_arrival",
+      "source": "faction_maraketh",
+      "target": "event_a4_highgate_arrival",
+      "relation": "participates_in",
+      "description": "The Maraketh hold Highgate.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eternal_nightmare",
+          "locator": "Walkthrough quest log: 'an encampment occupied by the Maraketh'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_voll__participates_in__event_a4_breaking_the_seal",
+      "source": "char_voll",
+      "target": "event_a4_breaking_the_seal",
+      "relation": "participates_in",
+      "description": "Voll, the Brittle Emperor, is the boss the Exile kills in the Dried Lake.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_breaking_the_seal",
+          "locator": "Quest infobox boss=Voll, Emperor of Purity; objective 'Kill Voll'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_oyun__participates_in__event_a4_breaking_the_seal",
+      "source": "char_oyun",
+      "target": "event_a4_breaking_the_seal",
+      "relation": "participates_in",
+      "description": "Oyun sends the Exile to take Deshret's Banner from Voll.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_breaking_the_seal",
+          "locator": "Quest infobox start=Talk to Oyun; Oyun dialogue 'Bring Deshret's Banner home'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a4_breaking_the_seal__occurs_in__loc_the_dried_lake",
+      "source": "event_a4_breaking_the_seal",
+      "target": "loc_the_dried_lake",
+      "relation": "occurs_in",
+      "description": "Voll and Deshret's Banner are found in the Dried Lake.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_breaking_the_seal",
+          "locator": "Walkthrough: 'Find Deshret's Banner in the Dried Lake'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a4_breaking_the_seal__occurs_in__loc_the_mines",
+      "source": "event_a4_breaking_the_seal",
+      "target": "loc_the_mines",
+      "relation": "occurs_in",
+      "description": "The Mines are opened by breaking Deshret's Seal in Highgate.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_breaking_the_seal",
+          "locator": "Walkthrough: 'use it in town to break Deshret's Seal and gain access to the Mines'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kaom__participates_in__event_a4_king_of_fury",
+      "source": "char_kaom",
+      "target": "event_a4_king_of_fury",
+      "relation": "participates_in",
+      "description": "King Kaom is the boss who holds the Eye of Fury.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_of_fury",
+          "locator": "Quest infobox boss=King Kaom; Walkthrough 'Kill him and deliver the Eye to Dialla'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_dialla__participates_in__event_a4_king_of_fury",
+      "source": "char_dialla",
+      "target": "event_a4_king_of_fury",
+      "relation": "participates_in",
+      "description": "Dialla receives the Eye of Fury for the Rapture Device.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_of_fury",
+          "locator": "Quest infobox completion='Delivered the Eye of Fury to Lady Dialla'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a4_king_of_fury__occurs_in__loc_crystal_veins",
+      "source": "event_a4_king_of_fury",
+      "target": "loc_crystal_veins",
+      "relation": "occurs_in",
+      "description": "The quest starts in the Crystal Veins, where the Rapture Device is.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_of_fury",
+          "locator": "Quest infobox start='The Crystal Veins'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_daresso__participates_in__event_a4_king_of_desire",
+      "source": "char_daresso",
+      "target": "event_a4_king_of_desire",
+      "relation": "participates_in",
+      "description": "Daresso, King of Swords, is the boss who holds the Eye of Desire.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_of_desire",
+          "locator": "Quest infobox boss=Daresso, King of Swords; 'Kill him and deliver the Eye to Dialla'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_dialla__participates_in__event_a4_king_of_desire",
+      "source": "char_dialla",
+      "target": "event_a4_king_of_desire",
+      "relation": "participates_in",
+      "description": "Dialla receives the Eye of Desire for the Rapture Device.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_of_desire",
+          "locator": "Quest infobox completion='Delivered the Eye of Desire to Lady Dialla'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a4_king_of_desire__occurs_in__loc_the_grand_arena",
+      "source": "event_a4_king_of_desire",
+      "target": "loc_the_grand_arena",
+      "relation": "occurs_in",
+      "description": "Daresso is killed at the end of the Grand Arena.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_of_desire",
+          "locator": "Walkthrough: 'The boss arena ... is located at the very end of The Grand Arena'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_dialla__participates_in__event_a4_rapture_device",
+      "source": "char_dialla",
+      "target": "event_a4_rapture_device",
+      "relation": "participates_in",
+      "description": "Dialla's life force powers the Rapture Device.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_rapture_device",
+          "locator": "Lead: device 'requires ... Lady Dialla's life force to activate it'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_malachai__participates_in__event_a4_rapture_device",
+      "source": "char_malachai",
+      "target": "event_a4_rapture_device",
+      "relation": "participates_in",
+      "description": "Malachai built the Rapture Device and then entered the Beast through the hole it made.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_rapture_device",
+          "locator": "Lead: 'Malachai ... promised ... Emperor Voll ... a device'; Malachai 'took advantage ... entered the Beast'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a4_rapture_device__occurs_in__loc_crystal_veins",
+      "source": "event_a4_rapture_device",
+      "target": "loc_crystal_veins",
+      "relation": "occurs_in",
+      "description": "The Rapture Device is located in the Crystal Veins.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_rapture_device",
+          "locator": "Lead: 'a mysterious machine, located in the Crystal Veins'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a4_rapture_device__occurs_in__loc_belly_of_the_beast",
+      "source": "event_a4_rapture_device",
+      "target": "loc_belly_of_the_beast",
+      "relation": "occurs_in",
+      "description": "The device drills a hole into the Belly of the Beast.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_rapture_device",
+          "locator": "Lead: 'It can drill a hole into the Beast, allowing entry into its bowels'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_piety__participates_in__event_a4_corpus_malachus",
+      "source": "char_piety",
+      "target": "event_a4_corpus_malachus",
+      "relation": "participates_in",
+      "description": "Piety sets the task of gathering Malachai's organs to open the Black Core.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_corpus_malachus",
+          "locator": "Quest infobox start=Talk to Piety; Walkthrough 'Piety requires three of Malachai's organs'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_shavronne__participates_in__event_a4_corpus_malachus",
+      "source": "char_shavronne",
+      "target": "event_a4_corpus_malachus",
+      "relation": "participates_in",
+      "description": "Shavronne of Umbra is one of the Godless Three who must be fought to obtain Malachai's organs.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_corpus_malachus",
+          "locator": "Quest infobox boss2=Shavronne of Umbra"
+        }
+      ]
+    },
+    {
+      "id": "e_char_maligaro__participates_in__event_a4_corpus_malachus",
+      "source": "char_maligaro",
+      "target": "event_a4_corpus_malachus",
+      "relation": "participates_in",
+      "description": "Maligaro, The Inquisitor, is one of the Godless Three who must be fought for Malachai's organs.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_corpus_malachus",
+          "locator": "Quest infobox boss2=Maligaro, The Inquisitor"
+        }
+      ]
+    },
+    {
+      "id": "e_char_doedre__participates_in__event_a4_corpus_malachus",
+      "source": "char_doedre",
+      "target": "event_a4_corpus_malachus",
+      "relation": "participates_in",
+      "description": "Doedre Darktongue is one of the Godless Three who must be fought for Malachai's organs.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_corpus_malachus",
+          "locator": "Quest infobox boss3=Doedre Darktongue"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a4_corpus_malachus__occurs_in__loc_belly_of_the_beast",
+      "source": "event_a4_corpus_malachus",
+      "target": "loc_belly_of_the_beast",
+      "relation": "occurs_in",
+      "description": "The Corpus Malachus page gives no location. Per the Eternal Nightmare page the organ task is done in The Harvest, and Piety says Malachai sits in the Beast's Black Core, so the Beast is the closest existing node. The Harvest is not a separate node yet.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eternal_nightmare",
+          "locator": "Quote (Piety): 'Venture deeper ... You find me those organs and I'll get us into the Black Core'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_malachai__participates_in__event_a4_kill_malachai",
+      "source": "char_malachai",
+      "target": "event_a4_kill_malachai",
+      "relation": "participates_in",
+      "description": "Malachai, The Nightmare, is the final boss of Act 4, fought in the Black Core.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eternal_nightmare",
+          "locator": "Quest infobox boss=Malachai, The Nightmare; objective 'Kill Malachai'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_piety__participates_in__event_a4_kill_malachai",
+      "source": "char_piety",
+      "target": "event_a4_kill_malachai",
+      "relation": "participates_in",
+      "description": "Piety helps the Exile break Malachai's shield and is turned into an Abomination during the fight.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_malachai_the_nightmare",
+          "locator": "Fight description: 'Piety helps the player by disabling his shield'; transforms into 'Piety, the Abomination'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a4_kill_malachai__occurs_in__loc_belly_of_the_beast",
+      "source": "event_a4_kill_malachai",
+      "target": "loc_belly_of_the_beast",
+      "relation": "occurs_in",
+      "description": "Malachai is fought in the Beast's Black Core.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eternal_nightmare",
+          "locator": "Quote: 'Malachai is in the Beast's black core right now'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_overseer_krow__participates_in__event_a5_return_to_oriath",
+      "source": "char_overseer_krow",
+      "target": "event_a5_return_to_oriath",
+      "relation": "participates_in",
+      "description": "Overseer Krow is the boss at the end of the Slave Pens maze.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_return_to_oriath",
+          "locator": "Walkthrough: 'the boss of this area, Overseer Krow, has to be killed'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_lani__participates_in__event_a5_return_to_oriath",
+      "source": "char_lani",
+      "target": "event_a5_return_to_oriath",
+      "relation": "participates_in",
+      "description": "Lani leads the rebel encampment at Overseer's Tower and rewards the Exile.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_return_to_oriath",
+          "locator": "Quest completion: 'reached the rebel encampment at Overseer's Tower. Talk to Lani for a reward'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a5_return_to_oriath__occurs_in__loc_the_ascent",
+      "source": "event_a5_return_to_oriath",
+      "target": "loc_the_ascent",
+      "relation": "occurs_in",
+      "description": "The Exile climbs the Ascent of Mt. Veruso and activates the Resonator there.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_return_to_oriath",
+          "locator": "Walkthrough: 'enter The Ascent ... use the machine to open a portal to Oriath'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a5_return_to_oriath__occurs_in__loc_slave_pens",
+      "source": "event_a5_return_to_oriath",
+      "target": "loc_slave_pens",
+      "relation": "occurs_in",
+      "description": "The portal drops the Exile into the Slave Pens of Oriath.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_return_to_oriath",
+          "locator": "Walkthrough: 'arrive at the Slave Pens'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a5_return_to_oriath__occurs_in__loc_overseer_s_tower",
+      "source": "event_a5_return_to_oriath",
+      "target": "loc_overseer_s_tower",
+      "relation": "occurs_in",
+      "description": "The rebel camp at Overseer's Tower is the goal of the Slave Pens maze.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_return_to_oriath",
+          "locator": "Quest completion: 'Enter the Overseer's Tower and talk to Lani'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_justicar_casticus__participates_in__event_a5_key_to_freedom",
+      "source": "char_justicar_casticus",
+      "target": "event_a5_key_to_freedom",
+      "relation": "participates_in",
+      "description": "Justicar Casticus is the boss in the Control Blocks whose Eyes of Zeal open the Templar Courts.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_key_to_freedom",
+          "locator": "Quest log quote: 'help the rebellion and kill Justicar Casticus ... in the Control Blocks'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a5_key_to_freedom__occurs_in__loc_control_blocks",
+      "source": "event_a5_key_to_freedom",
+      "target": "loc_control_blocks",
+      "relation": "occurs_in",
+      "description": "Casticus is killed in the Control Blocks.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_key_to_freedom",
+          "locator": "Walkthrough: 'go straight to The Control Blocks and kill the boss'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a5_key_to_freedom__occurs_in__loc_overseer_s_tower",
+      "source": "event_a5_key_to_freedom",
+      "target": "loc_overseer_s_tower",
+      "relation": "occurs_in",
+      "description": "The quest is granted in Overseer's Tower and the entrance to the Control Blocks is there.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_key_to_freedom",
+          "locator": "Walkthrough: 'This quest is granted by an NPC in the Overseer's Tower'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_avarius__participates_in__event_a5_death_to_purity",
+      "source": "char_avarius",
+      "target": "event_a5_death_to_purity",
+      "relation": "participates_in",
+      "description": "High Templar Avarius is the boss slain in the Chamber of Innocence.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_death_to_purity",
+          "locator": "Quest log quote: 'slay High Templar Avarius ... in the Chamber of Innocence'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a5_death_to_purity__occurs_in__loc_chamber_of_innocence",
+      "source": "event_a5_death_to_purity",
+      "target": "loc_chamber_of_innocence",
+      "relation": "occurs_in",
+      "description": "Avarius is slain in the Chamber of Innocence, after the Templar Courts are opened.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_death_to_purity",
+          "locator": "Quest log quote: 'in the Chamber of Innocence'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a5_death_to_purity__occurs_in__loc_templar_courts",
+      "source": "event_a5_death_to_purity",
+      "target": "loc_templar_courts",
+      "relation": "occurs_in",
+      "description": "The Templar Courts must be entered with Casticus's Eyes before Avarius is reached.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_death_to_purity",
+          "locator": "Quest log quote: 'gain access to the Templar Courts and from there, slay Avarius'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_utula__participates_in__event_a5_kings_feast",
+      "source": "char_utula",
+      "target": "event_a5_kings_feast",
+      "relation": "participates_in",
+      "description": "Utula, high priest of Kitava, is the boss the Exile must kill to stop the ritual.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_s_feast",
+          "locator": "Quest walkthrough: 'Kill Utula to prevent him from completing the King's Feast ritual'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_bannon__participates_in__event_a5_kings_feast",
+      "source": "char_bannon",
+      "target": "event_a5_kings_feast",
+      "relation": "participates_in",
+      "description": "Bannon asks the Exile to stop Utula.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_s_feast",
+          "locator": "Walkthrough Bannon dialogue: 'Please, find Utula and stop him'"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_kitava__participates_in__event_a5_kings_feast",
+      "source": "deity_kitava",
+      "target": "event_a5_kings_feast",
+      "relation": "participates_in",
+      "description": "Utula's ritual summons Kitava, the Ravenous God.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_s_feast",
+          "locator": "Walkthrough: 'Utula has used the fall of Innocence to summon Kitava'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a5_kings_feast__occurs_in__loc_oriath_square",
+      "source": "event_a5_kings_feast",
+      "target": "loc_oriath_square",
+      "relation": "occurs_in",
+      "description": "Utula is found in the Ruined Square, which is Oriath Square.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_s_feast",
+          "locator": "Lead: Utula is on 'the Ruined Square' (Oriath Square)"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_kitava__participates_in__event_a5_ravenous_god",
+      "source": "deity_kitava",
+      "target": "event_a5_ravenous_god",
+      "relation": "participates_in",
+      "description": "Kitava, the Ravenous God, reawakens and cannot be defeated in this act.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ravenous_god",
+          "locator": "Walkthrough: 'Kitava has awakened and is destroying Oriath ... to defeat Kitava'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_lilly_roth__participates_in__event_a5_ravenous_god",
+      "source": "char_lilly_roth",
+      "target": "event_a5_ravenous_god",
+      "relation": "participates_in",
+      "description": "Captain Lilly Roth takes the Exile on board the ship back to Wraeclast.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ravenous_god",
+          "locator": "Quest walkthrough: 'Captain Lilly Roth ... we sail... for Wraeclast'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a5_ravenous_god__occurs_in__loc_the_ossuary",
+      "source": "event_a5_ravenous_god",
+      "target": "loc_the_ossuary",
+      "relation": "occurs_in",
+      "description": "The Sign of Purity is found inside the Ossuary.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ravenous_god",
+          "locator": "Walkthrough: 'find the entrance to the Ossuary ... find the Sign of Purity and use it to defeat Kitava'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_a5_ravenous_god__occurs_in__loc_oriath_square",
+      "source": "event_a5_ravenous_god",
+      "target": "loc_oriath_square",
+      "relation": "occurs_in",
+      "description": "The Exile travels back through the Templar Courts to Oriath Square on the way to Kitava.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ravenous_god",
+          "locator": "Walkthrough: 'Travel back ... to Oriath Square'"
+        }
+      ]
+    }
+  ]
+}

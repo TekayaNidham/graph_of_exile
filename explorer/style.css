@@ -241,3 +241,5 @@ body.filters-visible .story-card { left: calc(50% + 140px); }
   body.filters-visible .story-card { left: 50%; }
   .hopbar { top: auto; bottom: 8px; }
 }
+
+.beat .where { display: block; color: var(--muted); font-size: 12px; font-style: italic; margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
