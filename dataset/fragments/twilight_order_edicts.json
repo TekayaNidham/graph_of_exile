@@ -1,0 +1,4288 @@
+{
+ "domain": "twilight_order_edicts",
+ "sources": [
+  {
+   "id": "src_poe2wiki_the_twilight_order",
+   "title": "The Twilight Order - PoE2 Wiki (quotes Path of Exile 2 Art Book)",
+   "url": "https://www.poe2wiki.net/wiki/The_Twilight_Order",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_countess",
+   "title": "The Countess - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Countess",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_search",
+   "title": "The Search - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Search",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_utopia",
+   "title": "Utopia - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Utopia",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_tecrod",
+   "title": "Tecrod - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Tecrod",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_beast",
+   "title": "The Beast - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Beast",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_legacy_of_the_precursors",
+   "title": "Legacy of the Precursors - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Legacy_of_the_Precursors",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_act_4",
+   "title": "Act 4 - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Act_4",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_act_5",
+   "title": "Act 5 - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Act_5",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_act",
+   "title": "Act - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Act",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_siege_of_oriath",
+   "title": "Siege of Oriath - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Siege_of_Oriath",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_recruit_the_vaal",
+   "title": "Recruit the Vaal - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Recruit_the_Vaal",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_trail_of_corruption_act_2",
+   "title": "The Trail of Corruption (Act 2) - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Trail_of_Corruption_(Act_2)",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_faridun",
+   "title": "Faridun - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Faridun",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_lore",
+   "title": "Lore - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Lore",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_environmental_lore",
+   "title": "Environmental lore - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Environmental_lore",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_rise_of_the_abyssal_league",
+   "title": "Rise of the Abyssal league - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Rise_of_the_Abyssal_league",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_mad_wolf_of_ogham",
+   "title": "The Mad Wolf of Ogham - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Mad_Wolf_of_Ogham",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_ezomytes",
+   "title": "The Ezomytes - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Ezomytes",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_history_of_wraeclast",
+   "title": "History of Wraeclast - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/History_of_Wraeclast",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_order_of_the_templar",
+   "title": "Order of the Templar - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Order_of_the_Templar",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_yt_4UKJmVK7Iv4",
+   "title": "The Story of The Iron Count | Path Of Exile 2 Lore",
+   "url": "https://www.youtube.com/watch?v=4UKJmVK7Iv4",
+   "type": "youtube",
+   "author_or_channel": "Lore Of Exile",
+   "accessed": "2026-11-05",
+   "reliability": "tertiary"
+  },
+  {
+   "id": "src_web_mobalytics_arbiter_of_divinity",
+   "title": "PoE2 0.5 new pinnacle boss (Arbiter of Divinity) - Mobalytics",
+   "url": "https://mobalytics.gg/poe-2/guides/0-5-new-pinnacle-boss",
+   "type": "other",
+   "author_or_channel": "Mobalytics",
+   "accessed": "2026-11-05",
+   "reliability": "tertiary"
+  },
+  {
+   "id": "src_poe2wiki_league",
+   "title": "League - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/League",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_arbiter_of_ash",
+   "title": "The Arbiter of Ash - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Arbiter_of_Ash",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_sin",
+   "title": "Sin - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Sin",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_web_quora_fourth_edict",
+   "title": "What's the Fourth Edict with The Arbiter's voicelines in Path of Exile 2? - Quora",
+   "url": "https://www.quora.com/Whats-the-Fourth-Edict-with-The-Arbiters-voicelines-in-Path-of-Exile-2",
+   "type": "other",
+   "author_or_channel": "Quora user answer",
+   "accessed": "2026-11-05",
+   "reliability": "tertiary"
+  }
+ ],
+ "nodes": [
+  {
+   "id": "faction_twilight_order",
+   "name": "The Twilight Order",
+   "aliases": [
+    "Twilight Order"
+   ],
+   "type": "faction",
+   "summary": "Secret order, concealed for countless centuries, that rebuilt Oriath while the world believed it abandoned. It aims to free mankind from the 'tyranny of the gods' and build a god-free 'Utopia'; behind the scenes it is plotting to create a new Beast and trigger another Cataclysm. Led by the Countess (Oriana).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Hidden for centuries; active ~20 years after the end of PoE1 (PoE1 present is ~1620 IC)",
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "intro quote (Path of Exile 2 Art Book): 'The Twilight Order, however, did not flee. They emerged from countless centuries of secrecy to rebuild Oriath's heart'"
+    },
+    {
+     "source_id": "src_poe2wiki_the_countess",
+     "locator": "intro: 'leader of the Twilight Order... plotting to create a new Beast and start another Cataclysm'"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Confront Kanu and the First Herald: Countess 'The Twilight Order will see to it that the world is remade. A world without gods... without suffering... without the disease of Divinity.'"
+    }
+   ]
+  },
+  {
+   "id": "concept_the_edicts",
+   "name": "The Edicts (Precursor murals)",
+   "aliases": [],
+   "type": "concept",
+   "summary": "Series of vague Precursor murals described by the PoE2 wiki as depicting the Beast and possibly instructions on how to contain it; numbered First to Fourth in game. Known: Third = instrument is the Weapon (Hooded One recognises it as 'the Weapon I saw in that third mural'); Second = Doryani's guess that the Seed was its instrument; Fourth = investigated in the Epilogue after the Arbiter of Ash (PoE1 wiki editors speculate it caused the Great Fire); First = unexplained threat averted in the Epilogue. The full text of the edicts is not given in any source read. Not to be confused with Count Geonor's hanging edicts in Ogham.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "precursor",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Precursor age, far older than the Vaal and Winter of the World",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "'It was depicted in their Edicts, vague murals that depicts the Beast and possibly instructions on how to contain it.'"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Return to Kingsmarch: Doryani 'The Third Edict? What is the meaning... of these Edicts?'"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Return to Kingsmarch: Hooded One 'It is the Weapon I saw in that third mural'; Enter the Excavated Site: Makoru 'These murals... appear to depict the Weapon... and the Beast'"
+    }
+   ]
+  },
+  {
+   "id": "text_edict_first",
+   "name": "The First Edict",
+   "aliases": [
+    "First Edict"
+   ],
+   "type": "text",
+   "summary": "Unexplained so far. Tecrod, hunting for the Edicts, is destroyed by the Arbiter of Divinity with 'Your kind shall never ordain the First Edict!'; on completing the Epilogue quest Legacy of the Precursors the log reads 'Wraeclast is now safe from the threat of the First Edict.' Its contents are not described in sources read; 'ordain' implies it is something that can be enacted or activated, and the Origin Tower / Origin Core are the setting.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Epilogue (version 0.5.0)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore: 'Your kind shall never ordain the First Edict!'"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Quest Complete: 'Wraeclast is now safe from the threat of the First Edict.'"
+    },
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore: Tecrod 'hunting for the Edicts'"
+    }
+   ]
+  },
+  {
+   "id": "text_edict_second",
+   "name": "The Second Edict",
+   "aliases": [
+    "Second Edict"
+   ],
+   "type": "text",
+   "summary": "Never shown directly. Only Doryani's speculation, after the Third Edict is revealed: 'Perhaps it follows that the Seed was the instrument of a Second Edict... Why would any civilisation intentionally create the Seed of Corruption?'",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Act 4",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Return to Kingsmarch: Doryani 'Perhaps it follows that the Seed was the instrument of a Second Edict...'"
+    }
+   ]
+  },
+  {
+   "id": "text_edict_third",
+   "name": "The Third Edict",
+   "aliases": [
+    "Third Edict"
+   ],
+   "type": "text",
+   "summary": "Precursor edict whose instrument is the Weapon. After the Hooded One reforges it, the inscription reads 'The instrument of the Third Edict'; the Weapon was 'designed for the sole purpose of cleansing Corruption... and destroying the Beast'. Revealed in Act 4 (0.3.0, whose update bears the name 'The Third Edict'). The Hooded One's wording ('that third mural') implies the edicts are murals he had seen in the Excavated Site.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Act 4",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Return to Kingsmarch: Hooded One 'It is the Weapon I saw in that third mural. The forging revealed an inscription. The symbols declare it The instrument of the Third Edict.'"
+    },
+    {
+     "source_id": "src_poe2wiki_act",
+     "locator": "Version history 0.3.0: 'The instrument of the Third Edict. Journey to Kingsmarch...'"
+    }
+   ]
+  },
+  {
+   "id": "text_edict_fourth",
+   "name": "The Fourth Edict",
+   "aliases": [
+    "Fourth Edict"
+   ],
+   "type": "text",
+   "summary": "Mystery edict. In Legacy of the Precursors (Epilogue quest, 0.5.0) the step 'Investigate the Fourth Edict' follows the defeat of the Arbiter of Ash at the Burning Monolith (quest-log step 102, preserved in a commented section of the wiki page). The Arbiter of Ash reportedly voices 'The Fourth Edict beckons' (reported via search snippet of the PoE2 wiki page, not verified directly). The PoE1 wiki states the Great Fire / Winter of the World 'was likely caused by the Fourth Edict, a contingency created by the Precursors to purge Wraeclast in flames' (wiki editors' inference); a Quora answer reads it as the Flame Seed the Arbiter wields and which is stolen. The edict's actual text is not verified; Talkative Tri's 'The Fourth Edict - Path of Exile 2 Lore Mysteries' video (zIhWe5lLGKs) transcript could not be retrieved.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Epilogue (0.5.0 per quest page)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "quest step 102 'Investigate the Fourth Edict'"
+    },
+    {
+     "source_id": "src_poewiki_the_ezomytes",
+     "locator": "The Great Fire: 'likely caused by the Fourth Edict, a contingency created by the Precursors to purge Wraeclast in flames'"
+    },
+    {
+     "source_id": "src_poe2wiki_the_arbiter_of_ash",
+     "locator": "quote 'The Fourth Edict beckons' (flaming orb attack) - reported via search result, unverified locally"
+    },
+    {
+     "source_id": "src_web_quora_fourth_edict",
+     "locator": "fan answer: fourth edict = flame seed (speculation)"
+    }
+   ]
+  },
+  {
+   "id": "text_geonor_edicts",
+   "name": "Count Geonor's Edicts (Ogham decrees)",
+   "aliases": [],
+   "type": "text",
+   "summary": "Notices posted across Ogham by Count Geonor declaring all crimes punishable by hanging, bodies thrown into a pit beneath his manor; a 'notice of criminality' is found near Clearfell. Not Precursor edicts; the executions fed the Beast seed/creature in the manor cage.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "~20 years after PoE1, Ogham, Act 1",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_yt_4UKJmVK7Iv4",
+     "locator": "[0:25]-[0:41] 'The count's edicts posted throughout the island declared that all crimes were now punishable by hanging'; [4:25]-[4:36]"
+    }
+   ]
+  },
+  {
+   "id": "text_geonors_journal",
+   "name": "Geonor's Journal",
+   "aliases": [],
+   "type": "text",
+   "summary": "Environmental lore in Ogham Manor: Geonor writes that Oriana 'assures me, we can right some of the wrongs of the past' and promises a way forward for Ogham, showing how the Countess recruited him.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act1"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "Geonor's Journal (Ogham Manor)"
+    }
+   ]
+  },
+  {
+   "id": "char_the_countess",
+   "name": "The Countess (Oriana)",
+   "aliases": [
+    "Oriana",
+    "Countess Oriana"
+   ],
+   "type": "character",
+   "subtype": "cult leader",
+   "summary": "Major PoE2 antagonist and leader of the Twilight Order. Manipulates Count Geonor and Jamanra to obtain and feed the Beast, abandoning them when useless; has a son, Lumerius, whom she intends to use in her agenda.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act1",
+    "act_poe2_act2",
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_countess",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Confront Kanu and the First Herald"
+    }
+   ]
+  },
+  {
+   "id": "char_lumerius",
+   "name": "Lumerius",
+   "aliases": [],
+   "type": "character",
+   "summary": "Son of the Countess whom she 'seeks to use to fulfill her agenda'. His role in the Order is not clarified in any source read.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_countess",
+     "locator": "paragraph 2: 'She also has a son named Lumerius'"
+    }
+   ]
+  },
+  {
+   "id": "char_the_saviour",
+   "name": "The Saviour",
+   "aliases": [
+    "Saviour"
+   ],
+   "type": "character",
+   "summary": "Figure the Twilight Order's followers swear oaths to and invoke ('For the Saviourrr!', 'Embrace the saviour! Pledge now'); listed first among Order members. Identity/nature not revealed in sources read.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members: The Saviour"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Benedictus: 'Embrace the saviour! Pledge now.'"
+    },
+    {
+     "source_id": "src_poe2wiki_utopia",
+     "locator": "Lorandis encourages oath to 'The Saviour'"
+    }
+   ]
+  },
+  {
+   "id": "char_benedictus",
+   "name": "Benedictus, First Herald of Utopia",
+   "aliases": [
+    "First Herald of Utopia"
+   ],
+   "type": "character",
+   "summary": "Twilight Order herald and boss of The Excavation in Act 4. Demands the weapon pieces from the Exile and Kanu, tries to bury them to cover the Countess's retreat.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members"
+    },
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "Progression: The Excavation boss"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Defeat Benedictus: 'My lady... you must take your leave! ... For the Saviourrr!'"
+    }
+   ]
+  },
+  {
+   "id": "char_torvian",
+   "name": "Torvian, Hand of the Saviour",
+   "aliases": [],
+   "type": "character",
+   "summary": "Twilight Order champion and boss of Arastas in Act 4, defeated while the Exile searches for a way to reforge the Weapon.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members"
+    },
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "Arastas boss: Torvian, Hand of the Saviour"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Defeat Torvian, Hand of the Saviour"
+    }
+   ]
+  },
+  {
+   "id": "char_servitor_marius",
+   "name": "Servitor Marius",
+   "aliases": [],
+   "type": "character",
+   "summary": "Twilight Order member on Arastas who invites the player to join their Utopia or donate; refused.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_utopia",
+     "locator": "Quest summary"
+    }
+   ]
+  },
+  {
+   "id": "char_missionary_lorandis",
+   "name": "Missionary Lorandis",
+   "aliases": [],
+   "type": "character",
+   "summary": "Twilight Order preacher in Kingsmarch who sends the Exile to Arastas to take an oath to the Saviour and later leads them to the Herald; cries 'We were trying to... save you' when the ambush turns.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_utopia",
+     "locator": "start: Speak to Missionary Lorandis"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Follow the Preacher / Survive the ambush"
+    }
+   ]
+  },
+  {
+   "id": "char_vel_anxa",
+   "name": "Vel Anxa",
+   "aliases": [],
+   "type": "character",
+   "summary": "Priest 'of the Order' listed as a Twilight Order member under Torvian, Hand of the Saviour. No further detail in sources read.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members: sub-list of Torvian"
+    }
+   ]
+  },
+  {
+   "id": "char_herius",
+   "name": "Herius",
+   "aliases": [],
+   "type": "character",
+   "summary": "Priest 'of the Order' listed as a Twilight Order member under Torvian, Hand of the Saviour. No further detail in sources read.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members: sub-list of Torvian"
+    }
+   ]
+  },
+  {
+   "id": "char_cnaeus",
+   "name": "Cnaeus",
+   "aliases": [],
+   "type": "character",
+   "summary": "Priest 'of the Order' listed as a Twilight Order member under Torvian, Hand of the Saviour. No further detail in sources read.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members: sub-list of Torvian"
+    }
+   ]
+  },
+  {
+   "id": "char_kanu",
+   "name": "Kanu",
+   "aliases": [],
+   "type": "character",
+   "summary": "First Mate of the Aurora May, listed among Twilight Order members: he is courted by Benedictus ('Accept Utopia!'), betrays Makoru, then reveals the Beast is kept in Oriath and is attacked by Tavakai ('Let the ancestors judge him') - death is implied.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members: Kanu"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Confront Kanu and the First Herald; Defeat Benedictus"
+    }
+   ]
+  },
+  {
+   "id": "char_makoru",
+   "name": "Makoru",
+   "aliases": [],
+   "type": "character",
+   "summary": "Captain of the Aurora May, Karui, daughter of Tavakai; betrayed by Kanu and taken by her father when he flees with the Weapon.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Talk to Makoru; Witness the Hooded One reforge the Weapon"
+    }
+   ]
+  },
+  {
+   "id": "char_tecrod",
+   "name": "Tecrod, the Hated Slave",
+   "aliases": [
+    "The Hated Slave"
+   ],
+   "type": "character",
+   "summary": "Abyssal Lich Lord ('the Hated Slave') with a white halo; unlike Amanamu, Kurgal and Ulaman he acts independently of Kulemak and hunts the Edicts. Appears as a wyrm rider who steals the Flame Seed after the Arbiter of Ash falls; when the Exile places the Origin Core in the Origin Tower his wyrm incapacitates the Exile and he claims the power for 'the Master', but the Arbiter of Divinity destroys his body.",
+   "games": [
+    "poe2",
+    "poe1"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "poe2_abyss"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "char_the_arbiter_of_divinity",
+   "name": "The Arbiter of Divinity",
+   "aliases": [
+    "Arbiter of Divinity"
+   ],
+   "type": "character",
+   "summary": "Pinnacle boss of the Origin Tower in the Epilogue (0.5.0); destroys Tecrod's body with 'Your kind shall never ordain the First Edict!'. Nature/identity not established in sources read; fighting it ends the threat of the First Edict.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "steps 139-141 Ascend the Tower / Place the Origin Core / Defeat the Arbiter of Divinity"
+    },
+    {
+     "source_id": "src_web_mobalytics_arbiter_of_divinity",
+     "locator": "0.5 pinnacle boss guide (new pinnacle boss, Return of the Ancients)"
+    }
+   ]
+  },
+  {
+   "id": "char_the_hooded_one",
+   "name": "The Hooded One",
+   "aliases": [
+    "Sin"
+   ],
+   "type": "character",
+   "summary": "Mysterious guide of the PoE2 Exile, revealed in Act 2 to be the god Sin, the Thief of Virtue and creator of the Beast. Recognises Precursor writing from a mortal childhood memory, forges the Weapon, and in the Epilogue lies in corruption-induced sleep.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act1",
+    "act_poe2_act2",
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "Speak to the Hooded One in the Shrine: 'I am... a god. I am the Thief of Virtue. I am Sin.'"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Witness The Hooded One"
+    }
+   ]
+  },
+  {
+   "id": "artifact_precursor_weapon",
+   "name": "The Weapon (Precursor Weapon)",
+   "aliases": [
+    "Precursor Weapon",
+    "the Weapon"
+   ],
+   "type": "artifact",
+   "summary": "Three-piece Precursor device assembled in Act 4 on Arastas/Excavated Site; the instrument of the Third Edict, built to cleanse Corruption and destroy the Beast. Radiates intense Corruption, maddening those near it; Tavakai takes it, falls to blood fever, and is cured when the Hooded One uses it.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "precursor",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Speak to The Hooded One; Return to Kingsmarch"
+    },
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "intro: 'search for three parts of the precursor weapon'"
+    }
+   ]
+  },
+  {
+   "id": "artifact_seed_of_corruption",
+   "name": "Seed of Corruption",
+   "aliases": [
+    "the Seed"
+   ],
+   "type": "artifact",
+   "summary": "Precursor-made essence from which Sin created the Beast; stolen by Count Geonor at the start of PoE2, then carried by the Countess on the Dreadnought. Doryani speculates it was the instrument of a Second Edict.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "precursor",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "Sin found a Precursor ruin containing the Seed of Corruption"
+    },
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "Count Geonor"
+    },
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "Path of Exile 2 section: Sin took the Seed of Corruption into hiding; Geonor binds him and steals it"
+    }
+   ]
+  },
+  {
+   "id": "artifact_flame_seed",
+   "name": "Flame Seed",
+   "aliases": [],
+   "type": "artifact",
+   "summary": "Precursor object guarded by the Arbiter of Ash; stolen by a mysterious wyrm rider (Tecrod) after the Arbiter's defeat. Possibly linked to the Fourth Edict (unconfirmed).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "precursor",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore: 'steals the Flame Seed after the Arbiter of Ash is defeated'"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor section: Arbiter of Ash created to guard the Flame Seed"
+    }
+   ]
+  },
+  {
+   "id": "loc_arastas",
+   "name": "Arastas",
+   "aliases": [],
+   "type": "location",
+   "summary": "Karui-archipelago island in Act 4 where the Twilight Order's church and Torvian are found; the Excavation lies beyond.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_utopia",
+     "locator": "Travel to and explore Arastas"
+    },
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "Arastas: Torvian"
+    }
+   ]
+  },
+  {
+   "id": "loc_the_excavation",
+   "name": "The Excavation",
+   "aliases": [],
+   "type": "location",
+   "summary": "Twilight Order dig site on Arastas, boss Benedictus; leads to the Excavated Site whose murals depict the Weapon and the Beast and where the Weapon is reforged.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "The Excavation: Benedictus"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Enter the Excavated Site: Makoru 'These murals... appear to depict the Weapon... and the Beast'"
+    }
+   ]
+  },
+  {
+   "id": "loc_the_burning_monolith",
+   "name": "The Burning Monolith",
+   "aliases": [],
+   "type": "location",
+   "summary": "Endgame structure where the Arbiter of Ash is fought and the Fourth Edict is investigated, with the Origin Tower beyond it.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "steps 100-105"
+    }
+   ]
+  },
+  {
+   "id": "loc_the_origin_tower",
+   "name": "The Origin Tower",
+   "aliases": [],
+   "type": "location",
+   "summary": "Precursor tower reached via the Waygate in the Epilogue; the Exile places the Origin Core at the top, where Tecrod intervenes and the Arbiter of Divinity is fought.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "steps 108-141"
+    },
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "loc_ogham_manor",
+   "name": "Ogham Manor",
+   "aliases": [],
+   "type": "location",
+   "summary": "Count Geonor's seat in Act 1; the Beast seed was caged in its foundations and fed by hangings.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act1"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_yt_4UKJmVK7Iv4",
+     "locator": "[6:30]-[6:51]"
+    },
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "Ogham Manor items"
+    }
+   ]
+  },
+  {
+   "id": "concept_utopia",
+   "name": "Utopia (Twilight Order ideal)",
+   "aliases": [],
+   "type": "concept",
+   "summary": "The Order's promised god-free world ('without gods... without suffering... without the disease of Divinity'), recruited for with 'Accept Utopia! Embrace the saviour!'. Art book: intention is good but its methods are contentious.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Act 4",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "intro quote"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Benedictus / Countess lines"
+    }
+   ]
+  },
+  {
+   "id": "event_winter_of_the_world",
+   "name": "Winter of the World (Great Fire / Great Wasting)",
+   "aliases": [],
+   "type": "event",
+   "summary": "Ancient cataclysm of ash, fire and Lightless invasion; PoE2 confirmed the Ezomyte Great Fire is the same event. PoE1 wiki says it was likely caused by the Fourth Edict.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_ezomytes",
+     "locator": "The Great Fire"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Great Fire: 'revealed that the Great Fire was indeed the same event as the Winter of the World'"
+    }
+   ]
+  },
+  {
+   "id": "event_oriath_destroyed_by_sirus",
+   "name": "Oriath destroyed by Sirus",
+   "aliases": [],
+   "type": "event",
+   "summary": "PoE1 Conquerors of the Atlas: Oriath is completely destroyed by Sirus, leaving it devastated; PoE2 states the world believed Oriath abandoned twenty years ago after crises.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "conquerors"
+   ],
+   "era": "poe1_atlas",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "Conquerors of the Atlas paragraph"
+    },
+    {
+     "source_id": "src_poe2wiki_act_5",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "event_twilight_order_rebuilds_oriath",
+   "name": "Twilight Order rebuilds Oriath",
+   "aliases": [],
+   "type": "event",
+   "summary": "After the abandonment, the Twilight Order emerged from secrecy and rebuilt Oriath in secret; Act 5 is set there and the Beast is held there (per Kanu).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "interlude_between_games",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poe2wiki_act_5",
+     "locator": "intro: 'Oriath, which was rebuilt in secret'"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Kanu: 'they're in Oriath'"
+    }
+   ]
+  },
+  {
+   "id": "loc_forbidden_sanctum",
+   "name": "The Forbidden Sanctum",
+   "aliases": [],
+   "type": "location",
+   "summary": "Templar catacombs under the Fellshrine Ruins (PoE1 Sanctum): lithomancy, necromancy and hidden truths of Innocence's ascension. Background for Oriathan Templar secrecy; no source ties it to the Twilight Order.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sanctum"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "Sanctum league paragraph"
+    }
+   ]
+  },
+  {
+   "id": "league_poe2_the_third_edict",
+   "name": "Path of Exile 2: The Third Edict (0.3.0)",
+   "aliases": [],
+   "type": "league",
+   "summary": "Content update launching Aug 29, 2025: Act 4 (Ngamakanui), three interludes, removal of Cruel, and Rise of the Abyssal league; named after the Weapon's Third Edict.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_rise_of_the_abyssal_league",
+     "locator": "intro: launched August 29, 2025 as part of The Third Edict (0.3.0)"
+    },
+    {
+     "source_id": "src_poe2wiki_act",
+     "locator": "Version history 0.3.0"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_geonor_seizes_seed",
+   "name": "Geonor seizes the Seed from the Hooded One",
+   "aliases": [],
+   "type": "event",
+   "summary": "Opening cinematic: Count Geonor impales the Hooded One with a runic sword, takes the sphere holding the Seed of Corruption and shouts 'Bind him!'; Countess later reveals she was behind him.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act1"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "Prelude: Count Geonor"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_a4_defeat_torvian",
+   "name": "Exile defeats Torvian",
+   "aliases": [],
+   "type": "event",
+   "summary": "Act 4: the Exile defeats Torvian, Hand of the Saviour on Arastas.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Defeat Torvian, Hand of the Saviour"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_a4_defeat_benedictus",
+   "name": "Exile defeats Benedictus",
+   "aliases": [],
+   "type": "event",
+   "summary": "Act 4: after the Countess flees to Oriath, the Exile defeats Benedictus in the Excavation; Kanu then names Oriath and is killed by Tavakai.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Defeat Benedictus"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_a4_reveal_third_edict",
+   "name": "The Weapon is reforged; Third Edict revealed",
+   "aliases": [],
+   "type": "event",
+   "summary": "The Hooded One reforges the Weapon in the Excavated Site; Tavakai seizes it. Back in Kingsmarch the Hooded One reads the inscription: 'The instrument of the Third Edict.'",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Witness the Hooded One reforge the Weapon; Return to Kingsmarch"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_a4_precursor_script_memory",
+   "name": "Hooded One recalls Precursor script",
+   "aliases": [],
+   "type": "event",
+   "summary": "Weapon pieces carry Precursor writing the Hooded One partly recognises from a mortal childhood: a book in a woman's lap, life 'somewhere else' with stone, metal and glass before being sent to the Azmeri with his brother and sister.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Witness The Hooded One (first and second pieces)"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_interlude_siege_of_oriath",
+   "name": "Siege of Oriath quest (Act 4 finale)",
+   "aliases": [],
+   "type": "event",
+   "summary": "Act 4 quest unlocked after the three Interludes: the Karui, Ezomytes, Maraketh and Vaal are united against the Twilight Order, but the attempt to sail to Oriath ends instead at the Ziggurat Refuge.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_siege_of_oriath",
+     "locator": "Walkthrough"
+    },
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "Quest Complete: 'If we do manage to stop the Twilight Order and slay the Beast...'"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_epilogue_legacy_of_precursors",
+   "name": "Legacy of the Precursors (Epilogue quest)",
+   "aliases": [],
+   "type": "event",
+   "summary": "0.5.0 endgame quest: the Hooded One lies in corruption-induced sleep; Doryani leads the hunt through Enigma Chambers, Arbiter of Ash, Fourth Edict, Origin Tower, and the Arbiter of Divinity, ending 'Wraeclast is now safe from the threat of the First Edict.'",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Quest log steps 1-147, Quest Complete"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_defeat_arbiter_of_ash",
+   "name": "Arbiter of Ash defeated; Flame Seed stolen",
+   "aliases": [],
+   "type": "event",
+   "summary": "Precursor guardian of the Flame Seed falls in the Burning Monolith arena; a wyrm-riding figure (Tecrod) takes the Flame Seed, saying 'This power serves a new master...'.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "step 101"
+    },
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_defeat_arbiter_of_divinity",
+   "name": "Arbiter of Divinity destroys Tecrod; First Edict averted",
+   "aliases": [],
+   "type": "event",
+   "summary": "In the Origin Tower the Exile places the Origin Core; Tecrod's wyrm incapacitates the Exile and Tecrod exults 'With this, the Master shall know unending power!'; the Arbiter of Divinity destroys Tecrod's body ('Your kind shall never ordain the First Edict!') and is then fought by the Exile (quest step 141).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "steps 139-141, Quest Complete"
+    }
+   ]
+  },
+  {
+   "id": "concept_martyr_of_first_edict",
+   "name": "Martyr of the First Edict (Void league leaderboard)",
+   "aliases": [],
+   "type": "concept",
+   "summary": "Rise of the Abyssal mechanic: once per league a level-100 character can be sacrificed at the Site of the Chosen, sending it to the Void league and listing it as the 'Martyr of the First Edict' on the leaderboard. Meta/league flavour; no source explains the naming.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "poe2_abyss"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_rise_of_the_abyssal_league",
+     "locator": "Site of the Chosen paragraph"
+    },
+    {
+     "source_id": "src_poe2wiki_league",
+     "locator": "paragraph: 'listed as the Martyr of the First Edict on the leaderboard'"
+    }
+   ]
+  },
+  {
+   "id": "char_the_arbiter_of_ash",
+   "name": "The Arbiter of Ash",
+   "aliases": [
+    "Arbiter of Ash",
+    "Guardian of the Flame Seed"
+   ],
+   "type": "character",
+   "subtype": "precursor_guardian_boss",
+   "summary": "Precursor-created guardian of the Flame Seed and pinnacle boss of the Burning Monolith. After he falls a wyrm-riding figure (Tecrod) takes the Flame Seed; the Fourth Edict is investigated next. Little is known about him.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Precursor creation; fought in Epilogue (0.5.0)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursors section: 'created the Arbiter of Ash (PoE 2) to guard the Flame Seed (PoE 2)'; 'Little is known about the Arbiter and the Flame Seed'"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "step 101 Defeat the Arbiter of Ash"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "id": "e_text_edict_first__part_of__concept_the_edicts",
+   "source": "text_edict_first",
+   "target": "concept_the_edicts",
+   "relation": "part_of",
+   "description": "First of the numbered Edicts.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Quest Complete"
+    }
+   ]
+  },
+  {
+   "id": "e_text_edict_second__part_of__concept_the_edicts",
+   "source": "text_edict_second",
+   "target": "concept_the_edicts",
+   "relation": "part_of",
+   "description": "Second Edict belongs to the numbered Precursor edicts.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "Edicts depicted as murals"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Return to Kingsmarch"
+    }
+   ]
+  },
+  {
+   "id": "e_text_edict_third__part_of__concept_the_edicts",
+   "source": "text_edict_third",
+   "target": "concept_the_edicts",
+   "relation": "part_of",
+   "description": "Third Edict belongs to the numbered Precursor edicts.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "Edicts depicted as murals"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Return to Kingsmarch"
+    }
+   ]
+  },
+  {
+   "id": "e_text_edict_fourth__part_of__concept_the_edicts",
+   "source": "text_edict_fourth",
+   "target": "concept_the_edicts",
+   "relation": "part_of",
+   "description": "Fourth Edict belongs to the numbered Precursor edicts.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "step 102"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_precursors__created__concept_the_edicts",
+   "source": "faction_precursors",
+   "target": "concept_the_edicts",
+   "relation": "created",
+   "description": "Precursors painted/inscribed the Edicts (murals describing the Beast and how to contain it).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "origins paragraph"
+    }
+   ]
+  },
+  {
+   "id": "e_text_edict_third__mentions__artifact_precursor_weapon",
+   "source": "text_edict_third",
+   "target": "artifact_precursor_weapon",
+   "relation": "mentions",
+   "description": "Inscription calls the Weapon 'The instrument of the Third Edict'.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Return to Kingsmarch"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_a4_reveal_third_edict__reveals__text_edict_third",
+   "source": "event_poe2_a4_reveal_third_edict",
+   "target": "text_edict_third",
+   "relation": "reveals",
+   "description": "The reforged Weapon's inscription reveals the Third Edict.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Return to Kingsmarch"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_seed_of_corruption__associated_with__text_edict_second",
+   "source": "artifact_seed_of_corruption",
+   "target": "text_edict_second",
+   "relation": "associated_with",
+   "description": "Doryani speculates the Seed was the instrument of a Second Edict (in-world guess, unconfirmed).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Return to Kingsmarch: Doryani"
+    }
+   ]
+  },
+  {
+   "id": "e_text_edict_fourth__causes__event_winter_of_the_world",
+   "source": "text_edict_fourth",
+   "target": "event_winter_of_the_world",
+   "relation": "causes",
+   "description": "PoE1 wiki: Great Fire/Winter of the World 'likely caused by the Fourth Edict', a Precursor contingency to purge Wraeclast in flames.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_ezomytes",
+     "locator": "The Great Fire"
+    }
+   ]
+  },
+  {
+   "id": "e_text_edict_fourth__associated_with__artifact_flame_seed",
+   "source": "text_edict_fourth",
+   "target": "artifact_flame_seed",
+   "relation": "associated_with",
+   "description": "Fourth Edict investigated right after the Flame Seed's guardian falls; relation inferred from quest order and fan reading (unconfirmed).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "community_theory",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "steps 101-102"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Arbiter of Ash guards the Flame Seed"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_epilogue_legacy_of_precursors__reveals__text_edict_fourth",
+   "source": "event_poe2_epilogue_legacy_of_precursors",
+   "target": "text_edict_fourth",
+   "relation": "reveals",
+   "description": "Quest step 'Investigate the Fourth Edict' at the Burning Monolith.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "step 102"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_epilogue_legacy_of_precursors__reveals__text_edict_first",
+   "source": "event_poe2_epilogue_legacy_of_precursors",
+   "target": "text_edict_first",
+   "relation": "reveals",
+   "description": "Quest ends with Wraeclast safe from the First Edict.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Quest Complete"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_arbiter_of_divinity__opposes__text_edict_first",
+   "source": "char_the_arbiter_of_divinity",
+   "target": "text_edict_first",
+   "relation": "opposes",
+   "description": "Declares Tecrod's kind 'shall never ordain the First Edict'.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_char_tecrod__seeks__text_edict_first",
+   "source": "char_tecrod",
+   "target": "text_edict_first",
+   "relation": "seeks",
+   "description": "Tecrod hunts for the Edicts (Tecrod page); the Arbiter's line 'Your kind shall never ordain the First Edict' implies he sought to ordain the First (inference).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "poe2_abyss"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore: 'hunting for the Edicts'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_arbiter_of_divinity__kills__char_tecrod",
+   "source": "char_the_arbiter_of_divinity",
+   "target": "char_tecrod",
+   "relation": "kills",
+   "description": "Destroys Tecrod's body (he had previously returned after being destroyed by the other Lich Lords).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_char_tecrod__associated_with__loc_the_origin_tower",
+   "source": "char_tecrod",
+   "target": "loc_the_origin_tower",
+   "relation": "associated_with",
+   "description": "Appears at the Origin Tower when the Exile places the Origin Core and is destroyed there.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_char_tecrod__possesses__artifact_flame_seed",
+   "source": "char_tecrod",
+   "target": "artifact_flame_seed",
+   "relation": "possesses",
+   "description": "A wyrm rider steals the Flame Seed; revealed to be Tecrod.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_defeat_arbiter_of_ash__occurs_in__loc_the_burning_monolith",
+   "source": "event_poe2_defeat_arbiter_of_ash",
+   "target": "loc_the_burning_monolith",
+   "relation": "occurs_in",
+   "description": "Arena at the end of the Burning Monolith.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "steps 100-101"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_defeat_arbiter_of_divinity__occurs_in__loc_the_origin_tower",
+   "source": "event_poe2_defeat_arbiter_of_divinity",
+   "target": "loc_the_origin_tower",
+   "relation": "occurs_in",
+   "description": "Top of the tower.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "steps 139-141"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_defeat_arbiter_of_ash__precedes__event_poe2_defeat_arbiter_of_divinity",
+   "source": "event_poe2_defeat_arbiter_of_ash",
+   "target": "event_poe2_defeat_arbiter_of_divinity",
+   "relation": "precedes",
+   "description": "Arbiter of Ash precedes Fourth Edict, Origin Tower and Arbiter of Divinity in the quest.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "steps 101-141"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_defeat_arbiter_of_ash__leads_to__event_poe2_defeat_arbiter_of_divinity",
+   "source": "event_poe2_defeat_arbiter_of_ash",
+   "target": "event_poe2_defeat_arbiter_of_divinity",
+   "relation": "leads_to",
+   "description": "Flame Seed theft leads to Origin Tower finale.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_defeat_arbiter_of_ash",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_defeat_arbiter_of_ash",
+   "relation": "participates_in",
+   "description": "Exile takes part.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_defeat_arbiter_of_divinity",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_defeat_arbiter_of_divinity",
+   "relation": "participates_in",
+   "description": "Exile takes part.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_epilogue_legacy_of_precursors",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_epilogue_legacy_of_precursors",
+   "relation": "participates_in",
+   "description": "Exile takes part.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_the_arbiter_of_divinity",
+   "source": "char_exile_poe2",
+   "target": "char_the_arbiter_of_divinity",
+   "relation": "defeats",
+   "description": "Exile defeats the Arbiter of Divinity in the Origin Tower.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "step 141"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_the_arbiter_of_ash",
+   "source": "char_exile_poe2",
+   "target": "char_the_arbiter_of_ash",
+   "relation": "defeats",
+   "description": "Exile defeats the Arbiter of Ash.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "step 101"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_count_geonor",
+   "source": "char_exile_poe2",
+   "target": "char_count_geonor",
+   "relation": "defeats",
+   "description": "Exile fights Count Geonor again in the Enigma Chambers of the Epilogue.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "steps 71, 74, 86"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_countess__leads__faction_twilight_order",
+   "source": "char_the_countess",
+   "target": "faction_twilight_order",
+   "relation": "leads",
+   "description": "Wiki: 'leader of the Twilight Order'.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_countess",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_saviour__member_of__faction_twilight_order",
+   "source": "char_the_saviour",
+   "target": "faction_twilight_order",
+   "relation": "member_of",
+   "description": "Listed on the Twilight Order member list.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members"
+    }
+   ]
+  },
+  {
+   "id": "e_char_benedictus__member_of__faction_twilight_order",
+   "source": "char_benedictus",
+   "target": "faction_twilight_order",
+   "relation": "member_of",
+   "description": "Listed on the Twilight Order member list.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members"
+    }
+   ]
+  },
+  {
+   "id": "e_char_torvian__member_of__faction_twilight_order",
+   "source": "char_torvian",
+   "target": "faction_twilight_order",
+   "relation": "member_of",
+   "description": "Listed on the Twilight Order member list.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members"
+    }
+   ]
+  },
+  {
+   "id": "e_char_servitor_marius__member_of__faction_twilight_order",
+   "source": "char_servitor_marius",
+   "target": "faction_twilight_order",
+   "relation": "member_of",
+   "description": "Listed on the Twilight Order member list.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members"
+    }
+   ]
+  },
+  {
+   "id": "e_char_missionary_lorandis__member_of__faction_twilight_order",
+   "source": "char_missionary_lorandis",
+   "target": "faction_twilight_order",
+   "relation": "member_of",
+   "description": "Listed on the Twilight Order member list.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members"
+    }
+   ]
+  },
+  {
+   "id": "e_char_vel_anxa__member_of__faction_twilight_order",
+   "source": "char_vel_anxa",
+   "target": "faction_twilight_order",
+   "relation": "member_of",
+   "description": "Listed on the Twilight Order member list.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members"
+    }
+   ]
+  },
+  {
+   "id": "e_char_herius__member_of__faction_twilight_order",
+   "source": "char_herius",
+   "target": "faction_twilight_order",
+   "relation": "member_of",
+   "description": "Listed on the Twilight Order member list.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members"
+    }
+   ]
+  },
+  {
+   "id": "e_char_cnaeus__member_of__faction_twilight_order",
+   "source": "char_cnaeus",
+   "target": "faction_twilight_order",
+   "relation": "member_of",
+   "description": "Listed on the Twilight Order member list.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kanu__member_of__faction_twilight_order",
+   "source": "char_kanu",
+   "target": "faction_twilight_order",
+   "relation": "member_of",
+   "description": "Listed on the wiki member list; actually Makoru's First Mate recruited/seduced by Benedictus.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "Members: Kanu"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Benedictus: 'Come, Kanu. Friend!'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_benedictus__serves__char_the_countess",
+   "source": "char_benedictus",
+   "target": "char_the_countess",
+   "relation": "serves",
+   "description": "Acts on the Countess's order: 'First Herald... deal with them.'",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Confront Kanu and the First Herald"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_countess__parent_of__char_lumerius",
+   "source": "char_the_countess",
+   "target": "char_lumerius",
+   "relation": "parent_of",
+   "description": "Lumerius is her son.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_countess",
+     "locator": "paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_countess__allies_with__char_count_geonor",
+   "source": "char_the_countess",
+   "target": "char_count_geonor",
+   "relation": "allies_with",
+   "description": "Collusion with Geonor, abandoned when useless; Geonor's journal shows her promises.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_countess",
+     "locator": "paragraph 2"
+    },
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "Geonor's Journal"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_countess__allies_with__char_jamanra",
+   "source": "char_the_countess",
+   "target": "char_jamanra",
+   "relation": "allies_with",
+   "description": "Colludes with Jamanra, resurrected by her; abandoned when Dreadnought is cut.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_countess",
+     "locator": "paragraph 2"
+    },
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "Dreadnought fight"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_countess__resurrects__char_jamanra",
+   "source": "char_the_countess",
+   "target": "char_jamanra",
+   "relation": "resurrects",
+   "description": "Promised and delivered Jamanra's resurrection through corruption to win the Faridun.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_faridun",
+     "locator": "paragraphs 13-15"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_countess__seeks__artifact_seed_of_corruption",
+   "source": "char_the_countess",
+   "target": "artifact_seed_of_corruption",
+   "relation": "seeks",
+   "description": "Escapes Ogham with the growing Beast seed and carries it onward.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_mad_wolf_of_ogham",
+     "locator": "Oriana has escaped with the Beast"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_countess__opposes__char_the_hooded_one",
+   "source": "char_the_countess",
+   "target": "char_the_hooded_one",
+   "relation": "opposes",
+   "description": "'The fool under the Hooded One's sway. Do you even know what he is?'",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "Countess dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_twilight_order__opposes__char_the_hooded_one",
+   "source": "faction_twilight_order",
+   "target": "char_the_hooded_one",
+   "relation": "opposes",
+   "description": "Order seeks to end gods' rule; Sin is the god-creator of the Beast.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "Hooded One: stop the Twilight Order"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__opposes__faction_twilight_order",
+   "source": "char_exile_poe2",
+   "target": "faction_twilight_order",
+   "relation": "opposes",
+   "description": "Exile and allies fight the Order across Acts 1-4.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Confront Kanu"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_twilight_order__seeks__artifact_precursor_weapon",
+   "source": "faction_twilight_order",
+   "target": "artifact_precursor_weapon",
+   "relation": "seeks",
+   "description": "Benedictus: 'You will hand over what you have found... Give us the pieces.'",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Investigate the commotion"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_twilight_order__seeks__artifact_seed_of_corruption",
+   "source": "faction_twilight_order",
+   "target": "artifact_seed_of_corruption",
+   "relation": "seeks",
+   "description": "Plot to create a new Beast and start another Cataclysm.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_countess",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_twilight_order__located_in__loc_oriath",
+   "source": "faction_twilight_order",
+   "target": "loc_oriath",
+   "relation": "located_in",
+   "description": "Rebuilt Oriath's heart; Beast held in Oriath (Kanu).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poe2wiki_act_5",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_twilight_order__introduced_in__act_poe2_act4",
+   "source": "faction_twilight_order",
+   "target": "act_poe2_act4",
+   "relation": "introduced_in",
+   "description": "Named and fought in Act 4 (Countess speech).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Confront Kanu and the First Herald"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_countess__introduced_in__act_poe2_act1",
+   "source": "char_the_countess",
+   "target": "act_poe2_act1",
+   "relation": "introduced_in",
+   "description": "Appears at Ogham Manor.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_countess",
+     "locator": "image caption Act 1"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_twilight_order__participates_in__event_twilight_order_rebuilds_oriath",
+   "source": "faction_twilight_order",
+   "target": "event_twilight_order_rebuilds_oriath",
+   "relation": "participates_in",
+   "description": "Rebuilds Oriath.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "interlude_between_games",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_event_twilight_order_rebuilds_oriath__occurs_in__loc_oriath",
+   "source": "event_twilight_order_rebuilds_oriath",
+   "target": "loc_oriath",
+   "relation": "occurs_in",
+   "description": "In Oriath.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "interlude_between_games",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act_5",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_event_oriath_destroyed_by_sirus__precedes__event_twilight_order_rebuilds_oriath",
+   "source": "event_oriath_destroyed_by_sirus",
+   "target": "event_twilight_order_rebuilds_oriath",
+   "relation": "precedes",
+   "description": "PoE2 wiki: Oriath rebuilt in secret after PoE1 destruction.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "interlude_between_games",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act_5",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "Conquerors paragraph"
+    }
+   ]
+  },
+  {
+   "id": "e_event_oriath_destroyed_by_sirus__occurs_in__loc_oriath",
+   "source": "event_oriath_destroyed_by_sirus",
+   "target": "loc_oriath",
+   "relation": "occurs_in",
+   "description": "Sirus destroys Oriath.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "conquerors"
+   ],
+   "era": "poe1_atlas",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "Conquerors paragraph"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_templar__associated_with__faction_twilight_order",
+   "source": "faction_templar",
+   "target": "faction_twilight_order",
+   "relation": "associated_with",
+   "description": "Both are Oriath-based orders, but no source states lineage; the Order opposes gods whereas Templars venerated Innocence. Precursor relation speculative.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "post_cataclysm",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "Lore"
+    },
+    {
+     "source_id": "src_poe2wiki_the_twilight_order",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_templar__associated_with__loc_forbidden_sanctum",
+   "source": "faction_templar",
+   "target": "loc_forbidden_sanctum",
+   "relation": "associated_with",
+   "description": "Sanctum catacombs under the Fellshrine Ruins are Templar; unrelated to the Twilight Order in any source.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sanctum"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "Sanctum paragraph"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__same_entity_as__char_the_hooded_one",
+   "source": "deity_sin",
+   "target": "char_the_hooded_one",
+   "relation": "same_entity_as",
+   "description": "Revealed in Act 2.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "Shrine dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_hooded_one__guides__char_exile_poe2",
+   "source": "char_the_hooded_one",
+   "target": "char_exile_poe2",
+   "relation": "guides",
+   "description": "The Hooded One guides the Exile.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "Quest"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_hooded_one__created__artifact_seed_of_corruption",
+   "source": "char_the_hooded_one",
+   "target": "artifact_seed_of_corruption",
+   "relation": "created",
+   "description": "Sin created the Beast with the Seed.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "'It was I who created the Beast'"
+    },
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "Sin paragraph"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_hooded_one__wields__artifact_precursor_weapon",
+   "source": "char_the_hooded_one",
+   "target": "artifact_precursor_weapon",
+   "relation": "wields",
+   "description": "Reforges and uses it to cure Tavakai.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Witness Sin cure Tavakai"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__seeks__artifact_precursor_weapon",
+   "source": "char_doryani",
+   "target": "artifact_precursor_weapon",
+   "relation": "seeks",
+   "description": "Doryani sends Exile to find the pieces and translates the writing.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Talk to Doryani"
+    }
+   ]
+  },
+  {
+   "id": "e_char_tavakai__possesses__artifact_precursor_weapon",
+   "source": "char_tavakai",
+   "target": "artifact_precursor_weapon",
+   "relation": "possesses",
+   "description": "Steals it for the Karui, falls to fever.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Witness the Hooded One reforge the Weapon"
+    }
+   ]
+  },
+  {
+   "id": "e_char_tavakai__kills__char_kanu",
+   "source": "char_tavakai",
+   "target": "char_kanu",
+   "relation": "kills",
+   "description": "Kanu is struck down by Tavakai (implied).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Defeat Benedictus"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kanu__betrays__char_makoru",
+   "source": "char_kanu",
+   "target": "char_makoru",
+   "relation": "betrays",
+   "description": "Sides with Order; Makoru: 'Treason is unforgivable.'",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "kingsmarch"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Confront Kanu"
+    }
+   ]
+  },
+  {
+   "id": "e_char_makoru__descendant_of__char_tavakai",
+   "source": "char_makoru",
+   "target": "char_tavakai",
+   "relation": "descendant_of",
+   "description": "Makoru is Tavakai's daughter ('Daughter!').",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Defeat Tavakai"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_torvian",
+   "source": "char_exile_poe2",
+   "target": "char_torvian",
+   "relation": "defeats",
+   "description": "Exile defeats Torvian.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Defeat Torvian"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_benedictus",
+   "source": "char_exile_poe2",
+   "target": "char_benedictus",
+   "relation": "defeats",
+   "description": "Exile defeats Benedictus.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Defeat Benedictus"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_a4_defeat_torvian",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_a4_defeat_torvian",
+   "relation": "participates_in",
+   "description": "Exile participates.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_a4_defeat_benedictus",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_a4_defeat_benedictus",
+   "relation": "participates_in",
+   "description": "Exile participates.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_a4_reveal_third_edict",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_a4_reveal_third_edict",
+   "relation": "participates_in",
+   "description": "Exile participates.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_a4_precursor_script_memory",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_a4_precursor_script_memory",
+   "relation": "participates_in",
+   "description": "Exile participates.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_geonor_seizes_seed",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_geonor_seizes_seed",
+   "relation": "participates_in",
+   "description": "Exile participates.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "Prelude"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_interlude_siege_of_oriath",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_interlude_siege_of_oriath",
+   "relation": "participates_in",
+   "description": "Exile participates.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_siege_of_oriath",
+     "locator": "Walkthrough"
+    }
+   ]
+  },
+  {
+   "id": "e_char_torvian__participates_in__event_poe2_a4_defeat_torvian",
+   "source": "char_torvian",
+   "target": "event_poe2_a4_defeat_torvian",
+   "relation": "participates_in",
+   "description": "Killed.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Defeat Torvian"
+    }
+   ]
+  },
+  {
+   "id": "e_char_benedictus__participates_in__event_poe2_a4_defeat_benedictus",
+   "source": "char_benedictus",
+   "target": "event_poe2_a4_defeat_benedictus",
+   "relation": "participates_in",
+   "description": "Killed.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Defeat Benedictus"
+    }
+   ]
+  },
+  {
+   "id": "e_char_torvian__located_in__loc_arastas",
+   "source": "char_torvian",
+   "target": "loc_arastas",
+   "relation": "located_in",
+   "description": "Boss of Arastas.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "Arastas"
+    }
+   ]
+  },
+  {
+   "id": "e_char_benedictus__located_in__loc_the_excavation",
+   "source": "char_benedictus",
+   "target": "loc_the_excavation",
+   "relation": "located_in",
+   "description": "Boss of the Excavation.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "The Excavation"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_the_excavation__part_of__loc_arastas",
+   "source": "loc_the_excavation",
+   "target": "loc_arastas",
+   "relation": "part_of",
+   "description": "Excavation reached from Arastas.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "Progression table"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_a4_defeat_torvian__precedes__event_poe2_a4_defeat_benedictus",
+   "source": "event_poe2_a4_defeat_torvian",
+   "target": "event_poe2_a4_defeat_benedictus",
+   "relation": "precedes",
+   "description": "Torvian first, then Benedictus.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Quest log order"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_a4_defeat_benedictus__precedes__event_poe2_a4_reveal_third_edict",
+   "source": "event_poe2_a4_defeat_benedictus",
+   "target": "event_poe2_a4_reveal_third_edict",
+   "relation": "precedes",
+   "description": "Reforging follows.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Quest log order"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_a4_precursor_script_memory__precedes__event_poe2_a4_reveal_third_edict",
+   "source": "event_poe2_a4_precursor_script_memory",
+   "target": "event_poe2_a4_reveal_third_edict",
+   "relation": "precedes",
+   "description": "Memory precedes reveal.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Quest log order"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_a4_reveal_third_edict__occurs_in__loc_the_excavation",
+   "source": "event_poe2_a4_reveal_third_edict",
+   "target": "loc_the_excavation",
+   "relation": "occurs_in",
+   "description": "Excavated Site murals.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Enter the Excavated Site"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_a4_reveal_third_edict__reveals__concept_the_edicts",
+   "source": "event_poe2_a4_reveal_third_edict",
+   "target": "concept_the_edicts",
+   "relation": "reveals",
+   "description": "Murals in the Excavated Site depict the Weapon and the Beast; the Hooded One calls the Weapon 'that third mural'.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Enter the Excavated Site"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_a4_defeat_benedictus__reveals__event_twilight_order_rebuilds_oriath",
+   "source": "event_poe2_a4_defeat_benedictus",
+   "target": "event_twilight_order_rebuilds_oriath",
+   "relation": "reveals",
+   "description": "Kanu reveals the Beast is in Oriath.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Kanu: 'Oriath!'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_hooded_one__participates_in__event_poe2_a4_precursor_script_memory",
+   "source": "char_the_hooded_one",
+   "target": "event_poe2_a4_precursor_script_memory",
+   "relation": "participates_in",
+   "description": "The Hooded One recalls.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Witness The Hooded One"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_hooded_one__participates_in__event_poe2_a4_reveal_third_edict",
+   "source": "char_the_hooded_one",
+   "target": "event_poe2_a4_reveal_third_edict",
+   "relation": "participates_in",
+   "description": "Forges Weapon and reads inscription.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Return to Kingsmarch"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__witnesses__event_poe2_a4_reveal_third_edict",
+   "source": "char_doryani",
+   "target": "event_poe2_a4_reveal_third_edict",
+   "relation": "witnesses",
+   "description": "Questions the meaning of Edicts.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Return to Kingsmarch"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_a4_defeat_benedictus__precedes__event_poe2_interlude_siege_of_oriath",
+   "source": "event_poe2_a4_defeat_benedictus",
+   "target": "event_poe2_interlude_siege_of_oriath",
+   "relation": "precedes",
+   "description": "Plan to assault Oriath.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Quest Complete"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_interlude_siege_of_oriath__opposes__faction_twilight_order",
+   "source": "event_poe2_interlude_siege_of_oriath",
+   "target": "faction_twilight_order",
+   "relation": "opposes",
+   "description": "Assault aims at the Order and Beast.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "Hooded One"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_interlude_siege_of_oriath__occurs_in__loc_oriath",
+   "source": "event_poe2_interlude_siege_of_oriath",
+   "target": "loc_oriath",
+   "relation": "occurs_in",
+   "description": "Target is Oriath.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_siege_of_oriath",
+     "locator": "Travel to Oriath"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_geonor_seizes_seed__leads_to__event_poe2_a4_reveal_third_edict",
+   "source": "event_poe2_geonor_seizes_seed",
+   "target": "event_poe2_a4_reveal_third_edict",
+   "relation": "leads_to",
+   "description": "Weapon becomes needed to counter Seed.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "twilight_order"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+     "locator": "Sin's plea"
+    }
+   ]
+  },
+  {
+   "id": "e_char_count_geonor__created__text_geonor_edicts",
+   "source": "char_count_geonor",
+   "target": "text_geonor_edicts",
+   "relation": "created",
+   "description": "Issued decrees.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_yt_4UKJmVK7Iv4",
+     "locator": "[0:25]-[0:41]"
+    }
+   ]
+  },
+  {
+   "id": "e_text_geonor_edicts__occurs_in__loc_ogham_manor",
+   "source": "text_geonor_edicts",
+   "target": "loc_ogham_manor",
+   "relation": "occurs_in",
+   "description": "Bodies thrown into pit beneath manor.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_yt_4UKJmVK7Iv4",
+     "locator": "[4:25]-[4:36]"
+    }
+   ]
+  },
+  {
+   "id": "e_text_geonors_journal__mentions__char_the_countess",
+   "source": "text_geonors_journal",
+   "target": "char_the_countess",
+   "relation": "mentions",
+   "description": "Names Oriana.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "Geonor's Journal"
+    }
+   ]
+  },
+  {
+   "id": "e_char_count_geonor__participates_in__event_poe2_geonor_seizes_seed",
+   "source": "char_count_geonor",
+   "target": "event_poe2_geonor_seizes_seed",
+   "relation": "participates_in",
+   "description": "Seizes the Seed.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "Prelude"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_hooded_one__participates_in__event_poe2_geonor_seizes_seed",
+   "source": "char_the_hooded_one",
+   "target": "event_poe2_geonor_seizes_seed",
+   "relation": "participates_in",
+   "description": "Captured.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "Prelude"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_twilight_order__introduced_in__league_poe2_the_third_edict",
+   "source": "faction_twilight_order",
+   "target": "league_poe2_the_third_edict",
+   "relation": "introduced_in",
+   "description": "Act 4 content.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act",
+     "locator": "0.3.0"
+    }
+   ]
+  },
+  {
+   "id": "e_text_edict_third__introduced_in__league_poe2_the_third_edict",
+   "source": "text_edict_third",
+   "target": "league_poe2_the_third_edict",
+   "relation": "introduced_in",
+   "description": "Update named after it.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act",
+     "locator": "0.3.0"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_martyr_of_first_edict__associated_with__text_edict_first",
+   "source": "concept_martyr_of_first_edict",
+   "target": "text_edict_first",
+   "relation": "associated_with",
+   "description": "Leaderboard title.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "poe2_abyss"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_rise_of_the_abyssal_league",
+     "locator": "Site of the Chosen"
+    }
+   ]
+  },
+  {
+   "id": "e_char_tecrod__associated_with__deity_kulemak",
+   "source": "char_tecrod",
+   "target": "deity_kulemak",
+   "relation": "associated_with",
+   "description": "Lich Lord; others serve Kulemak, Tecrod independent.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "poe2_abyss"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_char_sirus__destroyed__loc_oriath",
+   "source": "char_sirus",
+   "target": "loc_oriath",
+   "relation": "destroyed",
+   "description": "Destroys Oriath at the end of Conquerors of the Atlas.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "conquerors"
+   ],
+   "era": "poe1_atlas",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "Conquerors paragraph"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_precursors__created__char_the_arbiter_of_ash",
+   "source": "faction_precursors",
+   "target": "char_the_arbiter_of_ash",
+   "relation": "created",
+   "description": "Precursors made the Arbiter to guard the Flame Seed.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursors section"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_arbiter_of_ash__associated_with__artifact_flame_seed",
+   "source": "char_the_arbiter_of_ash",
+   "target": "artifact_flame_seed",
+   "relation": "associated_with",
+   "description": "Guardian of the Flame Seed; Flame Seed is taken by Tecrod after his defeat.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursors section"
+    },
+    {
+     "source_id": "src_poe2wiki_tecrod",
+     "locator": "Lore"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3041 @@
+{
+  "domain": "gap_leagues_thin_storylines",
+  "sources": [
+    {
+      "id": "src_poewiki_kurai_the_administrator",
+      "title": "Kurai, the Administrator - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Kurai,_the_Administrator",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_rogue_harbour_quest",
+      "title": "The Rogue Harbour (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Rogue_Harbour_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_cardinal_sanctus_vox",
+      "title": "Cardinal Sanctus Vox - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Cardinal_Sanctus_Vox",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_ambush_league",
+      "title": "ambush league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/ambush_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_invasion_league",
+      "title": "invasion league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/invasion_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_rampage_league",
+      "title": "rampage league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/rampage_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_onslaught_league",
+      "title": "onslaught league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/onslaught_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_domination_league",
+      "title": "domination league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/domination_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_nemesis_league",
+      "title": "nemesis league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/nemesis_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_bloodlines_league",
+      "title": "bloodlines league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/bloodlines_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_tempest_league",
+      "title": "tempest league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/tempest_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_anarchy_league",
+      "title": "anarchy league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/anarchy_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_torment_league",
+      "title": "torment league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/torment_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_essence_league",
+      "title": "essence league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/essence_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_archnemesis_league",
+      "title": "Archnemesis league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Archnemesis_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_sentinel_league",
+      "title": "Sentinel league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Sentinel_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_prophecy_league",
+      "title": "prophecy league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/prophecy_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_harbinger_league",
+      "title": "harbinger league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/harbinger_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_warbands_league",
+      "title": "warbands league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/warbands_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_order_of_the_djinn",
+      "title": "Order of the Djinn - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Order_of_the_Djinn",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_legacy_of_phrecia",
+      "title": "Legacy of Phrecia - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Legacy_of_Phrecia",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_settlers_league",
+      "title": "Settlers league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Settlers_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_einhar_s_hunt",
+      "title": "Einhar s Hunt - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Einhar%27s_Hunt",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_ritual_league",
+      "title": "Ritual league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Ritual_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_harvest_league",
+      "title": "Harvest league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Harvest_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_dusk_harbinger_of_lunaris",
+      "title": "Dusk Harbinger of Lunaris - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Dusk,_Harbinger_of_Lunaris",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_dawn_harbinger_of_solaris",
+      "title": "Dawn Harbinger of Solaris - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Dawn,_Harbinger_of_Solaris",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_affliction_league",
+      "title": "Affliction league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Affliction_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_oshabi",
+      "title": "Oshabi - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Oshabi",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_runes_of_aldur_league",
+      "title": "Runes of Aldur league - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Runes_of_Aldur_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_ggg_content_update_0_3_0",
+      "title": "Content Update 0.3.0 - Path of Exile 2: The Third Edict (patch notes)",
+      "url": "https://www.pathofexile.com/forum/view-thread/3826682",
+      "type": "patch_notes",
+      "author_or_channel": "Grinding Gear Games (official)",
+      "accessed": "2026-11-06",
+      "reliability": "primary"
+    },
+    {
+      "id": "src_poe2wiki_rise_of_the_abyssal_league",
+      "title": "Rise of the Abyssal league - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Rise_of_the_Abyssal_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_vic_vox",
+      "title": "Vic Vox - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Vic_Vox",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_vinny_vox",
+      "title": "Vinny Vox - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Vinny_Vox",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_abaxoth_the_end_of_all_that_is",
+      "title": "Abaxoth, the End of All That Is - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Abaxoth,_the_End_of_All_That_Is",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_list_of_warbands_and_tempest_league_challenges",
+      "title": "List of Warbands and Tempest league challenges - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/List_of_Warbands_and_Tempest_league_challenges",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_frozen_hollow",
+      "title": "Frozen Hollow - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Frozen_Hollow",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_harbinger",
+      "title": "Harbinger - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Harbinger",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_sacred_blossom",
+      "title": "Sacred Blossom - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Sacred_Blossom",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_oshabi_avatar_of_the_grove",
+      "title": "Oshabi, Avatar of the Grove - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Oshabi,_Avatar_of_the_Grove",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_king_in_the_mists",
+      "title": "The King in the Mists - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_King_in_the_Mists",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_einhar_s_menagerie",
+      "title": "Einhar's Menagerie - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Einhar%27s_Menagerie",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_einhar_s_bestiary",
+      "title": "Einhar's Bestiary - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Einhar%27s_Bestiary",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "char_vic_vox",
+      "name": "Vic Vox",
+      "aliases": [
+        "Victario Vox"
+      ],
+      "type": "character",
+      "subtype": "heist_boss",
+      "summary": "Victario 'Vic' Vox, one of the two Vox twin bosses of the Heist unique contract 'Contract: The Twins'. Member of the Vox family, descendant of Cardinal Sanctus Vox, named after the poet Victario. After Kurai steals the book 'O' Eternal' for a client he declares war on her, kidnaps and kills her cat Hana, and is killed with his twin by Kurai and the Exile.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.12.4 (introduced to the game)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_vic_vox",
+          "locator": "lead and 'Lore' section"
+        },
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The Negotiation', 'Returned To Rogue Harbour' and 'The Twins' sections"
+        }
+      ]
+    },
+    {
+      "id": "char_vinny_vox",
+      "name": "Vinny Vox",
+      "aliases": [
+        "Vincent Vox"
+      ],
+      "type": "character",
+      "subtype": "heist_boss",
+      "summary": "Vincent 'Vinny' Vox, twin brother of Vic Vox and co-boss of 'Contract: The Twins'. Descendant of Cardinal Sanctus Vox and member of the Vox family; the wiki states the Exile and Kurai kill both twins in the final contract. ",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.12.4 (introduced to the game)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_vinny_vox",
+          "locator": "lead and 'Lore' section"
+        },
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The Twins' section"
+        }
+      ]
+    },
+    {
+      "id": "faction_vox_family",
+      "name": "Vox family",
+      "aliases": [],
+      "type": "faction",
+      "subtype": "criminal_noble_family",
+      "summary": "Oriathan nobility that became a criminal enterprise; the wiki describes the twins Vic and Vinny Vox using coercion, blackmail and violence to hold a place at the centre of Oriath business and social life. Descended from Cardinal Sanctus Vox.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "c. Oriath (ancestor Sanctus Vox)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_vic_vox",
+          "locator": "lead and 'Lore' section"
+        },
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The Vox Twins' section"
+        },
+        {
+          "source_id": "src_poewiki_cardinal_sanctus_vox",
+          "locator": "lead + 'Lore'"
+        }
+      ]
+    },
+    {
+      "id": "artifact_o_eternal",
+      "name": "O' Eternal",
+      "aliases": [],
+      "type": "artifact",
+      "subtype": "book",
+      "summary": "First-edition book written by the Eternal Empire poet Victario. Victario gave a signed copy to Queen Hyrri of Ngamakanui after the battle against General Lioneye; the book later sat in an Oriathan nobleman's vault (the Vox family), was stolen under Kurai's contract 'Hyrri's Gift' for a client, and became the object of the Negotiation and the Vox vendetta.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'Hyrri's Gift' and 'The Negotiation' sections; Lore paragraph"
+        }
+      ]
+    },
+    {
+      "id": "event_kurai_contract_trial_run",
+      "name": "Contract: Trial Run (Rogue Harbour)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Kurai's first job for the Ring in the Rogue Harbour introductory quest: after Kurai hands out the contract the Exile speaks to the rogue Karst, opens a portal to the contract zone via Adiyah, completes the contract and sells the Heist target to Faustus. Kurai is first accessible in Act 6 from patch 3.13.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.12.0 Heist league quest; Kurai from Act 6 (3.13.0)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act6"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_rogue_harbour_quest",
+          "locator": "Walkthrough: 'Take the Contract: Trial Run from Kurai' to 'Sell the Heist target to Faustus'"
+        },
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The First Job' section"
+        }
+      ]
+    },
+    {
+      "id": "event_kurai_contract_hyrris_gift",
+      "name": "Contract: Hyrri's Gift",
+      "aliases": [],
+      "type": "event",
+      "summary": "Kurai's client contract to retrieve 'O' Eternal', the book Victario gifted Queen Hyrri, from an Oriathan nobleman's vault. The Exile completes the theft; Kurai then promises to return the book to Ngamakanui. The theft leads to Vic Vox's grievance against Kurai.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'Hyrri's Gift' section (Kaom/Hyrri background and contract text); Lore paragraph"
+        }
+      ]
+    },
+    {
+      "id": "event_kurai_contract_the_negotiation",
+      "name": "Contract: The Negotiation",
+      "aliases": [],
+      "type": "event",
+      "summary": "Kurai and the Exile travel to meet the Vox twins over the stolen 'O' Eternal. Kurai says the book is no longer in her possession; Vic Vox declares war on her and the meeting ends with the Vox twins at war with Kurai. Hana, Kurai's cat, is taken afterwards.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The Negotiation' section (In-Quest Text) and 'Returned To Rogue Harbour'"
+        }
+      ]
+    },
+    {
+      "id": "event_kurai_contract_the_rescue",
+      "name": "Contract: The Rescue",
+      "aliases": [],
+      "type": "event",
+      "summary": "The Vox twins offer to return Hana and negotiate a truce if Kurai and the Exile meet them in person again. The second meeting ends in hostility (Kurai's counter-proposal is to kill both twins); afterwards Kurai learns the Vox twins killed Hana, and The Boss orders the Vox family dead.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The Rescue' section and 'Return To Rogue Harbour' ('They killed Hana')"
+        },
+        {
+          "source_id": "src_poewiki_vic_vox",
+          "locator": "'Lore': Vic kidnaps and later slaughters Hana"
+        }
+      ]
+    },
+    {
+      "id": "event_kurai_contract_the_twins",
+      "name": "Contract: The Twins",
+      "aliases": [],
+      "type": "event",
+      "summary": "Final contract of Kurai's questline (unique, tradeable, restartable): Kurai and the Exile strike the Vox twins after Ring intelligence that the twins will unite for a celebration, and kill Vic Vox and Vinny Vox at the Mansion. The Boss authorises a bonus for the Exile.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The Twins' sections (Kurai contract four), 'Vic Vox' and 'Vinny Vox' monster boxes"
+        },
+        {
+          "source_id": "src_poewiki_vic_vox",
+          "locator": "monster box (location Mansion; quest Contract: The Twins); lead"
+        }
+      ]
+    },
+    {
+      "id": "concept_tempest",
+      "name": "Tempest",
+      "aliases": [],
+      "type": "concept",
+      "summary": "Tempests are effects introduced by Tempest league that can change monster and player size, cause damage, alter drop rates, or animate weapons that drop; affected areas are shown on the World Screen.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "tempest"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_tempest_league",
+          "locator": "lead: 'This league introduced Tempests'"
+        }
+      ]
+    },
+    {
+      "id": "concept_shrine",
+      "name": "Shrine (Domination)",
+      "aliases": [],
+      "type": "concept",
+      "summary": "Shrines are a mechanic introduced by Domination league (1.0.0); Domination's area modifier allowed shrines to spawn.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "domination"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "1.0.0 (Oct 2013)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_domination_league",
+          "locator": "lead: 'This league introduced shrines'; Modifier section"
+        }
+      ]
+    },
+    {
+      "id": "concept_strongbox",
+      "name": "Strongbox",
+      "aliases": [],
+      "type": "concept",
+      "summary": "Strongboxes are a mechanic introduced by Ambush league (1.1.0, March 2014); every area in Ambush carried the Ambush chests modifier.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "strongbox"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "1.1.0 (March 2014)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_ambush_league",
+          "locator": "lead: 'This league introduced Strongboxes'"
+        }
+      ]
+    },
+    {
+      "id": "concept_nemesis_mod",
+      "name": "Nemesis modifier",
+      "aliases": [],
+      "type": "concept",
+      "summary": "Nemesis modifiers were powerful extra modifiers on every rare monster in Nemesis league (hardcore); the league modifier was \"Rare Monsters each have a Nemesis Mod\".",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "nemesis"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "1.0.0 (Oct 2013)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_nemesis_league",
+          "locator": "lead and 'Modifier' section"
+        }
+      ]
+    },
+    {
+      "id": "concept_bloodline_mod",
+      "name": "Bloodline modifier",
+      "aliases": [],
+      "type": "concept",
+      "summary": "Bloodline modifiers were shared modifiers on each pack of magic monsters in Bloodlines league; they could affect combat while the pack lived and after it died.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "bloodlines"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "1.3.0 (Dec 2014)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_bloodlines_league",
+          "locator": "lead and 'Modifier' section"
+        }
+      ]
+    },
+    {
+      "id": "char_abaxoth",
+      "name": "Abaxoth, the End of All That Is",
+      "aliases": [],
+      "type": "character",
+      "subtype": "beyond_demon",
+      "summary": "Unique Beyond demon that dual-wields two Edges of Madness and uses Ice Spear with Greater Multiple Projectiles, Vaal Storm Call and Summon Skeletons; it was introduced in 1.2.0 with the Beyond demons and removed in 3.19.0, when Beyond demons were replaced by Scourge monsters.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "beyond"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "1.2.0 (Aug 2014) to 3.19.0",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_abaxoth_the_end_of_all_that_is",
+          "locator": "infobox and lead; Version History (1.2.0 introduced, 3.19.0 removed)"
+        },
+        {
+          "source_id": "src_poewiki_rampage_league",
+          "locator": "lead: 'Rampage league ... ran concurrently with Beyond league' (1.2.0)"
+        }
+      ]
+    },
+    {
+      "id": "faction_mutewind",
+      "name": "Mutewind (warband)",
+      "aliases": [
+        "Peak-dwellers"
+      ],
+      "type": "faction",
+      "summary": "One of the three Warbands in Warbands league, alongside Brinerot and Redblades; the wiki calls them the Peak-dwellers. Their outcast Qianga delivered the Starforge to the Watchers of Decay for the Order of the Djinn. Mutewind Warbands also appear as bosses in the Delve map Frozen Hollow.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "warbands"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_list_of_warbands_and_tempest_league_challenges",
+          "locator": "Warbands item list: Mutewind Wildrunner, Mutewind Lynx, Mutewind Seal"
+        },
+        {
+          "source_id": "src_poewiki_order_of_the_djinn",
+          "locator": "Qianga entry: 'a Mutewind warband outcast'; 'The Mutewind|Peak-dwellers'"
+        },
+        {
+          "source_id": "src_poewiki_frozen_hollow",
+          "locator": "Contains Mutewind Warbands as bosses"
+        }
+      ]
+    },
+    {
+      "id": "loc_the_beachhead",
+      "name": "The Beachhead",
+      "aliases": [],
+      "type": "location",
+      "summary": "The Beachhead is a map (several variants, e.g. Red tier and Infused) that holds the Harbinger Portal; defeating the final King Harbinger in any variant drops the unique Harbinger item pieces.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harbinger"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.0.0 (Aug 2017)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_harbinger",
+          "locator": "'Unique pieces' and 'Harbinger scroll' sections; src_poewiki_harbinger_league 'Unique items' section"
+        }
+      ]
+    },
+    {
+      "id": "artifact_sacred_blossom",
+      "name": "Sacred Blossom",
+      "aliases": [],
+      "type": "artifact",
+      "subtype": "map_fragment",
+      "summary": "Map fragment that opens a portal to The Sacred Grove, where Oshabi, Avatar of the Grove can be encountered. Usable once in a personal Map Device. Drops from tier 4 Harvest bosses (Ersi, Janaar, Namharim); the Heart of the Grove atlas passive stopped always dropping it in 3.19.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harvest"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.14.0",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sacred_blossom",
+          "locator": "lead, 'Drop text' and 'Version history' 3.14.0"
+        },
+        {
+          "source_id": "src_poewiki_oshabi_avatar_of_the_grove",
+          "locator": "lead: 'must use a Sacred Blossom in the map device'"
+        }
+      ]
+    },
+    {
+      "id": "artifact_an_audience_with_the_king",
+      "name": "An Audience With The King",
+      "aliases": [],
+      "type": "artifact",
+      "subtype": "map_fragment",
+      "summary": "Map fragment that grants access to The King in the Mists boss fight at the Crux of Nothingness; it can appear as a reward from Ritual encounters and was added in 3.25.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ritual",
+        "affliction"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.25.0",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_in_the_mists",
+          "locator": "lead, 'Entry' section and Version history 3.25.0"
+        }
+      ]
+    },
+    {
+      "id": "loc_the_menagerie",
+      "name": "The Menagerie",
+      "aliases": [],
+      "type": "location",
+      "summary": "Act 2 location unlocked by completing Einhar's Hunt; Einhar gives the optional Einhar's Menagerie quest here (perform beastcrafting once).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "bestiary"
+      ],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act2"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_einhar_s_hunt",
+          "locator": "Rewards and 'Quest Complete - You have unlocked the Menagerie'"
+        },
+        {
+          "source_id": "src_poewiki_einhar_s_menagerie",
+          "locator": "'Walkthrough': 'You have unlocked the Menagerie'"
+        }
+      ]
+    },
+    {
+      "id": "event_einhars_bestiary",
+      "name": "Einhar's Bestiary (Bestiary league quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Act 1 optional quest exclusive to Bestiary league (3.2.0): Einhar Frey on The Coast asks the Exile to capture a beast with a net and keep a bestiary entry for each capture; he claims 'the animals in this land are sick'. Removed in 3.3.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "bestiary"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.2.0 (Bestiary league) to 3.3.0",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_einhar_s_bestiary",
+          "locator": "Walkthrough: 'Meet hunter-scavenger Einhar Frey on The Coast' to 'Quest Complete - You have unlocked the Bestiary'; Version history 3.2.0/3.3.0"
+        }
+      ]
+    },
+    {
+      "id": "event_einhars_hunt",
+      "name": "Einhar's Hunt",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 2 quest: started by Einhar Frey (Forest Encampment) and played in The Riverways, where the Exile captures all beasts; completing it unlocks The Menagerie.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "bestiary"
+      ],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act2"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_einhar_s_hunt",
+          "locator": "quest infobox (start: Forest Encampment; completion: capture all beasts in The Riverways) and 'Walkthrough'"
+        }
+      ]
+    },
+    {
+      "id": "event_einhars_menagerie",
+      "name": "Einhar's Menagerie (quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 2 quest in The Menagerie: after Einhar's Hunt unlocks the Menagerie, the Exile talks to Einhar there and performs beastcrafting once.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "bestiary"
+      ],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act2"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_einhar_s_menagerie",
+          "locator": "quest infobox (objective: perform beastcrafting once; completion: talk to Einhar)"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_event_kurai_contract_trial_run__precedes__event_kurai_contract_hyrris_gift",
+      "source": "event_kurai_contract_trial_run",
+      "target": "event_kurai_contract_hyrris_gift",
+      "relation": "precedes",
+      "description": "Kurai questline order: event_kurai_contract_trial_run is followed by event_kurai_contract_hyrris_gift (side-content sequence, no story_order).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'Personal quest contracts' list and contract section order"
+        }
+      ]
+    },
+    {
+      "id": "e_event_kurai_contract_hyrris_gift__precedes__event_kurai_contract_the_negotiation",
+      "source": "event_kurai_contract_hyrris_gift",
+      "target": "event_kurai_contract_the_negotiation",
+      "relation": "precedes",
+      "description": "Kurai questline order: event_kurai_contract_hyrris_gift is followed by event_kurai_contract_the_negotiation (side-content sequence, no story_order).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'Personal quest contracts' list and contract section order"
+        }
+      ]
+    },
+    {
+      "id": "e_event_kurai_contract_the_negotiation__precedes__event_kurai_contract_the_rescue",
+      "source": "event_kurai_contract_the_negotiation",
+      "target": "event_kurai_contract_the_rescue",
+      "relation": "precedes",
+      "description": "Kurai questline order: event_kurai_contract_the_negotiation is followed by event_kurai_contract_the_rescue (side-content sequence, no story_order).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'Personal quest contracts' list and contract section order"
+        }
+      ]
+    },
+    {
+      "id": "e_event_kurai_contract_the_rescue__precedes__event_kurai_contract_the_twins",
+      "source": "event_kurai_contract_the_rescue",
+      "target": "event_kurai_contract_the_twins",
+      "relation": "precedes",
+      "description": "Kurai questline order: event_kurai_contract_the_rescue is followed by event_kurai_contract_the_twins (side-content sequence, no story_order).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'Personal quest contracts' list and contract section order"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_kurai_contract_trial_run",
+      "source": "char_exile_poe1",
+      "target": "event_kurai_contract_trial_run",
+      "relation": "participates_in",
+      "description": "The Exile completes the Trial Run contract: takes the job from Kurai, works with the rogue Karst, and sells the Heist target to Faustus.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_rogue_harbour_quest",
+          "locator": "Walkthrough: 'Take the Contract: Trial Run from Kurai' to 'Sell the Heist target to Faustus'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_kurai_contract_hyrris_gift",
+      "source": "char_exile_poe1",
+      "target": "event_kurai_contract_hyrris_gift",
+      "relation": "participates_in",
+      "description": "The Exile completes Hyrri's Gift by stealing O' Eternal from an Oriathan nobleman's vault for Kurai's client.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'Hyrri's Gift' section: 'I'd like you to bring it home'; 'You got the book.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_kurai_contract_the_negotiation",
+      "source": "char_exile_poe1",
+      "target": "event_kurai_contract_the_negotiation",
+      "relation": "participates_in",
+      "description": "The Exile travels with Kurai to meet the Vox twins over the stolen book.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The Negotiation' section: 'I'm going to travel with you to meet the client'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_kurai_contract_the_rescue",
+      "source": "char_exile_poe1",
+      "target": "event_kurai_contract_the_rescue",
+      "relation": "participates_in",
+      "description": "The Exile accompanies Kurai to the second Vox meeting, which ends in hostility.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The Rescue' section and In-Quest Dialogue"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_kurai_contract_the_twins",
+      "source": "char_exile_poe1",
+      "target": "event_kurai_contract_the_twins",
+      "relation": "participates_in",
+      "description": "The Exile and Kurai strike the Vox twins at the Mansion in the final contract.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The Twins' section"
+        },
+        {
+          "source_id": "src_poewiki_vic_vox",
+          "locator": "infobox: location Mansion; quest Contract: The Twins"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kurai__participates_in__event_kurai_contract_the_twins",
+      "source": "char_kurai",
+      "target": "event_kurai_contract_the_twins",
+      "relation": "participates_in",
+      "description": "Kurai confronts the Vox twins in the final contract alongside the Exile.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The Twins' sections"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kurai__opposes__char_vic_vox",
+      "source": "char_kurai",
+      "target": "char_vic_vox",
+      "relation": "opposes",
+      "description": "Vic Vox declares war on Kurai after the book theft and kidnaps her cat Hana.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The Negotiation' ('it appears we are now at war')"
+        }
+      ]
+    },
+    {
+      "id": "e_char_vic_vox__opposes__char_kurai",
+      "source": "char_vic_vox",
+      "target": "char_kurai",
+      "relation": "opposes",
+      "description": "Vic Vox is the aggressor in the Kurai-Vox feud (declares war on Kurai).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_vic_vox",
+          "locator": "'Lore'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__defeats__char_vic_vox",
+      "source": "char_exile_poe1",
+      "target": "char_vic_vox",
+      "relation": "defeats",
+      "description": "The Exile and Kurai kill Vic Vox in the final contract \"The Twins\".",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_vic_vox",
+          "locator": "lead: Contract: The Twins; 'Lore': 'Kurai and the player kill both'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__defeats__char_vinny_vox",
+      "source": "char_exile_poe1",
+      "target": "char_vinny_vox",
+      "relation": "defeats",
+      "description": "The Exile and Kurai kill Vinny Vox in the final contract \"The Twins\".",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_vinny_vox",
+          "locator": "'Lore': 'Kurai and the player kill both Vic Vox and Vinny Vox'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_vic_vox__sibling_of__char_vinny_vox",
+      "source": "char_vic_vox",
+      "target": "char_vinny_vox",
+      "relation": "sibling_of",
+      "description": "Vic and Vinny Vox are twin brothers (the Heist \"Twins\").",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_vinny_vox",
+          "locator": "lead: 'Vinny's brother Vic Vox'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_vic_vox__descendant_of__char_sanctus_vox",
+      "source": "char_vic_vox",
+      "target": "char_sanctus_vox",
+      "relation": "descendant_of",
+      "description": "Vic Vox is a descendant of Cardinal Sanctus Vox.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_vic_vox",
+          "locator": "'Lore'"
+        },
+        {
+          "source_id": "src_poewiki_cardinal_sanctus_vox",
+          "locator": "'Lore': ancestor of the Vox family"
+        }
+      ]
+    },
+    {
+      "id": "e_char_vinny_vox__descendant_of__char_sanctus_vox",
+      "source": "char_vinny_vox",
+      "target": "char_sanctus_vox",
+      "relation": "descendant_of",
+      "description": "Vinny Vox is a member of the Vox family descended from Cardinal Sanctus Vox.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_cardinal_sanctus_vox",
+          "locator": "'Lore'"
+        },
+        {
+          "source_id": "src_poewiki_vinny_vox",
+          "locator": "'Lore'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_vic_vox__member_of__faction_vox_family",
+      "source": "char_vic_vox",
+      "target": "faction_vox_family",
+      "relation": "member_of",
+      "description": "Vic Vox is a member of the Vox family, Oriathan nobility turned criminal enterprise.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_vic_vox",
+          "locator": "lead: Vox family"
+        },
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The Vox Twins'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_vinny_vox__member_of__faction_vox_family",
+      "source": "char_vinny_vox",
+      "target": "faction_vox_family",
+      "relation": "member_of",
+      "description": "Vinny Vox is a member of the Vox family.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_vinny_vox",
+          "locator": "lead: 'Vox family'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_victario__created__artifact_o_eternal",
+      "source": "char_victario",
+      "target": "artifact_o_eternal",
+      "relation": "created",
+      "description": "Victario wrote the book \"O' Eternal\".",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "Lore paragraph on O' Eternal"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_o_eternal__associated_with__char_hyrri",
+      "source": "artifact_o_eternal",
+      "target": "char_hyrri",
+      "relation": "associated_with",
+      "description": "Victario gifted a signed copy of O' Eternal to Queen Hyrri after the battle against Lioneye.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'Hyrri's Gift' section"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_o_eternal__associated_with__event_kurai_contract_hyrris_gift",
+      "source": "artifact_o_eternal",
+      "target": "event_kurai_contract_hyrris_gift",
+      "relation": "associated_with",
+      "description": "The book is the target of Hyrri's Gift.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'Hyrri's Gift' section"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kurai__serves__char_the_boss_of_the_ring",
+      "source": "char_kurai",
+      "target": "char_the_boss_of_the_ring",
+      "relation": "serves",
+      "description": "Kurai is the administrator of The Ring for its Boss.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'The Boss' section ('I am, for all intents and purposes, his administrator')"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kurai__located_in__loc_rogue_harbour",
+      "source": "char_kurai",
+      "target": "loc_rogue_harbour",
+      "relation": "located_in",
+      "description": "Kurai is one of the Rogues in The Rogue Harbour.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_rogue_harbour_quest",
+          "locator": "walkthrough: 'Talk to Kurai in The Rogue Harbour'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_kurai_contract_trial_run__occurs_in__loc_rogue_harbour",
+      "source": "event_kurai_contract_trial_run",
+      "target": "loc_rogue_harbour",
+      "relation": "occurs_in",
+      "description": "The introductory contract starts from the Rogue Harbour.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_rogue_harbour_quest",
+          "locator": "walkthrough"
+        }
+      ]
+    },
+    {
+      "id": "e_league_ambush__associated_with__league_invasion",
+      "source": "league_ambush",
+      "target": "league_invasion",
+      "relation": "associated_with",
+      "description": "Ambush and Invasion ran concurrently from March 5 to July 5, 2014; Ambush used standard death rules and Invasion hardcore.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_ambush_league",
+          "locator": "lead paragraph"
+        },
+        {
+          "source_id": "src_poewiki_invasion_league",
+          "locator": "lead paragraph"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_strongbox__introduced_in__league_ambush",
+      "source": "concept_strongbox",
+      "target": "league_ambush",
+      "relation": "introduced_in",
+      "description": "The wiki says Ambush league introduced Strongboxes.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_ambush_league",
+          "locator": "lead: 'This league introduced Strongboxes'"
+        }
+      ]
+    },
+    {
+      "id": "e_league_domination__associated_with__league_nemesis",
+      "source": "league_domination",
+      "target": "league_nemesis",
+      "relation": "associated_with",
+      "description": "Domination and Nemesis ran concurrently from October 23, 2013 to February 23, 2014; Nemesis was hardcore.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_domination_league",
+          "locator": "lead paragraph"
+        },
+        {
+          "source_id": "src_poewiki_nemesis_league",
+          "locator": "lead paragraph"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_shrine__introduced_in__league_domination",
+      "source": "concept_shrine",
+      "target": "league_domination",
+      "relation": "introduced_in",
+      "description": "The wiki says Domination league introduced shrines.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_domination_league",
+          "locator": "lead: 'This league introduced shrines'"
+        }
+      ]
+    },
+    {
+      "id": "e_league_onslaught__associated_with__league_anarchy",
+      "source": "league_onslaught",
+      "target": "league_anarchy",
+      "relation": "associated_with",
+      "description": "Onslaught and Anarchy ran concurrently from June 7 to October 7, 2013 (Onslaught hardcore, Anarchy standard).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_onslaught_league",
+          "locator": "lead paragraph"
+        },
+        {
+          "source_id": "src_poewiki_anarchy_league",
+          "locator": "lead paragraph"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_rogue_exiles__introduced_in__league_anarchy",
+      "source": "concept_rogue_exiles",
+      "target": "league_anarchy",
+      "relation": "introduced_in",
+      "description": "The wiki says Anarchy league introduced rogue exiles.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_anarchy_league",
+          "locator": "lead: 'This league introduced rogue exiles'"
+        }
+      ]
+    },
+    {
+      "id": "e_league_rampage__associated_with__league_beyond",
+      "source": "league_rampage",
+      "target": "league_beyond",
+      "relation": "associated_with",
+      "description": "Rampage and Beyond ran concurrently from August 20 to November 20, 2014; Rampage was standard, Beyond hardcore.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_rampage_league",
+          "locator": "lead paragraph"
+        }
+      ]
+    },
+    {
+      "id": "e_char_abaxoth__introduced_in__league_beyond",
+      "source": "char_abaxoth",
+      "target": "league_beyond",
+      "relation": "introduced_in",
+      "description": "Abaxoth was introduced to the game in 1.2.0, the release that launched Rampage and Beyond.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "beyond"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_abaxoth_the_end_of_all_that_is",
+          "locator": "Version History 1.2.0"
+        },
+        {
+          "source_id": "src_poewiki_rampage_league",
+          "locator": "lead: launched 1.2.0"
+        }
+      ]
+    },
+    {
+      "id": "e_char_abaxoth__associated_with__creature_scourge_monsters",
+      "source": "char_abaxoth",
+      "target": "creature_scourge_monsters",
+      "relation": "associated_with",
+      "description": "Abaxoth was removed in 3.19.0, the version that replaced the original Beyond demons with Scourge monsters.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "beyond",
+        "scourge"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_abaxoth_the_end_of_all_that_is",
+          "locator": "Historical banner: 3.19.0 replaced the original Beyond demons with monsters from Scourge"
+        }
+      ]
+    },
+    {
+      "id": "e_league_bloodlines__associated_with__league_torment",
+      "source": "league_bloodlines",
+      "target": "league_torment",
+      "relation": "associated_with",
+      "description": "Bloodlines and Torment ran concurrently from December 13, 2014 to March 24, 2015 (Bloodlines hardcore, Torment standard).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_bloodlines_league",
+          "locator": "lead paragraph"
+        },
+        {
+          "source_id": "src_poewiki_torment_league",
+          "locator": "lead paragraph"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_tempest__introduced_in__league_tempest",
+      "source": "concept_tempest",
+      "target": "league_tempest",
+      "relation": "introduced_in",
+      "description": "The wiki says Tempest league introduced Tempests.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_tempest_league",
+          "locator": "lead: 'This league introduced Tempests'"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_essence__associated_with__league_essence",
+      "source": "concept_essence",
+      "target": "league_essence",
+      "relation": "associated_with",
+      "description": "Essence league: zones contain frozen packs holding Essences that grant guaranteed-affix item modifications.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_essence_league",
+          "locator": "lead paragraph and Essence mechanic section"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_archnemesis_modifiers__associated_with__league_archnemesis",
+      "source": "concept_archnemesis_modifiers",
+      "target": "league_archnemesis",
+      "relation": "associated_with",
+      "description": "Archnemesis league: players apply Archnemesis modifiers to petrified monsters to build boss fights.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_archnemesis_league",
+          "locator": "League Mechanic section"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_sentinels__associated_with__league_sentinel",
+      "source": "artifact_sentinels",
+      "target": "league_sentinel",
+      "relation": "associated_with",
+      "description": "Sentinels were the league mechanic of Sentinel league (3.18.0); the mechanic returned to the core game in 3.25.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sentinel_league",
+          "locator": "League mechanic section and intro"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_prophecy__associated_with__league_prophecy",
+      "source": "concept_prophecy",
+      "target": "league_prophecy",
+      "relation": "associated_with",
+      "description": "Prophecies were the mechanic of Prophecy league (2.3.0, 2016); removed in 3.17.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_prophecy_league",
+          "locator": "lead paragraph and Items section"
+        }
+      ]
+    },
+    {
+      "id": "e_char_navali__associated_with__concept_prophecy",
+      "source": "char_navali",
+      "target": "concept_prophecy",
+      "relation": "associated_with",
+      "description": "Navali exchanges one silver coin for one prophecy during Prophecy league.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_prophecy_league",
+          "locator": "lead: silver coins traded with Navali"
+        }
+      ]
+    },
+    {
+      "id": "e_char_navali__associated_with__league_prophecy",
+      "source": "char_navali",
+      "target": "league_prophecy",
+      "relation": "associated_with",
+      "description": "Navali is the trader of Silver Coins in Prophecy league.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_prophecy_league",
+          "locator": "lead paragraph"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_warbands__introduced_in__league_warbands",
+      "source": "faction_warbands",
+      "target": "league_warbands",
+      "relation": "introduced_in",
+      "description": "Warbands league introduced the three Warbands (Redblades, Brinerot, Mutewind).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "warbands"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_warbands_league",
+          "locator": "intro: warring clans, three Warbands with exclusive uniques"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_mutewind__part_of__faction_warbands",
+      "source": "faction_mutewind",
+      "target": "faction_warbands",
+      "relation": "part_of",
+      "description": "Mutewind is one of the three Warbands of Warbands league.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "warbands"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_list_of_warbands_and_tempest_league_challenges",
+          "locator": "Warbands item list (Mutewind Wildrunner / Mutewind Seal)"
+        },
+        {
+          "source_id": "src_poewiki_warbands_league",
+          "locator": "intro"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_brinerot__part_of__faction_warbands",
+      "source": "faction_brinerot",
+      "target": "faction_warbands",
+      "relation": "part_of",
+      "description": "Brinerot is one of the three Warbands of Warbands league (Brinerot Raider, Soothsayer, Stormhand).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "warbands"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_list_of_warbands_and_tempest_league_challenges",
+          "locator": "Warbands item list (Brinerot Raider / Brinerot Soothsayer / Brinerot Stormhand)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_redblades__part_of__faction_warbands",
+      "source": "faction_redblades",
+      "target": "faction_warbands",
+      "relation": "part_of",
+      "description": "Redblades is one of the three Warbands of Warbands league (Redblade Band / Tramplers).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "warbands"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_list_of_warbands_and_tempest_league_challenges",
+          "locator": "Warbands item list (Redblade Band / Redblade Tramplers)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__opposes__faction_warbands",
+      "source": "char_exile_poe1",
+      "target": "faction_warbands",
+      "relation": "opposes",
+      "description": "Warbands clans fight the Exile and react to the Exile hunting them.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "warbands"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_warbands_league",
+          "locator": "intro: 'The presence of the warbands ... responds to the Exiles' efforts to hunt them'"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_harbinger__introduced_in__league_harbinger",
+      "source": "concept_harbinger",
+      "target": "league_harbinger",
+      "relation": "introduced_in",
+      "description": "The Harbinger league (3.0.0) introduced Harbingers; the wiki says Harbingers were introduced as a feature of that league.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harbinger"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_harbinger",
+          "locator": "lead: 'introduced to the game as a feature of the Harbinger league'"
+        },
+        {
+          "source_id": "src_poewiki_harbinger_league",
+          "locator": "lead"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_harbinger__associated_with__loc_the_beachhead",
+      "source": "concept_harbinger",
+      "target": "loc_the_beachhead",
+      "relation": "associated_with",
+      "description": "Harbinger Portal appears after the final King Harbinger is defeated in a Beachhead map.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harbinger"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_harbinger",
+          "locator": "'Unique pieces' section"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kirac__associated_with__concept_harbinger",
+      "source": "char_kirac",
+      "target": "concept_harbinger",
+      "relation": "associated_with",
+      "description": "Harbingers can be encountered in Commander Kirac's Atlas missions.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harbinger"
+      ],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_harbinger",
+          "locator": "lead paragraph: 'in Kirac's Atlas missions'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_maramoa__associated_with__char_dusk",
+      "source": "char_maramoa",
+      "target": "char_dusk",
+      "relation": "associated_with",
+      "description": "Maramoa describes \"The Dusk\" as an exile-turned-sycophant who carried the Moon Orb into the Lunaris Temple.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_dusk_harbinger_of_lunaris",
+          "locator": "'Lore' section (According to Maramoa)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_maramoa__associated_with__char_dawn",
+      "source": "char_maramoa",
+      "target": "char_dawn",
+      "relation": "associated_with",
+      "description": "Maramoa describes \"The Dawn\" as a former exile turned devotee of Solaris.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_dawn_harbinger_of_solaris",
+          "locator": "'Lore' section (According to Maramoa)"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_ritual__introduced_in__league_ritual",
+      "source": "concept_ritual",
+      "target": "league_ritual",
+      "relation": "introduced_in",
+      "description": "Ritual league introduced the Ritual mechanic (3.13.0).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_ritual_league",
+          "locator": "'League mechanic': 'The Ritual league introduced the Ritual mechanic'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_the_king_in_the_mists__associated_with__concept_ritual",
+      "source": "char_the_king_in_the_mists",
+      "target": "concept_ritual",
+      "relation": "associated_with",
+      "description": "The King in the Mists is a boss associated with Rituals; his arena is opened by An Audience With The King, a fragment that can appear as a Ritual reward.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ritual",
+        "affliction"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_in_the_mists",
+          "locator": "lead: 'a boss associated with Rituals'; 'Entry' section"
+        }
+      ]
+    },
+    {
+      "id": "e_char_the_king_in_the_mists__associated_with__league_affliction",
+      "source": "char_the_king_in_the_mists",
+      "target": "league_affliction",
+      "relation": "associated_with",
+      "description": "The King in the Mists is the major antagonist of Affliction league and the Viridian Wildwood.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "affliction"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_in_the_mists",
+          "locator": "lead paragraph"
+        },
+        {
+          "source_id": "src_poewiki_affliction_league",
+          "locator": "lead"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_an_audience_with_the_king__associated_with__concept_ritual",
+      "source": "artifact_an_audience_with_the_king",
+      "target": "concept_ritual",
+      "relation": "associated_with",
+      "description": "The map fragment can appear as a reward from Ritual encounters.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ritual"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_in_the_mists",
+          "locator": "'Entry' section"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__opposes__char_the_king_in_the_mists",
+      "source": "char_exile_poe1",
+      "target": "char_the_king_in_the_mists",
+      "relation": "opposes",
+      "description": "The Exile fights the King in the Mists in the Crux of Nothingness, in three phases; he becomes a treant in phase 3.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ritual",
+        "affliction"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_king_in_the_mists",
+          "locator": "'Mechanics' Phase 1-3"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_sacred_blossom__leads_to__char_oshabi",
+      "source": "artifact_sacred_blossom",
+      "target": "char_oshabi",
+      "relation": "leads_to",
+      "description": "The Sacred Blossom opens a portal to The Sacred Grove where Oshabi, Avatar of the Grove, is encountered.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harvest"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sacred_blossom",
+          "locator": "lead: grants access to The Sacred Grove, where Oshabi can be encountered"
+        },
+        {
+          "source_id": "src_poewiki_oshabi_avatar_of_the_grove",
+          "locator": "lead"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_sacred_blossom__associated_with__loc_the_sacred_grove",
+      "source": "artifact_sacred_blossom",
+      "target": "loc_the_sacred_grove",
+      "relation": "associated_with",
+      "description": "Using a Sacred Blossom opens a portal to The Sacred Grove.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harvest"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sacred_blossom",
+          "locator": "Help text / lead"
+        }
+      ]
+    },
+    {
+      "id": "e_char_oshabi__associated_with__league_harvest",
+      "source": "char_oshabi",
+      "target": "league_harvest",
+      "relation": "associated_with",
+      "description": "Oshabi, Avatar of the Grove is the final boss of the Harvest mechanic.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harvest"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_oshabi_avatar_of_the_grove",
+          "locator": "lead: final boss of the Harvest mechanic"
+        },
+        {
+          "source_id": "src_poewiki_harvest_league",
+          "locator": "lead"
+        }
+      ]
+    },
+    {
+      "id": "e_char_oshabi__associated_with__concept_heart_of_the_grove",
+      "source": "char_oshabi",
+      "target": "concept_heart_of_the_grove",
+      "relation": "associated_with",
+      "description": "Oshabi is encountered as the Avatar of the Grove in the Heart of the Grove encounter.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harvest"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_oshabi",
+          "locator": "Heart of the Grove lead"
+        },
+        {
+          "source_id": "src_poewiki_oshabi_avatar_of_the_grove",
+          "locator": "lead"
+        }
+      ]
+    },
+    {
+      "id": "e_char_einhar__guides__char_exile_poe1",
+      "source": "char_einhar",
+      "target": "char_exile_poe1",
+      "relation": "guides",
+      "description": "Einhar Frey, the beastmaster, teaches the Exile to capture beasts.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "bestiary"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_einhar_s_hunt",
+          "locator": "quest start and walkthrough"
+        },
+        {
+          "source_id": "src_poewiki_einhar_s_bestiary",
+          "locator": "walkthrough"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_einhars_bestiary",
+      "source": "char_exile_poe1",
+      "target": "event_einhars_bestiary",
+      "relation": "participates_in",
+      "description": "The Exile completes the Bestiary league quest in Act 1.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "bestiary"
+      ],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_einhar_s_bestiary",
+          "locator": "walkthrough"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_einhars_hunt",
+      "source": "char_exile_poe1",
+      "target": "event_einhars_hunt",
+      "relation": "participates_in",
+      "description": "The Exile hunts beasts in the Riverways with Einhar.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "bestiary"
+      ],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_einhar_s_hunt",
+          "locator": "walkthrough"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_einhars_menagerie",
+      "source": "char_exile_poe1",
+      "target": "event_einhars_menagerie",
+      "relation": "participates_in",
+      "description": "The Exile performs beastcrafting with Einhar in The Menagerie.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "bestiary"
+      ],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_einhar_s_menagerie",
+          "locator": "walkthrough"
+        }
+      ]
+    },
+    {
+      "id": "e_event_einhars_bestiary__introduced_in__league_bestiary",
+      "source": "event_einhars_bestiary",
+      "target": "league_bestiary",
+      "relation": "introduced_in",
+      "description": "The Einhar quest was exclusive to the Bestiary league (3.2.0).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "bestiary"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_einhar_s_bestiary",
+          "locator": "lead: optional quest exclusive to Bestiary league; Version history 3.2.0"
+        }
+      ]
+    },
+    {
+      "id": "e_event_einhars_hunt__leads_to__loc_the_menagerie",
+      "source": "event_einhars_hunt",
+      "target": "loc_the_menagerie",
+      "relation": "leads_to",
+      "description": "Completing Einhar's Hunt unlocks The Menagerie.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "bestiary"
+      ],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_einhar_s_hunt",
+          "locator": "Quest Complete - You have unlocked the Menagerie"
+        }
+      ]
+    },
+    {
+      "id": "e_event_einhars_menagerie__located_in__loc_the_menagerie",
+      "source": "event_einhars_menagerie",
+      "target": "loc_the_menagerie",
+      "relation": "located_in",
+      "description": "Einhar's Menagerie is in The Menagerie.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "bestiary"
+      ],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_einhar_s_menagerie",
+          "locator": "Quest infobox (start: Speak with Einhar in The Menagerie)"
+        }
+      ]
+    },
+    {
+      "id": "e_league_necro_settlers_event__part_of__league_settlers_of_kalguur",
+      "source": "league_necro_settlers_event",
+      "target": "league_settlers_of_kalguur",
+      "relation": "part_of",
+      "description": "The Necro Settlers event ran inside the extended Settlers of Kalguur league (Nov 2024 to Feb 2025).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch",
+        "necropolis"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_settlers_league",
+          "locator": "intro: 'the Necro Settlers event was held from November 2024 to February 2025'"
+        }
+      ]
+    },
+    {
+      "id": "e_league_necro_settlers_event__precedes__league_phrecia",
+      "source": "league_necro_settlers_event",
+      "target": "league_phrecia",
+      "relation": "precedes",
+      "description": "The Legacy of Phrecia event was held immediately after Necro Settlers, until April 23, 2025.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "phrecia"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_settlers_league",
+          "locator": "intro: 'the Legacy of Phrecia event was held immediately after until April 23'"
+        },
+        {
+          "source_id": "src_poewiki_legacy_of_phrecia",
+          "locator": "lead and 'Race history': first event Feb 20 to Apr 23 2025"
+        }
+      ]
+    },
+    {
+      "id": "e_league_poe2_the_third_edict__same_entity_as__league_poe2_third_edict",
+      "source": "league_poe2_the_third_edict",
+      "target": "league_poe2_third_edict",
+      "relation": "same_entity_as",
+      "description": "Duplicate league ids for the same PoE2 0.3.0 release (The Third Edict, 2025-08-29). Merge candidate; the two nodes disagree on era (poe2_campaign vs poe2_endgame).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_rise_of_the_abyssal_league",
+          "locator": "intro: 'launched August 29, 2025 as part of The Third Edict (0.3.0)'"
+        },
+        {
+          "source_id": "src_ggg_content_update_0_3_0",
+          "locator": "Patch notes 'Content Update 0.3.0 -- Path of Exile 2: The Third Edict': 'The Third Edict content update adds Act 4'"
+        }
+      ]
+    },
+    {
+      "id": "e_league_poe2_runes_of_aldur__part_of__league_poe2_return_of_the_ancients",
+      "source": "league_poe2_runes_of_aldur",
+      "target": "league_poe2_return_of_the_ancients",
+      "relation": "part_of",
+      "description": "Runes of Aldur league is part of the 0.5.0 expansion Return of the Ancients (launched 2026-05-29). The master node league_poe2_return_of_the_ancients also conflates the expansion with the league.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "poe2_runes_of_aldur"
+      ],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_runes_of_aldur_league",
+          "locator": "lead: launched May 29, 2026 as part of Return of the Ancients (0.5.0)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kurai__member_of__faction_the_ring",
+      "source": "char_kurai",
+      "target": "faction_the_ring",
+      "relation": "member_of",
+      "description": "Kurai is a member of The Ring ('Welcome, Exile, to the Ring. I am Kurai.').",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "'Introduction' section"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_nemesis_mod__associated_with__league_nemesis",
+      "source": "concept_nemesis_mod",
+      "target": "league_nemesis",
+      "relation": "associated_with",
+      "description": "Nemesis league gave every rare monster a Nemesis modifier.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_nemesis_league",
+          "locator": "lead and Modifier section"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_bloodline_mod__associated_with__league_bloodlines",
+      "source": "concept_bloodline_mod",
+      "target": "league_bloodlines",
+      "relation": "associated_with",
+      "description": "Bloodlines league: each pack of magic monsters carried a shared Bloodline mod.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_bloodlines_league",
+          "locator": "lead paragraph and Modifier section"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_tormented_spirits__associated_with__league_torment",
+      "source": "concept_tormented_spirits",
+      "target": "league_torment",
+      "relation": "associated_with",
+      "description": "Tormented spirits haunt Wraeclast as the modifier of Torment league.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_torment_league",
+          "locator": "lead paragraph and Modifier section"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_mutewind__associated_with__faction_order_of_the_djinn",
+      "source": "faction_mutewind",
+      "target": "faction_order_of_the_djinn",
+      "relation": "associated_with",
+      "description": "Qianga, a Mutewind warband outcast, delivered the Starforge to the Watchers of Decay for the Order of the Djinn.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_order_of_the_djinn",
+          "locator": "Qianga entry: 'a Mutewind warband outcast ... She delivered the Starforge to the Watchers of Decay'; 'Starforge and the sealing of the Elder'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_sacred_blossom__associated_with__concept_heart_of_the_grove",
+      "source": "artifact_sacred_blossom",
+      "target": "concept_heart_of_the_grove",
+      "relation": "associated_with",
+      "description": "Sacred Blossom is tied to the Heart of the Grove atlas passive; the 3.19.0 change stopped it always dropping a Sacred Blossom.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harvest"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sacred_blossom",
+          "locator": "Version history 3.19.0 (Heart of the Grove passive change)"
+        }
+      ]
+    }
+  ]
+}

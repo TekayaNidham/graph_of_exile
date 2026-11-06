@@ -1,0 +1,2598 @@
+{
+ "domain": "gap_deep_history_vaal_precursor_eternal",
+ "sources": [
+  {
+   "id": "src_poe2wiki_abandoned_prison_quest",
+   "title": "Abandoned Prison (quest) - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Abandoned_Prison_(quest)",
+   "type": "wiki",
+   "author_or_channel": "poe2wiki.net",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_citaqualotl_s_thesis",
+   "title": "Citaqualotl's Thesis - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Citaqualotl's_Thesis",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_environmental_lore",
+   "title": "Environmental lore - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Environmental_lore",
+   "type": "wiki",
+   "author_or_channel": "poe2wiki.net",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_fate_of_the_vaal_league",
+   "title": "Fate of the Vaal league - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Fate_of_the_Vaal_league",
+   "type": "wiki",
+   "author_or_channel": "poe2wiki.net",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_guatelitzi_s_ablation",
+   "title": "Guatelitzi's Ablation - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Guatelitzi's_Ablation",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_guatelitzi_s_thesis",
+   "title": "Guatelitzi's Thesis - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Guatelitzi's_Thesis",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_hayoxi_s_fulmination",
+   "title": "Hayoxi's Fulmination - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Hayoxi's_Fulmination",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_jiquani_s_thesis",
+   "title": "Jiquani's Thesis - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Jiquani's_Thesis",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_kamasa_s_orb_of_sacrifice",
+   "title": "Kamasa's Orb of Sacrifice - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Kamasa's_Orb_of_Sacrifice",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_kopec_s_orb_of_sacrifice",
+   "title": "Kopec's Orb of Sacrifice - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Kopec's_Orb_of_Sacrifice",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_quipolatl_s_thesis",
+   "title": "Quipolatl's Thesis - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Quipolatl's_Thesis",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_beast",
+   "title": "The Beast - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Beast",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_yaomac_s_orb_of_sacrifice",
+   "title": "Yaomac's Orb of Sacrifice - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Yaomac's_Orb_of_Sacrifice",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_yugul_s_orb_of_sacrifice",
+   "title": "Yugul's Orb of Sacrifice - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Yugul's_Orb_of_Sacrifice",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_atziri_lore",
+   "title": "Atziri (lore) - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Atziri_(lore)",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_eternal_empire",
+   "title": "Eternal Empire - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Eternal_Empire",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_history_of_wraeclast",
+   "title": "History of Wraeclast - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/History_of_Wraeclast",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_karui_gods",
+   "title": "Karui Gods - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Karui_Gods",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_letters_of_exile",
+   "title": "Letters of Exile - PoE Wiki",
+   "type": "in_game_text",
+   "author_or_channel": "in-game environmental lore (quoted by wiki)",
+   "accessed": "2026-11-05",
+   "reliability": "primary",
+   "url": "https://www.poewiki.net/wiki/Letters_of_Exile"
+  },
+  {
+   "id": "src_poewiki_perandus_family",
+   "title": "Perandus family - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Perandus_family",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_stridevolf",
+   "title": "Stridevolf - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Stridevolf",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_beast_lore",
+   "title": "The Beast (lore) - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Beast_(lore)",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_purity_chronicles",
+   "title": "The Purity Chronicles - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Purity_Chronicles",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_victario",
+   "title": "Victario - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Victario",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_yt_16jF71G2M6M",
+   "title": "Fall of the Eternal Empire and Emperor Chitus | Path of exile Lore",
+   "url": "https://www.youtube.com/watch?v=16jF71G2M6M",
+   "type": "youtube",
+   "author_or_channel": "PhoenixDash",
+   "accessed": "2026-11-06",
+   "reliability": "tertiary"
+  },
+  {
+   "id": "src_yt_1Zt4tv8fjI4",
+   "title": "Who is Doryani? | Path Of Exile 2 Lore",
+   "url": "https://www.youtube.com/watch?v=1Zt4tv8fjI4",
+   "type": "youtube",
+   "author_or_channel": "Lore Of Exile",
+   "accessed": "2026-11-05",
+   "reliability": "tertiary"
+  },
+  {
+   "id": "src_poe2wiki_cataclysm_s_wake",
+   "title": "Cataclysm's Wake - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Cataclysm's_Wake",
+   "type": "wiki",
+   "author_or_channel": "poe2wiki.net",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  }
+ ],
+ "nodes": [
+  {
+   "id": "concept_corruption",
+   "name": "Corruption",
+   "aliases": [],
+   "type": "concept",
+   "subtype": "lore_force",
+   "summary": "Lore force of mutation and malformation tied to the Beast and its predecessors: the Beast 'possesses corrupting powers' that mutate whatever contacts it; Kitava is called 'God of Corruption' in Karui dialogue; Precursors mastered corruption and Doryani attempts to harness the Precursor Weapon to destroy corruption. Not the Corrupted-item mechanic.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "from the Precursor era onward (Beast, Vaal, Eternal Empire)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_beast_lore",
+     "locator": "intro: 'The Beast possesses corrupting powers, devouring the souls of his prey and mutating whoever comes in contact with it.'"
+    },
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section '==Kitava==' > Dialogue, Haku's 'Kaom' option: 'Kitava, God of Corruption, consumed Kaom from heart to skin.'"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section '===Precursor civilization===': 'After mastering corruption, they delved deeper...'; the Precursor Weapon is one 'which Doryani attempts to harness to destroy corruption'"
+    }
+   ]
+  },
+  {
+   "id": "concept_cataclysm",
+   "name": "Cataclysm",
+   "aliases": [],
+   "type": "concept",
+   "subtype": "recurring_catastrophe",
+   "summary": "Lore term for the world-ending catastrophes that destroyed civilisations: the unknown cataclysm that wiped out the Precursors, the Vaal Cataclysm (also 'The Fall', c. 400 BIC), and the Eternal Empire Cataclysm (~1339 IC). The corpus uses the word for each event but does not define a single in-world category; this node groups those uses. Not the PoE2 epilogue quest 'Cataclysm's Wake', which is an Atlas tutorial quest.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "from the Precursor era to c. 1339 IC (several events)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro: 'An incredibly advanced precursor civilization existed, but was wiped out by an unknown cataclysm.'; section '====The Vaal Cataclysm====': 'The Vaal Cataclysm, also known as The Fall, was a historical event...'"
+    },
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "section '===The Cataclysm (~1339 IC)===': 'The Cataclysm brought an end to Voll's reign and the Eternal Empire as a whole.'"
+    },
+    {
+     "source_id": "src_poe2wiki_cataclysm_s_wake",
+     "locator": "page intro: 'Cataclysm's Wake is an epilogue quest. It act as the tutorial quest for the Atlas.'"
+    }
+   ]
+  },
+  {
+   "id": "era_eternal_empire",
+   "name": "Eternal Empire (era)",
+   "aliases": [
+    "Sarn Empire era"
+   ],
+   "type": "era",
+   "subtype": "",
+   "summary": "Umbrella period of the Eternal Empire (Sarn Empire) from Imperialis Conceptus (1 IC) through the Reign of Voll to the Cataclysm (~1339 IC). Split into the era_eternal_empire_rise and era_eternal_empire_fall buckets; the faction itself is faction_eternal_empire.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "chronology": {
+    "in_world_year": 1,
+    "relative": "1 IC to c. 1339 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "section '===Imperialis Conceptus (1 IC)===' (start) and '===The Cataclysm (~1339 IC)===' (end)"
+    }
+   ]
+  },
+  {
+   "id": "era_poe1",
+   "name": "PoE1 (era umbrella)",
+   "aliases": [],
+   "type": "era",
+   "subtype": "",
+   "summary": "Umbrella for the PoE1-era buckets: the Acts 1-10 campaign and Epilogue (era_poe1_campaign), the Atlas storylines (era_poe1_atlas) and league stories (era_poe1_leagues). Meta grouping only; no in-world event.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "before the ~20-year interlude that precedes PoE2",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 3: 'An exile was responsible for killing the Beast around 20 years prior to the events of Path of Exile 2', which places the PoE1 events before the PoE2 era"
+    }
+   ]
+  },
+  {
+   "id": "era_poe2",
+   "name": "PoE2 (era umbrella)",
+   "aliases": [],
+   "type": "era",
+   "subtype": "",
+   "summary": "Umbrella for the PoE2-era buckets: the Acts 1-6 campaign and interludes (era_poe2_campaign) and endgame and league storylines (era_poe2_endgame). Begins after the ~20-year interlude following the PoE1 kill of the Beast. Meta grouping only.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "c. 20 years after the Beast's death",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 3: 'An exile was responsible for killing the Beast around 20 years prior to the events of Path of Exile 2'"
+    }
+   ]
+  },
+  {
+   "id": "char_kastov",
+   "name": "Kastov",
+   "aliases": [],
+   "type": "character",
+   "subtype": "eternal_governor",
+   "summary": "Governor of Stridevolf in the Eternal Empire who joined High Templar Voll's Purity Rebellion in 1333 IC against the gemling thaumatocracy. Per the Victario page, unlike Voll, Ondar, Geofri and Adus he did not turn undead or into a ghost in the in-game present.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": 1333,
+    "relative": "1333 IC (Purity Rebellion)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_purity_chronicles",
+     "locator": "intro paragraph: 'Governor Kastov of Stridevolf' listed among Voll's allies with Lord Mayor Ondar, Victario, Archbishop Geofri and Commander Adus"
+    },
+    {
+     "source_id": "src_poewiki_victario",
+     "locator": "paragraph 'In 1333 IC, Victario supported the Purity Rebellion ... along with Kastov, Lord Mayor Ondar, Archbishop Geofri and Commander Adus'; and 'neither Victario nor Kastov turned into the undead or a ghost'"
+    },
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "section '==Members==' > Purity Rebellion rebels: '** [[Kastov]], Governor of [[Stridevolf]]'"
+    },
+    {
+     "source_id": "src_poewiki_stridevolf",
+     "locator": "section 'Notable members': 'Governor Kastov of Stridevolf'"
+    }
+   ]
+  },
+  {
+   "id": "char_medici_perandus",
+   "name": "Medici Perandus",
+   "aliases": [
+    "Prefect to the Treasury"
+   ],
+   "type": "character",
+   "subtype": "perandus_family_member",
+   "summary": "Member of the Perandus family styled 'Prefect to the Treasury'. The corpus knows him only from the flavour text of the Perandus Signet; no dated action is recorded, so his era is unknown.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "unknown",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "unknown",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_perandus_family",
+     "locator": "section '===Medici Perandus===': 'Medici Perandus, \"Prefect to the Treasury\", is a member of the Perandus family only referred to by the flavour text of Perandus Signet.'"
+    },
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "section '==Members==' > Perandus family: 'Medici Perandus, Prefect to the Treasury'"
+    }
+   ]
+  },
+  {
+   "id": "text_letters_of_exile",
+   "name": "Letters of Exile",
+   "aliases": [],
+   "type": "text",
+   "subtype": "environmental_lore",
+   "summary": "Environmental lore object in Lioneye's Watch: court papers nailed to stakes that give the sentences of named exiles (1597-1599 IC) in the formula 'You are hereby Exiled to Wraeclast where, it is hoped, you shall come to repent your Sins'. Added in version 0.10.8. Distinct from text_letters_from_chitus (Chitus's letters to Cadiro) and text_vaal_letters (Vaal victims' letters).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1597-1599 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_letters_of_exile",
+     "locator": "intro: 'Letters of Exile is an environmental lore object found in Lioneye's Watch.'; section '==Format==' sentencing formula; version history 0.10.8"
+    }
+   ]
+  },
+  {
+   "id": "concept_karui_gods",
+   "name": "Karui Gods",
+   "aliases": [
+    "Karui pantheon",
+    "Gods of the Karui Way"
+   ],
+   "type": "concept",
+   "subtype": "pantheon",
+   "summary": "The gods honoured within the Karui Way: Arohongui, Hinekora, Kitava, Ngamahu, Ramako, Tasalio, Tawhoa, Tukohama and Valako, as named on the Karui Gods page.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "ancient; worshipped by the Karui",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "intro: 'In the game's lore, The Karui Way has several gods that are representative of or rule over various aspects of the world.'"
+    }
+   ]
+  },
+  {
+   "id": "artifact_kamasas_orb_of_sacrifice",
+   "name": "Kamasa's Orb of Sacrifice",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": "currency_orb",
+   "summary": "PoE2 currency orb (introduced 0.5.4) that removes a random explicit modifier to upgrade a Corruption enchantment on a Rare Amulet, Ring or Belt. Drops from the Royal Trove in Atziri's Temple after defeating Atziri, the Red Queen. Its name matches the deity deity_kamasa; the item page does not state a naming origin.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 0.5.4 (no in-world date stated)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_kamasa_s_orb_of_sacrifice",
+     "locator": "title and description: 'Kamasa's Orb of Sacrifice' - 'Upgrades a Corruption Enchantment on a Rare Amulet, Ring or Belt and removes a Random Modifier'; drop_text: 'Can drop from Royal Trove in Atziri's Temple after defeating Atziri, the Red Queen.'"
+    }
+   ]
+  },
+  {
+   "id": "artifact_kopecs_orb_of_sacrifice",
+   "name": "Kopec's Orb of Sacrifice",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": "currency_orb",
+   "summary": "PoE2 currency orb (introduced 0.5.4) that removes a random explicit modifier to upgrade a Corruption enchantment on a Rare Armour. Drops from the Royal Trove in Atziri's Temple after defeating Atziri, the Red Queen. Its name matches the deity deity_kopec; the item page does not state a naming origin.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 0.5.4 (no in-world date stated)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_kopec_s_orb_of_sacrifice",
+     "locator": "title and description: 'Kopec's Orb of Sacrifice' - 'Upgrades a Corruption Enchantment on a Rare Armour and removes a Random Modifier'; drop_text: 'Can drop from Royal Trove in Atziri's Temple after defeating Atziri, the Red Queen.'"
+    }
+   ]
+  },
+  {
+   "id": "artifact_yaomacs_orb_of_sacrifice",
+   "name": "Yaomac's Orb of Sacrifice",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": "currency_orb",
+   "summary": "PoE2 currency orb (introduced 0.5.4) that removes a random explicit modifier to upgrade a Corruption enchantment on a Rare Weapon or Quiver. Drops from the Royal Trove in Atziri's Temple after defeating Atziri, the Red Queen. Its name matches the deity deity_yaomac; the item page does not state a naming origin.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 0.5.4 (no in-world date stated)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_yaomac_s_orb_of_sacrifice",
+     "locator": "title and description: 'Yaomac's Orb of Sacrifice' - 'Upgrades a Corruption Enchantment on a Rare Weapon or Quiver and removes a Random Modifier'; drop_text: 'Can drop from Royal Trove in Atziri's Temple after defeating Atziri, the Red Queen.'"
+    }
+   ]
+  },
+  {
+   "id": "artifact_yuguls_orb_of_sacrifice",
+   "name": "Yugul's Orb of Sacrifice",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": "currency_orb",
+   "summary": "PoE2 currency orb (introduced 0.5.4) that removes a random explicit modifier to upgrade a Corruption enchantment on a Rare Jewel. Drops from the Royal Trove in Atziri's Temple after defeating Atziri, the Red Queen. Its name matches the deity deity_yugul; the item page does not state a naming origin.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 0.5.4 (no in-world date stated)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_yugul_s_orb_of_sacrifice",
+     "locator": "title and description: 'Yugul's Orb of Sacrifice' - 'Upgrades a Corruption Enchantment on a Rare Jewel and removes a Random Modifier'; drop_text: 'Can drop from Royal Trove in Atziri's Temple after defeating Atziri, the Red Queen.'"
+    }
+   ]
+  },
+  {
+   "id": "artifact_citaqualotls_thesis",
+   "name": "Citaqualotl's Thesis",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": "soul_core",
+   "summary": "PoE2 Ancient Soul Core (introduced 0.4.0 with Fate of the Vaal). Its socket effects for Body Armour, Gloves and Boots concern Offerings, Sacrifice and Guard. Flavour text frames it as research into altering reality: 'Let us start not with ourselves, but with willing subjects.'",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 0.4.0",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_citaqualotl_s_thesis",
+     "locator": "flavour_text: 'Altering reality, even locally, is no simple matter. Let us start not with ourselves, but with willing subjects.'; version history 0.4.0 'Introduced to the game.'"
+    }
+   ]
+  },
+  {
+   "id": "artifact_guatelitzis_thesis",
+   "name": "Guatelitzi's Thesis",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": "soul_core",
+   "summary": "PoE2 Ancient Soul Core (introduced 0.4.0 with Fate of the Vaal). Helmet, Body Armour and Boots effects concern Life lost from hits, Recoup and Sprinting. Flavour text: 'We are nothing but flesh. Blood. If we are to ascend, we must empower that flesh.'",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 0.4.0",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_guatelitzi_s_thesis",
+     "locator": "flavour_text: 'We are nothing but flesh. Blood. If we are to ascend, we must empower that flesh.'; version history 0.4.0 'Introduced to the game.'"
+    }
+   ]
+  },
+  {
+   "id": "artifact_jiquanis_thesis",
+   "name": "Jiquani's Thesis",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": "soul_core",
+   "summary": "PoE2 Ancient Soul Core (introduced 0.4.0 with Fate of the Vaal). Helmet, Gloves and Boots effects concern maximum Mana, Energy Shield recharge and movement speed. Flavour text: 'The soul carries the truth of what we are. That is where we should focus our efforts.'",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 0.4.0",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_jiquani_s_thesis",
+     "locator": "flavour_text: 'The soul carries the truth of what we are. That is where we should focus our efforts.'; version history 0.4.0 'Introduced to the game.'"
+    }
+   ]
+  },
+  {
+   "id": "artifact_quipolatls_thesis",
+   "name": "Quipolatl's Thesis",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": "soul_core",
+   "summary": "PoE2 Ancient Soul Core (introduced 0.4.0 with Fate of the Vaal). Flavour text presents the research as altering the fundamental laws of existence through focused Corruption: 'With enough focused Corruption, we can alter the fundamental laws of existence in a small area'.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 0.4.0",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_quipolatl_s_thesis",
+     "locator": "flavour_text: 'The results prove it. With enough focused Corruption, we can alter the fundamental laws of existence in a small area... the question now: what do we try first?'; version history 0.4.0 'Introduced to the game.'"
+    }
+   ]
+  },
+  {
+   "id": "artifact_guatelitzis_ablation",
+   "name": "Guatelitzi's Ablation",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": "lineage_support_gem",
+   "summary": "PoE2 lineage support gem (introduced 0.4.0) for Offering skills: supported skills Sacrifice 25% of Life on use, and the Offerings they create grant Power Charges. Drops from the Lineage Gems Vault (Hall of Reverence) in Atziri's Temple. Its flavour text describes young Guatelitzi preparing prisoners for sacrifice.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 0.4.0",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_guatelitzi_s_ablation",
+     "locator": "flavour_text: 'Young Guatelitzi was found moving among the prisoners, preparing their living bodies for sacrifice. The High Priests recognised his inclinations, and gave him a higher calling.'; drop_text: 'Drops from a Lineage Gems Vault (Hall of Reverence) in Atziri's Temple.'; version history 0.4.0"
+    }
+   ]
+  },
+  {
+   "id": "artifact_hayoxis_fulmination",
+   "name": "Hayoxi's Fulmination",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": "lineage_support_gem",
+   "summary": "PoE2 lineage support gem (introduced 0.4.0) for Curse skills: supported Curses create cursed ground that, after 7 seconds of persistence, triggers the Annihilation column. Drops from the Lineage Gems Vault (Hall of Reverence) in Atziri's Temple. Flavour text names an 'Architect of Destruction' who laid explosive powder under the royal temple.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 0.4.0",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_hayoxi_s_fulmination",
+     "locator": "flavour_text: 'The Architect of Destruction slipped explosive powder under the royal temple one pinch at a time.'; drop_text: 'Drops from a Lineage Gems Vault (Hall of Reverence) in Atziri's Temple.'; version history 0.4.0"
+    }
+   ]
+  },
+  {
+   "id": "char_guatelitzi",
+   "name": "Guatelitzi",
+   "aliases": [],
+   "type": "character",
+   "subtype": "vaal_priest",
+   "summary": "Figure known only from the flavour text of Guatelitzi's Ablation (drop location Atziri's Temple): as a young man he was found among prisoners 'preparing their living bodies for sacrifice', and the High Priests recognised his inclinations and gave him a higher calling. Vaal placement is inferred from the Atziri's Temple drop location, not stated.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Vaal era (inferred from Atziri's Temple drop location; no date stated)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_guatelitzi_s_ablation",
+     "locator": "flavour_text: 'Young Guatelitzi was found moving among the prisoners, preparing their living bodies for sacrifice. The High Priests recognised his inclinations, and gave him a higher calling.'"
+    }
+   ]
+  },
+  {
+   "id": "char_hayoxi",
+   "name": "Hayoxi",
+   "aliases": [],
+   "type": "character",
+   "subtype": "vaal_architect",
+   "summary": "Figure called 'The Architect of Destruction' in the flavour text of Hayoxi's Fulmination, who laid explosive powder under the royal temple 'one pinch at a time' and never found the courage to light it. Identity beyond the flavour text is not recorded in the corpus. Placement in the Vaal era is inferred from the royal-temple setting.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Vaal era (inferred from royal-temple setting; no date stated)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_hayoxi_s_fulmination",
+     "locator": "flavour_text: 'The Architect of Destruction slipped explosive powder under the royal temple one pinch at a time. For years, he clung to that, never finding the courage to light it.'"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "id": "e_deity_kitava__associated_with__concept_corruption",
+   "source": "deity_kitava",
+   "target": "concept_corruption",
+   "relation": "associated_with",
+   "description": "Karui dialogue calls Kitava the 'God of Corruption'.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section '==Kitava==' > Dialogue, Haku's 'Kaom' option: 'Kitava, God of Corruption, consumed Kaom from heart to skin.'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_beast__associated_with__concept_corruption",
+   "source": "deity_beast",
+   "target": "concept_corruption",
+   "relation": "associated_with",
+   "description": "The Beast is the source of corrupting powers that mutate whatever contacts it.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_beast_lore",
+     "locator": "intro: 'The Beast possesses corrupting powers, devouring the souls of his prey and mutating whoever comes in contact with it.'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_precursors__associated_with__concept_corruption",
+   "source": "faction_precursors",
+   "target": "concept_corruption",
+   "relation": "associated_with",
+   "description": "The Precursors mastered corruption before delving into world secrets.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section '===Precursor civilization===': 'After mastering corruption, they delved deeper into the \"secrets of [the] world\"'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_precursor_weapon__associated_with__concept_corruption",
+   "source": "artifact_precursor_weapon",
+   "target": "concept_corruption",
+   "relation": "associated_with",
+   "description": "Doryani attempts to harness the Precursor Weapon to destroy corruption.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section '===Precursor civilization===': the Precursor Weapon 'which Doryani attempts to harness to destroy corruption'"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_vaal_corruption_technology__associated_with__concept_corruption",
+   "source": "concept_vaal_corruption_technology",
+   "target": "concept_corruption",
+   "relation": "associated_with",
+   "description": "Vaal use of corruption in technology; the Temple of Atzoatl was used for 'worship of Corruption'.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section '====The Temple of Atzoatl====': the temple was used for 'worship of Corruption'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_eternal_empire_cataclysm__associated_with__concept_corruption",
+   "source": "event_eternal_empire_cataclysm",
+   "target": "concept_corruption",
+   "relation": "associated_with",
+   "description": "The Cataclysm left animals and soil mutated and corrupted.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "section '===The Cataclysm (~1339 IC)===': 'the animals and soil have experienced mutations and corruption'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_vaal_cataclysm__associated_with__concept_corruption",
+   "source": "event_vaal_cataclysm",
+   "target": "concept_corruption",
+   "relation": "associated_with",
+   "description": "Doryani's experiments, which the Atziri page ties to the Fall (Vaal Cataclysm), reportedly involved manipulating the Beast's powers, thaumaturgy and corruption.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "section '===The Fall===' (Doryani paragraph, ~line 117): 'it involved manipulating the powers of the [[Beast]], its thaumaturgy, [[corruption]], [[gem]]s, sacrifice...'; ~line 119: 'His actions led to the end of the Vaal civilization - \"The Fall\"'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_quipolatls_thesis__associated_with__concept_corruption",
+   "source": "artifact_quipolatls_thesis",
+   "target": "concept_corruption",
+   "relation": "associated_with",
+   "description": "Thesis flavour text describes altering reality with focused Corruption.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_quipolatl_s_thesis",
+     "locator": "flavour_text: 'With enough focused Corruption, we can alter the fundamental laws of existence in a small area...'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_kamasas_orb_of_sacrifice__associated_with__deity_kamasa",
+   "source": "artifact_kamasas_orb_of_sacrifice",
+   "target": "deity_kamasa",
+   "relation": "associated_with",
+   "description": "Item title carries the deity name Kamasa; the item page does not state a naming origin (name match only).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_kamasa_s_orb_of_sacrifice",
+     "locator": "item title 'Kamasa's Orb of Sacrifice'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_kamasas_orb_of_sacrifice__associated_with__concept_corruption",
+   "source": "artifact_kamasas_orb_of_sacrifice",
+   "target": "concept_corruption",
+   "relation": "associated_with",
+   "description": "Upgrades a Corruption enchantment.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_kamasa_s_orb_of_sacrifice",
+     "locator": "description: 'Upgrades a Corruption Enchantment on a Rare Amulet, Ring or Belt and removes a random Modifier'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_kamasas_orb_of_sacrifice__associated_with__loc_atziri_s_temple",
+   "source": "artifact_kamasas_orb_of_sacrifice",
+   "target": "loc_atziri_s_temple",
+   "relation": "associated_with",
+   "description": "Drops from the Royal Trove in Atziri's Temple after defeating Atziri.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_kamasa_s_orb_of_sacrifice",
+     "locator": "drop_text: 'Can drop from Royal Trove in Atziri's Temple after defeating Atziri, the Red Queen.'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_kopecs_orb_of_sacrifice__associated_with__deity_kopec",
+   "source": "artifact_kopecs_orb_of_sacrifice",
+   "target": "deity_kopec",
+   "relation": "associated_with",
+   "description": "Item title carries the deity name Kopec; the item page does not state a naming origin (name match only).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_kopec_s_orb_of_sacrifice",
+     "locator": "item title 'Kopec's Orb of Sacrifice'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_kopecs_orb_of_sacrifice__associated_with__concept_corruption",
+   "source": "artifact_kopecs_orb_of_sacrifice",
+   "target": "concept_corruption",
+   "relation": "associated_with",
+   "description": "Upgrades a Corruption enchantment.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_kopec_s_orb_of_sacrifice",
+     "locator": "description: 'Upgrades a Corruption Enchantment on a Rare Armour and removes a random Modifier'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_kopecs_orb_of_sacrifice__associated_with__loc_atziri_s_temple",
+   "source": "artifact_kopecs_orb_of_sacrifice",
+   "target": "loc_atziri_s_temple",
+   "relation": "associated_with",
+   "description": "Drops from the Royal Trove in Atziri's Temple after defeating Atziri.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_kopec_s_orb_of_sacrifice",
+     "locator": "drop_text: 'Can drop from Royal Trove in Atziri's Temple after defeating Atziri, the Red Queen.'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_yaomacs_orb_of_sacrifice__associated_with__deity_yaomac",
+   "source": "artifact_yaomacs_orb_of_sacrifice",
+   "target": "deity_yaomac",
+   "relation": "associated_with",
+   "description": "Item title carries the deity name Yaomac; the item page does not state a naming origin (name match only).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_yaomac_s_orb_of_sacrifice",
+     "locator": "item title 'Yaomac's Orb of Sacrifice'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_yaomacs_orb_of_sacrifice__associated_with__concept_corruption",
+   "source": "artifact_yaomacs_orb_of_sacrifice",
+   "target": "concept_corruption",
+   "relation": "associated_with",
+   "description": "Upgrades a Corruption enchantment.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_yaomac_s_orb_of_sacrifice",
+     "locator": "description: 'Upgrades a Corruption Enchantment on a Rare Weapon or Quiver and removes a random Modifier'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_yaomacs_orb_of_sacrifice__associated_with__loc_atziri_s_temple",
+   "source": "artifact_yaomacs_orb_of_sacrifice",
+   "target": "loc_atziri_s_temple",
+   "relation": "associated_with",
+   "description": "Drops from the Royal Trove in Atziri's Temple after defeating Atziri.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_yaomac_s_orb_of_sacrifice",
+     "locator": "drop_text: 'Can drop from Royal Trove in Atziri's Temple after defeating Atziri, the Red Queen.'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_yuguls_orb_of_sacrifice__associated_with__deity_yugul",
+   "source": "artifact_yuguls_orb_of_sacrifice",
+   "target": "deity_yugul",
+   "relation": "associated_with",
+   "description": "Item title carries the deity name Yugul; the item page does not state a naming origin (name match only).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_yugul_s_orb_of_sacrifice",
+     "locator": "item title 'Yugul's Orb of Sacrifice'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_yuguls_orb_of_sacrifice__associated_with__concept_corruption",
+   "source": "artifact_yuguls_orb_of_sacrifice",
+   "target": "concept_corruption",
+   "relation": "associated_with",
+   "description": "Upgrades a Corruption enchantment.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_yugul_s_orb_of_sacrifice",
+     "locator": "description: 'Upgrades a Corruption Enchantment on a Rare Jewel and removes a random Modifier'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_yuguls_orb_of_sacrifice__associated_with__loc_atziri_s_temple",
+   "source": "artifact_yuguls_orb_of_sacrifice",
+   "target": "loc_atziri_s_temple",
+   "relation": "associated_with",
+   "description": "Drops from the Royal Trove in Atziri's Temple after defeating Atziri.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "vaal_temple"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_yugul_s_orb_of_sacrifice",
+     "locator": "drop_text: 'Can drop from Royal Trove in Atziri's Temple after defeating Atziri, the Red Queen.'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_vaal_cataclysm__associated_with__concept_cataclysm",
+   "source": "event_vaal_cataclysm",
+   "target": "concept_cataclysm",
+   "relation": "associated_with",
+   "description": "The Vaal Cataclysm, also known as The Fall, is one of the cataclysm events.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section '====The Vaal Cataclysm====': 'The Vaal Cataclysm, also known as The Fall, was a historical event...'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_eternal_empire_cataclysm__associated_with__concept_cataclysm",
+   "source": "event_eternal_empire_cataclysm",
+   "target": "concept_cataclysm",
+   "relation": "associated_with",
+   "description": "The Cataclysm of ~1339 IC that ended the Eternal Empire.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "section '===The Cataclysm (~1339 IC)==='"
+    }
+   ]
+  },
+  {
+   "id": "e_event_precursor_cataclysm__associated_with__concept_cataclysm",
+   "source": "event_precursor_cataclysm",
+   "target": "concept_cataclysm",
+   "relation": "associated_with",
+   "description": "The unknown cataclysm that wiped out the Precursor civilisation.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro: 'An incredibly advanced precursor civilization existed, but was wiped out by an unknown cataclysm.'"
+    }
+   ]
+  },
+  {
+   "id": "e_era_eternal_empire_rise__part_of__era_eternal_empire",
+   "source": "era_eternal_empire_rise",
+   "target": "era_eternal_empire",
+   "relation": "part_of",
+   "description": "era_eternal_empire_rise is a bucket within the era_eternal_empire umbrella period.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "'===Imperialis Conceptus (1 IC)===' to 'Reign of Chitus'"
+    }
+   ]
+  },
+  {
+   "id": "e_era_eternal_empire_fall__part_of__era_eternal_empire",
+   "source": "era_eternal_empire_fall",
+   "target": "era_eternal_empire",
+   "relation": "part_of",
+   "description": "era_eternal_empire_fall is a bucket within the era_eternal_empire umbrella period.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "'===Reign of Voll (1334 - 1339 IC)===' and '===The Cataclysm (~1339 IC)==='"
+    }
+   ]
+  },
+  {
+   "id": "e_era_poe1_campaign__part_of__era_poe1",
+   "source": "era_poe1_campaign",
+   "target": "era_poe1",
+   "relation": "part_of",
+   "description": "era_poe1_campaign is a bucket within the era_poe1 umbrella period. Meta grouping per the schema era buckets; cited page supports only the PoE1-before-PoE2 gap.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "PoE1 campaign precedes the ~20-year interlude; paragraph 3 'An exile was responsible for killing the Beast around 20 years prior...'"
+    }
+   ]
+  },
+  {
+   "id": "e_era_poe1_atlas__part_of__era_poe1",
+   "source": "era_poe1_atlas",
+   "target": "era_poe1",
+   "relation": "part_of",
+   "description": "era_poe1_atlas is a bucket within the era_poe1 umbrella period. Meta grouping per the schema era buckets; cited page supports only the PoE1-before-PoE2 gap.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe1_atlas",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "PoE1 timeline grouping; paragraph 3 'An exile was responsible for killing the Beast around 20 years prior...'"
+    }
+   ]
+  },
+  {
+   "id": "e_era_poe1_leagues__part_of__era_poe1",
+   "source": "era_poe1_leagues",
+   "target": "era_poe1",
+   "relation": "part_of",
+   "description": "era_poe1_leagues is a bucket within the era_poe1 umbrella period. Meta grouping per the schema era buckets; cited page supports only the PoE1-before-PoE2 gap.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "PoE1 timeline grouping; paragraph 3 'An exile was responsible for killing the Beast around 20 years prior...'"
+    }
+   ]
+  },
+  {
+   "id": "e_era_poe2_campaign__part_of__era_poe2",
+   "source": "era_poe2_campaign",
+   "target": "era_poe2",
+   "relation": "part_of",
+   "description": "era_poe2_campaign is a bucket within the era_poe2 umbrella period. Meta grouping per the schema era buckets; cited page supports only the PoE1-before-PoE2 gap.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "PoE2 timeline begins after the interlude; paragraph 3 'around 20 years prior to the events of Path of Exile 2'"
+    }
+   ]
+  },
+  {
+   "id": "e_era_poe2_endgame__part_of__era_poe2",
+   "source": "era_poe2_endgame",
+   "target": "era_poe2",
+   "relation": "part_of",
+   "description": "era_poe2_endgame is a bucket within the era_poe2 umbrella period. Meta grouping per the schema era buckets; cited page supports only the PoE1-before-PoE2 gap.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "PoE2 timeline grouping; paragraph 3 'around 20 years prior to the events of Path of Exile 2'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kastov__member_of__faction_eternal_empire",
+   "source": "char_kastov",
+   "target": "faction_eternal_empire",
+   "relation": "member_of",
+   "description": "Governor of Stridevolf, an Eternal Empire official who turned against the Empire in the Purity Rebellion.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "section '==Members==' > Purity Rebellion rebels: 'Kastov, Governor of Stridevolf'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kastov__allies_with__char_voll",
+   "source": "char_kastov",
+   "target": "char_voll",
+   "relation": "allies_with",
+   "description": "Joined High Templar Voll's Purity Rebellion.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_purity_chronicles",
+     "locator": "intro: 'High Templar Voll struck little hardship in gathering others to his godly cause ... Governor Kastov of Stridevolf'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kastov__allies_with__char_ondar",
+   "source": "char_kastov",
+   "target": "char_ondar",
+   "relation": "allies_with",
+   "description": "Fellow Purity Rebellion ally of Kastov.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_purity_chronicles",
+     "locator": "intro: 'Sarn's own Lord Mayor Ondar and Victario ... Governor Kastov of Stridevolf ... these Warriors of Purity forged an uprising'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kastov__allies_with__char_geofri",
+   "source": "char_kastov",
+   "target": "char_geofri",
+   "relation": "allies_with",
+   "description": "Fellow Purity Rebellion ally of Kastov.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_purity_chronicles",
+     "locator": "intro: 'Archbishop Geofri of Phrecia ... Governor Kastov of Stridevolf ... Warriors of Purity forged an uprising'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kastov__allies_with__char_adus",
+   "source": "char_kastov",
+   "target": "char_adus",
+   "relation": "allies_with",
+   "description": "Fellow Purity Rebellion ally of Kastov.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_purity_chronicles",
+     "locator": "intro: 'Commander Adus of Highgate ... Governor Kastov of Stridevolf'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kastov__allies_with__char_victario",
+   "source": "char_kastov",
+   "target": "char_victario",
+   "relation": "allies_with",
+   "description": "Fellow Purity Rebellion ally of Kastov.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_victario",
+     "locator": "paragraph 'In 1333 IC, Victario supported the Purity Rebellion ... along with Kastov'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_medici_perandus__member_of__faction_perandus_family",
+   "source": "char_medici_perandus",
+   "target": "faction_perandus_family",
+   "relation": "member_of",
+   "description": "Listed as a member of the Perandus family.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "unknown",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_perandus_family",
+     "locator": "section '===Medici Perandus===' and '==Members=='"
+    }
+   ]
+  },
+  {
+   "id": "e_text_letters_of_exile__located_in__loc_lioneye_s_watch",
+   "source": "text_letters_of_exile",
+   "target": "loc_lioneye_s_watch",
+   "relation": "located_in",
+   "description": "Found in Lioneye's Watch as an environmental lore object.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_letters_of_exile",
+     "locator": "intro: 'Letters of Exile is an environmental lore object found in Lioneye's Watch.'"
+    }
+   ]
+  },
+  {
+   "id": "e_text_letters_of_exile__mentions__concept_exile",
+   "source": "text_letters_of_exile",
+   "target": "concept_exile",
+   "relation": "mentions",
+   "description": "Its sentencing formula describes the exile system: 'You are hereby Exiled to Wraeclast where, it is hoped, you shall come to repent your Sins.'",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_letters_of_exile",
+     "locator": "section '==Format==': 'God has charged me with your redemption. You are hereby Exiled to Wraeclast...'"
+    }
+   ]
+  },
+  {
+   "id": "e_text_letters_of_exile__mentions__char_hillock",
+   "source": "text_letters_of_exile",
+   "target": "char_hillock",
+   "relation": "mentions",
+   "description": "Sentence record for Hillock of Slaugh, sentenced 1599 IC.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_letters_of_exile",
+     "locator": "section '===Hillock of Slaugh===': 'Sentenced: 1599 IC'"
+    }
+   ]
+  },
+  {
+   "id": "e_text_letters_of_exile__mentions__char_kraityn",
+   "source": "text_letters_of_exile",
+   "target": "char_kraityn",
+   "relation": "mentions",
+   "description": "Sentence record for Kraityn of Theopolis, sentenced 1598 IC.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_letters_of_exile",
+     "locator": "section '===Kraityn of Theopolis===': 'Sentenced: 1598 IC'"
+    }
+   ]
+  },
+  {
+   "id": "e_text_letters_of_exile__mentions__char_maramoa",
+   "source": "text_letters_of_exile",
+   "target": "char_maramoa",
+   "relation": "mentions",
+   "description": "Sentence record for Maramoa of Ngamakanui, sentenced 1597 IC.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_letters_of_exile",
+     "locator": "section '===Maramoa of Ngamakanui===': 'Sentenced: 1597 IC'"
+    }
+   ]
+  },
+  {
+   "id": "e_text_letters_of_exile__mentions__faction_templar",
+   "source": "text_letters_of_exile",
+   "target": "faction_templar",
+   "relation": "mentions",
+   "description": "Sentence records cite offences against Templar authority (e.g. Lothar of Wetherdale).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_letters_of_exile",
+     "locator": "section '===Lothar of Wetherdale===': 'Four counts of undermining Templar authority'"
+    }
+   ]
+  },
+  {
+   "id": "e_text_letters_of_exile__mentions__faction_ebony_legion",
+   "source": "text_letters_of_exile",
+   "target": "faction_ebony_legion",
+   "relation": "mentions",
+   "description": "Sentence records cite offences against Ebony Legion officers.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_letters_of_exile",
+     "locator": "section '===Kraityn of Theopolis===': 'Twenty-seven counts of Verbal Abuse of an Officer of the Ebony Legion'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_arohongui__part_of__concept_karui_gods",
+   "source": "deity_arohongui",
+   "target": "concept_karui_gods",
+   "relation": "part_of",
+   "description": "Arohongui is one of the gods named on the Karui Gods page.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section '==Arohongui==' (Dialogue and Items)"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_hinekora__part_of__concept_karui_gods",
+   "source": "deity_hinekora",
+   "target": "concept_karui_gods",
+   "relation": "part_of",
+   "description": "Hinekora is one of the gods named on the Karui Gods page.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section '==Hinekora==' (Dialogue and Items)"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_kitava__part_of__concept_karui_gods",
+   "source": "deity_kitava",
+   "target": "concept_karui_gods",
+   "relation": "part_of",
+   "description": "Kitava is one of the gods named on the Karui Gods page.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section '==Kitava==' (Dialogue and Items)"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_ngamahu__part_of__concept_karui_gods",
+   "source": "deity_ngamahu",
+   "target": "concept_karui_gods",
+   "relation": "part_of",
+   "description": "Ngamahu is one of the gods named on the Karui Gods page.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section '==Ngamahu==' (Dialogue and Items)"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_ramako__part_of__concept_karui_gods",
+   "source": "deity_ramako",
+   "target": "concept_karui_gods",
+   "relation": "part_of",
+   "description": "Ramako is one of the gods named on the Karui Gods page.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section '==Ramako==' (Dialogue and Items)"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_tasalio__part_of__concept_karui_gods",
+   "source": "deity_tasalio",
+   "target": "concept_karui_gods",
+   "relation": "part_of",
+   "description": "Tasalio is one of the gods named on the Karui Gods page.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section '==Tasalio==' (Dialogue and Items)"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_tawhoa__part_of__concept_karui_gods",
+   "source": "deity_tawhoa",
+   "target": "concept_karui_gods",
+   "relation": "part_of",
+   "description": "Tawhoa is one of the gods named on the Karui Gods page.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section '==Tawhoa==' (Dialogue and Items)"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_tukohama__part_of__concept_karui_gods",
+   "source": "deity_tukohama",
+   "target": "concept_karui_gods",
+   "relation": "part_of",
+   "description": "Tukohama is one of the gods named on the Karui Gods page.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section '==Tukohama==' (Dialogue and Items)"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_valako__part_of__concept_karui_gods",
+   "source": "deity_valako",
+   "target": "concept_karui_gods",
+   "relation": "part_of",
+   "description": "Valako is one of the gods named on the Karui Gods page.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section '==Valako==' (Dialogue and Items)"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_karui_gods__part_of__concept_karui_way",
+   "source": "concept_karui_gods",
+   "target": "concept_karui_way",
+   "relation": "part_of",
+   "description": "The gods are part of the Karui Way's lore.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "intro: 'In the game's lore, The Karui Way has several gods that are representative of or rule over various aspects of the world.'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_citaqualotls_thesis__introduced_in__league_poe2_fate_of_the_vaal",
+   "source": "artifact_citaqualotls_thesis",
+   "target": "league_poe2_fate_of_the_vaal",
+   "relation": "introduced_in",
+   "description": "Introduced in version 0.4.0, the Fate of the Vaal league's release.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_citaqualotl_s_thesis",
+     "locator": "version history: '0.4.0 * Introduced to the game.'"
+    },
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_league",
+     "locator": "infobox release_version 0.4.0; 'launched on December 12, 2025 as part of ... version 0.4.0'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_guatelitzis_thesis__introduced_in__league_poe2_fate_of_the_vaal",
+   "source": "artifact_guatelitzis_thesis",
+   "target": "league_poe2_fate_of_the_vaal",
+   "relation": "introduced_in",
+   "description": "Introduced in version 0.4.0, the Fate of the Vaal league's release.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_guatelitzi_s_thesis",
+     "locator": "version history: '0.4.0 * Introduced to the game.'"
+    },
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_league",
+     "locator": "infobox release_version 0.4.0; 'launched on December 12, 2025 as part of ... version 0.4.0'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_jiquanis_thesis__introduced_in__league_poe2_fate_of_the_vaal",
+   "source": "artifact_jiquanis_thesis",
+   "target": "league_poe2_fate_of_the_vaal",
+   "relation": "introduced_in",
+   "description": "Introduced in version 0.4.0, the Fate of the Vaal league's release.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_jiquani_s_thesis",
+     "locator": "version history: '0.4.0 * Introduced to the game.'"
+    },
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_league",
+     "locator": "infobox release_version 0.4.0; 'launched on December 12, 2025 as part of ... version 0.4.0'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_quipolatls_thesis__introduced_in__league_poe2_fate_of_the_vaal",
+   "source": "artifact_quipolatls_thesis",
+   "target": "league_poe2_fate_of_the_vaal",
+   "relation": "introduced_in",
+   "description": "Introduced in version 0.4.0, the Fate of the Vaal league's release.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_quipolatl_s_thesis",
+     "locator": "version history: '0.4.0 * Introduced to the game.'"
+    },
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_league",
+     "locator": "infobox release_version 0.4.0; 'launched on December 12, 2025 as part of ... version 0.4.0'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_guatelitzis_ablation__introduced_in__league_poe2_fate_of_the_vaal",
+   "source": "artifact_guatelitzis_ablation",
+   "target": "league_poe2_fate_of_the_vaal",
+   "relation": "introduced_in",
+   "description": "Introduced in version 0.4.0, the Fate of the Vaal league's release.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_guatelitzi_s_ablation",
+     "locator": "version history: '0.4.0 * Introduced to the game.'"
+    },
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_league",
+     "locator": "infobox release_version 0.4.0; 'launched on December 12, 2025 as part of ... version 0.4.0'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_hayoxis_fulmination__introduced_in__league_poe2_fate_of_the_vaal",
+   "source": "artifact_hayoxis_fulmination",
+   "target": "league_poe2_fate_of_the_vaal",
+   "relation": "introduced_in",
+   "description": "Introduced in version 0.4.0, the Fate of the Vaal league's release.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_hayoxi_s_fulmination",
+     "locator": "version history: '0.4.0 * Introduced to the game.'"
+    },
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_league",
+     "locator": "infobox release_version 0.4.0; 'launched on December 12, 2025 as part of ... version 0.4.0'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_guatelitzis_ablation__associated_with__char_guatelitzi",
+   "source": "artifact_guatelitzis_ablation",
+   "target": "char_guatelitzi",
+   "relation": "associated_with",
+   "description": "Item title carries Guatelitzi's name; the flavour text describes his early sacrificial training.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_guatelitzi_s_ablation",
+     "locator": "flavour_text: 'Young Guatelitzi was found moving among the prisoners...'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_guatelitzis_ablation__associated_with__concept_vaal_sacrifice",
+   "source": "artifact_guatelitzis_ablation",
+   "target": "concept_vaal_sacrifice",
+   "relation": "associated_with",
+   "description": "Offering and sacrifice mechanics in the flavour and effect text.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_guatelitzi_s_ablation",
+     "locator": "flavour_text 'preparing their living bodies for sacrifice'; gem_description 'Supported Skills Sacrifice a portion of your life on use'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_guatelitzis_ablation__associated_with__loc_atziri_s_temple",
+   "source": "artifact_guatelitzis_ablation",
+   "target": "loc_atziri_s_temple",
+   "relation": "associated_with",
+   "description": "Drops from the Lineage Gems Vault (Hall of Reverence) in Atziri's Temple.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_guatelitzi_s_ablation",
+     "locator": "drop_text: 'Drops from a Lineage Gems Vault (Hall of Reverence) in Atziri's Temple.'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_hayoxis_fulmination__associated_with__char_hayoxi",
+   "source": "artifact_hayoxis_fulmination",
+   "target": "char_hayoxi",
+   "relation": "associated_with",
+   "description": "Item title carries Hayoxi's name; the flavour text calls him 'The Architect of Destruction'.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_hayoxi_s_fulmination",
+     "locator": "flavour_text: 'The Architect of Destruction slipped explosive powder under the royal temple...'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_hayoxis_fulmination__associated_with__loc_atziri_s_temple",
+   "source": "artifact_hayoxis_fulmination",
+   "target": "loc_atziri_s_temple",
+   "relation": "associated_with",
+   "description": "Drops from the Lineage Gems Vault (Hall of Reverence) in Atziri's Temple.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_hayoxi_s_fulmination",
+     "locator": "drop_text: 'Drops from a Lineage Gems Vault (Hall of Reverence) in Atziri's Temple.'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_hayoxi__associated_with__faction_vaal_architects",
+   "source": "char_hayoxi",
+   "target": "faction_vaal_architects",
+   "relation": "associated_with",
+   "description": "The flavour text calls Hayoxi 'The Architect of Destruction'; the link to the Royal Architects of Atzoatl is an inference from the title, not a stated membership.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_hayoxi_s_fulmination",
+     "locator": "flavour_text: 'The Architect of Destruction ... under the royal temple'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_count_geonor__seeks__deity_beast",
+   "source": "char_count_geonor",
+   "target": "deity_beast",
+   "relation": "seeks",
+   "description": "Count Geonor wants to harness the lingering powers of the Beast.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 3: 'Count Geonor was among those who wanted to harness the lingering powers of the Beast'"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_seed_of_corruption__associated_with__deity_beast",
+   "source": "artifact_seed_of_corruption",
+   "target": "deity_beast",
+   "relation": "associated_with",
+   "description": "Sin used the Seed of Corruption to create the Beast.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 2: 'Using the Seed of Corruption, Sin created the Beast'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_eternal_empire__associated_with__loc_abandoned_prison",
+   "source": "faction_eternal_empire",
+   "target": "loc_abandoned_prison",
+   "relation": "associated_with",
+   "description": "The Abandoned Prison, an Act 4 island prison, is described in its quest log as built by the Eternal Empire.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_abandoned_prison_quest",
+     "locator": "quest log: 'You have found a prison built by the Eternal Empire. Something is very wrong here.'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_eternal_empire__associated_with__loc_cemetery_of_the_eternals",
+   "source": "faction_eternal_empire",
+   "target": "loc_cemetery_of_the_eternals",
+   "relation": "associated_with",
+   "description": "Eternal inscriptions in the Cemetery of the Eternals claim the land 'in life and death'.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "found in Cemetery of the Eternals: 'The Eternal Empire stakes claim over this land, both in life and death!'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_chitus__allies_with__char_malachai",
+   "source": "char_chitus",
+   "target": "char_malachai",
+   "relation": "allies_with",
+   "description": "Auto-captioned video says Chitus (as 'chiles perandus') allowed thaumaturgy back and provided help to Malachai and Maligaro's experiments. Inferred from a single video.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_yt_16jF71G2M6M",
+     "locator": "transcript [0:19]-[0:35]: 'when chiles perandus became the emperor he decided to allow ... he even provided help to malachi and inquisitor maligaro for their experiments' (auto-captions)"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_hooded_one__member_of__faction_precursors",
+   "source": "char_the_hooded_one",
+   "target": "faction_precursors",
+   "relation": "member_of",
+   "description": "Single auto-captioned video says Act 4 hints that the Hooded One was once a Precursor before becoming Sin. Community theory; not verified against in-game text in this check.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "community_theory",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_yt_1Zt4tv8fjI4",
+     "locator": "transcript [7:13]-[7:24] (auto-captions): 'Act 4 has already started to drop hints that the Hooded One was once one of them before he became Sin'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__travels_to__loc_abandoned_prison",
+   "source": "char_exile_poe2",
+   "target": "loc_abandoned_prison",
+   "relation": "travels_to",
+   "description": "The Exile sails to the Abandoned Prison in Act 4; the quest is begun by speaking with Makoru.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_abandoned_prison_quest",
+     "locator": "intro: 'one of the secondary main story quests in Act 4' / 'The quest is begun by speaking with Makoru and sailing towards Abandoned Prison.'"
+    }
+   ]
+  }
+ ]
+}

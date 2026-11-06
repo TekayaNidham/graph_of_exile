@@ -1,0 +1,6818 @@
+{
+ "domain": "deep_history",
+ "sources": [
+  {
+   "id": "src_poewiki_history_of_wraeclast",
+   "title": "History of Wraeclast - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/History_of_Wraeclast",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_kalandra",
+   "title": "Kalandra - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Kalandra",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_kalandra_league",
+   "title": "Kalandra league - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Kalandra_league",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_azmeri",
+   "title": "The Azmeri - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Azmeri",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_ezomytes",
+   "title": "The Ezomytes - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Ezomytes",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_maraketh",
+   "title": "The Maraketh - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Maraketh",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_calendar_lore",
+   "title": "Calendar (lore) - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Calendar_(lore)",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_lightless",
+   "title": "The Lightless - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Lightless",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_molten_one",
+   "title": "The Molten One - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Molten_One",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_order_of_the_djinn",
+   "title": "Order of the Djinn - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Order_of_the_Djinn",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_kalguur",
+   "title": "Kalguur - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Kalguur",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_ngamakanui",
+   "title": "Ngamakanui - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Ngamakanui",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_vastiri_plains",
+   "title": "The Vastiri Plains - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Vastiri_Plains",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_eternal_empire",
+   "title": "Eternal Empire - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Eternal_Empire",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_first_ones",
+   "title": "The First Ones - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_First_Ones",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_zana_the_originator",
+   "title": "Zana, the Originator - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Zana,_the_Originator",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_beast",
+   "title": "The Beast - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Beast",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_lore",
+   "title": "Lore - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Lore",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_legacy_of_the_precursors",
+   "title": "Legacy of the Precursors - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Legacy_of_the_Precursors",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_tower",
+   "title": "Tower - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Tower",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_grand_project",
+   "title": "The Grand Project - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Grand_Project",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_ahn_s_citadel",
+   "title": "Ahn's Citadel - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Ahn%27s_Citadel",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_keth",
+   "title": "Keth - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Keth",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_act_4",
+   "title": "Act 4 - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Act_4",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_wraeclast",
+   "title": "Wraeclast - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Wraeclast",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_yt_1Zt4tv8fjI4",
+   "title": "Who is Doryani? | Path Of Exile 2 Lore",
+   "url": "https://www.youtube.com/watch?v=1Zt4tv8fjI4",
+   "type": "youtube",
+   "author_or_channel": "Lore Of Exile",
+   "accessed": "2026-11-05",
+   "reliability": "tertiary"
+  },
+  {
+   "id": "src_ggg_secrets_of_the_atlas",
+   "title": "Secrets of the Atlas announcement (pathofexile.com forum)",
+   "url": "https://www.pathofexile.com/forum/view-thread/3805704",
+   "type": "forum_post",
+   "author_or_channel": "Grinding Gear Games",
+   "accessed": "2026-11-05",
+   "reliability": "primary"
+  },
+  {
+   "id": "src_ggg_legacy_of_phrecia",
+   "title": "Legacy of Phrecia (official event page)",
+   "url": "https://www.pathofexile.com/phrecia",
+   "type": "official_site",
+   "author_or_channel": "Grinding Gear Games",
+   "accessed": "2026-11-05",
+   "reliability": "primary"
+  },
+  {
+   "id": "src_web_poe_vault_phrecia_end",
+   "title": "End of Legacy of Phrecia event - PoE Vault",
+   "url": "https://www.poe-vault.com/news/2025/04/23/end-of-legacy-of-phrecia-event",
+   "type": "other",
+   "author_or_channel": "PoE Vault (fan news site)",
+   "accessed": "2026-11-05",
+   "reliability": "tertiary"
+  }
+ ],
+ "nodes": [
+  {
+   "id": "era_primordial",
+   "name": "Primordial Age",
+   "aliases": [],
+   "type": "era",
+   "subtype": null,
+   "summary": "Earliest age of Wraeclast: a molten world of ooze and magma inhabited by Titans, in which Kalandra found her lake. Chronology is explicitly unclear.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "before mortals/gods",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Prehistory: 'When Wraeclast was a primordial molten world of ooze and magma'"
+    }
+   ]
+  },
+  {
+   "id": "era_precursor",
+   "name": "Precursor Era",
+   "aliases": [],
+   "type": "era",
+   "subtype": null,
+   "summary": "Age of the Precursor civilisation, the only culture wholly predating the Winter of the World; its apex lies further before the Vaal than the Vaal lie before the present.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "before the Winter of the World",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Prehistory > Precursor civilization"
+    }
+   ]
+  },
+  {
+   "id": "era_azmeri_ezomyte_ancient",
+   "name": "Ancient Azmeri/Ezomyte Age",
+   "aliases": [],
+   "type": "era",
+   "subtype": null,
+   "summary": "Era of the primeval civilisation, Winter of the World, Lightless war and the ancient Azmeri, Ezomyte, Maraketh and Karui peoples, before the Eternal Empire (1 IC).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "sections Primeval civilization, The Azmeri, The Maraketh, The Ezomytes"
+    }
+   ]
+  },
+  {
+   "id": "loc_wraeclast",
+   "name": "Wraeclast",
+   "aliases": [],
+   "type": "location",
+   "subtype": "continent",
+   "summary": "The continent on which the Exile's story takes place; PoE2 is set on (and expands) Wraeclast, while Oriath is another continent seen in PoE1.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro and Prehistory"
+    },
+    {
+     "source_id": "src_poe2wiki_wraeclast",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "loc_ngamakanui",
+   "name": "Ngamakanui",
+   "aliases": [],
+   "type": "location",
+   "subtype": "archipelago",
+   "summary": "Karui homeland, an archipelago southwest of Lioneye's Watch; to the Karui the name (Nga + Makanui, 'the Karui Way') denotes anywhere the Karui roam. Explorable in PoE2 Act 4, where it is overrun by the Flesh Scourge (speculative per wiki).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_ngamakanui",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Karui: Kahuturoa 'Ngamakanui'"
+    },
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "loc_vastiri",
+   "name": "Vastiri (Plains / Desert)",
+   "aliases": [
+    "Vastiri Desert",
+    "Vastiri Plains",
+    "Maraketh Desert"
+   ],
+   "type": "location",
+   "subtype": "region",
+   "summary": "Region bordering Phaaryl, Lira Vaal and Sarn, home of the Maraketh; once a lush land of forests and seven rivers around Keth, it became a desert over thousands of years after the Beast silenced the gods.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vastiri_plains",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Maraketh paragraphs 1-3"
+    }
+   ]
+  },
+  {
+   "id": "loc_keth",
+   "name": "Keth",
+   "aliases": [],
+   "type": "location",
+   "subtype": "ancient_city",
+   "summary": "Ancient Maraketh city and trade empire at the meeting of seven rivers, called the 'glory of the world'; ruins form an Act 2 area in PoE2.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Maraketh > Keth"
+    },
+    {
+     "source_id": "src_poe2wiki_keth",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "loc_kalguur",
+   "name": "Kalguur",
+   "aliases": [],
+   "type": "location",
+   "subtype": "nation",
+   "summary": "Homeland of the Kalguur people in Middengard, a distant continent southeast/east of Wraeclast; not directly accessible but referenced by Expedition and Settlers of Kalguur.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalguur",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Kalguur"
+    }
+   ]
+  },
+  {
+   "id": "loc_middengard",
+   "name": "Middengard",
+   "aliases": [],
+   "type": "location",
+   "subtype": "continent",
+   "summary": "Distant continent east/southeast of Wraeclast on which Kalguur lies.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalguur",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "loc_ezomyr",
+   "name": "Ezomyr",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Ezomyte homeland on a landmass west of the Wraeclastian mainland (with the Isles of Skothe), later largely wiped out by a plague; Ogham forests in PoE2 Act 1.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_ezomytes",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Ezomytes"
+    }
+   ]
+  },
+  {
+   "id": "loc_isles_of_skothe",
+   "name": "Isles of Skothe",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Landmass west of Sarn named with Ezomyr as the origin of the Ezomytes.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_ezomytes",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "loc_azmerian_ranges",
+   "name": "Azmerian Ranges",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Mountain homeland of the ancient Azmeri; origin of the migrants who founded Sarn and the Eternal Empire, and where the Vaal first met the Azmeri.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Vaal > Contacting the Azmeri"
+    }
+   ]
+  },
+  {
+   "id": "loc_azmeri_wildwood",
+   "name": "Viridian Wildwood",
+   "aliases": [
+    "Azmeri Wildwood"
+   ],
+   "type": "location",
+   "subtype": "refuge",
+   "summary": "Refuge created by the Draiocht against the Winter of the World; time loops in seasons there, the Maji fight the Nameless and the King in the Mists. PoE2 Last of the Druids setting.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Winter of the World > The Viridian Wildwood"
+    },
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "Culture > The Maji"
+    }
+   ]
+  },
+  {
+   "id": "loc_phrecia",
+   "name": "Phrecia (imperial heartlands)",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Imperial heartlands of the Eternal Empire named in honour of General Alano Phrecia after he drove away a pervasive darkness; contains Phrecia Cathedral (modern Fellshrine Ruins).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "Reign of Alano Phrecia"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Reign of Alano Phrecia"
+    }
+   ]
+  },
+  {
+   "id": "loc_mount_veruso",
+   "name": "Mount Veruso",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Mountain beneath which virtue gems were discovered by the Vaal, who used them to gain great power.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "loc_lake_of_kalandra",
+   "name": "Lake of Kalandra",
+   "aliases": [],
+   "type": "location",
+   "subtype": "plane_like_lake",
+   "summary": "Boundless lake of basalt pillars that existed when 'nothing but the lake' did; Kalandra is trapped in it. The Kalandra league lets the Exile stage reflected encounters there.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Lore > Ancient Etchings"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Prehistory > The Lake of Kalandra"
+    }
+   ]
+  },
+  {
+   "id": "loc_forge_of_the_titans",
+   "name": "Forge of the Titans",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Volcanic caldera (Crucible league) where the Molten One dwells and the Redblades worship him.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "crucible"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_molten_one",
+     "locator": "NPC infobox / Lore"
+    }
+   ]
+  },
+  {
+   "id": "league_kalandra",
+   "name": "Lake of Kalandra (League)",
+   "aliases": [],
+   "type": "league",
+   "subtype": null,
+   "summary": "Challenge league released 19 Aug 2022 in version 3.19.0 (ended 6 Dec 2022): Mirrored Tablets let players build reflected encounters in the Lake of Kalandra.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "kalandra"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "3.19.0, August 2022",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra_league",
+     "locator": "infobox/intro"
+    }
+   ]
+  },
+  {
+   "id": "artifact_mirror_of_kalandra",
+   "name": "Mirror of Kalandra",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": null,
+   "summary": "Rarest currency item, named after Kalandra and tied to mirrored items; the PoE logo resembles it.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "text_ancient_etchings",
+   "name": "Ancient Etchings",
+   "aliases": [],
+   "type": "text",
+   "subtype": null,
+   "summary": "Series of etchings in the Lake of Kalandra written by Kalandra: her entry, view of gods as 'thieves of virtue', a conversation with a 'little thief' (Sin), the Order of the Djinn's abandoned promise, and a new escape plan.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "kalandra"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Lore > Ancient Etchings"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Prehistory > The Lake of Kalandra footnotes"
+    }
+   ]
+  },
+  {
+   "id": "event_kalandra_trapped",
+   "name": "Kalandra Trapped in the Lake",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Kalandra enters the primordial lake out of curiosity and can never leave: every escape returns her to the lake with no memory.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Lore > Ancient Etchings"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Lake of Kalandra"
+    }
+   ]
+  },
+  {
+   "id": "event_order_of_djinn_forsake_kalandra",
+   "name": "Order of the Djinn Forsake Kalandra",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "The Order of the Djinn swears to free Kalandra and devotes itself to her artefacts of power, but 'once they understood the truth of this place' its scribes try to erase her from history, burning their books (Kalandra page: and self-immolating out of fear); the History page words it as forsaking and abandoning her.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Ancient Etching VI summary"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Lake of Kalandra"
+    },
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Lore > Ancient Etchings: 'burning their books and self-immolating out of fear'"
+    }
+   ]
+  },
+  {
+   "id": "event_sin_consults_kalandra",
+   "name": "Sin Consults Kalandra",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Sin seeks Kalandra at her lake and receives cryptic instructions leading him to a Precursor ruin holding the Seed of Corruption, used to create the Beast. Etching V's 'little thief' is read as Sin; PoE1 link is inference, PoE2 wiki states it directly.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 2"
+    },
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Lore, Ancient Etching V"
+    }
+   ]
+  },
+  {
+   "id": "char_kalandra_reflection",
+   "name": "Evilandra (Kalandra's Reflection)",
+   "aliases": [
+    "Evilandra"
+   ],
+   "type": "character",
+   "subtype": null,
+   "summary": "Rare hostile reflection of Kalandra in the Lake (game id ArbiterWildEvil) with glowing red eyes who duplicates map bosses.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "kalandra"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Kalandra's reflection"
+    }
+   ]
+  },
+  {
+   "id": "creature_titans",
+   "name": "The Titans",
+   "aliases": [],
+   "type": "creature",
+   "subtype": null,
+   "summary": "Primordial race that walked molten Wraeclast and inhabited its volcanoes; mostly indifferent to humans; nearly wiped out in the 'rising darkness', with the Molten One the sole survivor.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Prehistory > The Titans"
+    },
+    {
+     "source_id": "src_poewiki_the_molten_one",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "faction_redblades",
+   "name": "Redblades",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Human tribe descended from those who settled the Titans' volcanoes; they ritually sacrifice humans to the Molten One, possibly because a Titan destroyed an outpost of El'Abin.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "warbands",
+    "crucible"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Prehistory > The Titans"
+    },
+    {
+     "source_id": "src_poewiki_the_molten_one",
+     "locator": "God of the Redblades"
+    }
+   ]
+  },
+  {
+   "id": "event_titans_alliance_against_darkness",
+   "name": "Titans and Humans Fight the Rising Darkness",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "A 'rising darkness' (likely the Lightless after the Winter of the World) attacks Titans and humans; surviving Titans forge weapons and unearth the first virtue gem, but are almost wiped out.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Prehistory > The Titans"
+    },
+    {
+     "source_id": "src_poewiki_the_molten_one",
+     "locator": "The Alliance Against Darkness"
+    }
+   ]
+  },
+  {
+   "id": "faction_precursors",
+   "name": "Precursors",
+   "aliases": [
+    "Precursor civilization",
+    "Atlas-builders (inferred)"
+   ],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Technologically superior ancient civilisation that wholly predates the Winter of the World; mastered corruption, built the Towers (terraforming), the Precursor Weapon and the Arbiter of Ash, then triggered cataclysms of fire, eruptions and sky-impacts. Pictographs read 'Death lies within'.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "further before the Vaal than the Vaal are before the present",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Prehistory > Precursor civilization"
+    },
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 1"
+    }
+   ]
+  },
+  {
+   "id": "loc_precursor_towers",
+   "name": "Precursor Towers",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Precursor Tower system met on the PoE2 Atlas, apparently built for terraforming Wraeclast (per Doryani's research quoted on the History page). In Legacy of the Precursors, activating a Precursor Beacon makes a Precursor Fortress rise from the ground; the Ziggurat sits over ancient 'leylines'.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "precursor",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor civilization"
+    },
+    {
+     "source_id": "src_poe2wiki_tower",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poe2wiki_the_grand_project",
+     "locator": "flavour: 'they sought to master this world'"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Activate the Precursor Beacon: 'the Precursor Fortress will rise from the ground'; Doryani on leylines"
+    }
+   ]
+  },
+  {
+   "id": "artifact_flame_seed",
+   "name": "Flame Seed",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": null,
+   "summary": "Precursor object guarded by the Arbiter of Ash; very little is known.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "precursor",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor civilization: 'create the Arbiter of Ash to guard the Flame Seed'"
+    }
+   ]
+  },
+  {
+   "id": "char_the_arbiter_of_ash",
+   "name": "Arbiter of Ash",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Guardian created by the Precursors to guard the Flame Seed; PoE2 endgame boss.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "precursor",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor civilization"
+    }
+   ]
+  },
+  {
+   "id": "text_precursor_edicts",
+   "name": "Precursor Edicts",
+   "aliases": [],
+   "type": "text",
+   "subtype": null,
+   "summary": "Vague Precursor murals depicting the Beast and possibly instructions for containing it; Beast's origins thus pre-date the gods.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 1"
+    }
+   ]
+  },
+  {
+   "id": "event_precursor_cataclysm",
+   "name": "Precursor Cataclysm",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "After mastering corruption the Precursors delved into world secrets, triggering great fires, eruptions and impacts from the sky; the civilisation was wiped out by an unknown cataclysm. Cause unclear.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro; Precursor civilization"
+    }
+   ]
+  },
+  {
+   "id": "artifact_precursor_weapon",
+   "name": "Precursor Weapon",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": null,
+   "summary": "Device built by the Precursors against corruption; Doryani sought to harness it (a lore video says it was scattered by 400 BIC, Doryani holding one piece and three in the Karui archipelago). In PoE2 Act 4 the Exile hunts its three pieces in Ngamakanui; in the endgame only the Hooded One is said able to wield it against the Beast.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "precursor",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor civilization"
+    },
+    {
+     "source_id": "src_yt_1Zt4tv8fjI4",
+     "locator": "[7:07]-[7:49]"
+    },
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "objective"
+    }
+   ]
+  },
+  {
+   "id": "char_the_hooded_one",
+   "name": "The Hooded One",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Dark hooded god-like figure, likely Sin (PoE2 wiki inference), impaled by Count Geonor who takes the Seed of Corruption from him in PoE2's opening cinematic; in the endgame quest Legacy of the Precursors he sleeps in thrall to the Beast's corruption and is the intended wielder of the Precursor Weapon. A YouTube lore creator says Act 4 hints he was once a Precursor (community theory, unconfirmed).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "Prelude"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Check on the Hooded One"
+    }
+   ]
+  },
+  {
+   "id": "faction_primeval_civilization",
+   "name": "Primeval Civilization",
+   "aliases": [
+    "Proto-Vaal"
+   ],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Ancient culture (internally called 'Proto-Vaal') buried beneath Vaal and Lightless ruins in the Azurite Mines, known from glyphs; First King Uzaza, tyrant Putembo, last king Aul. No proven link to the Vaal.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Prehistory > Primeval civilization"
+    }
+   ]
+  },
+  {
+   "id": "char_uzaza",
+   "name": "Uzaza, the First King",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Founder of the primeval civilisation who led his people on a migration in a cold winter; named on Uzaza's rings.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization: The First King"
+    }
+   ]
+  },
+  {
+   "id": "char_putembo",
+   "name": "Putembo",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Tyrant of the primeval civilisation who forced subjects to quarry stone for his fortress; overthrown by Aul.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization bullets"
+    }
+   ]
+  },
+  {
+   "id": "char_aul",
+   "name": "Aul, the Crystal King",
+   "aliases": [
+    "Ahn",
+    "The Crystal King"
+   ],
+   "type": "character",
+   "subtype": null,
+   "summary": "Slave who led an uprising against Putembo, became Ahn and a tyrant, bargained with Kulemak, and as possessed golems destroyed his realm enacted a final ritual encasing his citadel in azurite crystal. Delve boss.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "delve"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization: Aul"
+    },
+    {
+     "source_id": "src_poe2wiki_ahn_s_citadel",
+     "locator": "flavour text"
+    }
+   ]
+  },
+  {
+   "id": "char_ahkeli",
+   "name": "Ahkeli, the Clayshaper",
+   "aliases": [
+    "Clayshaper"
+   ],
+   "type": "character",
+   "subtype": null,
+   "summary": "Primeval survivor whose home and family were destroyed, who sought refuge in the ash clouds and joined a Maraketh akhara to found the Order of the Djinn and defeat the Lightless; died before Solerai and Lundara ended the Winter.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization: Ahkeli; The Order of the Djinn"
+    },
+    {
+     "source_id": "src_poewiki_order_of_the_djinn",
+     "locator": "Historical members"
+    }
+   ]
+  },
+  {
+   "id": "event_aul_uprising",
+   "name": "Aul's Uprising",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Aul, a slave, overthrows the tyrant Putembo and becomes the Crystal King.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization: Aul's Uprising"
+    }
+   ]
+  },
+  {
+   "id": "event_aul_kulemak_bargain",
+   "name": "Aul and Kulemak's Bargain",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Weakened Kulemak offers Aul 'untold power and mastery' for a single golem; the golem is infused with necromancy and the first Lightless/possessed golems result, ultimately toppling the primeval civilisation.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization: Aul"
+    },
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "Kulemak"
+    }
+   ]
+  },
+  {
+   "id": "event_aul_final_ritual",
+   "name": "Aul's Final Ritual",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "In his last moments Aul rapidly crystallises his citadel with azurite, becoming the Crystal King.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_ahn_s_citadel",
+     "locator": "flavour text"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization > Aul: 'In the final moments of his reign, he enacted the final ritual, encasing his palace in crystals'"
+    }
+   ]
+  },
+  {
+   "id": "event_fall_of_primeval_civilization",
+   "name": "Fall of the Primeval Civilization",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "The primeval civilisation is toppled by possessed golems (probably the Lightless), as the Winter of the World approaches.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization"
+    },
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "creature_lightless",
+   "name": "The Lightless (Abyssals)",
+   "aliases": [],
+   "type": "creature",
+   "subtype": null,
+   "summary": "Ancient subterranean race created, not born, via necromancy, afraid of light; invaded during the Winter of the World and were driven back underground by the returning sun. Antagonists of Abyss and PoE2 Rise of the Abyssals.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "abyss",
+    "poe2_abyss"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "intro; Lore"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Winter of the World > The Lightless"
+    }
+   ]
+  },
+  {
+   "id": "event_lightless_invasion",
+   "name": "Lightless Invasion",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "After ash blocked the sun, the Lightless surface and devastate the primeval civilisation, felled Titans and the Maraketh/Azmeri cultures; a coalition under the Third Pact opposes them.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro; The Winter of the World"
+    }
+   ]
+  },
+  {
+   "id": "event_founding_of_order_of_djinn",
+   "name": "Founding of the Order of the Djinn",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Ahkeli and a dekhara of surviving Maraketh found the Order, using golems and relics of power to push back the Lightless and save the Vastiri Plains.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Order of the Djinn"
+    },
+    {
+     "source_id": "src_poewiki_order_of_the_djinn",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "event_return_of_the_sun",
+   "name": "Return of the Sun",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "The Winter of the World ends: Maraketh tradition credits twin sekhema Solerai and Lundara expelling the Lightless; official Abyss text credits Solaris. Sources differ (possibly the same figures).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Lightless final paragraph; The Maraketh"
+    },
+    {
+     "source_id": "src_poewiki_the_maraketh",
+     "locator": "Solerai and Lundara"
+    }
+   ]
+  },
+  {
+   "id": "event_great_wasting",
+   "name": "Great Wasting",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Karui name for the apocalyptic age of horror and famine also called the Great Fire (Ezomyte) and Winter of the World (Maraketh); Karui ancestors and Maraketh gods are said to emerge in it.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Gods > The Great Wasting"
+    }
+   ]
+  },
+  {
+   "id": "event_great_fire",
+   "name": "Great Fire",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Ezomyte cataclysm: the First Ones, unhonoured, spill fire out of a mountain; leaders turned to ash, survivors fed on tainted grain from Mother Gull. PoE2 reveals it is the Winter of the World.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_ezomytes",
+     "locator": "History > The Great Fire"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Ezomytes > The Great Fire"
+    }
+   ]
+  },
+  {
+   "id": "faction_azmeri",
+   "name": "Azmeri",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "One of the oldest peoples of Wraeclast from the Azmerian Ranges; first lettered by the Vaal, worshipped Solaris, Lunaris, Viridi; their migrants founded the Eternal Empire (only pre-1 IC history counts as 'Azmerian'); Maji remnants in the Wildwood.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Azmeri"
+    }
+   ]
+  },
+  {
+   "id": "faction_the_maji",
+   "name": "The Maji",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Azmeri vanguard chosen when the Wildwood was made; they purge the Nameless and fight the King in the Mists, forbidden from touching virtue gems ('Tears of the Maji').",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "Culture > The Maji"
+    }
+   ]
+  },
+  {
+   "id": "deity_the_draiocht",
+   "name": "The Draiocht",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "Goddess protecting the Azmeri, divided into the Three Sisters Mhacha, Catha, Morrigan who gave themselves to imbue nature; created the Wildwood and forbade gems. Original name lost.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Azmeri > The Draiocht"
+    }
+   ]
+  },
+  {
+   "id": "concept_tears_of_maji",
+   "name": "Tears of the Maji",
+   "aliases": [],
+   "type": "concept",
+   "subtype": null,
+   "summary": "Azmeri term for virtue gems, which they are forbidden to touch; contact causes a horrific reaction.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "Culture > Tears of Maji"
+    }
+   ]
+  },
+  {
+   "id": "creature_the_nameless",
+   "name": "The Nameless",
+   "aliases": [],
+   "type": "creature",
+   "subtype": null,
+   "summary": "Shadowy beings born with the Wildwood as the 'unseen reflection opposite the mortal world'; led by the King in the Mists; Gruthkul was one.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Viridian Wildwood"
+    }
+   ]
+  },
+  {
+   "id": "faction_ezomyte",
+   "name": "Ezomytes",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "People of Ezomyr and the Isles of Skothe who worship the First Ones; Ezomyr was later largely wiped by plague; speak Ezo.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_ezomytes",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Ezomytes"
+    }
+   ]
+  },
+  {
+   "id": "event_plague_of_ezomyr",
+   "name": "Plague of Ezomyr",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "At some point most of Ezomyr was wiped out by a plague (per Kahuturoa), after Oriath was recently established.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Ezomytes; The Caaltu"
+    }
+   ]
+  },
+  {
+   "id": "deity_the_greatwolf",
+   "name": "The Greatwolf",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "Ezomyte First One that possessed Thane Rigwald after he sought its power in the Purity Rebellion.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "talisman"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_ezomytes",
+     "locator": "The First Ones > The Greatwolf"
+    }
+   ]
+  },
+  {
+   "id": "deity_craiceann",
+   "name": "Craiceann, First of the Deep",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "One of the named Ezomyte First Ones, god-like immortal beings of the deep.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "talisman"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Ezomytes > The First Ones"
+    }
+   ]
+  },
+  {
+   "id": "deity_farrul",
+   "name": "Farrul, First of the Plains",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "One of the named Ezomyte First Ones, god-like immortal beings of the plains.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "talisman"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Ezomytes > The First Ones"
+    }
+   ]
+  },
+  {
+   "id": "deity_fenumus",
+   "name": "Fenumus, First of the Night",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "One of the named Ezomyte First Ones, god-like immortal beings of the night; wove a net during the Great Fire.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "talisman"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Ezomytes > The First Ones"
+    }
+   ]
+  },
+  {
+   "id": "deity_saqawal",
+   "name": "Saqawal, First of the Sky",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "One of the named Ezomyte First Ones, god-like immortal beings of the sky; stilled the Great Fire's flames.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "talisman"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Ezomytes > The First Ones"
+    }
+   ]
+  },
+  {
+   "id": "char_mother_gull",
+   "name": "Mother Gull",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Figure who pitied Great Fire survivors and gave them grain and water that was tainted, causing cannibalism.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Ezomytes > The Great Fire"
+    }
+   ]
+  },
+  {
+   "id": "faction_maraketh",
+   "name": "Maraketh",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Matriarchal people led by sekhema, ancient dwellers of Vastiri for 304 generations; endured the Winter of the World, expelled the Lightless, had a thousand-year golden age at Keth, then lost their gods to the Beast's slumber and drifted into the desert.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Maraketh"
+    },
+    {
+     "source_id": "src_poewiki_the_maraketh",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "event_maraketh_golden_age",
+   "name": "Maraketh Golden Age",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Roughly a thousand years of glory after Solerai and Lundara expelled the Lightless, in a lush Vastiri of seven rivers; ended when the Beast silenced the gods.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Maraketh paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "event_vastiri_desertification",
+   "name": "Vastiri Becomes a Desert",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Over thousands of years the plains' rivers dried and forests became sand, naturally or via Maraketh/Halani-linked causes; the Maraketh became semi-nomadic.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Maraketh paragraph 3; Halani"
+    }
+   ]
+  },
+  {
+   "id": "faction_afarud",
+   "name": "Afarud",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Outcasts of the Faridun who use forbidden rites and seek destruction of Maraketh and Faridun alike, led by Saresh.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_maraketh",
+     "locator": "Lore > The Afarud"
+    }
+   ]
+  },
+  {
+   "id": "char_saresh",
+   "name": "Saresh",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Faridun reject and necromancer of Weeping Black, former Order of the Djinn member; defeated by Garukhan (Orbala) with the Horn of the Vastiri.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_maraketh",
+     "locator": "The Afarud"
+    },
+    {
+     "source_id": "src_poewiki_order_of_the_djinn",
+     "locator": "Historical members"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Garukhan: eighth adventure"
+    }
+   ]
+  },
+  {
+   "id": "concept_sekhema",
+   "name": "Sekhema",
+   "aliases": [],
+   "type": "concept",
+   "subtype": null,
+   "summary": "Maraketh leader title; always a woman chosen by merit and anointed with the feather of the Great Roc; tale-women keep the people's history.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Maraketh > Society"
+    }
+   ]
+  },
+  {
+   "id": "faction_karui",
+   "name": "Karui",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Nomadic seafaring people of Ngamakanui following the Karui Way; once peaceful farmers and fishermen until Tukohama armed them; ever-changing pantheon; Hinekora made the Halls of the Dead.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Karui"
+    }
+   ]
+  },
+  {
+   "id": "concept_karui_way",
+   "name": "Karui Way (Makanui)",
+   "aliases": [],
+   "type": "concept",
+   "subtype": null,
+   "summary": "Karui code of honour and traditions (Way of the Warrior); some who follow it forbid virtue gems for causing blood fever.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Karui paragraph 2"
+    },
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "Tears of Maji"
+    }
+   ]
+  },
+  {
+   "id": "event_kalguur_expedition",
+   "name": "Kalguuran Expedition to Wraeclast",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "After the Vaal Cataclysm's omens, King Cadigan III sends an expedition with the Triskelion Flame led by Olroth, Uhtred, Vorana and Medved; they colonise Vaal ruins, until horrors, a priesthood plot and the loss of the Flame destroy the colony.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition",
+    "kingsmarch"
+   ],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Kalguur > Expedition to Wraeclast"
+    },
+    {
+     "source_id": "src_poewiki_kalguur",
+     "locator": "History"
+    }
+   ]
+  },
+  {
+   "id": "char_cadigan_the_third",
+   "name": "King Cadigan the Third",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Kalguuran king who commissioned the expedition and banned gems after Azmeri panic over gem drawings.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition; Colonisation"
+    }
+   ]
+  },
+  {
+   "id": "char_olroth",
+   "name": "Olroth",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Knights of the Sun leader, 'the Gallant' then 'the Grim'; staked the Triskelion Flame, defeated the Empty-Eyed Fiend with a gem, was stabbed by priests; now boss Olroth, Origin of the Fall.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Kalguur sections"
+    }
+   ]
+  },
+  {
+   "id": "char_uhtred",
+   "name": "Uhtred",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "High Priest of the Order of the Chalice who disliked gems, plotted against Olroth and fled to the Precursor Shrine; now Uhtred, Covetous Traitor.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Priesthood conspiracy; Aftermath"
+    }
+   ]
+  },
+  {
+   "id": "char_vorana",
+   "name": "Vorana",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Black Scythes mercenary leader who took up gems and fought on; later Vorana, Last to Fall.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Colonisation; Aftermath"
+    }
+   ]
+  },
+  {
+   "id": "char_medved",
+   "name": "Medved",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Druid of the Broken Circle who discovered soul vapour leaving corpses toward gems; became a horror champion, Medved, Feller of Heroes.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Colonisation; Medved's challenge"
+    }
+   ]
+  },
+  {
+   "id": "artifact_triskelion_flame",
+   "name": "Triskelion Flame",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": null,
+   "summary": "Sacred flame whose starlight barrier protected the Kalguuran colony; destroyed by the Exile in the Olroth fight.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Arrival; Aftermath"
+    }
+   ]
+  },
+  {
+   "id": "loc_precursor_shrine",
+   "name": "Precursor Shrine",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Underground shrine built around a mirror by the 'oldest of men' (probably primeval/precursor); Uhtred hid here and the Kalguuran survivors tried to reach it. No link to Kalandra's mirror is proven.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Shrine"
+    }
+   ]
+  },
+  {
+   "id": "faction_knights_of_the_sun",
+   "name": "Knights of the Sun",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Kalguuran martial order led by Olroth who adopted gems on weapons and armour.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition; Broken Circle"
+    }
+   ]
+  },
+  {
+   "id": "faction_black_scythes",
+   "name": "Black Scythes",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Kalguuran mercenaries led by Vorana, fighting horrors from walls with crossbows.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Colonisation"
+    }
+   ]
+  },
+  {
+   "id": "faction_order_of_the_chalice",
+   "name": "Order of the Chalice",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Kalguuran priesthood led by Uhtred; found the ancient artefact at the shrine.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition; The Shrine"
+    }
+   ]
+  },
+  {
+   "id": "faction_druids_of_the_broken_circle",
+   "name": "Druids of the Broken Circle",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Kalguuran nature-mystics under Medved, named after Olroth's gem use clouded their scrying.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Broken Circle"
+    }
+   ]
+  },
+  {
+   "id": "char_empty_eyed_fiend",
+   "name": "Empty-Eyed Fiend",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Horror Olroth could not harm with mortal blade or flame until a gem's starlight beheaded it.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Broken Circle"
+    }
+   ]
+  },
+  {
+   "id": "event_phrecian_perpetual_night",
+   "name": "Perpetual Night over the Imperial Heartlands",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Azmerian writers describe part of the empire cast into perpetual night, a 'dark being' dismembering Emperor Caspiro, until General Alano Phrecia dispelled it, 'returning the gaze of Solaris'. Likely the darkness later sealed in the Oversoul (per GGG Q&A).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "chronology": {
+    "in_world_year": 35,
+    "relative": "Caspiro died ~5 years after Veruso; Alano Phrecia quote dated first Sacrato of Lurici, 35 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "Reign of Caspiro / Alano Phrecia"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Reign of Caspiro; Alano Phrecia"
+    },
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "Alano Phrecia quote: '... our legions drove the dark being deep into the recesses of its lair and sealed it away for eternity' (35 IC)"
+    }
+   ]
+  },
+  {
+   "id": "league_phrecia",
+   "name": "Legacy of Phrecia",
+   "aliases": [],
+   "type": "league",
+   "subtype": null,
+   "summary": "'Legacy of Phrecia': a limited returning PoE1 event (ascendancy/idol rework). First run ended 23 Apr 2025; it returned during the 3.27 (Keepers of the Flame) cycle from 29 Jan 2026 for about 20 days, per third-party news. Its lore link to the ancient Phrecian/imperial-heartland history is by name only (unverified).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "phrecia"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "first run ended Apr 2025; 3.27-cycle rerun 29 Jan - 19 Feb 2026 (third-party news)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_web_poe_vault_phrecia_end",
+     "locator": "article on the end of the event (23 Apr 2025)"
+    },
+    {
+     "source_id": "src_ggg_legacy_of_phrecia",
+     "locator": "official event page (not re-fetched by checker)"
+    }
+   ]
+  },
+  {
+   "id": "concept_calendar_week",
+   "name": "Imperial Seven-Day Week",
+   "aliases": [],
+   "type": "concept",
+   "subtype": null,
+   "summary": "Eternal seven-day week named after components of existence: Solaro, Lunaro, Fiero, Glacio, Galvano, Kaso, Sacrato.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_calendar_lore",
+     "locator": "The days of the week"
+    }
+   ]
+  },
+  {
+   "id": "concept_calendar_moons",
+   "name": "Thirteen Moons",
+   "aliases": [],
+   "type": "concept",
+   "subtype": null,
+   "summary": "Thirteen Imperial months (Verusi, Divini, Derivi, Phreci, Caspiri, Astrali, Eterni, Atziri, Vivici, Lurici, Sagari, Vitali, Azmeri), some named for renowned figures; Wraeclast has seasons.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_calendar_lore",
+     "locator": "The moons of the year"
+    }
+   ]
+  },
+  {
+   "id": "concept_bic",
+   "name": "Before Imperial Calendar (BIC)",
+   "aliases": [],
+   "type": "concept",
+   "subtype": null,
+   "summary": "Dating convention for events preceding Imperial year 1 (e.g. Vaal fall c. 400 BIC; Vaal–Azmeri contact c. 1200 BIC).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Vaal > Contacting the Azmeri; The End of Vaal Civilization (c. 400 BIC)"
+    }
+   ]
+  },
+  {
+   "id": "act_poe2_act4",
+   "name": "Act 4 (PoE2)",
+   "aliases": [],
+   "type": "act",
+   "subtype": null,
+   "summary": "PoE2's fourth act, set in the Karui archipelago of Ngamakanui, where the player searches for three pieces of the Precursor Weapon (and a way to assemble it) to subdue the Beast.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "loc_aul_s_domain",
+   "name": "Aul's Domain (Crystal King's Throne)",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Delve area (internally 'Proto-Vaal city') of the Azurite Mine where the crystal-encased citadel and throne of Aul, the Crystal King, lie.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "delve"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization; footnote: 'Proto-Vaal' is the internal name of Delve's Primeval Chamber and The Crystal King's Throne"
+    }
+   ]
+  },
+  {
+   "id": "faction_caaltu",
+   "name": "The Caaltu",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "A civilisation that existed in Kahuturoa's time (Vastiri still forest, Vaal extant, Oriath recently founded, Ezomyr not yet struck by plague) and was only a memory by Maata's time. Little else is known.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Caaltu"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "id": "e_era_primordial__precedes__era_precursor",
+   "source": "era_primordial",
+   "target": "era_precursor",
+   "relation": "precedes",
+   "description": "Primordial age precedes the Precursor era (order uncertain; wiki says prehistory is unclear).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Prehistory intro"
+    }
+   ]
+  },
+  {
+   "id": "e_era_precursor__precedes__era_azmeri_ezomyte_ancient",
+   "source": "era_precursor",
+   "target": "era_azmeri_ezomyte_ancient",
+   "relation": "precedes",
+   "description": "Precursors predate the Winter of the World and later cultures.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor civilization"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_precursors__created__loc_precursor_towers",
+   "source": "faction_precursors",
+   "target": "loc_precursor_towers",
+   "relation": "created",
+   "description": "Precursors built the Tower system for terraforming.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor civilization"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_precursors__created__char_the_arbiter_of_ash",
+   "source": "faction_precursors",
+   "target": "char_the_arbiter_of_ash",
+   "relation": "created",
+   "description": "Precursors created the Arbiter to guard the Flame Seed.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor civilization"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_arbiter_of_ash__associated_with__artifact_flame_seed",
+   "source": "char_the_arbiter_of_ash",
+   "target": "artifact_flame_seed",
+   "relation": "associated_with",
+   "description": "Arbiter guards the Flame Seed.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor civilization"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_precursors__created__artifact_precursor_weapon",
+   "source": "faction_precursors",
+   "target": "artifact_precursor_weapon",
+   "relation": "created",
+   "description": "Precursors built the anti-corruption weapon.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor civilization"
+    },
+    {
+     "source_id": "src_yt_1Zt4tv8fjI4",
+     "locator": "[7:27]-[7:35]"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_precursors__created__text_precursor_edicts",
+   "source": "faction_precursors",
+   "target": "text_precursor_edicts",
+   "relation": "created",
+   "description": "Edicts murals depicting the Beast.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 1"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_precursors__causes__event_precursor_cataclysm",
+   "source": "faction_precursors",
+   "target": "event_precursor_cataclysm",
+   "relation": "causes",
+   "description": "Their delving into world secrets triggered cataclysmic events.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor civilization"
+    }
+   ]
+  },
+  {
+   "id": "e_text_precursor_edicts__mentions__deity_beast",
+   "source": "text_precursor_edicts",
+   "target": "deity_beast",
+   "relation": "mentions",
+   "description": "Edicts depict the Beast.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 1"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_beast__originates_from__faction_precursors",
+   "source": "deity_beast",
+   "target": "faction_precursors",
+   "relation": "originates_from",
+   "description": "The Beast's origins date back to the Precursor civilisation (Seed in Precursor ruin).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraphs 1-2"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_seed_of_corruption__located_in__faction_precursors",
+   "source": "artifact_seed_of_corruption",
+   "target": "faction_precursors",
+   "relation": "located_in",
+   "description": "Seed of Corruption found in a Precursor ruin.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_precursors__associated_with__concept_atlas",
+   "source": "faction_precursors",
+   "target": "concept_atlas",
+   "relation": "associated_with",
+   "description": "PoE2 Atlas hosts Precursor towers; 'Atlas-builders' is inference from this.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_tower",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor civilization"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_hooded_one__associated_with__faction_precursors",
+   "source": "char_the_hooded_one",
+   "target": "faction_precursors",
+   "relation": "associated_with",
+   "description": "Some lore commentary suggests the Hooded One was once a Precursor; unconfirmed.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "community_theory",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_yt_1Zt4tv8fjI4",
+     "locator": "[7:18]-[7:22]"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__seeks__artifact_precursor_weapon",
+   "source": "char_exile_poe2",
+   "target": "artifact_precursor_weapon",
+   "relation": "seeks",
+   "description": "In Act 4 the Exile hunts the weapon pieces in the Karui archipelago.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "objective"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__seeks__artifact_precursor_weapon",
+   "source": "char_doryani",
+   "target": "artifact_precursor_weapon",
+   "relation": "seeks",
+   "description": "Doryani sought the weapon in the years before the Vaal Cataclysm.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_yt_1Zt4tv8fjI4",
+     "locator": "[7:41]-[7:59]"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__seeks__loc_precursor_towers",
+   "source": "char_doryani",
+   "target": "loc_precursor_towers",
+   "relation": "seeks",
+   "description": "Doryani studied Precursor towers.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor civilization"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_ngamakanui__introduced_in__act_poe2_act4",
+   "source": "loc_ngamakanui",
+   "target": "act_poe2_act4",
+   "relation": "introduced_in",
+   "description": "Act 4 takes place in Ngamakanui.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kalandra__located_in__loc_lake_of_kalandra",
+   "source": "char_kalandra",
+   "target": "loc_lake_of_kalandra",
+   "relation": "located_in",
+   "description": "Kalandra is trapped in the lake.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Lake of Kalandra"
+    }
+   ]
+  },
+  {
+   "id": "e_event_kalandra_trapped__leads_to__text_ancient_etchings",
+   "source": "event_kalandra_trapped",
+   "target": "text_ancient_etchings",
+   "relation": "leads_to",
+   "description": "Her etchings record her entrapment.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Ancient Etchings"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kalandra__created__text_ancient_etchings",
+   "source": "char_kalandra",
+   "target": "text_ancient_etchings",
+   "relation": "created",
+   "description": "Etchings were written by Kalandra.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "kalandra"
+   ],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Ancient Etchings"
+    }
+   ]
+  },
+  {
+   "id": "e_event_kalandra_trapped__occurs_in__loc_lake_of_kalandra",
+   "source": "event_kalandra_trapped",
+   "target": "loc_lake_of_kalandra",
+   "relation": "occurs_in",
+   "description": "Kalandra's entrapment takes place in the lake.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Lake of Kalandra"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kalandra__associated_with__artifact_mirror_of_kalandra",
+   "source": "char_kalandra",
+   "target": "artifact_mirror_of_kalandra",
+   "relation": "associated_with",
+   "description": "Mirror named after Kalandra.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_league_kalandra__introduced_in__loc_lake_of_kalandra",
+   "source": "league_kalandra",
+   "target": "loc_lake_of_kalandra",
+   "relation": "introduced_in",
+   "description": "League introduces the Lake as endgame experience.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "kalandra"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra_league",
+     "locator": "League Mechanic"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__travels_to__loc_lake_of_kalandra",
+   "source": "char_exile_poe1",
+   "target": "loc_lake_of_kalandra",
+   "relation": "travels_to",
+   "description": "Exile opens portals to the Lake via Mirrored Tablet.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "kalandra"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra_league",
+     "locator": "League Mechanic"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kalandra__guides__char_exile_poe1",
+   "source": "char_kalandra",
+   "target": "char_exile_poe1",
+   "relation": "guides",
+   "description": "Kalandra comments and offers encounters to the Exile in the Lake.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "kalandra"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Lore"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Lake of Kalandra footnotes"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kalandra_reflection__aspect_of__char_kalandra",
+   "source": "char_kalandra_reflection",
+   "target": "char_kalandra",
+   "relation": "aspect_of",
+   "description": "Evil reflection of Kalandra.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "kalandra"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Kalandra's reflection"
+    }
+   ]
+  },
+  {
+   "id": "e_event_order_of_djinn_forsake_kalandra__participates_in__char_kalandra",
+   "source": "event_order_of_djinn_forsake_kalandra",
+   "target": "char_kalandra",
+   "relation": "participates_in",
+   "description": "The Order promised to free Kalandra, then abandoned her; per Ancient Etching VI its scribes burned their books and immolated themselves out of fear of 'the truth of this place'.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Ancient Etching VI"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_order_of_the_djinn__betrays__char_kalandra",
+   "source": "faction_order_of_the_djinn",
+   "target": "char_kalandra",
+   "relation": "betrays",
+   "description": "The Order promised to free Kalandra, then abandoned her; per Ancient Etching VI its scribes burned their books and immolated themselves out of fear of 'the truth of this place'.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Ancient Etching VI"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__seeks__char_kalandra",
+   "source": "deity_sin",
+   "target": "char_kalandra",
+   "relation": "seeks",
+   "description": "Sin sought Kalandra at the lake for instructions.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "e_event_sin_consults_kalandra__leads_to__event_creation_of_the_beast",
+   "source": "event_sin_consults_kalandra",
+   "target": "event_creation_of_the_beast",
+   "relation": "leads_to",
+   "description": "Instructions lead to the Seed and the Beast.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__participates_in__event_sin_consults_kalandra",
+   "source": "deity_sin",
+   "target": "event_sin_consults_kalandra",
+   "relation": "participates_in",
+   "description": "Sin visits Kalandra.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kalandra__participates_in__event_sin_consults_kalandra",
+   "source": "char_kalandra",
+   "target": "event_sin_consults_kalandra",
+   "relation": "participates_in",
+   "description": "Kalandra gives cryptic instructions.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "e_creature_titans__located_in__era_primordial",
+   "source": "creature_titans",
+   "target": "era_primordial",
+   "relation": "located_in",
+   "description": "Titans walked primordial Wraeclast.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Titans"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_the_molten_one__member_of__creature_titans",
+   "source": "deity_the_molten_one",
+   "target": "creature_titans",
+   "relation": "member_of",
+   "description": "Molten One is the sole surviving Titan.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_molten_one",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_redblades__worships__deity_the_molten_one",
+   "source": "faction_redblades",
+   "target": "deity_the_molten_one",
+   "relation": "worships",
+   "description": "Redblades sacrifice to the Molten One.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "crucible"
+   ],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Titans"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_the_molten_one__located_in__loc_forge_of_the_titans",
+   "source": "deity_the_molten_one",
+   "target": "loc_forge_of_the_titans",
+   "relation": "located_in",
+   "description": "The Molten One is at the Forge.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "crucible"
+   ],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_molten_one",
+     "locator": "infobox"
+    }
+   ]
+  },
+  {
+   "id": "e_event_lightless_invasion__leads_to__event_titans_alliance_against_darkness",
+   "source": "event_lightless_invasion",
+   "target": "event_titans_alliance_against_darkness",
+   "relation": "leads_to",
+   "description": "The rising darkness is identified with the Lightless attack.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Titans footnote"
+    }
+   ]
+  },
+  {
+   "id": "e_event_winter_of_the_world__causes__event_lightless_invasion",
+   "source": "event_winter_of_the_world",
+   "target": "event_lightless_invasion",
+   "relation": "causes",
+   "description": "Ash blocked the sun letting the Lightless surface.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Lightless"
+    },
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_event_great_wasting__same_entity_as__event_winter_of_the_world",
+   "source": "event_great_wasting",
+   "target": "event_winter_of_the_world",
+   "relation": "same_entity_as",
+   "description": "Karui name for the same age of famine.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Gods > The Great Wasting"
+    }
+   ]
+  },
+  {
+   "id": "e_event_great_fire__same_entity_as__event_winter_of_the_world",
+   "source": "event_great_fire",
+   "target": "event_winter_of_the_world",
+   "relation": "same_entity_as",
+   "description": "PoE2 reveals the Great Fire is the Winter of the World.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Ezomytes > The Great Fire"
+    }
+   ]
+  },
+  {
+   "id": "e_event_great_fire__same_entity_as__event_great_wasting",
+   "source": "event_great_fire",
+   "target": "event_great_wasting",
+   "relation": "same_entity_as",
+   "description": "Cultural names of the same ancient event.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Gods > The Great Wasting"
+    }
+   ]
+  },
+  {
+   "id": "e_creature_lightless__participates_in__event_lightless_invasion",
+   "source": "creature_lightless",
+   "target": "event_lightless_invasion",
+   "relation": "participates_in",
+   "description": "Lightless are the invaders.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Lightless"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_kulemak__created__creature_lightless",
+   "source": "deity_kulemak",
+   "target": "creature_lightless",
+   "relation": "created",
+   "description": "Kulemak is creator and master of the Lightless.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "Kulemak"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_three_sisters__defeats__deity_kulemak",
+   "source": "concept_three_sisters",
+   "target": "deity_kulemak",
+   "relation": "defeats",
+   "description": "The Three Sisters defeated Kulemak (per wiki).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "Kulemak"
+    }
+   ]
+  },
+  {
+   "id": "e_event_aul_kulemak_bargain__leads_to__event_fall_of_primeval_civilization",
+   "source": "event_aul_kulemak_bargain",
+   "target": "event_fall_of_primeval_civilization",
+   "relation": "leads_to",
+   "description": "Possessed golems topple Aul's realm.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Aul"
+    },
+    {
+     "source_id": "src_poe2wiki_ahn_s_citadel",
+     "locator": "flavour"
+    }
+   ]
+  },
+  {
+   "id": "e_char_aul__participates_in__event_aul_kulemak_bargain",
+   "source": "char_aul",
+   "target": "event_aul_kulemak_bargain",
+   "relation": "participates_in",
+   "description": "Aul accepts Kulemak's offer.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Aul"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_kulemak__participates_in__event_aul_kulemak_bargain",
+   "source": "deity_kulemak",
+   "target": "event_aul_kulemak_bargain",
+   "relation": "participates_in",
+   "description": "Kulemak offers power for a golem.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Aul"
+    }
+   ]
+  },
+  {
+   "id": "e_char_aul__participates_in__event_aul_final_ritual",
+   "source": "char_aul",
+   "target": "event_aul_final_ritual",
+   "relation": "participates_in",
+   "description": "Aul enacts the final ritual.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_ahn_s_citadel",
+     "locator": "flavour"
+    }
+   ]
+  },
+  {
+   "id": "e_event_aul_final_ritual__part_of__event_fall_of_primeval_civilization",
+   "source": "event_aul_final_ritual",
+   "target": "event_fall_of_primeval_civilization",
+   "relation": "part_of",
+   "description": "Final ritual during the collapse.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_ahn_s_citadel",
+     "locator": "flavour"
+    }
+   ]
+  },
+  {
+   "id": "e_event_aul_uprising__leads_to__event_aul_kulemak_bargain",
+   "source": "event_aul_uprising",
+   "target": "event_aul_kulemak_bargain",
+   "relation": "leads_to",
+   "description": "Uprising makes Aul king and later tyrant.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Aul"
+    }
+   ]
+  },
+  {
+   "id": "e_char_aul__defeats__char_putembo",
+   "source": "char_aul",
+   "target": "char_putembo",
+   "relation": "defeats",
+   "description": "Aul overthrows Putembo.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization bullets"
+    }
+   ]
+  },
+  {
+   "id": "e_char_aul__participates_in__event_aul_uprising",
+   "source": "char_aul",
+   "target": "event_aul_uprising",
+   "relation": "participates_in",
+   "description": "Leader of the uprising.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Aul"
+    }
+   ]
+  },
+  {
+   "id": "e_char_putembo__member_of__faction_primeval_civilization",
+   "source": "char_putembo",
+   "target": "faction_primeval_civilization",
+   "relation": "member_of",
+   "description": "Tyrant ruler.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization"
+    }
+   ]
+  },
+  {
+   "id": "e_char_uzaza__founded__faction_primeval_civilization",
+   "source": "char_uzaza",
+   "target": "faction_primeval_civilization",
+   "relation": "founded",
+   "description": "First King and founder.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The First King"
+    }
+   ]
+  },
+  {
+   "id": "e_char_aul__member_of__faction_primeval_civilization",
+   "source": "char_aul",
+   "target": "faction_primeval_civilization",
+   "relation": "member_of",
+   "description": "Last King.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization"
+    }
+   ]
+  },
+  {
+   "id": "e_char_aul__located_in__loc_aul_s_domain",
+   "source": "char_aul",
+   "target": "loc_aul_s_domain",
+   "relation": "located_in",
+   "description": "Aul's crystal throne in the Azurite Mine (Delve).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "delve"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization; footnote Proto-Vaal"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atalui_vaal_priestess__reveals__faction_primeval_civilization",
+   "source": "char_atalui_vaal_priestess",
+   "target": "faction_primeval_civilization",
+   "relation": "reveals",
+   "description": "Atalui's research reveals Uzaza, Putembo, Aul.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_tangmazu__corrupts__char_aul",
+   "source": "deity_tangmazu",
+   "target": "char_aul",
+   "relation": "corrupts",
+   "description": "Tangmazu showed Aul a vision of forgotten doom; Aul became tyrant (inferred).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Primeval civilization: Aul"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kurgal__descendant_of__char_aul",
+   "source": "char_kurgal",
+   "target": "char_aul",
+   "relation": "descendant_of",
+   "description": "Kurgal arose from golems from Kulemak's deal.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Aul"
+    }
+   ]
+  },
+  {
+   "id": "e_char_ahkeli__member_of__faction_primeval_civilization",
+   "source": "char_ahkeli",
+   "target": "faction_primeval_civilization",
+   "relation": "member_of",
+   "description": "Ahkeli was a member of the primeval civilisation.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Ahkeli"
+    }
+   ]
+  },
+  {
+   "id": "e_char_ahkeli__founded__faction_order_of_the_djinn",
+   "source": "char_ahkeli",
+   "target": "faction_order_of_the_djinn",
+   "relation": "founded",
+   "description": "Ahkeli founded the Order.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_djinn",
+     "locator": "Historical members"
+    }
+   ]
+  },
+  {
+   "id": "e_char_ahkeli__participates_in__event_founding_of_order_of_djinn",
+   "source": "char_ahkeli",
+   "target": "event_founding_of_order_of_djinn",
+   "relation": "participates_in",
+   "description": "Founding.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Order of the Djinn"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_order_of_the_djinn__participates_in__event_lightless_invasion",
+   "source": "faction_order_of_the_djinn",
+   "target": "event_lightless_invasion",
+   "relation": "participates_in",
+   "description": "Order fought the Lightless.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Order of the Djinn"
+    }
+   ]
+  },
+  {
+   "id": "e_char_solerai__participates_in__event_return_of_the_sun",
+   "source": "char_solerai",
+   "target": "event_return_of_the_sun",
+   "relation": "participates_in",
+   "description": "Solerai ended the Winter.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Order of the Djinn; The Maraketh"
+    }
+   ]
+  },
+  {
+   "id": "e_char_lundara__participates_in__event_return_of_the_sun",
+   "source": "char_lundara",
+   "target": "event_return_of_the_sun",
+   "relation": "participates_in",
+   "description": "Lundara ended the Winter.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Maraketh"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_solaris__participates_in__event_return_of_the_sun",
+   "source": "deity_solaris",
+   "target": "event_return_of_the_sun",
+   "relation": "participates_in",
+   "description": "Official Abyss text attributes sun's return to Solaris.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Lightless final paragraph"
+    }
+   ]
+  },
+  {
+   "id": "e_event_return_of_the_sun__leads_to__event_maraketh_golden_age",
+   "source": "event_return_of_the_sun",
+   "target": "event_maraketh_golden_age",
+   "relation": "leads_to",
+   "description": "Golden age follows.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Maraketh"
+    }
+   ]
+  },
+  {
+   "id": "e_event_maraketh_golden_age__leads_to__event_vastiri_desertification",
+   "source": "event_maraketh_golden_age",
+   "target": "event_vastiri_desertification",
+   "relation": "leads_to",
+   "description": "Slumber of gods then desertification.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Maraketh"
+    }
+   ]
+  },
+  {
+   "id": "e_event_creation_of_the_beast__causes__event_vastiri_desertification",
+   "source": "event_creation_of_the_beast",
+   "target": "event_vastiri_desertification",
+   "relation": "causes",
+   "description": "Beast silenced the Maraketh gods; desert follows over thousands of years.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Maraketh paragraph 2-3"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_keth__located_in__loc_vastiri",
+   "source": "loc_keth",
+   "target": "loc_vastiri",
+   "relation": "located_in",
+   "description": "Keth is in Vastiri.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Keth"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_maraketh__originates_from__loc_vastiri",
+   "source": "faction_maraketh",
+   "target": "loc_vastiri",
+   "relation": "originates_from",
+   "description": "Maraketh home.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Maraketh"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_maraketh__rules__loc_keth",
+   "source": "faction_maraketh",
+   "target": "loc_keth",
+   "relation": "rules",
+   "description": "Maraketh city.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Keth"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_faridun__originates_from__faction_maraketh",
+   "source": "faction_faridun",
+   "target": "faction_maraketh",
+   "relation": "originates_from",
+   "description": "Faridun are those cast out into the desert by the Maraketh as unworthy or flawed (outcasts, not literal descendants).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Faridun"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_afarud__descendant_of__faction_faridun",
+   "source": "faction_afarud",
+   "target": "faction_faridun",
+   "relation": "descendant_of",
+   "description": "Afarud outcasts of the Faridun.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_maraketh",
+     "locator": "The Afarud"
+    }
+   ]
+  },
+  {
+   "id": "e_char_saresh__leads__faction_afarud",
+   "source": "char_saresh",
+   "target": "faction_afarud",
+   "relation": "leads",
+   "description": "Saresh leads the Afarud.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_maraketh",
+     "locator": "The Afarud"
+    }
+   ]
+  },
+  {
+   "id": "e_char_saresh__member_of__faction_order_of_the_djinn",
+   "source": "char_saresh",
+   "target": "faction_order_of_the_djinn",
+   "relation": "member_of",
+   "description": "Historic member.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_djinn",
+     "locator": "Historical members"
+    }
+   ]
+  },
+  {
+   "id": "e_char_orbala__defeats__char_saresh",
+   "source": "char_orbala",
+   "target": "char_saresh",
+   "relation": "defeats",
+   "description": "Orbala's horn scattered Saresh's sandstorms and defeated him.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Garukhan: eighth adventure"
+    }
+   ]
+  },
+  {
+   "id": "e_char_orbala__transforms_into__deity_garukhan",
+   "source": "char_orbala",
+   "target": "deity_garukhan",
+   "relation": "transforms_into",
+   "description": "Orbala ascends to Garukhan.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Garukhan"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_maraketh__worships__deity_garukhan",
+   "source": "faction_maraketh",
+   "target": "deity_garukhan",
+   "relation": "worships",
+   "description": "Maraketh pantheon incl. Garukhan.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Maraketh"
+    }
+   ]
+  },
+  {
+   "id": "e_char_jamanra__leads__faction_faridun",
+   "source": "char_jamanra",
+   "target": "faction_faridun",
+   "relation": "leads",
+   "description": "Jamanra tried to unify the Faridun.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Jamanra"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_jamanra",
+   "source": "char_exile_poe2",
+   "target": "char_jamanra",
+   "relation": "defeats",
+   "description": "PoE2 Act 2 Exile defeats Jamanra.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Jamanra"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_azmeri__originates_from__loc_azmerian_ranges",
+   "source": "faction_azmeri",
+   "target": "loc_azmerian_ranges",
+   "relation": "originates_from",
+   "description": "Azmeri homeland.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_event_vaal_azmeri_contact__leads_to__faction_azmeri",
+   "source": "event_vaal_azmeri_contact",
+   "target": "faction_azmeri",
+   "relation": "leads_to",
+   "description": "Vaal gave Azmeri agriculture and writing.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Contacting the Azmeri"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_azmeri__worships__deity_solaris",
+   "source": "faction_azmeri",
+   "target": "deity_solaris",
+   "relation": "worships",
+   "description": "Azmeri worship Solaris.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "Mythology"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_azmeri__worships__deity_lunaris",
+   "source": "faction_azmeri",
+   "target": "deity_lunaris",
+   "relation": "worships",
+   "description": "Azmeri worship Lunaris.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "Mythology"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_azmeri__worships__deity_the_draiocht",
+   "source": "faction_azmeri",
+   "target": "deity_the_draiocht",
+   "relation": "worships",
+   "description": "Azmeri still worship the Goddess (per Warden).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Draiocht"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_the_draiocht__created__loc_azmeri_wildwood",
+   "source": "deity_the_draiocht",
+   "target": "loc_azmeri_wildwood",
+   "relation": "created",
+   "description": "Draiocht made the Wildwood as a refuge.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Viridian Wildwood"
+    }
+   ]
+  },
+  {
+   "id": "e_event_winter_of_the_world__causes__loc_azmeri_wildwood",
+   "source": "event_winter_of_the_world",
+   "target": "loc_azmeri_wildwood",
+   "relation": "causes",
+   "description": "Wildwood created as refuge from the Winter.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Viridian Wildwood"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_the_maji__member_of__faction_azmeri",
+   "source": "faction_the_maji",
+   "target": "faction_azmeri",
+   "relation": "member_of",
+   "description": "Maji are Azmeri.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "The Maji"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_the_maji__located_in__loc_azmeri_wildwood",
+   "source": "faction_the_maji",
+   "target": "loc_azmeri_wildwood",
+   "relation": "located_in",
+   "description": "Maji fight in the Wildwood.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "The Maji"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_the_maji__opposes__char_the_king_in_the_mists",
+   "source": "faction_the_maji",
+   "target": "char_the_king_in_the_mists",
+   "relation": "opposes",
+   "description": "Maji wage war on the King in the Mists.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "The Maji"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_king_in_the_mists__member_of__creature_the_nameless",
+   "source": "char_the_king_in_the_mists",
+   "target": "creature_the_nameless",
+   "relation": "member_of",
+   "description": "King is chief of the Nameless.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Viridian Wildwood"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_the_maji__opposes__creature_the_nameless",
+   "source": "faction_the_maji",
+   "target": "creature_the_nameless",
+   "relation": "opposes",
+   "description": "Maji purge the Nameless.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "The Maji"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_gruthkul__member_of__creature_the_nameless",
+   "source": "deity_gruthkul",
+   "target": "creature_the_nameless",
+   "relation": "member_of",
+   "description": "Gruthkul was a Nameless.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Gruthkul"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_the_draiocht__associated_with__concept_tears_of_maji",
+   "source": "deity_the_draiocht",
+   "target": "concept_tears_of_maji",
+   "relation": "associated_with",
+   "description": "The Azmeri were forbidden from touching gems by the instructing Draiocht ('Tears of Maji').",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "Culture > Tears of Maji: forbidden from touching gems by instructed Draiocht"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_tears_of_maji__associated_with__concept_virtue_gems",
+   "source": "concept_tears_of_maji",
+   "target": "concept_virtue_gems",
+   "relation": "associated_with",
+   "description": "Tears of Maji = virtue gems.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "Tears of Maji"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_azmeri__founded__faction_eternal_empire",
+   "source": "faction_azmeri",
+   "target": "faction_eternal_empire",
+   "relation": "founded",
+   "description": "Azmeri migrants under Tarcus Veruso founded Sarn and the Empire (1 IC).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro; Imperialis Conceptus"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_ezomyte__originates_from__loc_ezomyr",
+   "source": "faction_ezomyte",
+   "target": "loc_ezomyr",
+   "relation": "originates_from",
+   "description": "Ezomyte homeland.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_ezomytes",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_isles_of_skothe__part_of__loc_ezomyr",
+   "source": "loc_isles_of_skothe",
+   "target": "loc_ezomyr",
+   "relation": "part_of",
+   "description": "Landmass grouped with Ezomyr.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_ezomytes",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_ezomyte__worships__deity_the_first_ones",
+   "source": "faction_ezomyte",
+   "target": "deity_the_first_ones",
+   "relation": "worships",
+   "description": "Ezomytes worship the First Ones.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_first_ones",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_craiceann__member_of__deity_the_first_ones",
+   "source": "deity_craiceann",
+   "target": "deity_the_first_ones",
+   "relation": "member_of",
+   "description": "Named First One.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "talisman"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The First Ones"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_farrul__member_of__deity_the_first_ones",
+   "source": "deity_farrul",
+   "target": "deity_the_first_ones",
+   "relation": "member_of",
+   "description": "Named First One.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "talisman"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The First Ones"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_fenumus__member_of__deity_the_first_ones",
+   "source": "deity_fenumus",
+   "target": "deity_the_first_ones",
+   "relation": "member_of",
+   "description": "Named First One.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "talisman"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The First Ones"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_saqawal__member_of__deity_the_first_ones",
+   "source": "deity_saqawal",
+   "target": "deity_the_first_ones",
+   "relation": "member_of",
+   "description": "Named First One.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "talisman"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The First Ones"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_the_greatwolf__member_of__deity_the_first_ones",
+   "source": "deity_the_greatwolf",
+   "target": "deity_the_first_ones",
+   "relation": "member_of",
+   "description": "Named First One.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "talisman"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The First Ones"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_the_first_ones__causes__event_great_fire",
+   "source": "deity_the_first_ones",
+   "target": "event_great_fire",
+   "relation": "causes",
+   "description": "Unhonoured First Ones brought fire from a mountain.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_ezomytes",
+     "locator": "The Great Fire"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_saqawal__participates_in__event_great_fire",
+   "source": "deity_saqawal",
+   "target": "event_great_fire",
+   "relation": "participates_in",
+   "description": "Stilled the fires.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Great Fire"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_fenumus__participates_in__event_great_fire",
+   "source": "deity_fenumus",
+   "target": "event_great_fire",
+   "relation": "participates_in",
+   "description": "Wove a net.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Great Fire"
+    }
+   ]
+  },
+  {
+   "id": "e_char_mother_gull__participates_in__event_great_fire",
+   "source": "char_mother_gull",
+   "target": "event_great_fire",
+   "relation": "participates_in",
+   "description": "Tainted grain after fire.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Great Fire"
+    }
+   ]
+  },
+  {
+   "id": "e_event_plague_of_ezomyr__occurs_in__loc_ezomyr",
+   "source": "event_plague_of_ezomyr",
+   "target": "loc_ezomyr",
+   "relation": "occurs_in",
+   "description": "Plague wiped Ezomyr.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Ezomytes"
+    }
+   ]
+  },
+  {
+   "id": "e_char_rigwald__worships__deity_the_greatwolf",
+   "source": "char_rigwald",
+   "target": "deity_the_greatwolf",
+   "relation": "worships",
+   "description": "Rigwald called on the Greatwolf.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "talisman"
+   ],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_ezomytes",
+     "locator": "Rigwald"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_karui__originates_from__loc_ngamakanui",
+   "source": "faction_karui",
+   "target": "loc_ngamakanui",
+   "relation": "originates_from",
+   "description": "Karui homeland.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Karui"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_karui__worships__deity_tukohama",
+   "source": "faction_karui",
+   "target": "deity_tukohama",
+   "relation": "worships",
+   "description": "Tukohama armed the Karui.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Tukohama and Ngamahu"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_karui__associated_with__concept_karui_way",
+   "source": "faction_karui",
+   "target": "concept_karui_way",
+   "relation": "associated_with",
+   "description": "Karui Way is their code.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Karui paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_ngamakanui__part_of__loc_wraeclast",
+   "source": "loc_ngamakanui",
+   "target": "loc_wraeclast",
+   "relation": "part_of",
+   "description": "Archipelago south of Wraeclast (not part of mainland; region grouping).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_ngamakanui",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_vastiri__part_of__loc_wraeclast",
+   "source": "loc_vastiri",
+   "target": "loc_wraeclast",
+   "relation": "part_of",
+   "description": "Vastiri region of Wraeclast.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vastiri_plains",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_ezomyr__located_in__loc_wraeclast",
+   "source": "loc_ezomyr",
+   "target": "loc_wraeclast",
+   "relation": "located_in",
+   "description": "West of the mainland (region of the world).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Ezomytes"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_azmerian_ranges__part_of__loc_wraeclast",
+   "source": "loc_azmerian_ranges",
+   "target": "loc_wraeclast",
+   "relation": "part_of",
+   "description": "Mountain region.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_azmeri",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_kalguur__located_in__loc_middengard",
+   "source": "loc_kalguur",
+   "target": "loc_middengard",
+   "relation": "located_in",
+   "description": "Kalguur is in Middengard.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalguur",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_phrecia__part_of__loc_wraeclast",
+   "source": "loc_phrecia",
+   "target": "loc_wraeclast",
+   "relation": "part_of",
+   "description": "Imperial heartlands region.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "Alano Phrecia"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_lake_of_kalandra__located_in__loc_wraeclast",
+   "source": "loc_lake_of_kalandra",
+   "target": "loc_wraeclast",
+   "relation": "located_in",
+   "description": "Lake exists in primordial Wraeclast (plane-like; the exact relationship unclear).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Lake of Kalandra"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_kalguuran__originates_from__loc_kalguur",
+   "source": "faction_kalguuran",
+   "target": "loc_kalguur",
+   "relation": "originates_from",
+   "description": "Kalguuran homeland.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalguur",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_event_vaal_cataclysm__causes__event_kalguur_expedition",
+   "source": "event_vaal_cataclysm",
+   "target": "event_kalguur_expedition",
+   "relation": "causes",
+   "description": "Cataclysm omens prompted the expedition.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition to Wraeclast"
+    }
+   ]
+  },
+  {
+   "id": "e_char_cadigan_the_third__participates_in__event_kalguur_expedition",
+   "source": "char_cadigan_the_third",
+   "target": "event_kalguur_expedition",
+   "relation": "participates_in",
+   "description": "Expedition figure.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition to Wraeclast"
+    }
+   ]
+  },
+  {
+   "id": "e_char_olroth__participates_in__event_kalguur_expedition",
+   "source": "char_olroth",
+   "target": "event_kalguur_expedition",
+   "relation": "participates_in",
+   "description": "Expedition figure.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition to Wraeclast"
+    }
+   ]
+  },
+  {
+   "id": "e_char_uhtred__participates_in__event_kalguur_expedition",
+   "source": "char_uhtred",
+   "target": "event_kalguur_expedition",
+   "relation": "participates_in",
+   "description": "Expedition figure.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition to Wraeclast"
+    }
+   ]
+  },
+  {
+   "id": "e_char_vorana__participates_in__event_kalguur_expedition",
+   "source": "char_vorana",
+   "target": "event_kalguur_expedition",
+   "relation": "participates_in",
+   "description": "Expedition figure.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition to Wraeclast"
+    }
+   ]
+  },
+  {
+   "id": "e_char_medved__participates_in__event_kalguur_expedition",
+   "source": "char_medved",
+   "target": "event_kalguur_expedition",
+   "relation": "participates_in",
+   "description": "Expedition figure.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition to Wraeclast"
+    }
+   ]
+  },
+  {
+   "id": "e_char_cadigan_the_third__commands__char_olroth",
+   "source": "char_cadigan_the_third",
+   "target": "char_olroth",
+   "relation": "commands",
+   "description": "Commissioned expedition led by Olroth.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition to Wraeclast"
+    }
+   ]
+  },
+  {
+   "id": "e_char_olroth__leads__faction_knights_of_the_sun",
+   "source": "char_olroth",
+   "target": "faction_knights_of_the_sun",
+   "relation": "leads",
+   "description": "Olroth led the Knights.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition"
+    }
+   ]
+  },
+  {
+   "id": "e_char_uhtred__leads__faction_order_of_the_chalice",
+   "source": "char_uhtred",
+   "target": "faction_order_of_the_chalice",
+   "relation": "leads",
+   "description": "Uhtred is High Priest.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition"
+    }
+   ]
+  },
+  {
+   "id": "e_char_vorana__leads__faction_black_scythes",
+   "source": "char_vorana",
+   "target": "faction_black_scythes",
+   "relation": "leads",
+   "description": "Vorana leads mercenaries.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition"
+    }
+   ]
+  },
+  {
+   "id": "e_char_medved__member_of__faction_druids_of_the_broken_circle",
+   "source": "char_medved",
+   "target": "faction_druids_of_the_broken_circle",
+   "relation": "member_of",
+   "description": "Medved is a Druid.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Expedition"
+    }
+   ]
+  },
+  {
+   "id": "e_char_olroth__defeats__char_empty_eyed_fiend",
+   "source": "char_olroth",
+   "target": "char_empty_eyed_fiend",
+   "relation": "defeats",
+   "description": "Olroth beheaded the Fiend using a gem.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Broken Circle"
+    }
+   ]
+  },
+  {
+   "id": "e_char_uhtred__betrays__char_olroth",
+   "source": "char_uhtred",
+   "target": "char_olroth",
+   "relation": "betrays",
+   "description": "Uhtred's priests stabbed Olroth.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Priesthood conspiracy"
+    }
+   ]
+  },
+  {
+   "id": "e_char_olroth__possesses__artifact_triskelion_flame",
+   "source": "char_olroth",
+   "target": "artifact_triskelion_flame",
+   "relation": "possesses",
+   "description": "Olroth staked the Flame.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Arrival"
+    }
+   ]
+  },
+  {
+   "id": "e_char_uhtred__located_in__loc_precursor_shrine",
+   "source": "char_uhtred",
+   "target": "loc_precursor_shrine",
+   "relation": "located_in",
+   "description": "Uhtred hides at the shrine.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Aftermath"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__char_olroth",
+   "source": "char_exile_poe1",
+   "target": "char_olroth",
+   "relation": "defeats",
+   "description": "Exile destroys the Flame and defeats Olroth.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Aftermath"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__char_uhtred",
+   "source": "char_exile_poe1",
+   "target": "char_uhtred",
+   "relation": "defeats",
+   "description": "Exile defeats Uhtred at the shrine.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Aftermath"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__char_vorana",
+   "source": "char_exile_poe1",
+   "target": "char_vorana",
+   "relation": "defeats",
+   "description": "Exile defeats corrupted Vorana.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Aftermath"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__char_medved",
+   "source": "char_exile_poe1",
+   "target": "char_medved",
+   "relation": "defeats",
+   "description": "Exile defeats Medved.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "expedition"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Aftermath"
+    }
+   ]
+  },
+  {
+   "id": "e_char_alano_phrecia__participates_in__event_phrecian_perpetual_night",
+   "source": "char_alano_phrecia",
+   "target": "event_phrecian_perpetual_night",
+   "relation": "participates_in",
+   "description": "Alano dispelled the darkness.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Alano Phrecia"
+    }
+   ]
+  },
+  {
+   "id": "e_event_phrecian_perpetual_night__originates_from__loc_phrecia",
+   "source": "event_phrecian_perpetual_night",
+   "target": "loc_phrecia",
+   "relation": "originates_from",
+   "description": "Event named the heartlands.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "Alano Phrecia"
+    }
+   ]
+  },
+  {
+   "id": "e_event_phrecian_perpetual_night__associated_with__char_caspiro",
+   "source": "event_phrecian_perpetual_night",
+   "target": "char_caspiro",
+   "relation": "associated_with",
+   "description": "A dark being killed Caspiro.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_eternal_empire",
+     "locator": "Caspiro"
+    }
+   ]
+  },
+  {
+   "id": "e_league_phrecia__associated_with__loc_phrecia",
+   "source": "league_phrecia",
+   "target": "loc_phrecia",
+   "relation": "associated_with",
+   "description": "Name only.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "phrecia"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_ggg_legacy_of_phrecia",
+     "locator": "event page"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_calendar_week__part_of__concept_imperial_calendar",
+   "source": "concept_calendar_week",
+   "target": "concept_imperial_calendar",
+   "relation": "part_of",
+   "description": "Week of the calendar.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_calendar_lore",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_calendar_moons__part_of__concept_imperial_calendar",
+   "source": "concept_calendar_moons",
+   "target": "concept_imperial_calendar",
+   "relation": "part_of",
+   "description": "Moons.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_calendar_lore",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_calendar_moons__associated_with__char_atziri",
+   "source": "concept_calendar_moons",
+   "target": "char_atziri",
+   "relation": "associated_with",
+   "description": "The 8th moon is named Atziri.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_calendar_lore",
+     "locator": "moons table"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_calendar_moons__associated_with__faction_azmeri",
+   "source": "concept_calendar_moons",
+   "target": "faction_azmeri",
+   "relation": "associated_with",
+   "description": "The 13th moon is Azmeri.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_calendar_lore",
+     "locator": "moons table"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_bic__precedes__concept_imperial_calendar",
+   "source": "concept_bic",
+   "target": "concept_imperial_calendar",
+   "relation": "precedes",
+   "description": "BIC dates precede 1 IC.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro; Contacting Azmeri"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_primeval_civilization__precedes__faction_vaal",
+   "source": "faction_primeval_civilization",
+   "target": "faction_vaal",
+   "relation": "precedes",
+   "description": "Primeval predates Vaal, no proven link.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Vaal > Origins"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_precursors__precedes__faction_primeval_civilization",
+   "source": "faction_precursors",
+   "target": "faction_primeval_civilization",
+   "relation": "precedes",
+   "description": "Precursors predate the Winter, a primeval civilisation 'later'.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Precursor civilization"
+    }
+   ]
+  },
+  {
+   "id": "e_event_precursor_cataclysm__leads_to__event_winter_of_the_world",
+   "source": "event_precursor_cataclysm",
+   "target": "event_winter_of_the_world",
+   "relation": "leads_to",
+   "description": "Order uncertain; wiki says Precursors predate the Winter (no confirmed causation).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_event_winter_of_the_world__causes__event_fall_of_primeval_civilization",
+   "source": "event_winter_of_the_world",
+   "target": "event_fall_of_primeval_civilization",
+   "relation": "causes",
+   "description": "Lightless attack following the Winter destroyed it.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_event_fall_of_primeval_civilization__precedes__event_founding_of_order_of_djinn",
+   "source": "event_fall_of_primeval_civilization",
+   "target": "event_founding_of_order_of_djinn",
+   "relation": "precedes",
+   "description": "Survivors found the Order.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__char_aul",
+   "source": "char_exile_poe1",
+   "target": "char_aul",
+   "relation": "defeats",
+   "description": "Exile defeats Aul in Delve.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "delve"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Aul, the Crystal King"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_order_of_the_djinn__located_in__loc_vastiri",
+   "source": "faction_order_of_the_djinn",
+   "target": "loc_vastiri",
+   "relation": "located_in",
+   "description": "Order has a vault at the Oasis in Vastiri.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_maraketh",
+     "locator": "Order of the Djinn"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_order_of_the_djinn__originates_from__faction_maraketh",
+   "source": "faction_order_of_the_djinn",
+   "target": "faction_maraketh",
+   "relation": "originates_from",
+   "description": "Founded by Maraketh and Clayshaper.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_djinn",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_hooded_one__wields__artifact_precursor_weapon",
+   "source": "char_the_hooded_one",
+   "target": "artifact_precursor_weapon",
+   "relation": "wields",
+   "description": "In Legacy of the Precursors the player and Doryani state that only the Hooded One can wield the Precursor Weapon against the Beast; he cannot be woken (intended wielder).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_precursors",
+     "locator": "Speak to Doryani: Beast's Corruption holds the Hooded One in thrall; player lines: without him, we cannot wield the Weapon"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_caaltu__associated_with__loc_vastiri",
+   "source": "faction_caaltu",
+   "target": "loc_vastiri",
+   "relation": "associated_with",
+   "description": "The Caaltu are placed in the era when the Vastiri Plains were still forest (Kahuturoa's time).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "The Caaltu"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,543 @@
+{
+ "_doc": "Curation patches applied by scripts/merge.py after merging fragments. Sources: verify/codex_audit.json (Codex audit) + manual review. Each op carries a reason.",
+ "side_quests": [
+  "event_a1_mercy_mission",
+  "event_a1_a_dirty_job",
+  "event_a1_dweller_of_the_deep",
+  "event_a1_marooned_mariner",
+  "event_a1_the_way_forward",
+  "event_a2_great_white_beast",
+  "event_a2_through_sacred_ground",
+  "event_a3_victarios_secrets",
+  "event_a3_swig_of_hope",
+  "event_a3_fixture_of_fate",
+  "event_a4_indomitable_spirit",
+  "event_a5_in_service_to_science",
+  "event_a5_kitavas_torments",
+  "event_poe1_a6_clear_twilight_strand",
+  "event_poe1_a6_kill_ryslatha",
+  "event_poe1_a7_kill_gruthkul",
+  "event_poe1_a8_kill_yugul",
+  "event_poe1_a8_tolman_resurrection",
+  "event_poe1_a9_kill_garukhan",
+  "event_poe1_a9_kill_shakari",
+  "event_poe1_a10_vilentas_vengeance",
+  "event_a3_sever_right_hand",
+  "event_poe1_a7_queen_of_despair",
+  "event_poe1_a7_silver_locket",
+  "event_poe1_a9_ruler_of_highgate",
+  "event_poe2_a3_trials_of_chaos_quest",
+  "event_poe2_clearing_the_way",
+  "event_poe2_finding_the_forge",
+  "event_poe2_the_hunt_begins",
+  "event_poe2_the_lost_lute",
+  "event_poe2_the_slithering_dead",
+  "event_poe2_treacherous_ground",
+  "event_poe2_treasures_of_utzaal",
+  "event_poe2_tribal_medicine",
+  "event_poe2_tribal_vengeance",
+  "event_balbala_released"
+ ],
+ "set_node": [
+  {
+   "id": "deity_sin",
+   "fields": {
+    "summary": "God, brother (twin, per the stained-glass windows) of Innocence; planted the Dark Ember beneath Highgate from which the Beast grew. In PoE1 he guides the Exile against Kitava; in PoE2 the Hooded One reveals in Act 2 that he is Sin."
+   },
+   "reason": "codex: identity stated outright in Act 2 (event_hooded_one_reveals_sin)"
+  },
+  {
+   "id": "char_renly",
+   "fields": {
+    "games": [
+     "poe2"
+    ]
+   },
+   "reason": "codex: PoE2-only NPC"
+  },
+  {
+   "id": "char_daresso",
+   "fields": {
+    "era": "post_cataclysm"
+   },
+   "reason": "codex: left Oriath c. 1450 IC, after the 1339 IC Cataclysm"
+  },
+  {
+   "id": "act_poe1_act1",
+   "fields": {
+    "name": "Act 1"
+   },
+   "reason": "codex: 'Silenus Bluffs' unsupported"
+  },
+  {
+   "id": "event_exiles_sentenced_to_wraeclast",
+   "fields": {
+    "chronology.story_order": 1099
+   },
+   "reason": "codex: belongs at the start of the PoE1 spine"
+  },
+  {
+   "id": "event_atlas_elderslayers",
+   "fields": {
+    "chronology.story_order": null,
+    "summary": "Parallel/earlier history (not the player Exile's route): Zana recruited Baran, Veritania, Drox, Al-Hezmin and Sirus as Elderslayers; in that version Sirus sacrifices himself to hold the Elder. It explains the Conquerors arc."
+   },
+   "reason": "codex: alternate history must not follow the Exile's Elder victory"
+  },
+  {
+   "id": "event_atlas_defeat_elder",
+   "fields": {
+    "summary": "The Exile lures the Elder to the centre of the Atlas and Zana uses the Cosmic Arcana to expel it; the Elder is defeated (Shaper route). Sirus's sacrifice belongs only to the Elderslayers version (event_atlas_elderslayers)."
+   },
+   "reason": "codex: merged duplicate mixed two versions"
+  },
+  {
+   "id": "event_poe2_defeat_arbiter_of_divinity",
+   "fields": {
+    "chronology.story_order": 6080
+   },
+   "reason": "codex: finale after Origin Tower"
+  },
+  {
+   "id": "event_poe2_epilogue_waygate",
+   "fields": {
+    "chronology.story_order": 6005,
+    "summary": "Doryani introduces and activates a Waygate on Precursor leylines at the Ziggurat; Waystones and the Map Device open the endgame Atlas. Who originally built the Waygate is not stated."
+   },
+   "reason": "tie with 6001; codex: Doryani creation unsupported"
+  },
+  {
+   "id": "event_poe2_siege_of_oriath",
+   "fields": {
+    "chronology.story_order": 5504
+   },
+   "reason": "codex: fill 5503->5505 gap"
+  },
+  {
+   "id": "event_poe2_the_grand_expedition",
+   "fields": {
+    "plot_role": "branch",
+    "branches": [
+     "expedition"
+    ],
+    "chronology.story_order": null
+   },
+   "reason": "codex: Expedition side content"
+  },
+  {
+   "id": "event_the_mavens_game",
+   "fields": {
+    "chronology.story_order": 3075
+   },
+   "reason": "codex: Maven confrontation missing from Atlas spine"
+  },
+  {
+   "id": "event_searing_exarch_quest",
+   "fields": {
+    "chronology.story_order": 3082
+   },
+   "reason": "codex: Exarch climax missing from spine (parallel with Eater/Maven quests)"
+  },
+  {
+   "id": "event_eater_of_worlds_quest",
+   "fields": {
+    "chronology.story_order": 3084
+   },
+   "reason": "codex: Eater climax missing from spine (parallel with Exarch/Maven quests)"
+  },
+  {
+   "id": "event_a5_ravenous_god",
+   "fields": {
+    "chronology.story_order": 1599
+   },
+   "reason": "pin story_order after duplicate merge (deterministic)"
+  },
+  {
+   "id": "event_poe1_a10_kill_kitava",
+   "fields": {
+    "chronology.story_order": 1955
+   },
+   "reason": "pin story_order after duplicate merge (deterministic)"
+  },
+  {
+   "id": "event_atlas_defeat_elder",
+   "fields": {
+    "chronology.story_order": 3030
+   },
+   "reason": "pin story_order after duplicate merge (deterministic)"
+  },
+  {
+   "id": "event_poe2_exile_death_sentence",
+   "fields": {
+    "chronology.story_order": 5100
+   },
+   "reason": "pin story_order after duplicate merge (deterministic)"
+  },
+  {
+   "id": "event_poe2_legacy_of_the_precursors",
+   "fields": {
+    "chronology.story_order": 6001
+   },
+   "reason": "pin story_order after duplicate merge (deterministic)"
+  },
+  {
+   "id": "event_poe1_a7_kill_maligaro",
+   "fields": {
+    "chronology.story_order": 1702
+   },
+   "reason": "codex audit round 2: Maligaro precedes Ralakesh (Silk's key)"
+  },
+  {
+   "id": "event_poe1_a7_web_of_secrets",
+   "fields": {
+    "chronology.story_order": 1703
+   },
+   "reason": "codex audit round 2: required quest missing from spine"
+  },
+  {
+   "id": "event_poe1_a7_kill_ralakesh",
+   "fields": {
+    "chronology.story_order": 1704
+   },
+   "reason": "codex audit round 2: after Web of Secrets"
+  },
+  {
+   "id": "event_lighting_the_way",
+   "fields": {
+    "chronology.story_order": 1706
+   },
+   "reason": "codex audit round 2: required quest before Arakaali"
+  },
+  {
+   "id": "event_poe1_a7_kill_arakaali",
+   "fields": {
+    "chronology.story_order": 1707
+   },
+   "reason": "codex audit round 2"
+  },
+  {
+   "id": "event_poe1_a8_lunar_eclipse",
+   "fields": {
+    "chronology.story_order": 1802
+   },
+   "reason": "codex audit round 2: required, parallel with Solar Eclipse"
+  },
+  {
+   "id": "event_poe1_a8_solar_eclipse",
+   "fields": {
+    "chronology.story_order": 1803
+   },
+   "reason": "codex audit round 2: required, parallel with Lunar Eclipse"
+  },
+  {
+   "id": "event_poe1_a9_recurring_nightmare",
+   "fields": {
+    "chronology.story_order": 1902
+   },
+   "reason": "codex audit round 2: required Act 9 quest"
+  },
+  {
+   "id": "event_atlas_conquerors",
+   "fields": {
+    "chronology.story_order": null,
+    "plot_role": "endgame_plot"
+   },
+   "reason": "codex audit round 2: Conquerors' madness is Elderslayers back-history, not a beat after the Exile's Elder victory"
+  },
+  {
+   "id": "event_the_mavens_game",
+   "fields": {
+    "chronology.parallel_group": "atlas_pinnacle_quests"
+   },
+   "reason": "codex audit round 2: parallel optional pinnacle quests"
+  },
+  {
+   "id": "event_searing_exarch_quest",
+   "fields": {
+    "chronology.parallel_group": "atlas_pinnacle_quests"
+   },
+   "reason": "codex audit round 2: parallel optional pinnacle quests"
+  },
+  {
+   "id": "event_eater_of_worlds_quest",
+   "fields": {
+    "chronology.parallel_group": "atlas_pinnacle_quests"
+   },
+   "reason": "codex audit round 2: parallel optional pinnacle quests"
+  },
+  {
+   "id": "event_theft_of_ivory",
+   "fields": {
+    "chronology.parallel_group": "poe2_a2_horn_relics"
+   },
+   "reason": "codex audit round 2: relic errands in any order"
+  },
+  {
+   "id": "event_city_of_seven_waters",
+   "fields": {
+    "chronology.parallel_group": "poe2_a2_horn_relics"
+   },
+   "reason": "codex audit round 2: relic errands in any order"
+  },
+  {
+   "id": "event_crown_of_stone",
+   "fields": {
+    "chronology.parallel_group": "poe2_a2_horn_relics"
+   },
+   "reason": "codex audit round 2: relic errands in any order"
+  },
+  {
+   "id": "event_poe2_a4_island_weapon_pieces",
+   "fields": {
+    "summary": "The Exile sails the Karui islands (e.g. Isle of Kin, Shrike Island, Whakapanu, Abandoned Prison) to find the three Weapon pieces, whose island locations rotate; bosses include Krutog, Diamora, the Prisoner and the Scourge of the Skies. Kedge Bay is separate Dark Mists content."
+   },
+   "reason": "codex audit round 2: Kedge Bay holds no Weapon piece"
+  },
+  {
+   "id": "text_precursor_edicts",
+   "fields": {
+    "summary": "Vague Precursor murals depicting the Beast (or a precursor of it) and possibly instructions for containing it. The corpus separately says Sin later created the Beast from a Precursor Seed of Corruption; any reading that the Beast predates the gods is interpretation.",
+    "canon_status": "inferred"
+   },
+   "reason": "codex audit round 2"
+  },
+  {
+   "id": "text_edict_fourth",
+   "fields": {
+    "summary": "Mystery edict. In Legacy of the Precursors (0.5.0) the quest-log step 'Investigate the Fourth Edict' follows the defeat of the Arbiter of Ash; its contents are not revealed in the verified sources.",
+    "confidence": "medium"
+   },
+   "reason": "codex audit round 2: removed Quora/search-snippet speculation"
+  },
+  {
+   "id": "league_breach",
+   "fields": {
+    "games": [
+     "poe1"
+    ]
+   },
+   "reason": "codex audit round 2"
+  },
+  {
+   "id": "concept_breach_poe2",
+   "fields": {
+    "games": [
+     "poe2"
+    ]
+   },
+   "reason": "codex audit round 2"
+  },
+  {
+   "id": "concept_ritual_poe2",
+   "fields": {
+    "games": [
+     "poe2"
+    ]
+   },
+   "reason": "codex audit round 2"
+  },
+  {
+   "id": "concept_expedition_poe2",
+   "fields": {
+    "games": [
+     "poe2"
+    ]
+   },
+   "reason": "codex audit round 2"
+  },
+  {
+   "id": "loc_ruins_of_kingsmarch",
+   "fields": {
+    "games": [
+     "poe2"
+    ]
+   },
+   "reason": "codex audit round 2"
+  },
+  {
+   "id": "event_poe2_a6_shadow_over_ogham",
+   "fields": {
+    "name": "Shadow Over Ogham (Forbidden Rites)",
+    "summary": "Released Forbidden Rites Ritual set for Interlude 1 (Scorched Farmlands, Holten, Wolvenhold): unique-boss Rituals in each area; completing the set offers a choice of unique items. Not an Act 6 story quest.",
+    "plot_role": "branch",
+    "branches": [
+     "ritual",
+     "forbidden_rites"
+    ],
+    "chronology.story_order": null,
+    "release_status": "released",
+    "canon_status": "canon",
+    "confidence": "high",
+    "acts": [],
+    "sources": [
+     {
+      "source_id": "src_poe2wiki_forbidden_rites",
+      "locator": "Ritual sets list: 'Shadow Over Ogham'"
+     }
+    ]
+   },
+   "reason": "codex audit round 2: misidentified datamined Act 6 quest"
+  },
+  {
+   "id": "event_poe2_a6_sands_of_ruin",
+   "fields": {
+    "name": "Sands of Ruin (Forbidden Rites)",
+    "summary": "Released Forbidden Rites Ritual set for Interlude 2 (The Khari Crossing, Sel Khari Sanctuary, The Galai Gates): unique-boss Rituals in each area; completing the set offers a choice of unique items. Not an Act 6 story quest.",
+    "plot_role": "branch",
+    "branches": [
+     "ritual",
+     "forbidden_rites"
+    ],
+    "chronology.story_order": null,
+    "release_status": "released",
+    "canon_status": "canon",
+    "confidence": "high",
+    "acts": [],
+    "sources": [
+     {
+      "source_id": "src_poe2wiki_forbidden_rites",
+      "locator": "Ritual sets list: 'Sands of Ruin'"
+     }
+    ]
+   },
+   "reason": "codex audit round 2: misidentified datamined Act 6 quest"
+  },
+  {
+   "id": "event_poe2_a6_death_in_the_ranges",
+   "fields": {
+    "name": "Death in the Ranges (Forbidden Rites)",
+    "summary": "Released Forbidden Rites Ritual set for Interlude 3 (Kriar Village, Glacial Tarn, Howling Caves): unique-boss Rituals in each area; completing the set offers a choice of unique items. Not an Act 6 story quest.",
+    "plot_role": "branch",
+    "branches": [
+     "ritual",
+     "forbidden_rites"
+    ],
+    "chronology.story_order": null,
+    "release_status": "released",
+    "canon_status": "canon",
+    "confidence": "high",
+    "acts": [],
+    "sources": [
+     {
+      "source_id": "src_poe2wiki_forbidden_rites",
+      "locator": "Ritual sets list: 'Death in the Ranges'"
+     }
+    ]
+   },
+   "reason": "codex audit round 2: misidentified datamined Act 6 quest"
+  },
+  {
+   "id": "event_poe1_a6_kill_tukohama",
+   "fields": {
+    "chronology.story_order": 1603
+   },
+   "reason": "pin after merging duplicate quest node The Father of War"
+  }
+ ],
+ "remove_edge": [
+  {
+   "source": "char_exile_poe1",
+   "relation": "defeats",
+   "target": "char_dialla",
+   "reason": "codex: Dialla is rescued and becomes an ally (allies_with/rescues edges exist)"
+  },
+  {
+   "source": "char_tecrod",
+   "relation": "serves",
+   "target": "deity_kulemak",
+   "reason": "codex: Tecrod is independent of Kulemak"
+  },
+  {
+   "source": "char_exile_poe1",
+   "relation": "defeats",
+   "target": "deity_ralakesh",
+   "reason": "codex: Sin kills Ralakesh (edge exists); Exile kills Greust"
+  },
+  {
+   "source": "event_poe2_pinnacle_of_flame",
+   "relation": "precedes",
+   "target": "event_poe2_legacy_of_the_precursors",
+   "reason": "codex: version replacement, not in-world chronology"
+  },
+  {
+   "source": "event_poe2_siege_of_oriath",
+   "relation": "occurs_in",
+   "target": "loc_oriath",
+   "reason": "codex: quest ends at Ziggurat Refuge"
+  }
+ ],
+ "set_edge": [
+  {
+   "source": "char_exile_poe1",
+   "relation": "rescues",
+   "target": "char_deshret",
+   "fields": {
+    "description": "In the optional Act 4 quest An Indomitable Spirit, the Exile frees Deshret's spirit in the Mines Level 2."
+   },
+   "reason": "codex: Act 4 not Act 9"
+  },
+  {
+   "source": "char_doryani",
+   "relation": "created",
+   "target": "artifact_waygate",
+   "fields": {
+    "relation": "associated_with",
+    "description": "Doryani proposes and activates the Waygate; who built it is not stated."
+   },
+   "reason": "codex: creation unsupported"
+  },
+  {
+   "source": "concept_poe2_atlas_of_worlds",
+   "relation": "continues_in",
+   "target": "concept_atlas",
+   "fields": {
+    "source": "concept_atlas",
+    "target": "concept_poe2_atlas_of_worlds"
+   },
+   "reason": "codex: direction reversed"
+  },
+  {
+   "source": "deity_sin",
+   "relation": "lover_of",
+   "target": "deity_arakaali",
+   "fields": {
+    "source": "deity_arakaali",
+    "target": "deity_sin",
+    "relation": "imprisons",
+    "description": "Arakaali held Sin captive under a bewitching spell; Sin describes it as captivity, not a mutual relationship."
+   },
+   "reason": "codex"
+  },
+  {
+   "source": "char_nessa",
+   "relation": "lover_of",
+   "target": "deity_brine_king",
+   "fields": {
+    "source": "deity_brine_king",
+    "target": "char_nessa",
+    "relation": "imprisons",
+    "description": "The Brine King transforms Nessa and forces her to be his bride (Act 6)."
+   },
+   "reason": "codex"
+  }
+ ],
+ "rejected_audit_items": [
+  {
+   "target": "artifact_map_device",
+   "reason": "Book of Memories p.9: 'The Watchers, they built the device, so as to travel to and lock tight its kingdom' \u2014 original summary correct"
+  }
+ ],
+ "release_overrides": {
+  "released": [
+   "event_poe2_a6_shadow_over_ogham",
+   "event_poe2_a6_sands_of_ruin",
+   "event_poe2_a6_death_in_the_ranges",
+   "loc_holten"
+  ],
+  "datamined": [
+   "act_poe2_act5",
+   "act_poe2_act6",
+   "char_lumerius"
+  ]
+ }
+}

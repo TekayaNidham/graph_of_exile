@@ -1,0 +1,3973 @@
+{
+  "domain": "gap_breach_kingsmarch_delve_harbinger_jewels",
+  "sources": [
+    {
+      "id": "src_poewiki_abaxoth_the_end_of_all_that_is",
+      "title": "Abaxoth, the End of All That Is — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Abaxoth,_the_End_of_All_That_Is",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_abyssal_depths_delve",
+      "title": "Abyssal Depths (Delve) — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Abyssal_Depths_(Delve)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_allflame_league",
+      "title": "Allflame league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Allflame_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_betrayal_league",
+      "title": "betrayal league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/betrayal_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_breaking_down_the_door",
+      "title": "Breaking Down the Door — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Breaking_Down_the_Door",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_brutal_restraint",
+      "title": "Brutal Restraint — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Brutal_Restraint",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_chasing_a_dream",
+      "title": "Chasing a Dream - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Chasing_a_Dream",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_cutting_off_the_supply",
+      "title": "Cutting Off the Supply — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Cutting_Off_the_Supply",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_dying_for_a_fight",
+      "title": "Dying for a Fight — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Dying_for_a_Fight",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_eber_the_plaguemaw",
+      "title": "Eber, the Plaguemaw — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Eber,_the_Plaguemaw",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_exploring_kingsmarch",
+      "title": "Exploring Kingsmarch - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Exploring_Kingsmarch",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_heist_league",
+      "title": "Heist league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Heist_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_history_of_wraeclast",
+      "title": "History of Wraeclast - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/History_of_Wraeclast",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_into_the_breach",
+      "title": "Into the Breach - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Into_the_Breach",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_into_the_nexus",
+      "title": "Into The Nexus - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Into_The_Nexus",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_inya_the_unbearable_whispers",
+      "title": "Inya, the Unbearable Whispers — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Inya,_the_Unbearable_Whispers",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_kole",
+      "title": "Kole — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Kole",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_lethal_pride",
+      "title": "Lethal Pride — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Lethal_Pride",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_letter_kingsmarch_",
+      "title": "Letter (Kingsmarch) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Letter_(Kingsmarch)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_lighting_the_way",
+      "title": "Lighting the Way - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Lighting_the_Way",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_maiden_voyage",
+      "title": "Maiden Voyage — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Maiden_Voyage",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_meginord",
+      "title": "Meginord — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Meginord",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_militant_faith",
+      "title": "Militant Faith — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Militant_Faith",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_mines_delve",
+      "title": "Mines (Delve) — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Mines_(Delve)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_picking_up_the_pieces",
+      "title": "Picking Up the Pieces - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Picking_Up_the_Pieces",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_prophecy_league",
+      "title": "prophecy league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/prophecy_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_safe_passage",
+      "title": "Safe Passage - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Safe_Passage",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_sulphur_vents_delve",
+      "title": "Sulphur Vents (Delve) — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Sulphur_Vents_(Delve)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_synthesis_league",
+      "title": "Synthesis league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Synthesis_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_lich_s_tomb",
+      "title": "The Lich's Tomb — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Lich's_Tomb",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_maraketh",
+      "title": "The Maraketh - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Maraketh",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_rogue_harbour_quest",
+      "title": "The Rogue Harbour (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Rogue_Harbour_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_toward_the_future",
+      "title": "Toward the Future - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Toward_the_Future",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_turning_the_tide",
+      "title": "Turning the Tide — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Turning_the_Tide",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_volkuur_the_unbreathing_queen",
+      "title": "Volkuur, the Unbreathing Queen — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Volkuur,_the_Unbreathing_Queen",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_yriel_the_feral_lord",
+      "title": "Yriel, the Feral Lord — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Yriel,_the_Feral_Lord",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_zorath_vile_assembled",
+      "title": "Zorath, Vile Assembled — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Zorath,_Vile_Assembled",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "char_eber",
+      "name": "Eber, the Plaguemaw",
+      "aliases": [
+        "Eber"
+      ],
+      "type": "character",
+      "subtype": "prophecy boss (Pale Council)",
+      "summary": "Boss of the Pale Council encounter in The Pale Court (Prophecy system). Introduced in 2.3.0; the wiki marks the Pale Council fight as removed from the game in 3.17.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "2.3.0 introduced; removed 3.17.0 (per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eber_the_plaguemaw",
+          "locator": "Infobox: location = The Pale Court; header 'The prophecy system was removed ... in version 3.17.0. The Pale Council fight no longer exists'; Version history 2.3.0 'Introduced to the game'"
+        }
+      ]
+    },
+    {
+      "id": "char_inya",
+      "name": "Inya, the Unbearable Whispers",
+      "aliases": [
+        "Inya"
+      ],
+      "type": "character",
+      "subtype": "prophecy boss (Pale Council)",
+      "summary": "Boss of the Pale Council encounter in The Pale Court (Prophecy system). Introduced in 2.3.0 and removed in 3.17.0 per the wiki; in 3.0.0 the Pale Council was rebalanced and Inya became a drop source for Inya's Epiphany.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "2.3.0 introduced; removed 3.17.0 (per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_inya_the_unbearable_whispers",
+          "locator": "Infobox: location = The Pale Court; Drops: 'guaranteed to drop Inya's Epiphany ... if she was the last one to be killed ... the sequence ... is random'; Version history 3.17.0 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "char_yriel",
+      "name": "Yriel, the Feral Lord",
+      "aliases": [
+        "Yriel"
+      ],
+      "type": "character",
+      "subtype": "prophecy boss (Pale Council)",
+      "summary": "Boss of The Pale Court or the 'The Feral Lord V' Prophecy encounter (Pale Council). Known for Blast Rain, Decoy Shot and beast-summoning traps; removed in 3.17.0 per the wiki.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "2.3.0 introduced; removed 3.17.0 (per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_yriel_the_feral_lord",
+          "locator": "Intro: 'a boss in The Pale Court or The Feral Lord V encounters'; Abilities list; Version history 3.17.0 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "char_volkuur",
+      "name": "Volkuur, the Unbreathing Queen",
+      "aliases": [
+        "Volkuur"
+      ],
+      "type": "character",
+      "subtype": "prophecy boss (Pale Council)",
+      "summary": "Boss of The Pale Court (Pale Council, Prophecy system); the wiki states the Pale Council fight no longer exists after 3.17.0. Drops Volkuur's Guidance.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "2.3.0 introduced; removed 3.17.0 (per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_volkuur_the_unbreathing_queen",
+          "locator": "Header: 'The prophecy system was removed from the game in version 3.17.0. The Pale Council fight no longer exists'; infobox location = The Pale Court; Drops: 'drops Volkuur's Guidance'"
+        }
+      ]
+    },
+    {
+      "id": "faction_pale_council",
+      "name": "The Pale Council",
+      "aliases": [
+        "Pale Council"
+      ],
+      "type": "faction",
+      "subtype": "boss council (prophecy)",
+      "summary": "Group of four Pale Court bosses (Yriel, Eber, Volkuur and Inya) fought through the Prophecy system; the wiki says the Pale Council fight no longer exists after 3.17.0. In the wiki's in-world history the Pale Council were rulers of an unidentified people, likely the Karui.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "2.3.0 - 3.17.0 (per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'The Pale Council': '[[The Pale Council]] is a group comprising of Yriel, the Feral Lord, Eber, the Plaguemaw, Volkuur, and Inya'"
+        },
+        {
+          "source_id": "src_poewiki_inya_the_unbearable_whispers",
+          "locator": "Drops: 'sequence of last alive member of the Pale Council is random'; Version history 3.0.0 'The Pale Council encounter has been rebalanced'"
+        },
+        {
+          "source_id": "src_poewiki_volkuur_the_unbreathing_queen",
+          "locator": "Header: 'The Pale Council fight no longer exists in Path of Exile'"
+        }
+      ]
+    },
+    {
+      "id": "loc_pale_court",
+      "name": "The Pale Court",
+      "aliases": [
+        "Pale Court"
+      ],
+      "type": "location",
+      "subtype": "prophecy area",
+      "summary": "Prophecy-system area where the Pale Council bosses (Eber, Inya, Yriel, Volkuur) are fought; the wiki states this content was removed in 3.17.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "2.3.0 - 3.17.0 (per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eber_the_plaguemaw",
+          "locator": "Infobox location = [[The Pale Court]]; header 'The prophecy system was removed from the game in version 3.17.0'"
+        }
+      ]
+    },
+    {
+      "id": "char_zorath",
+      "name": "Zorath, Vile Assembled",
+      "aliases": [
+        "Zorath"
+      ],
+      "type": "character",
+      "subtype": "pinnacle boss (Abyss)",
+      "summary": "Endgame pinnacle boss of the Abyss mechanic. Its arena, The Lightless Hollow, is reached directly on the Atlas; the fight begins once four Zorath's Eye fragments are placed in its head. New content in 3.29.0 per the wiki.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "abyss"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.29.0 (per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_zorath_vile_assembled",
+          "locator": "Intro: 'the endgame pinnacle boss of the Abyss mechanic'; header 'New content version=3.29.0'; Entry: 'Players must place four different Zorath's Eye fragments into Zorath's head'"
+        }
+      ]
+    },
+    {
+      "id": "loc_the_lightless_hollow",
+      "name": "The Lightless Hollow",
+      "aliases": [
+        "Lightless Hollow"
+      ],
+      "type": "location",
+      "subtype": "boss arena",
+      "summary": "Circular arena with a central abyssal pit where Zorath lies suspended; accessible directly on the Atlas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "abyss"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.29.0 (per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_zorath_vile_assembled",
+          "locator": "Entry: \"Zorath's arena is called The Lightless Hollow, and can be directly traversed to on the Atlas\""
+        }
+      ]
+    },
+    {
+      "id": "char_abaxoth",
+      "name": "Abaxoth, the End of All That Is",
+      "aliases": [
+        "Abaxoth"
+      ],
+      "type": "character",
+      "subtype": "unique Beyond demon",
+      "summary": "Unique Beyond demon, seen dual-wielding two Edges of Madness, with Berserk Fury and a Chaos damage-over-time aura. The wiki states that 3.19.0 replaced the original Beyond demons with Scourge monsters and removed Abaxoth.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "beyond"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "1.2.0 introduced; removed 3.19.0 (per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_abaxoth_the_end_of_all_that_is",
+          "locator": "Intro: 'is a unique Beyond Demon'; header '3.19.0 replaced the original Beyond demons with monsters from Scourge'; Version history 1.2.0 'Introduced' / 3.19.0 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "char_kole",
+      "name": "Kole",
+      "aliases": [],
+      "type": "character",
+      "subtype": "unique demon monster",
+      "summary": "Unique demon monster in The Lunaris Temple Level 1 (Act 3), with a high-damage Ground Smash and a chain pull. Per the wiki's lore section (attributed to Grigor), Kole was an Oriathan rapist whom Piety used in her experiments. A stronger Carnage variant appeared in the Tower Map (2.4.0-3.1.0).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Act 3 (c. Piety's experiments; relative date unknown)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kole",
+          "locator": "Infobox: location = The Lunaris Temple Level 1 (Act 3); Lore: 'According to Grigor, Kole was an Oriathan ... before Piety used him in her experiments'"
+        }
+      ]
+    },
+    {
+      "id": "char_meginord",
+      "name": "Meginord",
+      "aliases": [
+        "Great Meginord of the North"
+      ],
+      "type": "character",
+      "subtype": "legendary figure (flavour text only)",
+      "summary": "Figure referred to only in flavour text and names of unique belts (e.g. Meginord's Girdle, Meginord's Vise). The wiki says he ruled a northern part of Wraeclast, but it is unclear whether he is a person or a naming pun.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "unknown",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poewiki_meginord",
+          "locator": "Intro: 'a figure only mentioned in the flavour text and names of unique items'; Lore: 'it is unclear whether the character was intended to be called north-north'"
+        }
+      ]
+    },
+    {
+      "id": "artifact_lethal_pride",
+      "name": "Lethal Pride",
+      "aliases": [],
+      "type": "artifact",
+      "subtype": "unique Timeless Jewel (Karui)",
+      "summary": "Unique Timeless Jewel of the Karui variant. Conquers passives in radius with Karui leadership over warriors under Akoya, Kaom or Rakiata (seed-dependent); adds Strength to small passives. Drops from the Karui legion general in the Domain of Timeless Conflict.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.7.0 (release_version per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lethal_pride",
+          "locator": "Infobox: base_item = Timeless Jewel; explicit1_text 'Commanded leadership over (10000-18000) warriors under <Akoya • Kaom • Rakiata>'; drop_text 'Karui legion in the Domain of Timeless Conflict'"
+        }
+      ]
+    },
+    {
+      "id": "artifact_brutal_restraint",
+      "name": "Brutal Restraint",
+      "aliases": [],
+      "type": "artifact",
+      "subtype": "unique Timeless Jewel (Maraketh)",
+      "summary": "Unique Timeless Jewel of the Maraketh variant. Conquers passives in radius with service of dekhara in the akhara of Asenath, Balbala or Nasima; transforms keystones into exclusive ones. Drops from the Maraketh legion general in the Domain of Timeless Conflict.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.7.0 (release_version per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_brutal_restraint",
+          "locator": "Infobox: explicit1_text 'Denoted service of (500-8000) dekhara in the akhara of <Asenath • Balbala • Nasima>'; drop_text 'Maraketh legion in the Domain of Timeless Conflict'"
+        }
+      ]
+    },
+    {
+      "id": "artifact_militant_faith",
+      "name": "Militant Faith",
+      "aliases": [],
+      "type": "artifact",
+      "subtype": "unique Timeless Jewel (Templar)",
+      "summary": "Unique Timeless Jewel of the Templar variant. Conquers passives in radius with new faithful converted by High Templar Avarius, Dominus or Maxarius; adds Devotion to small and notable passives. Drops from the Templar legion general in the Domain of Timeless Conflict.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.7.0 (release_version per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_militant_faith",
+          "locator": "Infobox: explicit1_text 'Carved to glorify (2000-10000) new faithful converted by High Templar <Avarius • Dominus • Maxarius>'; drop_text 'Templar legion in the Domain of Timeless Conflict'"
+        }
+      ]
+    },
+    {
+      "id": "char_nasima",
+      "name": "Nasima",
+      "aliases": [
+        "Sekhema Nasima"
+      ],
+      "type": "character",
+      "subtype": "Maraketh Sekhema",
+      "summary": "Listed among the Maraketh's notable members (the list gives the name without a Sekhema title); one of the three akhara named on the Brutal Restraint Timeless Jewel. The corpus holds only list-level mentions, so details are limited.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "unknown",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maraketh",
+          "locator": "Notable members list: '* [[Nasima]]' under the Maraketh section"
+        },
+        {
+          "source_id": "src_poewiki_brutal_restraint",
+          "locator": "Variant table: 'Nasima' with 'Denoted service of # dekhara in the akhara of Nasima'"
+        }
+      ]
+    },
+    {
+      "id": "event_into_the_breach",
+      "name": "Into the Breach",
+      "aliases": [
+        "Into the Breach (quest)"
+      ],
+      "type": "event",
+      "subtype": "tutorial quest (Breach)",
+      "summary": "Act 6 tutorial quest for the Breach mechanic. Ailith's flame burns the Hiveborn barrier at the Mud Flats entrance; the Exile then bonds the Genesis Tree at the Monastery of the Keepers. Introduced in 3.27.0; the 3.28.0 Keepers rework replaced the original Breach mechanic.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "breach",
+        "keepers_of_the_flame"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.27.0 - 3.28.0 (per wiki)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act6"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_breach",
+          "locator": "Quest info: 'Into the Breach is the a tutorial quest for Breach'; Walkthrough 'Burn away the barrier the Hiveborn built'; Walkthrough 'Allocate a Womb on the Genesis Tree'; Version history 3.28.0 'replaced the original Breech mechanic' and 3.27.0 'Introduced to the game'"
+        }
+      ]
+    },
+    {
+      "id": "event_into_the_nexus",
+      "name": "Into The Nexus",
+      "aliases": [
+        "Into the Nexus"
+      ],
+      "type": "event",
+      "subtype": "Act 1 quest (Synthesis, removed)",
+      "summary": "Act 1 quest exclusive to the Synthesis league: Cavas has the Exile connect collected memories to the Memory Nexus and explore them. Quest removed in 3.7.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "synthesis"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.6.0 - 3.7.0 (per wiki)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_nexus",
+          "locator": "Quest info: start 'Talk to Cavas', completion 'You have explored the connected memories'; Version history 3.6.0 'Introduced', 3.7.0 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "loc_mud_flats",
+      "name": "The Mud Flats (Act 6)",
+      "aliases": [
+        "Mud Flats"
+      ],
+      "type": "location",
+      "subtype": "campaign area",
+      "summary": "Act 6 area reached from the Coast; its entrance is blocked by Hiveborn structures until the Into the Breach quest is started.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Act 6 (campaign era)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act6"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_breach",
+          "locator": "Walkthrough: 'approaching the entrance to the Mud Flats from the Coast in Act 6, where the entrance is blocked off by Hiveborn structures'"
+        }
+      ]
+    },
+    {
+      "id": "event_exploring_kingsmarch",
+      "name": "Exploring Kingsmarch",
+      "aliases": [],
+      "type": "event",
+      "subtype": "tutorial quest (Kingsmarch)",
+      "summary": "Tutorial quest for Kingsmarch. Johan in Karui Shores sends the Exile into Kingsmarch, where Raulf explains recruitment and Johan handles placement and finances.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Epilogue (start per wiki)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_exploring_kingsmarch",
+          "locator": "Quest infobox: start 'Arrive in the Karui Shores in the Epilogue', objective 'Learn about Kingsmarch', completion 'Speak to Johan'; Walkthrough: 'Introduce yourself to Raulf, hire a recruit, and then return to me'"
+        }
+      ]
+    },
+    {
+      "id": "event_lighting_the_way",
+      "name": "Lighting the Way",
+      "aliases": [],
+      "type": "event",
+      "subtype": "Act 7 quest",
+      "summary": "Act 7 quest: the Exile gathers seven Fireflies in the Dread Thicket and delivers them to Yeena, who brews Fire Dew to burn open the entrance to Arakaali's temple.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Act 7 (campaign era)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act7"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lighting_the_way",
+          "locator": "Quest infobox: start 'Take the first Firefly in the Dread Thicket', completion 'Talk to Yeena'; Walkthrough: 'Yeena needs seven Fireflies to burn open the entrance to Arakaali's temple'"
+        }
+      ]
+    },
+    {
+      "id": "event_toward_the_future",
+      "name": "Toward the Future",
+      "aliases": [],
+      "type": "event",
+      "subtype": "Act 10 quest",
+      "summary": "Act 10 quest closing the campaign: after defeating Kitava, Lilly Roth in Oriath Docks offers to sail the Exile away; completing it is 'Set Sail from Oriath'.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Act 10 to Epilogue",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act10"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_toward_the_future",
+          "locator": "Quest infobox: act 10, start 'Talk to Lilly Roth in Oriath Docks', completion 'Set Sail from Oriath'; Walkthrough: 'Talk to Lilly Roth after defeating Kitava'"
+        }
+      ]
+    },
+    {
+      "id": "event_maiden_voyage",
+      "name": "Maiden Voyage",
+      "aliases": [],
+      "type": "event",
+      "subtype": "tutorial quest (Allflame)",
+      "summary": "Act 1 tutorial for the Curse of the Allflame league: Valerie the Corsair invites the Exile aboard the Sovereign as First Mate, after the Coast waypoint starts the quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "allflame"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Allflame league",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_maiden_voyage",
+          "locator": "Quest infobox: act 1, objective 'Explore the depths of the ocean'; 'a tutorial quest for Curse of the Allflame'; Walkthrough: 'Valerie has asked you to be her First Mate'"
+        }
+      ]
+    },
+    {
+      "id": "event_turning_the_tide",
+      "name": "Turning the Tide",
+      "aliases": [],
+      "type": "event",
+      "subtype": "endgame quest (Allflame)",
+      "summary": "Endgame Curse of the Allflame quest required to unlock Velka, the Tide Witch: Vesper imbues the Exile with the Allflame to pass Velka's barrier, then the Exile defeats Velka and retrieves her Allflame.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "allflame"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Allflame league (endgame)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_turning_the_tide",
+          "locator": "Quest infobox: start 'Explore a Kishara's Rest chart', objective 'Defeat Velka and retrieve her Allflame', act 'Epilogue'; Walkthrough: 'Allow me to imbue you with the power of the Allflame'"
+        }
+      ]
+    },
+    {
+      "id": "event_cutting_off_the_supply",
+      "name": "Cutting Off the Supply",
+      "aliases": [],
+      "type": "event",
+      "subtype": "Act 1 quest (Betrayal, removed)",
+      "summary": "Betrayal-league Act 1 quest: Jun asks the Exile to help intercept an Immortal Syndicate transport in the Mud Flats. Quest removed in 3.6.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "betrayal"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Betrayal league (removed 3.6.0)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_cutting_off_the_supply",
+          "locator": "Header: 'was a quest in Act 1 exclusive to the Betrayal league'; Version history 3.6.0 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "event_breaking_down_the_door",
+      "name": "Breaking Down the Door",
+      "aliases": [],
+      "type": "event",
+      "subtype": "Act 1 quest (Betrayal, replaced)",
+      "summary": "Betrayal-league Act 1 quest: Jun asks the Exile to help dismantle Immortal Syndicate fortifications on the Coast. After the league it was replaced by the Immortal Syndicate quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "betrayal"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Betrayal league (replaced after league end)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_breaking_down_the_door",
+          "locator": "Header: 'was a quest in Act 1 exclusive to the Betrayal league. After the league end it is replaced by The Immortal Syndicate'; Walkthrough: 'Jun wants you to help her find and dismantle the Immortal Syndicate fortifications on the Coast'"
+        }
+      ]
+    },
+    {
+      "id": "event_dying_for_a_fight",
+      "name": "Dying for a Fight",
+      "aliases": [],
+      "type": "event",
+      "subtype": "optional tutorial quest (Ancestors)",
+      "summary": "Optional tutorial for the Trial of the Ancestors: after finding a Silver Coin, the Exile rubs it in town to open a portal to the Halls of the Dead, where Navali sets the trial.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Ancestor league",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_dying_for_a_fight",
+          "locator": "Quest infobox: start 'Find a Silver Coin', objective 'Challenge the Ancestors'; Walkthrough: 'Rub it between your fingers in a Town or Hideout to open a portal to the Halls of the Dead'"
+        }
+      ]
+    },
+    {
+      "id": "event_the_rogue_harbour_quest",
+      "name": "The Rogue Harbour (quest)",
+      "aliases": [
+        "The Rogue Harbour"
+      ],
+      "type": "event",
+      "subtype": "introductory quest (Heist)",
+      "summary": "Act 6 introductory quest for the Heist mechanic: after Kurai and a Rogue's Marker, the Exile opens a portal to The Rogue Harbour, takes Contract: Trial Run from Kurai and finishes it with Karst.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.12.0 introduced (per wiki)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act6"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_rogue_harbour_quest",
+          "locator": "Quest infobox: act 6, required no, start 'Lioneye's Watch (Act 6)', completion 'Talk to Kurai after finishing the contract'; Version history 3.12.0 'Introduced to the game'"
+        }
+      ]
+    },
+    {
+      "id": "loc_delve_mines",
+      "name": "Mines (Delve)",
+      "aliases": [
+        "Mines (Delve biome)"
+      ],
+      "type": "location",
+      "subtype": "Azurite Mine biome",
+      "summary": "Biome of the Azurite Mine (Delve) that generates only at the top levels of the mine; contains Metallic, Serrated, Pristine and Aetheric fossils. Introduced in 3.4.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "delve"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.4.0 introduced (per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_mines_delve",
+          "locator": "Intro: 'Mines is one of the biomes of the Azurite Mine. It only generates at the very top levels of the mine'; Version history 3.4.0 'Introduced to the game'"
+        }
+      ]
+    },
+    {
+      "id": "loc_sulphur_vents",
+      "name": "Sulphur Vents (Delve)",
+      "aliases": [
+        "Sulfur Vents (Delve)",
+        "Sulfur Vents"
+      ],
+      "type": "location",
+      "subtype": "Azurite Mine biome",
+      "summary": "Biome of the Azurite Mine (Delve) with Fractured, Metallic, Perfect, Aetheric and Encrusted fossils; its biome-specific nodes include Humid Fissure and Restless Rubble. Introduced in 3.4.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "delve"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.4.0 introduced (per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sulphur_vents_delve",
+          "locator": "Intro: 'Sulfur Vents is one of the biomes of the Azurite Mine'; Fossils list; Version history 3.4.0 'Introduced to the game'"
+        }
+      ]
+    },
+    {
+      "id": "loc_lich_s_tomb",
+      "name": "The Lich's Tomb",
+      "aliases": [
+        "Lich's Tomb",
+        "Abyssal Sanctum"
+      ],
+      "type": "location",
+      "subtype": "Azurite Mine boss node",
+      "summary": "Delve node of the Azurite Mine, found in the Abyssal City biome at depth 90+; it always contains the boss fight with Kurgal, the Blackblooded in the Abyssal Sanctum. The boss room is no longer accessible in a new instance after the kill.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "delve",
+        "abyssal_depths"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.4.0 introduced (per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_lich_s_tomb",
+          "locator": "Intro: 'It can only appeared in 90+ depths in the Abyssal City biome ... it always contains the boss fight with Kurgal, the Blackblooded'; 'After the boss fight has been finished, the node can be revisited'"
+        }
+      ]
+    },
+    {
+      "id": "loc_abyssal_depths_delve",
+      "name": "Abyssal Depths (Delve)",
+      "aliases": [],
+      "type": "location",
+      "subtype": "delve_biome",
+      "summary": "Biome of the Azurite Mine (Delve) that uses Abyss theme and contains Abyss monsters. It is distinct from the Abyssal City biome (which spawns The Lich's Tomb) and from the Abyssal Depths map area (existing node loc_abyssal_depths).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "delve",
+        "abyssal_depths"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "3.4.0 introduced (per wiki)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_abyssal_depths_delve",
+          "locator": "Intro: 'Abyssal Depths is a biome within the Azurite Mine'; hatnote: 'For the area accessible from completing an Abyss encounter in map'; Version history 3.4.0 'Introduced to the game.'"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_char_exile_poe1__opposes__char_eber",
+      "source": "char_exile_poe1",
+      "target": "char_eber",
+      "relation": "opposes",
+      "description": "The Exile fights char_eber in The Pale Court (Pale Council encounter, Prophecy system).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eber_the_plaguemaw",
+          "locator": "Intro: 'is a boss in The Pale Court'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_eber__located_in__loc_pale_court",
+      "source": "char_eber",
+      "target": "loc_pale_court",
+      "relation": "located_in",
+      "description": "char_eber is a boss in The Pale Court.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eber_the_plaguemaw",
+          "locator": "Infobox: location = [[The Pale Court]]"
+        }
+      ]
+    },
+    {
+      "id": "e_char_eber__member_of__faction_pale_council",
+      "source": "char_eber",
+      "target": "faction_pale_council",
+      "relation": "member_of",
+      "description": "char_eber is one of the Pale Council bosses, per the wiki.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eber_the_plaguemaw",
+          "locator": "Header/Drops text referring to the Pale Council encounter"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__opposes__char_inya",
+      "source": "char_exile_poe1",
+      "target": "char_inya",
+      "relation": "opposes",
+      "description": "The Exile fights char_inya in The Pale Court (Pale Council encounter, Prophecy system).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_inya_the_unbearable_whispers",
+          "locator": "Intro: 'is a boss in The Pale Court'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_inya__located_in__loc_pale_court",
+      "source": "char_inya",
+      "target": "loc_pale_court",
+      "relation": "located_in",
+      "description": "char_inya is a boss in The Pale Court.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_inya_the_unbearable_whispers",
+          "locator": "Infobox: location = [[The Pale Court]]"
+        }
+      ]
+    },
+    {
+      "id": "e_char_inya__member_of__faction_pale_council",
+      "source": "char_inya",
+      "target": "faction_pale_council",
+      "relation": "member_of",
+      "description": "char_inya is one of the Pale Council bosses, per the wiki.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_inya_the_unbearable_whispers",
+          "locator": "Header/Drops text referring to the Pale Council encounter"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__opposes__char_yriel",
+      "source": "char_exile_poe1",
+      "target": "char_yriel",
+      "relation": "opposes",
+      "description": "The Exile fights char_yriel in The Pale Court (Pale Council encounter, Prophecy system).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_yriel_the_feral_lord",
+          "locator": "Intro: 'is a boss in The Pale Court'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_yriel__located_in__loc_pale_court",
+      "source": "char_yriel",
+      "target": "loc_pale_court",
+      "relation": "located_in",
+      "description": "char_yriel is a boss in The Pale Court.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_yriel_the_feral_lord",
+          "locator": "Infobox: location = [[The Pale Court]]"
+        }
+      ]
+    },
+    {
+      "id": "e_char_yriel__member_of__faction_pale_council",
+      "source": "char_yriel",
+      "target": "faction_pale_council",
+      "relation": "member_of",
+      "description": "char_yriel is one of the Pale Council bosses, per the wiki.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_yriel_the_feral_lord",
+          "locator": "Header/Drops text referring to the Pale Council encounter"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__opposes__char_volkuur",
+      "source": "char_exile_poe1",
+      "target": "char_volkuur",
+      "relation": "opposes",
+      "description": "The Exile fights char_volkuur in The Pale Court (Pale Council encounter, Prophecy system).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_volkuur_the_unbreathing_queen",
+          "locator": "Intro: 'is a boss in The Pale Court'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_volkuur__located_in__loc_pale_court",
+      "source": "char_volkuur",
+      "target": "loc_pale_court",
+      "relation": "located_in",
+      "description": "char_volkuur is a boss in The Pale Court.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_volkuur_the_unbreathing_queen",
+          "locator": "Infobox: location = [[The Pale Court]]"
+        }
+      ]
+    },
+    {
+      "id": "e_char_volkuur__member_of__faction_pale_council",
+      "source": "char_volkuur",
+      "target": "faction_pale_council",
+      "relation": "member_of",
+      "description": "char_volkuur is one of the Pale Council bosses, per the wiki.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_volkuur_the_unbreathing_queen",
+          "locator": "Header/Drops text referring to the Pale Council encounter"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_pale_court__associated_with__league_prophecy",
+      "source": "loc_pale_court",
+      "target": "league_prophecy",
+      "relation": "associated_with",
+      "description": "The Pale Court fights are part of the Prophecy system (introduced 2.3.0, removed 3.17.0 per the wiki).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eber_the_plaguemaw",
+          "locator": "Header: 'The prophecy system was removed from the game in version 3.17.0'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__opposes__char_zorath",
+      "source": "char_exile_poe1",
+      "target": "char_zorath",
+      "relation": "opposes",
+      "description": "The Exile fights Zorath, the Abyss pinnacle boss, after placing four Zorath's Eye fragments.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "abyss"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_zorath_vile_assembled",
+          "locator": "Entry: 'Players must place four different Zorath's Eye fragments into Zorath's head in order to resurrect the boss and begin the encounter'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_zorath__located_in__loc_the_lightless_hollow",
+      "source": "char_zorath",
+      "target": "loc_the_lightless_hollow",
+      "relation": "located_in",
+      "description": "Zorath's arena is The Lightless Hollow.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "abyss"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_zorath_vile_assembled",
+          "locator": "Entry: 'Zorath's arena is called The Lightless Hollow'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_amanamu__associated_with__char_zorath",
+      "source": "char_amanamu",
+      "target": "char_zorath",
+      "relation": "associated_with",
+      "description": "char_amanamu drops the Zorath's Eye of Malevolence (~20%) used to resurrect Zorath.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "abyss"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_zorath_vile_assembled",
+          "locator": "Entry list of Zorath's Eye fragments and sources"
+        }
+      ]
+    },
+    {
+      "id": "e_char_ulaman__associated_with__char_zorath",
+      "source": "char_ulaman",
+      "target": "char_zorath",
+      "relation": "associated_with",
+      "description": "char_ulaman drops the Zorath's Eye of Authority (~20%) used to resurrect Zorath.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "abyss"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_zorath_vile_assembled",
+          "locator": "Entry list of Zorath's Eye fragments and sources"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kurgal__associated_with__char_zorath",
+      "source": "char_kurgal",
+      "target": "char_zorath",
+      "relation": "associated_with",
+      "description": "char_kurgal drops the Zorath's Eye of the Inevitable (~50%) used to resurrect Zorath.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "abyss"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_zorath_vile_assembled",
+          "locator": "Entry list of Zorath's Eye fragments and sources"
+        }
+      ]
+    },
+    {
+      "id": "e_char_catarina__associated_with__char_zorath",
+      "source": "char_catarina",
+      "target": "char_zorath",
+      "relation": "associated_with",
+      "description": "char_catarina drops the Zorath's Eye of the Endless (~50%) used to resurrect Zorath.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "abyss"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_zorath_vile_assembled",
+          "locator": "Entry list of Zorath's Eye fragments and sources"
+        }
+      ]
+    },
+    {
+      "id": "e_char_abaxoth__part_of__concept_beyond",
+      "source": "char_abaxoth",
+      "target": "concept_beyond",
+      "relation": "part_of",
+      "description": "Abaxoth is a unique Beyond demon.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "beyond"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_abaxoth_the_end_of_all_that_is",
+          "locator": "Intro: 'is a unique Beyond Demon'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kole__located_in__loc_lunaris_temple",
+      "source": "char_kole",
+      "target": "loc_lunaris_temple",
+      "relation": "located_in",
+      "description": "Kole is a unique monster in The Lunaris Temple Level 1 (Act 3).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kole",
+          "locator": "Infobox: location = The Lunaris Temple Level 1 (Act 3)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_grigor__associated_with__char_kole",
+      "source": "char_grigor",
+      "target": "char_kole",
+      "relation": "associated_with",
+      "description": "Grigor is the source of the wiki's lore on Kole.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kole",
+          "locator": "Lore: 'According to Grigor, Kole was an Oriathan ...'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_piety__associated_with__char_kole",
+      "source": "char_piety",
+      "target": "char_kole",
+      "relation": "associated_with",
+      "description": "Piety used Kole in her experiments, per the wiki.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kole",
+          "locator": "Lore: '... before Piety used him in her experiments'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_lethal_pride__part_of__artifact_timeless_jewel",
+      "source": "artifact_lethal_pride",
+      "target": "artifact_timeless_jewel",
+      "relation": "part_of",
+      "description": "Lethal Pride is a unique variant of the Timeless Jewel base (Karui).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lethal_pride",
+          "locator": "Infobox: base_item = Timeless Jewel"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_brutal_restraint__part_of__artifact_timeless_jewel",
+      "source": "artifact_brutal_restraint",
+      "target": "artifact_timeless_jewel",
+      "relation": "part_of",
+      "description": "Brutal Restraint is a unique variant of the Timeless Jewel base (Maraketh).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_brutal_restraint",
+          "locator": "Infobox: base_item = Timeless Jewel"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_militant_faith__part_of__artifact_timeless_jewel",
+      "source": "artifact_militant_faith",
+      "target": "artifact_timeless_jewel",
+      "relation": "part_of",
+      "description": "Militant Faith is a unique variant of the Timeless Jewel base (Templar).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_militant_faith",
+          "locator": "Infobox: base_item = Timeless Jewel"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_lethal_pride__associated_with__char_kaom",
+      "source": "artifact_lethal_pride",
+      "target": "char_kaom",
+      "relation": "associated_with",
+      "description": "Lethal Pride's variant names Kaom as a warrior leader.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lethal_pride",
+          "locator": "explicit1_text 'Commanded leadership over (10000-18000) warriors under <Akoya • Kaom • Rakiata>'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_lethal_pride__associated_with__char_akoya",
+      "source": "artifact_lethal_pride",
+      "target": "char_akoya",
+      "relation": "associated_with",
+      "description": "Lethal Pride's variant names Akoya.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lethal_pride",
+          "locator": "explicit1_text 'under <Akoya • Kaom • Rakiata>'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_lethal_pride__associated_with__char_rakiata",
+      "source": "artifact_lethal_pride",
+      "target": "char_rakiata",
+      "relation": "associated_with",
+      "description": "Lethal Pride's variant names Rakiata.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lethal_pride",
+          "locator": "explicit1_text 'under <Akoya • Kaom • Rakiata>'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_brutal_restraint__associated_with__char_asenath",
+      "source": "artifact_brutal_restraint",
+      "target": "char_asenath",
+      "relation": "associated_with",
+      "description": "Brutal Restraint's variant names Asenath.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_brutal_restraint",
+          "locator": "explicit1_text 'in the akhara of <Asenath • Balbala • Nasima>'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_brutal_restraint__associated_with__char_balbala",
+      "source": "artifact_brutal_restraint",
+      "target": "char_balbala",
+      "relation": "associated_with",
+      "description": "Brutal Restraint's variant names Balbala.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_brutal_restraint",
+          "locator": "explicit1_text 'in the akhara of <Asenath • Balbala • Nasima>'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_brutal_restraint__associated_with__char_nasima",
+      "source": "artifact_brutal_restraint",
+      "target": "char_nasima",
+      "relation": "associated_with",
+      "description": "Brutal Restraint's variant names Nasima.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_brutal_restraint",
+          "locator": "explicit1_text 'in the akhara of <Asenath • Balbala • Nasima>'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_militant_faith__associated_with__char_avarius",
+      "source": "artifact_militant_faith",
+      "target": "char_avarius",
+      "relation": "associated_with",
+      "description": "Militant Faith's variant names High Templar Avarius.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_militant_faith",
+          "locator": "explicit1_text 'converted by High Templar <Avarius • Dominus • Maxarius>'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_militant_faith__associated_with__char_dominus",
+      "source": "artifact_militant_faith",
+      "target": "char_dominus",
+      "relation": "associated_with",
+      "description": "Militant Faith's variant names High Templar Dominus.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_militant_faith",
+          "locator": "explicit1_text 'converted by High Templar <Avarius • Dominus • Maxarius>'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_militant_faith__associated_with__char_maxarius",
+      "source": "artifact_militant_faith",
+      "target": "char_maxarius",
+      "relation": "associated_with",
+      "description": "Militant Faith's variant names Maxarius.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "legion"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_militant_faith",
+          "locator": "explicit1_text 'converted by High Templar <Avarius • Dominus • Maxarius>'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_nasima__member_of__faction_maraketh",
+      "source": "char_nasima",
+      "target": "faction_maraketh",
+      "relation": "member_of",
+      "description": "Nasima is listed among the Maraketh's notable members.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maraketh",
+          "locator": "Notable members: '* [[Nasima]]'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_into_the_breach",
+      "source": "char_exile_poe1",
+      "target": "event_into_the_breach",
+      "relation": "participates_in",
+      "description": "The Exile completes the Into the Breach tutorial in Act 6.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "breach",
+        "keepers_of_the_flame"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_breach",
+          "locator": "Walkthrough sections 'Burn away the barrier the Hiveborn built' through 'Quest Complete'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_ailith__participates_in__event_into_the_breach",
+      "source": "char_ailith",
+      "target": "event_into_the_breach",
+      "relation": "participates_in",
+      "description": "Ailith enlists the Exile and fights the Hiveborn with the Exile in Into the Breach.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "breach",
+        "keepers_of_the_flame"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_breach",
+          "locator": "Talk to Ailith: 'Creatures from another world are invading Wraeclast'; 'Defend Ailith from the Hiveborn'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_into_the_breach__occurs_in__loc_mud_flats",
+      "source": "event_into_the_breach",
+      "target": "loc_mud_flats",
+      "relation": "occurs_in",
+      "description": "The quest starts at the Mud Flats entrance, blocked by Hiveborn structures.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "breach"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_breach",
+          "locator": "Walkthrough: 'the entrance is blocked off by Hiveborn structures'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_into_the_breach__leads_to__loc_monastery_of_the_keepers",
+      "source": "event_into_the_breach",
+      "target": "loc_monastery_of_the_keepers",
+      "relation": "leads_to",
+      "description": "Completing the first Breach Hive unlocks the Monastery of the Keepers; the Horned Skull opens a portal to it.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "breach",
+        "keepers_of_the_flame"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_breach",
+          "locator": "'After completing your first Breach Hive, Monastery of the Keepers will now be unlocked'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_into_the_breach__introduced_in__league_keepers_of_the_flame",
+      "source": "event_into_the_breach",
+      "target": "league_keepers_of_the_flame",
+      "relation": "introduced_in",
+      "description": "Into the Breach was introduced in 3.27.0 with the Keepers league; the 3.28.0 update added the Keepers' Breach mechanic to the core game.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "breach",
+        "keepers_of_the_flame"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_breach",
+          "locator": "Version history 3.28.0: 'Keepers league's new Breach mechanic is added to the core game'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_ailith__opposes__creature_hiveborn",
+      "source": "char_ailith",
+      "target": "creature_hiveborn",
+      "relation": "opposes",
+      "description": "Ailith fights the Hiveborn invading Wraeclast.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "breach",
+        "keepers_of_the_flame"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_breach",
+          "locator": "'Defend Ailith from the Hiveborn'; 'Hiveborn ... are invading Wraeclast'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_into_the_nexus__occurs_in__loc_memory_nexus",
+      "source": "event_into_the_nexus",
+      "target": "loc_memory_nexus",
+      "relation": "occurs_in",
+      "description": "Into The Nexus sends the Exile to the Memory Nexus to connect and explore memories.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "synthesis"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_nexus",
+          "locator": "Quest objective: 'Use a waypoint to travel to the Memory Nexus'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_into_the_nexus",
+      "source": "char_exile_poe1",
+      "target": "event_into_the_nexus",
+      "relation": "participates_in",
+      "description": "The Exile connects and explores memories in the Into The Nexus quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "synthesis"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_nexus",
+          "locator": "Walkthrough: 'Connect the memories you have collected to the Memory Nexus'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_cavas__participates_in__event_into_the_nexus",
+      "source": "char_cavas",
+      "target": "event_into_the_nexus",
+      "relation": "participates_in",
+      "description": "Cavas starts the Into The Nexus quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "synthesis"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_nexus",
+          "locator": "Quest info: start 'Talk to Cavas'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_cavas__guides__char_exile_poe1",
+      "source": "char_cavas",
+      "target": "char_exile_poe1",
+      "relation": "guides",
+      "description": "Cavas asks the Exile to explore the remembered places.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "synthesis"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_nexus",
+          "locator": "'Cavas: I remember this! ... A doorway into these memories!'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_mud_flats__part_of__act_poe1_act6",
+      "source": "loc_mud_flats",
+      "target": "act_poe1_act6",
+      "relation": "part_of",
+      "description": "The Mud Flats is an Act 6 area.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_breach",
+          "locator": "Walkthrough: 'The Mud Flats (Act 6)'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_exploring_kingsmarch",
+      "source": "char_exile_poe1",
+      "target": "event_exploring_kingsmarch",
+      "relation": "participates_in",
+      "description": "The Exile is taken through the Kingsmarch tutorial by Johan and Raulf.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_exploring_kingsmarch",
+          "locator": "Walkthrough: 'Talk to Johan, the King's Hand in Karui Shores'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_johan__participates_in__event_exploring_kingsmarch",
+      "source": "char_johan",
+      "target": "event_exploring_kingsmarch",
+      "relation": "participates_in",
+      "description": "Johan sends the Exile into Kingsmarch and completes the tutorial with the Exile.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_exploring_kingsmarch",
+          "locator": "Completion: 'Speak to Johan'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_raulf__participates_in__event_exploring_kingsmarch",
+      "source": "char_raulf",
+      "target": "event_exploring_kingsmarch",
+      "relation": "participates_in",
+      "description": "Raulf explains the recruitment process during the Kingsmarch tutorial.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_exploring_kingsmarch",
+          "locator": "Walkthrough: 'Speak to Raulf in Kingsmarch ... hire a recruit'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_exploring_kingsmarch__occurs_in__loc_kingsmarch",
+      "source": "event_exploring_kingsmarch",
+      "target": "loc_kingsmarch",
+      "relation": "occurs_in",
+      "description": "The tutorial takes place in Kingsmarch.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_exploring_kingsmarch",
+          "locator": "Walkthrough: 'Visit Kingsmarch ... Speak to Johan in Kingsmarch'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__located_in__loc_kingsmarch",
+      "source": "text_letter_kingsmarch",
+      "target": "loc_kingsmarch",
+      "relation": "located_in",
+      "description": "The Letter is an environmental lore object in the Kingsmarch tavern.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "Intro: 'located in the tavern, right next to Raulf, the Recruiter'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__associated_with__char_johan",
+      "source": "text_letter_kingsmarch",
+      "target": "char_johan",
+      "relation": "associated_with",
+      "description": "Section 'Legal Response (Johan)' is written by Johan; not a mention.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "'Legal Response (Johan)': 'your Hand on Wraeclast'; apology for unenforceable Royal Order of Criminal Hanging"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__associated_with__char_raulf",
+      "source": "text_letter_kingsmarch",
+      "target": "char_raulf",
+      "relation": "associated_with",
+      "description": "Section 'Cryptic Refusal (Raulf)' is written by Raulf.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "'Cryptic Refusal (Raulf)': 'I will not be your secret ear in Kingsmarch'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__associated_with__char_dannig",
+      "source": "text_letter_kingsmarch",
+      "target": "char_dannig",
+      "relation": "associated_with",
+      "description": "Section 'Crumpled Note (Dannig)' is attributed to Dannig.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "'Crumpled Note (Dannig)' section"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__associated_with__char_sonja",
+      "source": "text_letter_kingsmarch",
+      "target": "char_sonja",
+      "relation": "associated_with",
+      "description": "Section 'Sonja's Journal (Sonja)' is Sonja's journal.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "'Sonja's Journal (Sonja)' section"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__associated_with__char_tujen",
+      "source": "text_letter_kingsmarch",
+      "target": "char_tujen",
+      "relation": "associated_with",
+      "description": "Section 'Drunken Scrawl (Tujen)' is attributed to Tujen.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "'Drunken Scrawl (Tujen)' section"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__associated_with__char_rog",
+      "source": "text_letter_kingsmarch",
+      "target": "char_rog",
+      "relation": "associated_with",
+      "description": "Section 'Ideas List (Rog)' is attributed to Rog (header attribution only).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "'Ideas List (Rog)' section"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__associated_with__char_gwennen",
+      "source": "text_letter_kingsmarch",
+      "target": "char_gwennen",
+      "relation": "associated_with",
+      "description": "Section 'Dear Rog (Gwennen)' is a letter written by Gwennen.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "'Dear Rog (Gwennen)' section"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__mentions__concept_kingsmarch_charter",
+      "source": "text_letter_kingsmarch",
+      "target": "concept_kingsmarch_charter",
+      "relation": "mentions",
+      "description": "The Kingsmarch Letter mentions concept_kingsmarch_charter ('Legal Response (Johan)': 'the punishment ... will exceed the Charter statute of limitations').",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "'Legal Response (Johan)': 'the punishment ... will exceed the Charter statute of limitations'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__mentions__concept_royal_order_of_criminal_hanging",
+      "source": "text_letter_kingsmarch",
+      "target": "concept_royal_order_of_criminal_hanging",
+      "relation": "mentions",
+      "description": "The Kingsmarch Letter mentions concept_royal_order_of_criminal_hanging ('Legal Response (Johan)': 'the recent Royal Order of Criminal Hanging was damaged by seawater').",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "'Legal Response (Johan)': 'the recent Royal Order of Criminal Hanging was damaged by seawater'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_johan__associated_with__concept_kingsmarch_charter",
+      "source": "char_johan",
+      "target": "concept_kingsmarch_charter",
+      "relation": "associated_with",
+      "description": "Johan's legal reply in the Letter ties the Royal Order's enforcement to the Charter's statute of limitations.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "'Legal Response (Johan)': 'exceed the Charter statute of limitations'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_lighting_the_way__part_of__act_poe1_act7",
+      "source": "event_lighting_the_way",
+      "target": "act_poe1_act7",
+      "relation": "part_of",
+      "description": "Lighting the Way is an Act 7 quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lighting_the_way",
+          "locator": "Header: 'is a quest in Act 7'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_yeena__guides__char_exile_poe1",
+      "source": "char_yeena",
+      "target": "char_exile_poe1",
+      "relation": "guides",
+      "description": "Yeena sends the Exile for Fireflies to brew Fire Dew.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lighting_the_way",
+          "locator": "Yeena: 'carry your bright bugs to Arakaali's gate'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_lighting_the_way__leads_to__event_poe1_a7_kill_arakaali",
+      "source": "event_lighting_the_way",
+      "target": "event_poe1_a7_kill_arakaali",
+      "relation": "leads_to",
+      "description": "Lighting the Way's Fire Dew burns open the entrance to Arakaali's temple, the setting of the Arakaali fight.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lighting_the_way",
+          "locator": "Yeena: 'Yeena needs seven Fireflies to burn open the entrance to Arakaali's temple'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_a10_rescue_bannon__part_of__act_poe1_act10",
+      "source": "event_poe1_a10_rescue_bannon",
+      "target": "act_poe1_act10",
+      "relation": "part_of",
+      "description": "Safe Passage is an Act 10 required quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_safe_passage",
+          "locator": "Quest infobox: act 10, required yes"
+        }
+      ]
+    },
+    {
+      "id": "e_char_lani__guides__char_exile_poe1",
+      "source": "char_lani",
+      "target": "char_exile_poe1",
+      "relation": "guides",
+      "description": "Lani asks the Exile to find and return Bannon.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_safe_passage",
+          "locator": "Lani: 'If you are going that way, perhaps you can find him and return him to me.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_bannon__participates_in__event_poe1_a10_rescue_bannon",
+      "source": "char_bannon",
+      "target": "event_poe1_a10_rescue_bannon",
+      "relation": "participates_in",
+      "description": "Bannon is the rescue target of Safe Passage.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_safe_passage",
+          "locator": "Walkthrough: 'Bannon is trapped on the Cathedral Rooftop'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_a10_rescue_bannon",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_a10_rescue_bannon",
+      "relation": "participates_in",
+      "description": "The Exile rescues Bannon in the Safe Passage quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_safe_passage",
+          "locator": "Objective: 'Rescue Bannon'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_epilogue_oriath_kirac__part_of__act_poe1_epilogue",
+      "source": "event_poe1_epilogue_oriath_kirac",
+      "target": "act_poe1_epilogue",
+      "relation": "part_of",
+      "description": "Picking Up the Pieces is an Epilogue quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_picking_up_the_pieces",
+          "locator": "Quest infobox: act 'Epilogue'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kirac__guides__char_exile_poe1",
+      "source": "char_kirac",
+      "target": "char_exile_poe1",
+      "relation": "guides",
+      "description": "Kirac asks the Exile to investigate his brother's disappearance.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_picking_up_the_pieces",
+          "locator": "Kirac: 'I have a problem, and you may be the only one that can help.'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_epilogue_oriath_kirac__leads_to__event_kirac_baran_search",
+      "source": "event_poe1_epilogue_oriath_kirac",
+      "target": "event_kirac_baran_search",
+      "relation": "leads_to",
+      "description": "After the Oriath investigation, Chasing a Dream starts (Kirac sends the Exile to search for Baran with maps).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_chasing_a_dream",
+          "locator": "Start: 'Complete Picking Up the Pieces'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_zana__participates_in__event_kirac_baran_search",
+      "source": "char_zana",
+      "target": "event_kirac_baran_search",
+      "relation": "participates_in",
+      "description": "Zana appears after a corner-region map boss and meets the Exile in a Citadel (Kirac legacy epilogue search).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_chasing_a_dream",
+          "locator": "Walkthrough: 'Zana will appear and spawn a portal leading to a Citadel'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_kirac_baran_search__part_of__act_poe1_epilogue",
+      "source": "event_kirac_baran_search",
+      "target": "act_poe1_epilogue",
+      "relation": "part_of",
+      "description": "Chasing a Dream is an Epilogue quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_chasing_a_dream",
+          "locator": "Header: 'is a quest in Epilogue'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_kirac_baran_search",
+      "source": "char_exile_poe1",
+      "target": "event_kirac_baran_search",
+      "relation": "participates_in",
+      "description": "The Exile searches for Baran using maps and meets Zana.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_chasing_a_dream",
+          "locator": "Walkthrough: 'Use maps in the Map Device'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_toward_the_future__part_of__act_poe1_act10",
+      "source": "event_toward_the_future",
+      "target": "act_poe1_act10",
+      "relation": "part_of",
+      "description": "Toward the Future is an Act 10 quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_toward_the_future",
+          "locator": "Quest infobox: act 10"
+        }
+      ]
+    },
+    {
+      "id": "e_char_lilly_roth__guides__char_exile_poe1",
+      "source": "char_lilly_roth",
+      "target": "char_exile_poe1",
+      "relation": "guides",
+      "description": "Lilly Roth offers to sail the Exile away from Oriath.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_toward_the_future",
+          "locator": "Lilly Roth: 'We can set sail for your Archipelago the moment you give the word'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_toward_the_future",
+      "source": "char_exile_poe1",
+      "target": "event_toward_the_future",
+      "relation": "participates_in",
+      "description": "The Exile agrees to sail from Oriath in Toward the Future.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_toward_the_future",
+          "locator": "Completion: 'Set Sail from Oriath'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_a10_kill_kitava__leads_to__event_toward_the_future",
+      "source": "event_poe1_a10_kill_kitava",
+      "target": "event_toward_the_future",
+      "relation": "leads_to",
+      "description": "Toward the Future begins after Kitava is defeated in Act 10.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_toward_the_future",
+          "locator": "Walkthrough: 'Talk to Lilly Roth after defeating Kitava, the Insatiable in Act 10'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_toward_the_future__leads_to__event_poe1_epilogue_sail_away",
+      "source": "event_toward_the_future",
+      "target": "event_poe1_epilogue_sail_away",
+      "relation": "leads_to",
+      "description": "Completing Toward the Future leads to Sailing Away from Oriath.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_toward_the_future",
+          "locator": "Completion: 'Set Sail from Oriath'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_valerie__guides__char_exile_poe1",
+      "source": "char_valerie",
+      "target": "char_exile_poe1",
+      "relation": "guides",
+      "description": "Valerie invites the Exile to be her First Mate.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "allflame"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_maiden_voyage",
+          "locator": "Valerie: 'I could do with a first mate of your... caliber'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_maiden_voyage",
+      "source": "char_exile_poe1",
+      "target": "event_maiden_voyage",
+      "relation": "participates_in",
+      "description": "The Exile joins Valerie aboard the Sovereign.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "allflame"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_maiden_voyage",
+          "locator": "Walkthrough: 'Talk to Valerie aboard the Sovereign'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_maiden_voyage__part_of__act_poe1_act1",
+      "source": "event_maiden_voyage",
+      "target": "act_poe1_act1",
+      "relation": "part_of",
+      "description": "Maiden Voyage is an Act 1 tutorial.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "allflame"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_maiden_voyage",
+          "locator": "Quest infobox: act 1"
+        }
+      ]
+    },
+    {
+      "id": "e_char_vesper__guides__char_exile_poe1",
+      "source": "char_vesper",
+      "target": "char_exile_poe1",
+      "relation": "guides",
+      "description": "Vesper imbues the Exile with the Allflame to pass the barrier around Velka.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "allflame"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_turning_the_tide",
+          "locator": "Vesper: 'Allow me to imbue you with the power of the Allflame'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_turning_the_tide",
+      "source": "char_exile_poe1",
+      "target": "event_turning_the_tide",
+      "relation": "participates_in",
+      "description": "The Exile defeats Velka in Turning the Tide.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "allflame"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_turning_the_tide",
+          "locator": "Objective: 'Defeat Velka and retrieve her Allflame'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__defeats__char_velka",
+      "source": "char_exile_poe1",
+      "target": "char_velka",
+      "relation": "defeats",
+      "description": "The Exile defeats Velka and retrieves her Allflame.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "allflame"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_turning_the_tide",
+          "locator": "Objective: 'Defeat Velka and retrieve her Allflame'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_jun__guides__char_exile_poe1",
+      "source": "char_jun",
+      "target": "char_exile_poe1",
+      "relation": "guides",
+      "description": "Jun asks the Exile to help against Immortal Syndicate transports and fortifications.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "betrayal"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_cutting_off_the_supply",
+          "locator": "Start: 'Talk to Jun'"
+        },
+        {
+          "source_id": "src_poewiki_breaking_down_the_door",
+          "locator": "Start: 'Talk to Jun'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_cutting_off_the_supply",
+      "source": "char_exile_poe1",
+      "target": "event_cutting_off_the_supply",
+      "relation": "participates_in",
+      "description": "The Exile helps Jun intercept an Immortal Syndicate transport.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "betrayal"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_cutting_off_the_supply",
+          "locator": "Objective: 'intercept the Immortal Syndicate transport'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_breaking_down_the_door",
+      "source": "char_exile_poe1",
+      "target": "event_breaking_down_the_door",
+      "relation": "participates_in",
+      "description": "The Exile helps Jun dismantle Immortal Syndicate fortifications.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "betrayal"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_breaking_down_the_door",
+          "locator": "Objective: 'dismantle the Immortal Syndicate fortifications'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_navali__guides__char_exile_poe1",
+      "source": "char_navali",
+      "target": "char_exile_poe1",
+      "relation": "guides",
+      "description": "Navali sets the Exile's trial in the Halls of the Dead.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_dying_for_a_fight",
+          "locator": "Navali: 'Here you shall be tested by the greatest warriors that ever lived'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_dying_for_a_fight",
+      "source": "char_exile_poe1",
+      "target": "event_dying_for_a_fight",
+      "relation": "participates_in",
+      "description": "The Exile is challenged by the Ancestors.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_dying_for_a_fight",
+          "locator": "Objective: 'Challenge the Ancestors'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_dying_for_a_fight__introduced_in__league_ancestor",
+      "source": "event_dying_for_a_fight",
+      "target": "league_ancestor",
+      "relation": "introduced_in",
+      "description": "Dying for a Fight is the optional tutorial for Trial of the Ancestors.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_dying_for_a_fight",
+          "locator": "'an optional tutorial quest for Trial of the Ancestors'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_the_rogue_harbour_quest",
+      "source": "char_exile_poe1",
+      "target": "event_the_rogue_harbour_quest",
+      "relation": "participates_in",
+      "description": "The Exile takes the Trial Run contract in The Rogue Harbour.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_rogue_harbour_quest",
+          "locator": "Walkthrough: 'Take the Contract: Trial Run from Kurai'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_karst__participates_in__event_the_rogue_harbour_quest",
+      "source": "char_karst",
+      "target": "event_the_rogue_harbour_quest",
+      "relation": "participates_in",
+      "description": "Karst is the rogue who aids the Exile in the Trial Run contract.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_rogue_harbour_quest",
+          "locator": "Walkthrough: 'Talk to Karst, the Lockpick, the rogue that aids you in the contract'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_the_rogue_harbour_quest__occurs_in__loc_rogue_harbour",
+      "source": "event_the_rogue_harbour_quest",
+      "target": "loc_rogue_harbour",
+      "relation": "occurs_in",
+      "description": "The quest takes place in The Rogue Harbour.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_rogue_harbour_quest",
+          "locator": "Walkthrough: 'Open a portal to The Rogue Harbour'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_the_rogue_harbour_quest__part_of__act_poe1_act6",
+      "source": "event_the_rogue_harbour_quest",
+      "target": "act_poe1_act6",
+      "relation": "part_of",
+      "description": "The Rogue Harbour quest is an Act 6 quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_rogue_harbour_quest",
+          "locator": "Quest infobox: act 6"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_delve_mines__part_of__loc_azurite_mine",
+      "source": "loc_delve_mines",
+      "target": "loc_azurite_mine",
+      "relation": "part_of",
+      "description": "Mines (Delve) is a biome of the Azurite Mine.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "delve"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_mines_delve",
+          "locator": "'Mines is one of the biomes of the Azurite Mine'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_sulphur_vents__part_of__loc_azurite_mine",
+      "source": "loc_sulphur_vents",
+      "target": "loc_azurite_mine",
+      "relation": "part_of",
+      "description": "Sulfur Vents is a biome of the Azurite Mine.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "delve"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sulphur_vents_delve",
+          "locator": "'Sulfur Vents is one of the biomes of the Azurite Mine'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_abyssal_depths_delve__part_of__loc_azurite_mine",
+      "source": "loc_abyssal_depths_delve",
+      "target": "loc_azurite_mine",
+      "relation": "part_of",
+      "description": "Abyssal Depths (Delve) is a biome of the Azurite Mine.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "abyss",
+        "abyssal_depths"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_abyssal_depths_delve",
+          "locator": "'Abyssal Depths is a biome within the Azurite Mine'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_lich_s_tomb__part_of__loc_azurite_mine",
+      "source": "loc_lich_s_tomb",
+      "target": "loc_azurite_mine",
+      "relation": "part_of",
+      "description": "The Lich's Tomb is a node of the Azurite Mine.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "delve",
+        "abyssal_depths"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_lich_s_tomb",
+          "locator": "'The Lich's Tomb is a node of the Azurite Mine'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kurgal__located_in__loc_lich_s_tomb",
+      "source": "char_kurgal",
+      "target": "loc_lich_s_tomb",
+      "relation": "located_in",
+      "description": "Kurgal, the Blackblooded is the boss fought in The Lich's Tomb.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "delve",
+        "abyssal_depths"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_lich_s_tomb",
+          "locator": "'it always contains the boss fight with Kurgal, the Blackblooded'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__travels_to__loc_lich_s_tomb",
+      "source": "char_exile_poe1",
+      "target": "loc_lich_s_tomb",
+      "relation": "travels_to",
+      "description": "The Exile reaches The Lich's Tomb node to fight Kurgal.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "delve"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_lich_s_tomb",
+          "locator": "Boss room: 'a portal will appear to led to the boss arena Abyssal Sanctum'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_maiden_voyage__introduced_in__league_allflame",
+      "source": "event_maiden_voyage",
+      "target": "league_allflame",
+      "relation": "introduced_in",
+      "description": "Maiden Voyage is a tutorial for Curse of the Allflame; the wiki lists it as introduced in 3.29.0, the Allflame release.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "allflame"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_maiden_voyage",
+          "locator": "Version history: 3.29.0 'Introduced to the game.'; intro: 'a tutorial quest for Curse of the Allflame'"
+        },
+        {
+          "source_id": "src_poewiki_allflame_league",
+          "locator": "Infobox release_version = 3.29.0; lead: 'launched ... as part of Path of Exile: Curse of the Allflame in version 3.29.0'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_turning_the_tide__introduced_in__league_allflame",
+      "source": "event_turning_the_tide",
+      "target": "league_allflame",
+      "relation": "introduced_in",
+      "description": "Turning the Tide is an endgame Curse of the Allflame quest; the wiki lists it as introduced in 3.29.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "allflame"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_turning_the_tide",
+          "locator": "Version history: 3.29.0 'Introduced to the game.'; intro: 'an endgame quest for Curse of the Allflame'"
+        },
+        {
+          "source_id": "src_poewiki_allflame_league",
+          "locator": "Infobox release_version = 3.29.0"
+        }
+      ]
+    },
+    {
+      "id": "e_event_cutting_off_the_supply__introduced_in__league_betrayal",
+      "source": "event_cutting_off_the_supply",
+      "target": "league_betrayal",
+      "relation": "introduced_in",
+      "description": "Cutting Off the Supply was a Betrayal-league Act 1 quest, introduced in 3.5.0 and removed in 3.6.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "betrayal"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_cutting_off_the_supply",
+          "locator": "Header: 'was a quest in Act 1 exclusive to the Betrayal league'; Version history: 3.5.0 'Introduced to the game.'"
+        },
+        {
+          "source_id": "src_poewiki_betrayal_league",
+          "locator": "Lead: 'launched on December 7, 2018 as part of Path of Exile: Betrayal in version 3.5.0'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_breaking_down_the_door__introduced_in__league_betrayal",
+      "source": "event_breaking_down_the_door",
+      "target": "league_betrayal",
+      "relation": "introduced_in",
+      "description": "Breaking Down the Door was a Betrayal-league Act 1 quest, introduced in 3.5.0 and replaced after the league.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "betrayal"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_breaking_down_the_door",
+          "locator": "Header: 'was a quest in Act 1 exclusive to the Betrayal league'; Version history: 3.5.0 'Introduced to the game.'"
+        },
+        {
+          "source_id": "src_poewiki_betrayal_league",
+          "locator": "Lead: 'launched ... in version 3.5.0'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_into_the_nexus__introduced_in__league_synthesis",
+      "source": "event_into_the_nexus",
+      "target": "league_synthesis",
+      "relation": "introduced_in",
+      "description": "Into The Nexus was a Synthesis-league Act 1 quest, introduced in 3.6.0 and removed in 3.7.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "synthesis"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_into_the_nexus",
+          "locator": "Header: 'was a quest in Act 1 exclusive to the Synthesis league'; Version history: 3.6.0 'Introduced to the game.'"
+        },
+        {
+          "source_id": "src_poewiki_synthesis_league",
+          "locator": "Lead: 'launched on March 8, 2019 as part of Path of Exile: Synthesis in version 3.6.0'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_the_rogue_harbour_quest__introduced_in__league_heist",
+      "source": "event_the_rogue_harbour_quest",
+      "target": "league_heist",
+      "relation": "introduced_in",
+      "description": "The Rogue Harbour quest is the Act 6 introduction to the Heist mechanic, introduced in 3.12.0 with the Heist league.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_rogue_harbour_quest",
+          "locator": "Intro: 'is an introductory for the heist mechanic'; Version history: 3.12.0 'Introduced to the game.'"
+        },
+        {
+          "source_id": "src_poewiki_heist_league",
+          "locator": "Lead: 'launched on September 18, 2020 as part of Path of Exile: Heist in version 3.12.0'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_dying_for_a_fight__associated_with__event_trial_of_the_ancestors",
+      "source": "event_dying_for_a_fight",
+      "target": "event_trial_of_the_ancestors",
+      "relation": "associated_with",
+      "description": "Dying for a Fight is the optional tutorial quest for the Trial of the Ancestors.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_dying_for_a_fight",
+          "locator": "Intro: 'is an optional tutorial quest for Trial of the Ancestors'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_pale_council__introduced_in__league_prophecy",
+      "source": "faction_pale_council",
+      "target": "league_prophecy",
+      "relation": "introduced_in",
+      "description": "The Pale Court bosses (Eber, Inya, Yriel, Volkuur) were introduced with the Prophecy league in 2.3.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "prophecy"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eber_the_plaguemaw",
+          "locator": "Version history: 2.3.0 'Introduced to the game.'"
+        },
+        {
+          "source_id": "src_poewiki_prophecy_league",
+          "locator": "Lead: 'launched on June 3, 2016 as part of the content update for version 2.3.0'"
+        }
+      ]
+    }
+  ]
+}

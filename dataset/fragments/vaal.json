@@ -1,0 +1,7367 @@
+{
+ "domain": "vaal",
+ "sources": [
+  {
+   "id": "src_poewiki_the_vaal",
+   "title": "The Vaal - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Vaal",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_atziri_lore",
+   "title": "Atziri (lore) - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Atziri_(lore)",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_doryani",
+   "title": "Doryani - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Doryani",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_incursion_league",
+   "title": "Incursion league - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Incursion_league",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_vaal_oversoul",
+   "title": "Vaal Oversoul - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Vaal_Oversoul",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_xibaqua",
+   "title": "Xibaqua - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Xibaqua",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_zerphi",
+   "title": "Zerphi - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Zerphi",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_ahuatotli_the_blind",
+   "title": "Ahuatotli, the Blind - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Ahuatotli,_the_Blind",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_grand_architect_s_temple",
+   "title": "The Grand Architect's Temple - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Grand_Architect%27s_Temple",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_shadow_of_the_vaal",
+   "title": "Shadow of the Vaal (quest) - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Shadow_of_the_Vaal",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_history_of_wraeclast",
+   "title": "History of Wraeclast - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/History_of_Wraeclast",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_sin",
+   "title": "Sin - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Sin",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_hinekora",
+   "title": "Hinekora - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Hinekora",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_vaal_letter",
+   "title": "Vaal Letter - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Vaal_Letter",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_act_3",
+   "title": "Act 3 - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Act_3",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_legacy_of_the_vaal",
+   "title": "Legacy of the Vaal - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Legacy_of_the_Vaal",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_recruit_the_vaal",
+   "title": "Recruit the Vaal - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Recruit_the_Vaal",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_fate_of_the_vaal_league",
+   "title": "Fate of the Vaal league - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Fate_of_the_Vaal_league",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_fate_of_the_vaal_quest_",
+   "title": "Fate of the Vaal (quest) - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Fate_of_the_Vaal_(quest)",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_atziri_the_red_queen",
+   "title": "Atziri, the Red Queen - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Atziri,_the_Red_Queen",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_atziri_s_temple",
+   "title": "Atziri's Temple - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Atziri%27s_Temple",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_xipocado_royal_architect",
+   "title": "Xipocado, Royal Architect - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Xipocado,_Royal_Architect",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_environmental_lore",
+   "title": "Environmental lore - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Environmental_lore",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_beast",
+   "title": "The Beast - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Beast",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_treasures_of_utzaal",
+   "title": "Treasures of Utzaal - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Treasures_of_Utzaal",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_act_4",
+   "title": "Act 4 - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Act_4",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_yt_1Zt4tv8fjI4",
+   "title": "Who is Doryani? | Path Of Exile 2 Lore",
+   "url": "https://www.youtube.com/watch?v=1Zt4tv8fjI4",
+   "type": "youtube",
+   "author_or_channel": "Lore Of Exile",
+   "accessed": "2026-11-05",
+   "reliability": "tertiary"
+  },
+  {
+   "id": "src_ingame_doryani_s_catalyst",
+   "title": "Doryani's Catalyst (flavour text)",
+   "url": "https://www.poewiki.net/wiki/Doryani%27s_Catalyst",
+   "type": "in_game_text",
+   "author_or_channel": "Grinding Gear Games",
+   "accessed": "2026-11-05",
+   "reliability": "primary"
+  },
+  {
+   "id": "src_poewiki_atziri_queen_of_the_vaal",
+   "title": "Atziri, Queen of the Vaal - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Atziri,_Queen_of_the_Vaal",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_vaal_temple",
+   "title": "Vaal Temple - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Vaal_Temple",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_tacati_architect_of_toxins",
+   "title": "Tacati, Architect of Toxins - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Tacati,_Architect_of_Toxins",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_malachai_the_nightmare",
+   "title": "Malachai, the Nightmare - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Malachai,_the_Nightmare",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_search",
+   "title": "The Search - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Search",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  }
+ ],
+ "nodes": [
+  {
+   "id": "faction_vaal",
+   "name": "The Vaal",
+   "aliases": [
+    "Vaal Empire",
+    "Vaal civilisation"
+   ],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Oldest identified civilisation of Wraeclast and in its heyday its most powerful nation; first known users of virtue gems, practitioners of mass blood sacrifice and slavery. All but 3,126 died in the Vaal Cataclysm; survivors assimilated into the Azmeri.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [
+    "incursion"
+   ],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "until c. 400 BIC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "lead + History"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Vaal'"
+    }
+   ]
+  },
+  {
+   "id": "era_vaal",
+   "name": "Vaal era",
+   "aliases": [],
+   "type": "era",
+   "subtype": null,
+   "summary": "Period of the Vaal civilisation up to the Vaal Cataclysm (c. 400 BIC).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "up to c. 400 BIC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "History"
+    }
+   ]
+  },
+  {
+   "id": "event_vaal_azmeri_contact",
+   "name": "Vaal first contact with the Azmeri",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Around 1160 BC (Trinian, writing c. 1333 IC, says about 2,500 years earlier) the Vaal first contacted the primitive Azmeri tribes of the Azmerian ranges, introducing agriculture and literacy and helping create the first Azmerian written language, while never divulging the secret of virtue gems.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "c. 1160 BC (~2,500 years before Chitus, per Trinian)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Contacting the Azmeri'; Trinian, The Ancients Book 4"
+    }
+   ]
+  },
+  {
+   "id": "char_xibaqua",
+   "name": "Xibaqua",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Mythic/historical figure of the Vaal Empire whose remains were believed to be the progenitor of all Vaal; Vaal myth says their conflict with 'the gods' produced a 'droplet of pure light', the first Vaal. Unclear whether myth or history.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_xibaqua",
+     "locator": "lead"
+    },
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Origins of the Vaal'"
+    }
+   ]
+  },
+  {
+   "id": "concept_vaal_sacrifice",
+   "name": "Vaal sacrifice and Vaal souls",
+   "aliases": [
+    "Vaal souls"
+   ],
+   "type": "concept",
+   "subtype": null,
+   "summary": "Vaal bloodpriests discovered that the souls of the recently killed briefly seek another source of life and can be captured in a vaal skill gem to empower it; human and blood sacrifice powered Vaal constructs and society, and slavery supplied victims.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "History intro"
+    },
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "section 'Fall of the Vaal'"
+    }
+   ]
+  },
+  {
+   "id": "concept_virtue_gems",
+   "name": "Virtue gems",
+   "aliases": [],
+   "type": "concept",
+   "subtype": null,
+   "summary": "Gems discovered under Mount Veruso that the Vaal used to gain great power; Vaal bodies were adorned and later socketed with gems, and the Vaal never shared the secret with the Azmeri.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "History"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Vaal'"
+    }
+   ]
+  },
+  {
+   "id": "concept_vaal_corruption_technology",
+   "name": "Vaal corruption and thaumaturgical technology",
+   "aliases": [],
+   "type": "concept",
+   "subtype": null,
+   "summary": "Vaal science combined gem-craft, constructs, mechanical technology and corruption drawn from the Beast; much of it was developed by Doryani and housed at Atzoatl and Utzaal. Its influence resurfaces as Vaal side areas, Vaal skill gems and Vaal Orbs in PoE1.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Temple of Atzoatl"
+    },
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "section 'Post Fall'"
+    }
+   ]
+  },
+  {
+   "id": "char_atziri",
+   "name": "Atziri, Queen of the Vaal",
+   "aliases": [
+    "Queen Atziri",
+    "The Red Queen",
+    "Queen of Endless Beauty",
+    "Atziri, Queen of Sacrifice",
+    "Atziri, the Red Queen",
+    "Atziri, the Fell Serpent"
+   ],
+   "type": "character",
+   "subtype": null,
+   "summary": "Last Queen of the Vaal: vain, narcissistic ruler obsessed with eternal youth and beauty who demanded ever more sacrifice. Her pursuit of immortality with Doryani led to the Vaal Cataclysm; she ended trapped in a crimson nightmare realm. Boss in PoE1 (Apex of Sacrifice, Alluring Abyss/Uber, Throne of Atziri) and pinnacle boss (Atziri, the Red Queen) of PoE2's Fate of the Vaal.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [
+    "incursion",
+    "sacrifice_of_the_vaal",
+    "fate_of_the_vaal"
+   ],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "c. 400 BIC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "lead + Reign sections"
+    },
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Reign of Queen Atziri"
+    },
+    {
+     "source_id": "src_poe2wiki_atziri_the_red_queen",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "char_doryani",
+   "name": "Doryani, Royal Thaumaturge",
+   "aliases": [
+    "Doryani, Queen's Thaumaturgist",
+    "Doryani, First Seer",
+    "Master Thaumaturge",
+    "Doryani of the Vaal"
+   ],
+   "type": "character",
+   "subtype": null,
+   "summary": "Atziri's Royal Thaumaturge ('Queen's Thaumaturgist'), the most capable and ruthless mind of her court, whose gem, technology and Beast experiments brought the Vaal prosperity and, per PoE1, ruined them; Sin calls him a 'Vaalish overreacher' who wounded the Beast. PoE2 reframes the Cataclysm as Atziri's doing: Doryani secretly opposed her communion, was captured by the Exile in Act 3 (Utzaal's past) and brought to the present as an ally seeking to contain the Beast. Claims that he built 2,000-year contingencies come only from fan analysis.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [
+    "incursion",
+    "fate_of_the_vaal"
+   ],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "c. 400 BIC; PoE2 interlude of c. 20 years after PoE1",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_doryani",
+     "locator": "lead + sections"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Act 3 quest log"
+    },
+    {
+     "source_id": "src_yt_1Zt4tv8fjI4",
+     "locator": "[0:01]-[17:30]"
+    },
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "The Dark Ember: 'ancient wound wrought by that Vaalish overreacher, Doryani'"
+    }
+   ]
+  },
+  {
+   "id": "char_zerphi",
+   "name": "Zerphi",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Vaal noble who lived to 168, a serial killer who tortured and killed thirteen noble Gemling victims over 128 years and was found rejuvenated to age twenty; his longevity prompted Atziri to order Doryani to study it.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_zerphi",
+     "locator": "page"
+    },
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Zerphi'; Trinian, The Ancients Book 2"
+    }
+   ]
+  },
+  {
+   "id": "event_zerphi_investigation",
+   "name": "Doryani's investigation of Zerphi",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Atziri ordered Doryani to research Zerphi's rejuvenation 'within the realms of possibility... without fear of question or consequence'; Vaal aged 16-26 were sent to him and none survived, the experiments failing.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Zerphi'; Trinian Book 3"
+    }
+   ]
+  },
+  {
+   "id": "char_kishara",
+   "name": "Kishara",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Vaal explorer from Atziri's time who fell out of favour; Atziri seized her ship and sacrificed its crew. She hid Kishara's Star near the Causeway and her descendants formed the Brinerot clan.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Kishara'"
+    }
+   ]
+  },
+  {
+   "id": "char_tetzlapokal",
+   "name": "Queen Tetzlapokal",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Pre-Atziri Vaal queen, devotee of Arakaali with a fascination with death and corpses; the Vaal City rose to prominence in her reign.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Reign of Queen Tetzlapokal'"
+    }
+   ]
+  },
+  {
+   "id": "char_jaetai",
+   "name": "Jaetai, Vaal Advisor",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Vaal advisor to Atziri mentioned only on the flavour text of Atziri's Foible.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Jaetai, Vaal Advisor'"
+    }
+   ]
+  },
+  {
+   "id": "char_atalui_vaal_priestess",
+   "name": "Atalui, Vaal Priestess",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Vaal priestess mentioned only in flavour text of Bloodseeker (not to be confused with PoE2's Atalui).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Atalui, Vaal Priestess'"
+    }
+   ]
+  },
+  {
+   "id": "deity_ralakesh",
+   "name": "Ralakesh",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "Vaal god, Master of a Million Faces, who controlled a Vaal city through 'animal instincts' and nearly caused its extinction; killed by the Exile in PoE1 Act 7.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Ralakesh'"
+    }
+   ]
+  },
+  {
+   "id": "deity_yugul",
+   "name": "Yugul",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "Vaal scholar of fear who ascended to godhood through mirrors that 'petrify fear'; killed by the Exile in PoE1 Act 8.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Yugul'"
+    }
+   ]
+  },
+  {
+   "id": "deity_arakaali",
+   "name": "Arakaali",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "Spinner of Shadows: mortal temptress turned arachnid, Vaal goddess of fertility, first worshipped by the Azmeri; her temple is the Temple of Decay (Act 7).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Arakaali'"
+    }
+   ]
+  },
+  {
+   "id": "deity_yaomac",
+   "name": "Yaomac",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "Three-headed serpent Vaal deity, shepherd of Vaal souls and arbiter of the seasons' balance.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Yaomac'"
+    }
+   ]
+  },
+  {
+   "id": "deity_kamasa",
+   "name": "Kamasa",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "Vaal god of Wealth, represented by a monkey; in PoE2 Act 3 monkey-statue temples in Utzaal hold Kamasa treasure.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Gods list"
+    },
+    {
+     "source_id": "src_poe2wiki_treasures_of_utzaal",
+     "locator": "Oswald dialogue"
+    }
+   ]
+  },
+  {
+   "id": "deity_kopec",
+   "name": "Kopec",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "Vaal sun god; the Temple of Kopec in Utzaal sealed the time gateway.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Alva: 'Temple of the Sun God, Kopec'"
+    }
+   ]
+  },
+  {
+   "id": "deity_vaal_oversoul",
+   "name": "Vaal Oversoul",
+   "aliases": [
+    "Oversoul"
+   ],
+   "type": "deity",
+   "subtype": "construct",
+   "summary": "Giant Vaal construct and final boss of PoE1 Act 2, fought on the top floor of the Ancient Pyramid after using The Apex on the Dark Altar; Doryani's Machinarium flavour text suggests (inference) Doryani created it. Defeating it opens the way to Act 3's Sarn.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe1_act2"
+   ],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_oversoul",
+     "locator": "lead"
+    },
+    {
+     "source_id": "src_poewiki_doryani",
+     "locator": "section 'Atziri's rule', Doryani's Machinarium flavour text"
+    }
+   ]
+  },
+  {
+   "id": "char_vaal_omnitect",
+   "name": "The Vaal Omnitect",
+   "aliases": [],
+   "type": "character",
+   "subtype": "construct",
+   "summary": "Vaal construct, boss of the present-day Temple of Atzoatl during the Incursion leagues; its exclusive currency drops come from it.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_incursion_league",
+     "locator": "'Currency' / 'Unique items': 'The Vaal Omnitect, the boss of The Temple of Atzoatl'"
+    },
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Constructs'"
+    }
+   ]
+  },
+  {
+   "id": "deity_chaos",
+   "name": "Chaos",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "Impulse of Chaos, not a Vaal god, but a sect of Vaal priests worshipped him; his Temple of Chaos stood on the outskirts of Utzaal. The Trialmaster says Atziri's realm lies beyond his reach and the Vaal fall occurred in every timeline.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Chaos'"
+    }
+   ]
+  },
+  {
+   "id": "event_vaal_cataclysm",
+   "name": "Vaal Cataclysm",
+   "aliases": [
+    "The Fall of the Vaal",
+    "The Fall"
+   ],
+   "type": "event",
+   "subtype": null,
+   "summary": "Event c. 400 BIC that ended the Vaal Empire: Doryani's project to grant immortality (manipulating the Beast, corruption, gems, sacrifice and 'communion') went wrong; only 3,126 Vaal survived and took refuge with the Azmeri. PoE2 shows the Red Communion and Atziri being swallowed by the Beast.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [
+    "incursion"
+   ],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "c. 400 BIC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'The Vaal Cataclysm'"
+    },
+    {
+     "source_id": "src_poewiki_doryani",
+     "locator": "section 'Vaal Cataclysm'"
+    },
+    {
+     "source_id": "src_poe2wiki_atziri_the_red_queen",
+     "locator": "Abilities: 'cutscene... swallowed by the Beast and starting the Cataclysm'"
+    }
+   ]
+  },
+  {
+   "id": "event_red_communion",
+   "name": "The Red Communion",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Project that allowed Atziri to commune directly with the Beast. Doryani, privately opposed, was forced to devise it; he learned all he could and prepared contingencies. It triggered the Vaal Cataclysm.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "c. 400 BIC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'The Vaal Cataclysm' (PoE2 account)"
+    },
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "Spymaster note: 'consequences of the Red Communion'"
+    }
+   ]
+  },
+  {
+   "id": "event_atziri_nightmare_fate",
+   "name": "Atziri trapped in the crimson nightmare",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "After the Cataclysm Atziri kept her beauty at the cost of her humanity, relegated to a nightmare realm where sacrificed Vaal rise and die repeatedly; her influence later seeps back via Vaal side areas and corruption.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "section 'Post Fall'"
+    }
+   ]
+  },
+  {
+   "id": "event_vaal_survivors_assimilate",
+   "name": "Survivors among the Azmeri",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "The 3,126 surviving Vaal found refuge among the Azmeri, could not explain what happened, had no gems and assimilated until none remained; they panicked at an image of a gem shown by the Kalguur.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "after c. 400 BIC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Vaal Cataclysm; Dannig, 'Arrival III'"
+    }
+   ]
+  },
+  {
+   "id": "faction_vaal_survivors",
+   "name": "Vaal survivors / Savage tribes heirs",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "The 3,126 survivors who merged into Azmeri tribes; later Azmeri/Karui cultures inherit Vaal remnants. Descendants of Vaal blood persist (e.g. Alva Valai; the Cuachic).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Vaal Cataclysm"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Doryani: 'a living descendant of our people'"
+    }
+   ]
+  },
+  {
+   "id": "loc_the_temple_of_atzoatl",
+   "name": "The Temple of Atzoatl",
+   "aliases": [
+    "Atzoatl"
+   ],
+   "type": "location",
+   "subtype": null,
+   "summary": "Vaal temple-complex built in the last years of Atziri's reign, centre of trade, mechanical research, Chayula worship and Doryani's gem experiments; Atziri moved her seat here. PoE1 Incursion league lets players reach it 2,000 years in the past.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'The Temple of Atzoatl'"
+    },
+    {
+     "source_id": "src_poewiki_incursion_league",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "loc_throne_of_atziri",
+   "name": "Throne of Atziri",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Tier-3 incursion room of Xipocado in the Temple of Atzoatl containing a boss encounter with Atziri.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "section 'Throne of Atziri'"
+    }
+   ]
+  },
+  {
+   "id": "loc_utzaal",
+   "name": "Utzaal",
+   "aliases": [
+    "Sunken City of Utzaal"
+   ],
+   "type": "location",
+   "subtype": null,
+   "summary": "Vaal city, centre of Doryani's research, drowned by its own waterways at the Cataclysm to spite looters. PoE2 Act 3 setting: the Exile drains the Sunken City, then travels to its living past.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act_3",
+     "locator": "lead"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Vaal fall: waterways drowning"
+    }
+   ]
+  },
+  {
+   "id": "loc_aggorat",
+   "name": "Aggorat",
+   "aliases": [
+    "Apex of Filth (present)"
+   ],
+   "type": "location",
+   "subtype": null,
+   "summary": "Opulent Vaal district of Utzaal, known for golden tributes at its main temple's apex; in the past it holds the Black Chambers where Doryani keeps Alva. In the present the Exile reaches it via the Drowned City and the Apex of Filth, defeating the Queen of Filth for the Temple Door Idol.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Alva: 'Aggorat... opulence'"
+    }
+   ]
+  },
+  {
+   "id": "loc_black_chambers",
+   "name": "The Black Chambers",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Complex within Aggorat where Doryani keeps Alva in the past of Utzaal; Act 3 boss area where the Exile captures Doryani (act boss: Doryani, Royal Thaumaturge).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act_3",
+     "locator": "Progression table"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "loc_temple_of_kopec",
+   "name": "Temple of Kopec",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Sealed Vaal sun-god temple beneath the Ziggurat Encampment, guarded by Ketzuli; houses the time gateway used to travel to Utzaal's past.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "loc_ziggurat_encampment",
+   "name": "Ziggurat Encampment",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Treasure hunter camp built atop a ziggurat in a lake; unknowingly sits on the time gateway. Town hub of PoE2 Act 3.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "loc_jiquani_s_machinarium",
+   "name": "Jiquani's Machinarium",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Unlooted Vaal facility in the Chimeral Wetlands holding a large Soul Core in Jiquani's Sanctum, needed to run the Matlan Waterways.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "loc_the_matlan_waterways",
+   "name": "The Matlan Waterways",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Vaal canal system whose controls, powered by a large Soul Core, drain the lake to reveal Utzaal.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "loc_lira_vaal",
+   "name": "Lira Vaal / Atziri's Temple",
+   "aliases": [
+    "Atziri's Temple",
+    "Temple of Atziri"
+   ],
+   "type": "location",
+   "subtype": null,
+   "summary": "Royal temple of Atziri and Vaal capital for much of its history; rebuilt by Xipocado and Doryani as a self-reconstructing marvel. PoE2 Fate of the Vaal league lets players modify its layout.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'The Capital'"
+    },
+    {
+     "source_id": "src_poe2wiki_atziri_s_temple",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "loc_azala_vaal",
+   "name": "Azala Vaal",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Vaal capital named after the burning of Lira Vaal's temple; now buried beneath Sarn where the Azmeri founded the Eternal Empire's capital.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'The Capital'"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Tarcus Veruso: 'ruins of Azala Vaal'"
+    }
+   ]
+  },
+  {
+   "id": "loc_vaal_ruins_poe2",
+   "name": "Vaal Ruins (PoE2)",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Endgame hub in PoE2 east/north-east of the Atlas start with a waypoint and Temple Console for Atziri's Temple.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_atziri_s_temple",
+     "locator": "'Ancient Beacon' section"
+    }
+   ]
+  },
+  {
+   "id": "loc_ancient_pyramid",
+   "name": "The Ancient Pyramid (PoE1 Act 2)",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Vaal pyramid in Act 2 housing the Dark Altar where the Vaal Oversoul is fought.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe1_act2"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_oversoul",
+     "locator": "lead"
+    },
+    {
+     "source_id": "src_poewiki_shadow_of_the_vaal",
+     "locator": "walkthrough"
+    }
+   ]
+  },
+  {
+   "id": "loc_the_cradle",
+   "name": "The Cradle",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Mirror-portal realm near the Beast where Atziri, the Fell Serpent is fought in PoE2.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_atziri_the_red_queen",
+     "locator": "Abilities"
+    }
+   ]
+  },
+  {
+   "id": "loc_apex_of_sacrifice",
+   "name": "The Apex of Sacrifice",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "PoE1 map-device area (Sacrifice fragments) in which Atziri is fought.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "section 'The Apex of Sacrifice'"
+    }
+   ]
+  },
+  {
+   "id": "loc_alluring_abyss",
+   "name": "The Alluring Abyss",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "PoE1 area for Uber Atziri (Mortal fragments).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "section 'The Alluring Abyss'"
+    }
+   ]
+  },
+  {
+   "id": "loc_cuachic_vault",
+   "name": "Cuachic Vault",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Isolated vault atop Mount Kriar where a Vaal remnant (Cuachic) lived, controlled and numbed by their High Priests.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_interlude3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "quest log"
+    },
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "The Cuachic Legacy/Purpose"
+    }
+   ]
+  },
+  {
+   "id": "loc_temple_of_chaos",
+   "name": "Temple of Chaos (Utzaal)",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Temple of Vaal priests dedicated to Chaos on the outskirts of Utzaal; site of the PoE2 Trial of Chaos.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "trial_of_chaos"
+   ],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Chaos'"
+    },
+    {
+     "source_id": "src_poe2wiki_act_3",
+     "locator": "progression table"
+    }
+   ]
+  },
+  {
+   "id": "loc_grand_architect_s_temple",
+   "name": "The Grand Architect's Temple",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Delve node in the Vaal Outpost biome housing the boss Ahuatotli, the Blind.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "delve"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_grand_architect_s_temple",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "char_ahuatotli",
+   "name": "Ahuatotli, the Blind",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Vaal-themed Delve boss in The Grand Architect's Temple.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "delve"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_ahuatotli_the_blind",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "league_incursion",
+   "name": "Incursion league",
+   "aliases": [],
+   "type": "league",
+   "subtype": null,
+   "summary": "PoE1 3.3.0 challenge league (June 2018) in which Alva Valai opens incursions 2,000 years into the past to the Temple of Atzoatl; later became a core Master mechanic.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_incursion_league",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "league_sacrifice_of_the_vaal",
+   "name": "Sacrifice of the Vaal",
+   "aliases": [],
+   "type": "league",
+   "subtype": null,
+   "summary": "PoE1 1.1.0 mini-expansion centred on Atziri and Vaal side areas.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "league_poe2_fate_of_the_vaal",
+   "name": "Fate of the Vaal league",
+   "aliases": [],
+   "type": "league",
+   "subtype": null,
+   "summary": "PoE2 0.4.0 league (12 Dec 2025 - 25 May 2026) introducing Ancient Beacons, Atziri's Temple and the Red Queen; part of The Last of the Druids.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_league",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "char_alva",
+   "name": "Alva Valai",
+   "aliases": [
+    "Alva"
+   ],
+   "type": "character",
+   "subtype": null,
+   "summary": "Treasure hunter and archaeologist of Vaal descent; PoE1 Incursion Master who creates temporal incursions into Atzoatl; PoE2 Act 3 companion at the Ziggurat Encampment whose Vaal blood activates the time gateway.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion",
+    "fate_of_the_vaal"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_incursion_league",
+     "locator": "lead"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Act 3 dialogue"
+    }
+   ]
+  },
+  {
+   "id": "faction_vaal_architects",
+   "name": "The Royal Architects of Atzoatl",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Group of Vaal architects serving Atziri who built the Temple; Incursion has Vaal Architect mini-bosses. PoE2 Medallion flavour names Architects of the Guild, Vault, Destruction, Hoard, Forge and Nexus and associates Quipolatl, Puhuarte, Juatalotli, Hayoxi, Estazunti with them.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion",
+    "fate_of_the_vaal"
+   ],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Figures"
+    },
+    {
+     "source_id": "src_poe2wiki_atziri_s_temple",
+     "locator": "Medallions table"
+    }
+   ]
+  },
+  {
+   "id": "char_xipocado",
+   "name": "Xipocado, Royal Architect",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Atziri's Royal Architect who with Doryani rebuilt the temple as a self-modifying machine; boss in the Temple of Atzoatl (PoE1) and Atziri's Temple (PoE2).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion",
+    "fate_of_the_vaal"
+   ],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_xipocado_royal_architect",
+     "locator": "Lore"
+    },
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'The Capital'"
+    }
+   ]
+  },
+  {
+   "id": "char_viper_napuatzi",
+   "name": "Viper Napuatzi",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Vaal warrior in Utzaal's past who confronts the Exile and Alva after the gate opens, accuses them of spilling Vaal blood, and has Alva taken to Doryani; defeated by the Exile in Act 3 (exact rank/title not given in the wiki quest log).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "char_ketzuli",
+   "name": "Ketzuli, High Priest of the Sun",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Vaal High Priest of the Sun whose writings Alva cites about research in the Temple of Kopec (device/time gateway); boss in the Temple of Kopec defeated by the Exile in PoE2 Act 3.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "char_zolin_zelina",
+   "name": "Zolin and Zelina",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Cuachic Blood Priest (Zolin) and Blood Priestess (Zelina), apparently siblings and High Priests of the Cuachic Vault who kept the Cuachic numbed and controlled; defeated by the Exile in Interlude 3 and persuaded by Doryani's code phrase 'the time of the sparrow has come'.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_interlude3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "quest log"
+    },
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "'The Cuachic Legacy' / 'The Cuachic Purpose' (writer refers to 'my sister')"
+    }
+   ]
+  },
+  {
+   "id": "faction_cuachic",
+   "name": "The Cuachic",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Isolated Vaal remnant in Mount Kriar's vault, living under strict control for generations; recruited by Doryani's phrase in PoE2 Interlude.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_interlude3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "quest log"
+    },
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "Cuachic Legacy"
+    }
+   ]
+  },
+  {
+   "id": "artifact_precursor_weapon",
+   "name": "Precursor anti-corruption weapon",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": null,
+   "summary": "Ancient weapon from a lost civilisation designed against corruption; four pieces: Doryani holds one, three are scattered in Ngamakanui.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Doryani dialogue"
+    },
+    {
+     "source_id": "src_poe2wiki_act_4",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "artifact_utzaal_time_gateway",
+   "name": "Utzaal time gateway",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": null,
+   "summary": "Device hidden beneath the Ziggurat Encampment requiring Vaal blood that opens a gate into Utzaal's past.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Alva dialogue"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_a3_utzaal_time_travel",
+   "name": "Exile travels to Utzaal's past",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "The Exile and Alva use the gateway to reach Utzaal before the Cataclysm to learn of the Beast.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Enter the Time Portal"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_a3_capture_doryani",
+   "name": "Doryani captured and recruited",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "The Exile defeats Doryani in the Black Chambers; Alva convinces him to follow them to the future and help contain the Beast.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Capture Doryani"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_a3_survive_cataclysm",
+   "name": "Exile witnesses the Vaal Cataclysm",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Doryani, Alva and the Exile use the gateway as the Cataclysm begins ('It begins...'); they return to the present where Doryani sees Utzaal as a grave.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Survive the Cataclysm"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_interlude_recruit_vaal",
+   "name": "Recruiting the Cuachic",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "In the Interlude the Exile reaches Mount Kriar, defeats Zolin and Zelina and secures Cuachic aid.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_interlude3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "event_poe2_fate_of_the_vaal_atziri",
+   "name": "Fate of the Vaal questline",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "League quest in which Alva and Doryani open Atziri's Temple as a time portal; the Exile defeats Xipocado, the Red Queen and Fell Serpent but fails to stop the Cataclysm.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_quest_",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "event_incursion_alva_time_travel",
+   "name": "Incursions into Atzoatl",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Alva Valai creates incursions that take the Exile 2,000 years back to the Temple of Atzoatl; changes alter the present temple.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_incursion_league",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "char_davaro",
+   "name": "Davaro of Theopolis",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Templar thaumaturge who heard Vaal relics 'sing', saw visions of Atziri and sacrificed Karui slaves and Oriathan children to her altar.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "section 'Davaro of Theopolis'"
+    }
+   ]
+  },
+  {
+   "id": "text_the_ancients",
+   "name": "The Ancients (Trinian)",
+   "aliases": [],
+   "type": "text",
+   "subtype": null,
+   "summary": "In-game history by Trinian in the Library of Sarn (PoE1 Act 3), Books 1-5 on Atziri, Zerphi, Doryani, the Azmeri and the Fall.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "citations of Trinian"
+    }
+   ]
+  },
+  {
+   "id": "text_vaal_letters",
+   "name": "Vaal Letters",
+   "aliases": [],
+   "type": "text",
+   "subtype": null,
+   "summary": "Twelve readable letters by victims and subjects of Atziri's regime, documenting sacrifice and dissent.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_letter",
+     "locator": "page"
+    }
+   ]
+  },
+  {
+   "id": "char_the_hooded_one",
+   "name": "The Hooded One",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Guide figure in PoE2 who directs the Exile to the Vaal and the weapon.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "char_oswald",
+   "name": "Oswald",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Quartermaster of the treasure hunters at the Ziggurat Encampment.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "char_servi",
+   "name": "Servi",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Local guide whose tribe knows of the Vaal ruin in the Chimeral Wetlands.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "char_zicoatl",
+   "name": "Zicoatl, Warden of the Core",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Construct guardian of the Large Soul Core in Jiquani's Sanctum.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "concept_doryani_contingencies",
+   "name": "Doryani's contingencies",
+   "aliases": [],
+   "type": "concept",
+   "subtype": null,
+   "summary": "Fan-synthesised reading of Doryani's secret preparations: anti-Beast Precursor weapon, flood-sealed Utzaal, and a time gateway needing Vaal blood. Interpretive; some details rest on tertiary YouTube analysis.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "community_theory",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_yt_1Zt4tv8fjI4",
+     "locator": "[7:07]-[13:30]"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Doryani dialogue"
+    }
+   ]
+  },
+  {
+   "id": "char_exile_poe1",
+   "name": "Exile (PoE1)",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "The PoE1 protagonist.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_incursion_league",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "char_exile_poe2",
+   "name": "Exile (PoE2)",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "The PoE2 protagonist.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "deity_beast",
+   "name": "The Beast",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "Ancient divine creature of thaumaturgy, created by Sin from the Seed of Corruption; Atziri and Doryani manipulated it.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "lead"
+    },
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "The Beast dialogue"
+    }
+   ]
+  },
+  {
+   "id": "faction_azmeri",
+   "name": "Azmeri",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Tribal people of the Azmerian ranges who took in the Vaal survivors.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Contacting the Azmeri"
+    }
+   ]
+  },
+  {
+   "id": "faction_kalguuran",
+   "name": "Kalguuran",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Seafaring Kalguuran, shown a gem image by Vaal survivors.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Vaal Cataclysm"
+    }
+   ]
+  },
+  {
+   "id": "deity_chayula",
+   "name": "Chayula",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "Breachlord worshipped at Atzoatl by the Cult of Purple Flame.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Temple of Atzoatl"
+    }
+   ]
+  },
+  {
+   "id": "deity_hinekora",
+   "name": "Hinekora",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "Karui goddess of death; could not see Doryani in the past.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_hinekora",
+     "locator": "dialogue quotes"
+    }
+   ]
+  },
+  {
+   "id": "char_malachai",
+   "name": "Malachai",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Thaumaturge following in Doryani's footsteps.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Chitus: Malachai"
+    }
+   ]
+  },
+  {
+   "id": "char_dominus",
+   "name": "High Templar Dominus",
+   "aliases": [],
+   "type": "character",
+   "subtype": null,
+   "summary": "Templar who brought Vaal relics to Oriath.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "Davaro"
+    }
+   ]
+  },
+  {
+   "id": "loc_sarn",
+   "name": "Sarn",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Eternal Empire capital founded on the ruins of Azala Vaal.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Tarcus Veruso"
+    }
+   ]
+  },
+  {
+   "id": "deity_sin",
+   "name": "Sin",
+   "aliases": [],
+   "type": "deity",
+   "subtype": null,
+   "summary": "God who created the Beast.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "The Beast"
+    }
+   ]
+  },
+  {
+   "id": "loc_ngamakanui",
+   "name": "Ngamakanui",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Karui archipelago where the weapon pieces lie.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Doryani"
+    }
+   ]
+  },
+  {
+   "id": "faction_karui",
+   "name": "Karui",
+   "aliases": [],
+   "type": "faction",
+   "subtype": null,
+   "summary": "Island people who obstructed Doryani.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Doryani"
+    }
+   ]
+  },
+  {
+   "id": "loc_temple_of_decay",
+   "name": "Temple of Decay",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Arakaali's temple, Act 7.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe1_act7"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Arakaali"
+    }
+   ]
+  },
+  {
+   "id": "loc_the_vaal_city",
+   "name": "The Vaal City",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Vaal city that rose to prominence under Queen Tetzlapokal; PoE1 Act 7 area.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act7"
+   ],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Reign of Queen Tetzlapokal"
+    }
+   ]
+  },
+  {
+   "id": "loc_vaal_ruins_poe1",
+   "name": "The Vaal Ruins (PoE1 Act 2)",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Vaal ruin from which the Exile unleashes Darkness.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe1_act2"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_shadow_of_the_vaal",
+     "locator": "walkthrough"
+    }
+   ]
+  },
+  {
+   "id": "event_poe1_a2_kill_vaal_oversoul",
+   "name": "Defeat the Vaal Oversoul",
+   "aliases": [],
+   "type": "event",
+   "subtype": null,
+   "summary": "Exile kills the Oversoul in the Ancient Pyramid and lifts the Darkness.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe1_act2"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_shadow_of_the_vaal",
+     "locator": "walkthrough"
+    }
+   ]
+  },
+  {
+   "id": "char_tacati",
+   "name": "Tacati, Architect of Toxins",
+   "aliases": [],
+   "type": "character",
+   "subtype": "architect",
+   "summary": "Unique Architect found in the Poison Garden, Cultivar Chamber and Toxic Grove rooms of the Temple of Atzoatl; his name gives the legacy Tacati item mods.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "2000 years before PoE1 (Incursion time travel)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_tacati_architect_of_toxins",
+     "locator": "intro / 'Areas'"
+    }
+   ]
+  },
+  {
+   "id": "char_kaj_yaraaz",
+   "name": "K'aj Y'ara'az",
+   "aliases": [],
+   "type": "character",
+   "subtype": "demon",
+   "summary": "Unique demon boss in the Vaal Temple map; one of a trio that are variants of the Atziri trio of the Apex of Sacrifice. Uses Dual Strike and Fire Enrage.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_atlas",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_temple",
+     "locator": "'Boss' section"
+    }
+   ]
+  },
+  {
+   "id": "char_kaj_qura",
+   "name": "K'aj Q'ura",
+   "aliases": [],
+   "type": "character",
+   "subtype": "demon",
+   "summary": "Unique demon boss in the Vaal Temple map, a variant of the Atziri trio; uses Demon Cleave (Corrupted Blood) and Cyclone.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_atlas",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_temple",
+     "locator": "'Boss' section"
+    }
+   ]
+  },
+  {
+   "id": "char_kaj_aalai",
+   "name": "K'aj A'alai",
+   "aliases": [],
+   "type": "character",
+   "subtype": "demon",
+   "summary": "Third demon of the Vaal Temple map boss trio, variants of the Atziri trio; all released with Sacrifice of the Vaal.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_atlas",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_temple",
+     "locator": "'Boss' section; trio listing"
+    }
+   ]
+  },
+  {
+   "id": "loc_vaal_temple_map",
+   "name": "Vaal Temple (map)",
+   "aliases": [],
+   "type": "location",
+   "subtype": null,
+   "summary": "Atlas map area themed on Vaal corruption, containing ten Vaal Vessel strongboxes and the demon boss trio; tileset similar to the Apex of Sacrifice.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_atlas",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_temple",
+     "locator": "'Layout' section"
+    }
+   ]
+  },
+  {
+   "id": "char_uber_atziri",
+   "name": "Uber Atziri",
+   "aliases": [
+    "Incursion Atziri"
+   ],
+   "type": "character",
+   "subtype": "boss_variant",
+   "summary": "Name for Atziri when fought in the Alluring Abyss (assembled from the four Mortal fragments): mechanically the same boss as at the Apex of Sacrifice but with area modifiers that make it far harder.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "sacrifice_of_the_vaal",
+    "incursion"
+   ],
+   "era": "poe1_atlas",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "section 'The Alluring Abyss'"
+    }
+   ]
+  },
+  {
+   "id": "char_queen_of_filth",
+   "name": "Queen of Filth",
+   "type": "character",
+   "summary": "Boss in the Apex of Filth in Aggorat, Utzaal (present); the Exile defeats her to obtain the Temple Door Idol that opens the Temple of Kopec.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "era": "poe2_campaign",
+   "acts": [
+    "act_poe2_act3"
+   ],
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "'Defeat the Queen of Filth'"
+    }
+   ],
+   "aliases": [],
+   "subtype": "",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "branches": [],
+   "canon_status": "canon",
+   "confidence": "high"
+  },
+  {
+   "id": "char_uromoti",
+   "name": "Uromoti, Architect of Expansion",
+   "type": "character",
+   "summary": "Vaal Architect of Atziri who, per a carving in the Howling Caves, secretly built a vault in a remote mountain, hiding the 'treason' from the Queen and sending his children into it; his name is on a Temple Console medallion. Thought the Queen mad.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "era": "vaal",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "'Uromoti's Truth' (Howling Caves)"
+    },
+    {
+     "source_id": "src_poe2wiki_atziri_s_temple",
+     "locator": "Medallions: 'Uromoti's Medallion'"
+    }
+   ],
+   "confidence": "medium",
+   "aliases": [],
+   "subtype": "",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "branches": [],
+   "canon_status": "canon"
+  },
+  {
+   "id": "text_vaal_architect_notes",
+   "name": "Architects' notes in Atziri's Temple",
+   "type": "text",
+   "summary": "Environmental texts in Atziri's Temple: 'The Perfect Design' (Architect's living-machine temple, expecting Doryani's proxies to try to stop 'Atziri's Ascension'), 'Disloyalty' (an Architect suspects Doryani is moving against the Queen over the Red Communion) and 'The Forever Queen' (Atziri names a critic her personal Architect).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "era": "vaal",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "'The Perfect Design', 'Disloyalty', 'The Forever Queen'"
+    }
+   ],
+   "aliases": [],
+   "subtype": "",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high"
+  },
+  {
+   "id": "char_xyclucian",
+   "name": "Xyclucian, the Chimeral",
+   "type": "character",
+   "summary": "Unique chimera guarding the way to Jiquani's Machinarium in the Chimeral Wetlands (PoE2 Act 3).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "era": "poe2_campaign",
+   "acts": [
+    "act_poe2_act3"
+   ],
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_act_3",
+     "locator": "Progression: Chimeral Wetlands boss"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "'Defeat Xyclucian, the Chimera'"
+    }
+   ],
+   "aliases": [],
+   "subtype": "",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "branches": [],
+   "canon_status": "canon"
+  }
+ ],
+ "edges": [
+  {
+   "id": "e_faction_vaal__part_of__era_vaal",
+   "source": "faction_vaal",
+   "target": "era_vaal",
+   "relation": "part_of",
+   "description": "The Vaal define the Vaal era.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_char_xibaqua__originates_from__faction_vaal",
+   "source": "char_xibaqua",
+   "target": "faction_vaal",
+   "relation": "originates_from",
+   "description": "Xibaqua is the mythic progenitor of the Vaal.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_xibaqua",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_arakaali",
+   "source": "faction_vaal",
+   "target": "deity_arakaali",
+   "relation": "worships",
+   "description": "Arakaali became a Vaal goddess of fertility.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Arakaali"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_yaomac",
+   "source": "faction_vaal",
+   "target": "deity_yaomac",
+   "relation": "worships",
+   "description": "Priests worshipped Yaomac.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Yaomac"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_kamasa",
+   "source": "faction_vaal",
+   "target": "deity_kamasa",
+   "relation": "worships",
+   "description": "Kamasa is the Vaal god of wealth.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Gods"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_ralakesh",
+   "source": "faction_vaal",
+   "target": "deity_ralakesh",
+   "relation": "worships",
+   "description": "Ralakesh rose to prominence among the Vaal.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Ralakesh"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_yugul",
+   "source": "faction_vaal",
+   "target": "deity_yugul",
+   "relation": "worships",
+   "description": "Yugul's followers deified him.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Yugul"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_chaos",
+   "source": "faction_vaal",
+   "target": "deity_chaos",
+   "relation": "worships",
+   "description": "A sect of Vaal priests worshipped Chaos.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Chaos"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_kopec",
+   "source": "faction_vaal",
+   "target": "deity_kopec",
+   "relation": "worships",
+   "description": "Vaal sun god Kopec.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_chayula",
+   "source": "faction_vaal",
+   "target": "deity_chayula",
+   "relation": "worships",
+   "description": "Cult of Purple Flame worshipped Chayula at Atzoatl.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Temple of Atzoatl"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__leads_to__event_vaal_azmeri_contact",
+   "source": "faction_vaal",
+   "target": "event_vaal_azmeri_contact",
+   "relation": "leads_to",
+   "description": "Vaal reaching out to Azmeri.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Contacting the Azmeri"
+    }
+   ]
+  },
+  {
+   "id": "e_event_vaal_azmeri_contact__associated_with__faction_azmeri",
+   "source": "event_vaal_azmeri_contact",
+   "target": "faction_azmeri",
+   "relation": "associated_with",
+   "description": "Azmeri taught literacy and agriculture.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Contacting the Azmeri"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__created__concept_virtue_gems",
+   "source": "faction_vaal",
+   "target": "concept_virtue_gems",
+   "relation": "created",
+   "description": "Vaal were first known users of virtue gems.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "History"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__wields__concept_vaal_sacrifice",
+   "source": "faction_vaal",
+   "target": "concept_vaal_sacrifice",
+   "relation": "wields",
+   "description": "Vaal sacrifice empowered gems and constructs.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "History"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_vaal_sacrifice__part_of__concept_vaal_corruption_technology",
+   "source": "concept_vaal_sacrifice",
+   "target": "concept_vaal_corruption_technology",
+   "relation": "part_of",
+   "description": "Soul harvesting underpinned Vaal technology.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "History"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__rules__faction_vaal",
+   "source": "char_atziri",
+   "target": "faction_vaal",
+   "relation": "rules",
+   "description": "Atziri was the last Queen.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__serves__char_atziri",
+   "source": "char_doryani",
+   "target": "char_atziri",
+   "relation": "serves",
+   "description": "Royal Thaumaturge to Atziri.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_doryani",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__commands__char_doryani",
+   "source": "char_atziri",
+   "target": "char_doryani",
+   "relation": "commands",
+   "description": "Atziri ordered unrestricted research.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Zerphi"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__opposes__char_kishara",
+   "source": "char_atziri",
+   "target": "char_kishara",
+   "relation": "opposes",
+   "description": "Atziri seized Kishara's ship and sacrificed her crew.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Kishara"
+    }
+   ]
+  },
+  {
+   "id": "e_char_zerphi__associated_with__event_zerphi_investigation",
+   "source": "char_zerphi",
+   "target": "event_zerphi_investigation",
+   "relation": "associated_with",
+   "description": "Zerphi's rejuvenation prompted the investigation.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Zerphi"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__causes__event_zerphi_investigation",
+   "source": "char_atziri",
+   "target": "event_zerphi_investigation",
+   "relation": "causes",
+   "description": "She ordered it.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Zerphi"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__participates_in__event_zerphi_investigation",
+   "source": "char_doryani",
+   "target": "event_zerphi_investigation",
+   "relation": "participates_in",
+   "description": "Doryani carried it out.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Zerphi"
+    }
+   ]
+  },
+  {
+   "id": "e_event_zerphi_investigation__leads_to__event_vaal_cataclysm",
+   "source": "event_zerphi_investigation",
+   "target": "event_vaal_cataclysm",
+   "relation": "leads_to",
+   "description": "Doryani's failed immortality research (Zerphi) preceded his larger final project; wiki implies but does not state a direct causal chain.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Fall of the Vaal"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__sacrifices__faction_vaal",
+   "source": "char_atziri",
+   "target": "faction_vaal",
+   "relation": "sacrifices",
+   "description": "Atziri sent ever more Vaal to the altar.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Fall of the Vaal"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__causes__event_vaal_cataclysm",
+   "source": "char_doryani",
+   "target": "event_vaal_cataclysm",
+   "relation": "causes",
+   "description": "Doryani's experiments with the Beast led to the Cataclysm.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Vaal Cataclysm"
+    },
+    {
+     "source_id": "src_ingame_doryani_s_catalyst",
+     "locator": "flavour text"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__causes__event_vaal_cataclysm",
+   "source": "char_atziri",
+   "target": "event_vaal_cataclysm",
+   "relation": "causes",
+   "description": "Atziri's communion triggered it.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Vaal Cataclysm"
+    }
+   ]
+  },
+  {
+   "id": "e_event_red_communion__causes__event_vaal_cataclysm",
+   "source": "event_red_communion",
+   "target": "event_vaal_cataclysm",
+   "relation": "causes",
+   "description": "Red Communion triggered the Cataclysm.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "PoE2 account"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__participates_in__event_red_communion",
+   "source": "char_atziri",
+   "target": "event_red_communion",
+   "relation": "participates_in",
+   "description": "Atziri communed with the Beast.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "PoE2 account"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__participates_in__event_red_communion",
+   "source": "char_doryani",
+   "target": "event_red_communion",
+   "relation": "participates_in",
+   "description": "Doryani was forced to devise it.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "PoE2 account"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__opposes__char_atziri",
+   "source": "char_doryani",
+   "target": "char_atziri",
+   "relation": "opposes",
+   "description": "Doryani secretly opposed the communion.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "PoE2 account"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Doryani dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_event_vaal_cataclysm__part_of__era_vaal",
+   "source": "event_vaal_cataclysm",
+   "target": "era_vaal",
+   "relation": "part_of",
+   "description": "End of the Vaal era.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_event_vaal_cataclysm__leads_to__event_vaal_survivors_assimilate",
+   "source": "event_vaal_cataclysm",
+   "target": "event_vaal_survivors_assimilate",
+   "relation": "leads_to",
+   "description": "Survivors fled.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Vaal Cataclysm"
+    }
+   ]
+  },
+  {
+   "id": "e_event_vaal_survivors_assimilate__associated_with__faction_azmeri",
+   "source": "event_vaal_survivors_assimilate",
+   "target": "faction_azmeri",
+   "relation": "associated_with",
+   "description": "Absorbed by Azmeri.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Vaal Cataclysm"
+    }
+   ]
+  },
+  {
+   "id": "e_event_vaal_survivors_assimilate__associated_with__faction_kalguuran",
+   "source": "event_vaal_survivors_assimilate",
+   "target": "faction_kalguuran",
+   "relation": "associated_with",
+   "description": "Panicked at gem image.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Vaal Cataclysm"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal_survivors__descendant_of__faction_vaal",
+   "source": "faction_vaal_survivors",
+   "target": "faction_vaal",
+   "relation": "descendant_of",
+   "description": "Descendants.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Vaal Cataclysm"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__leads_to__event_atziri_nightmare_fate",
+   "source": "char_atziri",
+   "target": "event_atziri_nightmare_fate",
+   "relation": "leads_to",
+   "description": "Atziri survived in nightmare.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "Post Fall"
+    }
+   ]
+  },
+  {
+   "id": "e_event_vaal_cataclysm__leads_to__event_atziri_nightmare_fate",
+   "source": "event_vaal_cataclysm",
+   "target": "event_atziri_nightmare_fate",
+   "relation": "leads_to",
+   "description": "Atziri's fate after.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "Post Fall"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__opposes__deity_beast",
+   "source": "char_doryani",
+   "target": "deity_beast",
+   "relation": "opposes",
+   "description": "Doryani seeks to contain the Beast in PoE2.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Doryani dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__associated_with__deity_beast",
+   "source": "char_atziri",
+   "target": "deity_beast",
+   "relation": "associated_with",
+   "description": "Atziri communed with the Beast.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "The Beast dialogue"
+    },
+    {
+     "source_id": "src_poe2wiki_atziri_the_red_queen",
+     "locator": "Abilities"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__associated_with__concept_vaal_corruption_technology",
+   "source": "char_doryani",
+   "target": "concept_vaal_corruption_technology",
+   "relation": "associated_with",
+   "description": "Doryani drove Vaal technology.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_doryani",
+     "locator": "Atziri's rule"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__created__deity_vaal_oversoul",
+   "source": "char_doryani",
+   "target": "deity_vaal_oversoul",
+   "relation": "created",
+   "description": "Probably Doryani's creation.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_doryani",
+     "locator": "Atziri's rule"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_vaal_oversoul",
+   "source": "char_exile_poe1",
+   "target": "deity_vaal_oversoul",
+   "relation": "defeats",
+   "description": "The Exile kills the Oversoul.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_oversoul",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_vaal_oversoul__located_in__loc_ancient_pyramid",
+   "source": "deity_vaal_oversoul",
+   "target": "loc_ancient_pyramid",
+   "relation": "located_in",
+   "description": "Boss of Ancient Pyramid.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_oversoul",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__participates_in__event_poe1_a2_kill_vaal_oversoul",
+   "source": "char_exile_poe1",
+   "target": "event_poe1_a2_kill_vaal_oversoul",
+   "relation": "participates_in",
+   "description": "The Exile fights it.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_shadow_of_the_vaal",
+     "locator": "walkthrough"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe1_a2_kill_vaal_oversoul__leads_to__loc_sarn",
+   "source": "event_poe1_a2_kill_vaal_oversoul",
+   "target": "loc_sarn",
+   "relation": "leads_to",
+   "description": "Opens way to Sarn.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_oversoul",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_ancient_pyramid__part_of__loc_vaal_ruins_poe1",
+   "source": "loc_ancient_pyramid",
+   "target": "loc_vaal_ruins_poe1",
+   "relation": "part_of",
+   "description": "Pyramid reached via ruins.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_shadow_of_the_vaal",
+     "locator": "walkthrough"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_ralakesh",
+   "source": "char_exile_poe1",
+   "target": "deity_ralakesh",
+   "relation": "defeats",
+   "description": "Act 7 kill.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Ralakesh"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_yugul",
+   "source": "char_exile_poe1",
+   "target": "deity_yugul",
+   "relation": "defeats",
+   "description": "Act 8 kill.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Yugul"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_arakaali",
+   "source": "char_exile_poe1",
+   "target": "deity_arakaali",
+   "relation": "defeats",
+   "description": "Act 7 defeat.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Arakaali"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_arakaali__located_in__loc_temple_of_decay",
+   "source": "deity_arakaali",
+   "target": "loc_temple_of_decay",
+   "relation": "located_in",
+   "description": "Her temple.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Arakaali"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__located_in__loc_the_temple_of_atzoatl",
+   "source": "char_atziri",
+   "target": "loc_the_temple_of_atzoatl",
+   "relation": "located_in",
+   "description": "Atziri moved her seat to Atzoatl.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Temple of Atzoatl"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_the_temple_of_atzoatl__associated_with__char_doryani",
+   "source": "loc_the_temple_of_atzoatl",
+   "target": "char_doryani",
+   "relation": "associated_with",
+   "description": "Doryani's experiments there.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Temple of Atzoatl"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_the_temple_of_atzoatl__part_of__faction_vaal",
+   "source": "loc_the_temple_of_atzoatl",
+   "target": "faction_vaal",
+   "relation": "part_of",
+   "description": "Vaal temple.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Temple of Atzoatl"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_throne_of_atziri__part_of__loc_the_temple_of_atzoatl",
+   "source": "loc_throne_of_atziri",
+   "target": "loc_the_temple_of_atzoatl",
+   "relation": "part_of",
+   "description": "Room of the Temple.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "Throne of Atziri"
+    }
+   ]
+  },
+  {
+   "id": "e_char_xipocado__located_in__loc_throne_of_atziri",
+   "source": "char_xipocado",
+   "target": "loc_throne_of_atziri",
+   "relation": "located_in",
+   "description": "Creates the Royal Meeting Room.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_xipocado_royal_architect",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__located_in__loc_throne_of_atziri",
+   "source": "char_atziri",
+   "target": "loc_throne_of_atziri",
+   "relation": "located_in",
+   "description": "Boss encounter there.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "Throne of Atziri"
+    }
+   ]
+  },
+  {
+   "id": "e_char_alva__guides__char_exile_poe1",
+   "source": "char_alva",
+   "target": "char_exile_poe1",
+   "relation": "guides",
+   "description": "Alva guides the Exile in incursions.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_incursion_league",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__participates_in__event_incursion_alva_time_travel",
+   "source": "char_exile_poe1",
+   "target": "event_incursion_alva_time_travel",
+   "relation": "participates_in",
+   "description": "Exile does incursions.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_incursion_league",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_event_incursion_alva_time_travel__occurs_in__loc_the_temple_of_atzoatl",
+   "source": "event_incursion_alva_time_travel",
+   "target": "loc_the_temple_of_atzoatl",
+   "relation": "occurs_in",
+   "description": "2,000 years in the past.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_incursion_league",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_league_incursion__introduced_in__char_alva",
+   "source": "league_incursion",
+   "target": "char_alva",
+   "relation": "introduced_in",
+   "description": "League introduced Alva.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_incursion_league",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_char_alva__introduced_in__league_incursion",
+   "source": "char_alva",
+   "target": "league_incursion",
+   "relation": "introduced_in",
+   "description": "Alva debuted in Incursion.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_incursion_league",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_the_temple_of_atzoatl__introduced_in__league_incursion",
+   "source": "loc_the_temple_of_atzoatl",
+   "target": "league_incursion",
+   "relation": "introduced_in",
+   "description": "Temple introduced.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_incursion_league",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__introduced_in__league_sacrifice_of_the_vaal",
+   "source": "char_atziri",
+   "target": "league_sacrifice_of_the_vaal",
+   "relation": "introduced_in",
+   "description": "Atziri debuted in 1.1.0.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__located_in__loc_apex_of_sacrifice",
+   "source": "char_atziri",
+   "target": "loc_apex_of_sacrifice",
+   "relation": "located_in",
+   "description": "Boss of the Apex.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "Apex of Sacrifice"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__located_in__loc_alluring_abyss",
+   "source": "char_atziri",
+   "target": "loc_alluring_abyss",
+   "relation": "located_in",
+   "description": "Uber Atziri boss.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "Alluring Abyss"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__char_atziri",
+   "source": "char_exile_poe1",
+   "target": "char_atziri",
+   "relation": "defeats",
+   "description": "Exile can defeat Atziri.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "In-game encounters"
+    }
+   ]
+  },
+  {
+   "id": "e_char_vaal_omnitect__part_of__league_incursion",
+   "source": "char_vaal_omnitect",
+   "target": "league_incursion",
+   "relation": "part_of",
+   "description": "Incursion boss.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Constructs"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal_architects__serves__char_atziri",
+   "source": "faction_vaal_architects",
+   "target": "char_atziri",
+   "relation": "serves",
+   "description": "Architects served Atziri.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_atziri_s_temple",
+     "locator": "Medallions"
+    }
+   ]
+  },
+  {
+   "id": "e_char_xipocado__member_of__faction_vaal_architects",
+   "source": "char_xipocado",
+   "target": "faction_vaal_architects",
+   "relation": "member_of",
+   "description": "Royal Architect.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_xipocado_royal_architect",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_char_xipocado__serves__char_atziri",
+   "source": "char_xipocado",
+   "target": "char_atziri",
+   "relation": "serves",
+   "description": "Royal Architect.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Capital"
+    }
+   ]
+  },
+  {
+   "id": "e_char_xipocado__allies_with__char_doryani",
+   "source": "char_xipocado",
+   "target": "char_doryani",
+   "relation": "allies_with",
+   "description": "Rebuilt Lira Vaal together.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Capital"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_lira_vaal__part_of__faction_vaal",
+   "source": "loc_lira_vaal",
+   "target": "faction_vaal",
+   "relation": "part_of",
+   "description": "Capital.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Capital"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_lira_vaal__leads_to__loc_azala_vaal",
+   "source": "loc_lira_vaal",
+   "target": "loc_azala_vaal",
+   "relation": "leads_to",
+   "description": "After fire Azala Vaal became capital.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Capital"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_azala_vaal__located_in__loc_sarn",
+   "source": "loc_azala_vaal",
+   "target": "loc_sarn",
+   "relation": "located_in",
+   "description": "Buried below Sarn.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Capital"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__located_in__loc_utzaal",
+   "source": "char_doryani",
+   "target": "loc_utzaal",
+   "relation": "located_in",
+   "description": "Doryani's city.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_doryani",
+     "locator": "Atziri's rule"
+    },
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_utzaal__part_of__faction_vaal",
+   "source": "loc_utzaal",
+   "target": "faction_vaal",
+   "relation": "part_of",
+   "description": "Vaal city.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Chaos"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_temple_of_chaos__located_in__loc_utzaal",
+   "source": "loc_temple_of_chaos",
+   "target": "loc_utzaal",
+   "relation": "located_in",
+   "description": "On outskirts.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Chaos"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_aggorat__part_of__loc_utzaal",
+   "source": "loc_aggorat",
+   "target": "loc_utzaal",
+   "relation": "part_of",
+   "description": "District.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_black_chambers__part_of__loc_aggorat",
+   "source": "loc_black_chambers",
+   "target": "loc_aggorat",
+   "relation": "part_of",
+   "description": "Beneath Aggorat.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_temple_of_kopec__located_in__loc_ziggurat_encampment",
+   "source": "loc_temple_of_kopec",
+   "target": "loc_ziggurat_encampment",
+   "relation": "located_in",
+   "description": "Under camp.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_utzaal_time_gateway__located_in__loc_temple_of_kopec",
+   "source": "artifact_utzaal_time_gateway",
+   "target": "loc_temple_of_kopec",
+   "relation": "located_in",
+   "description": "Gateway there.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Alva dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_char_ketzuli__located_in__loc_temple_of_kopec",
+   "source": "char_ketzuli",
+   "target": "loc_temple_of_kopec",
+   "relation": "located_in",
+   "description": "Boss.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_ketzuli",
+   "source": "char_exile_poe2",
+   "target": "char_ketzuli",
+   "relation": "defeats",
+   "description": "Defeated.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_zicoatl",
+   "source": "char_exile_poe2",
+   "target": "char_zicoatl",
+   "relation": "defeats",
+   "description": "Retrieve core.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_jiquani_s_machinarium__leads_to__loc_the_matlan_waterways",
+   "source": "loc_jiquani_s_machinarium",
+   "target": "loc_the_matlan_waterways",
+   "relation": "leads_to",
+   "description": "Core drains the lake.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_the_matlan_waterways__leads_to__loc_utzaal",
+   "source": "loc_the_matlan_waterways",
+   "target": "loc_utzaal",
+   "relation": "leads_to",
+   "description": "Reveal Utzaal.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_hooded_one__guides__char_exile_poe2",
+   "source": "char_the_hooded_one",
+   "target": "char_exile_poe2",
+   "relation": "guides",
+   "description": "Directs Exile.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_char_alva__guides__char_exile_poe2",
+   "source": "char_alva",
+   "target": "char_exile_poe2",
+   "relation": "guides",
+   "description": "Act 3 aid.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_char_alva__allies_with__char_exile_poe2",
+   "source": "char_alva",
+   "target": "char_exile_poe2",
+   "relation": "allies_with",
+   "description": "Ally.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_char_alva__descendant_of__faction_vaal",
+   "source": "char_alva",
+   "target": "faction_vaal",
+   "relation": "descendant_of",
+   "description": "Vaal blood.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Doryani dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_char_oswald__guides__char_exile_poe2",
+   "source": "char_oswald",
+   "target": "char_exile_poe2",
+   "relation": "guides",
+   "description": "Quartermaster.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_char_servi__guides__char_exile_poe2",
+   "source": "char_servi",
+   "target": "char_exile_poe2",
+   "relation": "guides",
+   "description": "Tells of Machinarium.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_a3_utzaal_time_travel",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_a3_utzaal_time_travel",
+   "relation": "participates_in",
+   "description": "Time travel.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Enter Utzaal in the past"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_utzaal_time_gateway__causes__event_poe2_a3_utzaal_time_travel",
+   "source": "artifact_utzaal_time_gateway",
+   "target": "event_poe2_a3_utzaal_time_travel",
+   "relation": "causes",
+   "description": "Gateway.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Time Portal"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_a3_utzaal_time_travel__leads_to__event_poe2_a3_capture_doryani",
+   "source": "event_poe2_a3_utzaal_time_travel",
+   "target": "event_poe2_a3_capture_doryani",
+   "relation": "leads_to",
+   "description": "Alva captured.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_viper_napuatzi",
+   "source": "char_exile_poe2",
+   "target": "char_viper_napuatzi",
+   "relation": "defeats",
+   "description": "Defeated.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Defeat Viper Napuatzi"
+    }
+   ]
+  },
+  {
+   "id": "e_char_viper_napuatzi__serves__char_doryani",
+   "source": "char_viper_napuatzi",
+   "target": "char_doryani",
+   "relation": "serves",
+   "description": "Viper orders Alva brought 'to Doryani'; the wiki does not state his rank or allegiance beyond that.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__imprisons__char_alva",
+   "source": "char_doryani",
+   "target": "char_alva",
+   "relation": "imprisons",
+   "description": "Held in Black Chambers.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__rescues__char_alva",
+   "source": "char_exile_poe2",
+   "target": "char_alva",
+   "relation": "rescues",
+   "description": "Rescued.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Rescue Alva"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_doryani",
+   "source": "char_exile_poe2",
+   "target": "char_doryani",
+   "relation": "defeats",
+   "description": "Captured in testing pit.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Capture Doryani"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_a3_capture_doryani",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_a3_capture_doryani",
+   "relation": "participates_in",
+   "description": "Captures Doryani.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Capture Doryani"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__allies_with__char_exile_poe2",
+   "source": "char_doryani",
+   "target": "char_exile_poe2",
+   "relation": "allies_with",
+   "description": "Joins them.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Doryani dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__guides__char_exile_poe2",
+   "source": "char_doryani",
+   "target": "char_exile_poe2",
+   "relation": "guides",
+   "description": "Directs to Ngamakanui.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Speak to Doryani"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__travels_to__loc_ngamakanui",
+   "source": "char_doryani",
+   "target": "loc_ngamakanui",
+   "relation": "travels_to",
+   "description": "Seeks weapon pieces.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Speak to Doryani"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__possesses__artifact_precursor_weapon",
+   "source": "char_doryani",
+   "target": "artifact_precursor_weapon",
+   "relation": "possesses",
+   "description": "Holds one piece.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Doryani dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_precursor_weapon__located_in__loc_ngamakanui",
+   "source": "artifact_precursor_weapon",
+   "target": "loc_ngamakanui",
+   "relation": "located_in",
+   "description": "Other pieces.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Doryani dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_karui__opposes__char_doryani",
+   "source": "faction_karui",
+   "target": "char_doryani",
+   "relation": "opposes",
+   "description": "Karui interfered.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Doryani dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_a3_capture_doryani__leads_to__event_poe2_a3_survive_cataclysm",
+   "source": "event_poe2_a3_capture_doryani",
+   "target": "event_poe2_a3_survive_cataclysm",
+   "relation": "leads_to",
+   "description": "Return.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_a3_survive_cataclysm__part_of__event_vaal_cataclysm",
+   "source": "event_poe2_a3_survive_cataclysm",
+   "target": "event_vaal_cataclysm",
+   "relation": "part_of",
+   "description": "Witness.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Survive the Cataclysm"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__witnesses__event_vaal_cataclysm",
+   "source": "char_exile_poe2",
+   "target": "event_vaal_cataclysm",
+   "relation": "witnesses",
+   "description": "Witnesses.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Survive the Cataclysm"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_a3_survive_cataclysm",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_a3_survive_cataclysm",
+   "relation": "participates_in",
+   "description": "Survives.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "Survive the Cataclysm"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__created__artifact_utzaal_time_gateway",
+   "source": "char_doryani",
+   "target": "artifact_utzaal_time_gateway",
+   "relation": "created",
+   "description": "Contingency.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "community_theory",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_yt_1Zt4tv8fjI4",
+     "locator": "[11:36]-[12:20]"
+    }
+   ]
+  },
+  {
+   "id": "e_char_ketzuli__serves__char_doryani",
+   "source": "char_ketzuli",
+   "target": "char_doryani",
+   "relation": "serves",
+   "description": "Tasked to keep working.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "community_theory",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_yt_1Zt4tv8fjI4",
+     "locator": "[11:36]-[12:20]"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_doryani_contingencies__associated_with__char_doryani",
+   "source": "concept_doryani_contingencies",
+   "target": "char_doryani",
+   "relation": "associated_with",
+   "description": "Contingencies.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "community_theory",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_yt_1Zt4tv8fjI4",
+     "locator": "[7:07]-[13:30]"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_hinekora__opposes__char_doryani",
+   "source": "deity_hinekora",
+   "target": "char_doryani",
+   "relation": "associated_with",
+   "description": "In PoE2's Trial of the Ancestors dream dialogue Hinekora says 'Doryani is missing' and cannot foresee him; she foresees the Vaal Empire's fall.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_hinekora",
+     "locator": "'Winning a Tournament in The Halls of the Dead': 'Doryani is missing... where is Doryani?'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_malachai__student_of__char_doryani",
+   "source": "char_malachai",
+   "target": "char_doryani",
+   "relation": "associated_with",
+   "description": "Malachai sought to follow in Doryani's footsteps and described him as one who 'knew the truth'; no teacher-student relationship is stated.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "Chitus/Malachai: 'a thaumaturgist who sought to follow in Doryani's footsteps'"
+    },
+    {
+     "source_id": "src_poewiki_malachai_the_nightmare",
+     "locator": "Malachai's Journal"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__reveals__char_doryani",
+   "source": "deity_sin",
+   "target": "char_doryani",
+   "relation": "reveals",
+   "description": "Sin names Doryani's wound in the Beast.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "The Dark Ember dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_char_davaro__worships__char_atziri",
+   "source": "char_davaro",
+   "target": "char_atziri",
+   "relation": "worships",
+   "description": "Obsession and sacrifices.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "Davaro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_dominus__possesses__concept_vaal_corruption_technology",
+   "source": "char_dominus",
+   "target": "concept_vaal_corruption_technology",
+   "relation": "possesses",
+   "description": "Brought Vaal relics to Oriath.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "Davaro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_davaro__mentions__faction_vaal",
+   "source": "char_davaro",
+   "target": "faction_vaal",
+   "relation": "mentions",
+   "description": "Research Journal.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "Davaro"
+    }
+   ]
+  },
+  {
+   "id": "e_text_the_ancients__mentions__char_zerphi",
+   "source": "text_the_ancients",
+   "target": "char_zerphi",
+   "relation": "mentions",
+   "description": "Book 2.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Zerphi"
+    }
+   ]
+  },
+  {
+   "id": "e_text_the_ancients__mentions__char_atziri",
+   "source": "text_the_ancients",
+   "target": "char_atziri",
+   "relation": "mentions",
+   "description": "Book 1.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Early reign"
+    }
+   ]
+  },
+  {
+   "id": "e_text_the_ancients__mentions__event_vaal_azmeri_contact",
+   "source": "text_the_ancients",
+   "target": "event_vaal_azmeri_contact",
+   "relation": "mentions",
+   "description": "Book 4.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Contacting the Azmeri"
+    }
+   ]
+  },
+  {
+   "id": "e_text_vaal_letters__mentions__char_doryani",
+   "source": "text_vaal_letters",
+   "target": "char_doryani",
+   "relation": "mentions",
+   "description": "Letters mention Doryani.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_doryani",
+     "locator": "Atziri's rule quote"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kishara__descendant_of__faction_vaal",
+   "source": "char_kishara",
+   "target": "faction_vaal",
+   "relation": "descendant_of",
+   "description": "Vaal.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "Kishara"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_cuachic__descendant_of__faction_vaal",
+   "source": "faction_cuachic",
+   "target": "faction_vaal",
+   "relation": "descendant_of",
+   "description": "Cuachic.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_cuachic__located_in__loc_cuachic_vault",
+   "source": "faction_cuachic",
+   "target": "loc_cuachic_vault",
+   "relation": "located_in",
+   "description": "Vault.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_zolin_zelina__leads__faction_cuachic",
+   "source": "char_zolin_zelina",
+   "target": "faction_cuachic",
+   "relation": "leads",
+   "description": "High priests.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "Cuachic Purpose"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_zolin_zelina",
+   "source": "char_exile_poe2",
+   "target": "char_zolin_zelina",
+   "relation": "defeats",
+   "description": "Defeats.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__allies_with__faction_cuachic",
+   "source": "char_exile_poe2",
+   "target": "faction_cuachic",
+   "relation": "allies_with",
+   "description": "Recruited.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_interlude_recruit_vaal",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_interlude_recruit_vaal",
+   "relation": "participates_in",
+   "description": "Interlude.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "quest log"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__commands__faction_cuachic",
+   "source": "char_doryani",
+   "target": "faction_cuachic",
+   "relation": "commands",
+   "description": "Doryani tells Zolin and Zelina the Cuachic will march to war and meet in Kingsmarch; they call him 'Master Thaumaturge'.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "Doryani"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__located_in__loc_lira_vaal",
+   "source": "char_atziri",
+   "target": "loc_lira_vaal",
+   "relation": "located_in",
+   "description": "Boss at Atziri's Temple.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_atziri_the_red_queen",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__located_in__loc_the_cradle",
+   "source": "char_atziri",
+   "target": "loc_the_cradle",
+   "relation": "located_in",
+   "description": "Second phase.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_atziri_the_red_queen",
+     "locator": "Abilities"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_atziri",
+   "source": "char_exile_poe2",
+   "target": "char_atziri",
+   "relation": "defeats",
+   "description": "Defeats Red Queen but cannot stop Cataclysm.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_quest_",
+     "locator": "Quest Complete"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_xipocado",
+   "source": "char_exile_poe2",
+   "target": "char_xipocado",
+   "relation": "defeats",
+   "description": "Defeat Xipocado.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_xipocado_royal_architect",
+     "locator": "Access"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_poe2_fate_of_the_vaal_atziri",
+   "source": "char_exile_poe2",
+   "target": "event_poe2_fate_of_the_vaal_atziri",
+   "relation": "participates_in",
+   "description": "Quest.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_quest_",
+     "locator": "Walkthrough"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_fate_of_the_vaal_atziri__part_of__league_poe2_fate_of_the_vaal",
+   "source": "event_poe2_fate_of_the_vaal_atziri",
+   "target": "league_poe2_fate_of_the_vaal",
+   "relation": "part_of",
+   "description": "Quest of league.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_quest_",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_char_doryani__guides__char_exile_poe2__2",
+   "source": "char_doryani",
+   "target": "char_exile_poe2",
+   "relation": "guides",
+   "description": "Activates temple time portal.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_atziri_s_temple",
+     "locator": "Ancient Beacon"
+    }
+   ]
+  },
+  {
+   "id": "e_char_alva__guides__char_exile_poe2__2",
+   "source": "char_alva",
+   "target": "char_exile_poe2",
+   "relation": "guides",
+   "description": "League summon.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_quest_",
+     "locator": "Walkthrough"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_vaal_ruins_poe2__leads_to__loc_lira_vaal",
+   "source": "loc_vaal_ruins_poe2",
+   "target": "loc_lira_vaal",
+   "relation": "leads_to",
+   "description": "Hub to temple.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_atziri_s_temple",
+     "locator": "Ancient Beacon"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_lira_vaal__introduced_in__league_poe2_fate_of_the_vaal",
+   "source": "loc_lira_vaal",
+   "target": "league_poe2_fate_of_the_vaal",
+   "relation": "introduced_in",
+   "description": "League mechanic.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_league",
+     "locator": "League content"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_grand_architect_s_temple__located_in__faction_vaal",
+   "source": "loc_grand_architect_s_temple",
+   "target": "faction_vaal",
+   "relation": "located_in",
+   "description": "Delve node.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "delve"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_grand_architect_s_temple",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_char_ahuatotli__located_in__loc_grand_architect_s_temple",
+   "source": "char_ahuatotli",
+   "target": "loc_grand_architect_s_temple",
+   "relation": "located_in",
+   "description": "Boss.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "delve"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_ahuatotli_the_blind",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_chaos__opposes__char_atziri",
+   "source": "deity_chaos",
+   "target": "char_atziri",
+   "relation": "opposes",
+   "description": "Atziri's realm beyond Chaos.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "The Vaal Cataclysm"
+    }
+   ]
+  },
+  {
+   "id": "e_char_atziri__associated_with__loc_the_cradle",
+   "source": "char_atziri",
+   "target": "loc_the_cradle",
+   "relation": "associated_with",
+   "description": "Fell Serpent.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_atziri_the_red_queen",
+     "locator": "Abilities"
+    }
+   ]
+  },
+  {
+   "id": "e_char_tacati__located_in__loc_the_temple_of_atzoatl",
+   "source": "char_tacati",
+   "target": "loc_the_temple_of_atzoatl",
+   "relation": "located_in",
+   "description": "Tacati appears as an Architect in Temple of Atzoatl incursion rooms.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_tacati_architect_of_toxins",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_tacati__member_of__faction_vaal_architects",
+   "source": "char_tacati",
+   "target": "faction_vaal_architects",
+   "relation": "member_of",
+   "description": "Tacati is an Architect of the Temple of Atzoatl.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_tacati_architect_of_toxins",
+     "locator": "intro; type Architect"
+    }
+   ]
+  },
+  {
+   "id": "e_char_uber_atziri__aspect_of__char_atziri",
+   "source": "char_uber_atziri",
+   "target": "char_atziri",
+   "relation": "aspect_of",
+   "description": "Uber Atziri is the harder variant of the same boss.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_atlas",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "section 'The Alluring Abyss'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_uber_atziri__located_in__loc_alluring_abyss",
+   "source": "char_uber_atziri",
+   "target": "loc_alluring_abyss",
+   "relation": "located_in",
+   "description": "Fought in the Alluring Abyss (Mortal fragments).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_atlas",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "section 'The Alluring Abyss'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__char_uber_atziri",
+   "source": "char_exile_poe1",
+   "target": "char_uber_atziri",
+   "relation": "defeats",
+   "description": "Optional pinnacle fight against Uber Atziri.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_atlas",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_atziri_lore",
+     "locator": "section 'The Alluring Abyss'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kaj_yaraaz__located_in__loc_vaal_temple_map",
+   "source": "char_kaj_yaraaz",
+   "target": "loc_vaal_temple_map",
+   "relation": "located_in",
+   "description": "Boss of Vaal Temple map.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_atlas",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_temple",
+     "locator": "'Boss'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kaj_qura__located_in__loc_vaal_temple_map",
+   "source": "char_kaj_qura",
+   "target": "loc_vaal_temple_map",
+   "relation": "located_in",
+   "description": "Boss of Vaal Temple map.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_atlas",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_temple",
+     "locator": "'Boss'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kaj_aalai__located_in__loc_vaal_temple_map",
+   "source": "char_kaj_aalai",
+   "target": "loc_vaal_temple_map",
+   "relation": "located_in",
+   "description": "Boss of Vaal Temple map.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_atlas",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_temple",
+     "locator": "'Boss'"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_vaal_temple_map__associated_with__league_sacrifice_of_the_vaal",
+   "source": "loc_vaal_temple_map",
+   "target": "league_sacrifice_of_the_vaal",
+   "relation": "associated_with",
+   "description": "Released in Sacrifice of the Vaal alongside the Apex of Sacrifice and Alluring Abyss.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sacrifice_of_the_vaal"
+   ],
+   "era": "poe1_atlas",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_temple",
+     "locator": "'Boss' section"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_queen_of_filth",
+   "source": "char_exile_poe2",
+   "target": "char_queen_of_filth",
+   "relation": "defeats",
+   "description": "Defeated in the Apex of Filth for the Temple Door Idol.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "'Defeat the Queen of Filth'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_queen_of_filth__located_in__loc_aggorat",
+   "source": "char_queen_of_filth",
+   "target": "loc_aggorat",
+   "relation": "located_in",
+   "description": "Found in the Apex of Filth in Aggorat.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "'Enter the Apex of Filth'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_queen_of_filth__leads_to__loc_temple_of_kopec",
+   "source": "char_queen_of_filth",
+   "target": "loc_temple_of_kopec",
+   "relation": "leads_to",
+   "description": "Her Temple Door Idol opens the Temple of Kopec.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "'Pick up the Temple Door Idol'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__char_xyclucian",
+   "source": "char_exile_poe2",
+   "target": "char_xyclucian",
+   "relation": "defeats",
+   "description": "Guardian of the road to Jiquani's Machinarium.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "'Defeat Xyclucian, the Chimera'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_xyclucian__located_in__loc_jiquani_s_machinarium",
+   "source": "char_xyclucian",
+   "target": "loc_jiquani_s_machinarium",
+   "relation": "located_in",
+   "description": "Guards the entrance.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_legacy_of_the_vaal",
+     "locator": "'Defeat Xyclucian, the Chimera'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_vaal_omnitect__located_in__loc_the_temple_of_atzoatl",
+   "source": "char_vaal_omnitect",
+   "target": "loc_the_temple_of_atzoatl",
+   "relation": "located_in",
+   "description": "Boss of the present-day Temple.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "incursion"
+   ],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_incursion_league",
+     "locator": "'Currency': 'The Vaal Omnitect, the boss of The Temple of Atzoatl'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_uromoti__member_of__faction_vaal_architects",
+   "source": "char_uromoti",
+   "target": "faction_vaal_architects",
+   "relation": "member_of",
+   "description": "Architect of Expansion.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "'Uromoti's Truth'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_uromoti__serves__char_atziri",
+   "source": "char_uromoti",
+   "target": "char_atziri",
+   "relation": "serves",
+   "description": "Served Atziri while secretly building a vault out of fear of her.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "'Uromoti's Truth'"
+    }
+   ]
+  },
+  {
+   "id": "e_text_vaal_architect_notes__mentions__event_red_communion",
+   "source": "text_vaal_architect_notes",
+   "target": "event_red_communion",
+   "relation": "mentions",
+   "description": "'Disloyalty' references arguments with Doryani over the consequences of the Red Communion.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "'Disloyalty'"
+    }
+   ]
+  },
+  {
+   "id": "e_text_vaal_architect_notes__mentions__char_doryani",
+   "source": "text_vaal_architect_notes",
+   "target": "char_doryani",
+   "relation": "mentions",
+   "description": "Architect suspects Doryani of moving against the Queen.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [
+    "fate_of_the_vaal"
+   ],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_environmental_lore",
+     "locator": "'Disloyalty'; 'The Perfect Design'"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_lira_vaal__same_entity_as__loc_atziri_s_temple",
+   "source": "loc_lira_vaal",
+   "target": "loc_atziri_s_temple",
+   "relation": "same_entity_as",
+   "description": "Same location, defined in the poe2_endgame fragment as Atziri's Temple (Lira Vaal).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_atziri_s_temple",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_fate_of_the_vaal_atziri__same_entity_as__event_poe2_fate_of_the_vaal_quest",
+   "source": "event_poe2_fate_of_the_vaal_atziri",
+   "target": "event_poe2_fate_of_the_vaal_quest",
+   "relation": "same_entity_as",
+   "description": "Same quest as defined in poe2_endgame fragment.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_fate_of_the_vaal_quest_",
+     "locator": "lead"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe1_a2_kill_vaal_oversoul__part_of__event_a2_shadow_of_the_vaal",
+   "source": "event_poe1_a2_kill_vaal_oversoul",
+   "target": "event_a2_shadow_of_the_vaal",
+   "relation": "part_of",
+   "description": "Oversoul is the finale of the Shadow of the Vaal quest.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_oversoul",
+     "locator": "infobox quest = Shadow of the Vaal"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kishara__possesses__artifact_kishara_s_star",
+   "source": "char_kishara",
+   "target": "artifact_kishara_s_star",
+   "relation": "possesses",
+   "description": "Kishara's thaumaturgical guide, hidden near the Causeway.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_vaal",
+     "locator": "section 'Kishara'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe2_interlude_recruit_vaal__part_of__act_poe2_interlude3",
+   "source": "event_poe2_interlude_recruit_vaal",
+   "target": "act_poe2_interlude3",
+   "relation": "part_of",
+   "description": "Recruit the Vaal is the main quest of Interlude 3 (Doryani's Contingency).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_recruit_the_vaal",
+     "locator": "lead"
+    },
+    {
+     "source_id": "src_poe2wiki_the_search",
+     "locator": "Act page: Interlude 3 - Doryani's Contingency"
+    }
+   ]
+  }
+ ]
+}

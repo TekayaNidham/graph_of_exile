@@ -1,0 +1,31 @@
+name: Validate dataset
+
+on:
+  push:
+    paths: ["dataset/**", "scripts/**"]
+  pull_request:
+    paths: ["dataset/**", "scripts/**"]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install networkx jsonschema
+      - name: Rebuild from fragments + curation and check nothing drifted
+        run: |
+          python scripts/merge.py
+          git diff --stat --exit-code -- dataset/master/nodes.json dataset/master/edges.json dataset/master/sources.json
+      - name: Strict validation
+        run: for v in master poe1 poe2; do python scripts/validate_fragment.py dataset/$v/graph.json --strict-refs; done
+      - name: JSON Schema
+        run: |
+          python - <<'PY'
+          import json, jsonschema
+          s = json.load(open("dataset/schema/graph.schema.json"))
+          for v in ("master", "poe1", "poe2"):
+              jsonschema.validate(json.load(open(f"dataset/{v}/graph.json")), s)
+              print(v, "ok")
+          PY

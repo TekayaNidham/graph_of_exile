@@ -1,0 +1,524 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://github.com/TekayaNidham/graph_of_exile/dataset/schema/graph.schema.json",
+ "title": "Graph of Exile \u2014 graph.json",
+ "type": "object",
+ "required": [
+  "variant",
+  "nodes",
+  "edges",
+  "sources"
+ ],
+ "properties": {
+  "variant": {
+   "enum": [
+    "master",
+    "poe1",
+    "poe2"
+   ]
+  },
+  "nodes": {
+   "type": "array",
+   "items": {
+    "$ref": "#/$defs/node"
+   }
+  },
+  "edges": {
+   "type": "array",
+   "items": {
+    "$ref": "#/$defs/edge"
+   }
+  },
+  "sources": {
+   "type": "array",
+   "items": {
+    "$ref": "#/$defs/source"
+   }
+  }
+ },
+ "$defs": {
+  "node": {
+   "type": "object",
+   "required": [
+    "id",
+    "name",
+    "type",
+    "summary",
+    "plot_role",
+    "era",
+    "games",
+    "canon_status",
+    "confidence",
+    "sources"
+   ],
+   "properties": {
+    "id": {
+     "type": "string",
+     "pattern": "^[a-z][a-z0-9_]*$"
+    },
+    "name": {
+     "type": "string"
+    },
+    "aliases": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "type": {
+     "enum": [
+      "act",
+      "artifact",
+      "character",
+      "concept",
+      "creature",
+      "deity",
+      "era",
+      "event",
+      "faction",
+      "league",
+      "location",
+      "text"
+     ]
+    },
+    "subtype": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "summary": {
+     "type": "string"
+    },
+    "eras": {
+     "type": "array",
+     "items": {
+      "enum": [
+       "primordial",
+       "precursor",
+       "azmeri_ezomyte_ancient",
+       "vaal",
+       "post_vaal_dark_age",
+       "eternal_empire_rise",
+       "eternal_empire_fall",
+       "post_cataclysm",
+       "poe1_campaign",
+       "poe1_atlas",
+       "poe1_leagues",
+       "interlude_between_games",
+       "poe2_campaign",
+       "poe2_endgame",
+       "unknown"
+      ]
+     }
+    },
+    "plot_roles": {
+     "type": "array",
+     "items": {
+      "enum": [
+       "background",
+       "branch",
+       "endgame_plot",
+       "main_plot",
+       "meta"
+      ]
+     }
+    },
+    "acts": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "chronology": {
+     "type": [
+      "object",
+      "null"
+     ],
+     "properties": {
+      "in_world_year": {
+       "type": [
+        "number",
+        "string",
+        "null"
+       ]
+      },
+      "relative": {
+       "type": [
+        "string",
+        "null"
+       ]
+      },
+      "story_order": {
+       "type": [
+        "integer",
+        "null"
+       ]
+      },
+      "parallel_group": {
+       "type": [
+        "string",
+        "null"
+       ]
+      }
+     }
+    },
+    "alt_summaries": {
+     "type": "array"
+    },
+    "degree": {
+     "type": "integer"
+    },
+    "exile_distance": {
+     "type": [
+      "integer",
+      "null"
+     ]
+    },
+    "is_spine": {
+     "type": "boolean"
+    },
+    "plot_role": {
+     "enum": [
+      "background",
+      "branch",
+      "endgame_plot",
+      "main_plot",
+      "meta"
+     ]
+    },
+    "branches": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "era": {
+     "enum": [
+      "primordial",
+      "precursor",
+      "azmeri_ezomyte_ancient",
+      "vaal",
+      "post_vaal_dark_age",
+      "eternal_empire_rise",
+      "eternal_empire_fall",
+      "post_cataclysm",
+      "poe1_campaign",
+      "poe1_atlas",
+      "poe1_leagues",
+      "interlude_between_games",
+      "poe2_campaign",
+      "poe2_endgame",
+      "unknown"
+     ]
+    },
+    "games": {
+     "type": "array",
+     "items": {
+      "enum": [
+       "poe1",
+       "poe2"
+      ]
+     }
+    },
+    "canon_status": {
+     "enum": [
+      "canon",
+      "community_theory",
+      "dev_statement",
+      "inferred"
+     ]
+    },
+    "confidence": {
+     "enum": [
+      "high",
+      "low",
+      "medium"
+     ]
+    },
+    "release_status": {
+     "enum": [
+      "released",
+      "datamined_pre_1.0"
+     ]
+    },
+    "sources": {
+     "type": "array",
+     "items": {
+      "type": "object",
+      "required": [
+       "source_id"
+      ],
+      "properties": {
+       "source_id": {
+        "type": "string"
+       },
+       "locator": {
+        "type": "string"
+       }
+      }
+     }
+    },
+    "domains": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "curation": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "edge": {
+   "type": "object",
+   "required": [
+    "id",
+    "source",
+    "target",
+    "relation",
+    "plot_role",
+    "era",
+    "canon_status",
+    "confidence",
+    "sources"
+   ],
+   "properties": {
+    "id": {
+     "type": "string"
+    },
+    "source": {
+     "type": "string"
+    },
+    "target": {
+     "type": "string"
+    },
+    "relation": {
+     "enum": [
+      "allies_with",
+      "aspect_of",
+      "associated_with",
+      "betrays",
+      "causes",
+      "commands",
+      "continues_in",
+      "corrupts",
+      "created",
+      "defeats",
+      "descendant_of",
+      "destroyed",
+      "exiles",
+      "founded",
+      "frees",
+      "guides",
+      "imprisons",
+      "introduced_in",
+      "kills",
+      "leads",
+      "leads_to",
+      "located_in",
+      "lover_of",
+      "member_of",
+      "mentions",
+      "next_beat",
+      "occurs_in",
+      "opposes",
+      "originates_from",
+      "parent_of",
+      "part_of",
+      "participates_in",
+      "possesses",
+      "precedes",
+      "reincarnation_of",
+      "rescues",
+      "resurrects",
+      "reveals",
+      "rules",
+      "sacrifices",
+      "same_entity_as",
+      "seeks",
+      "serves",
+      "sibling_of",
+      "spouse_of",
+      "student_of",
+      "succeeded_by",
+      "transforms_into",
+      "travels_to",
+      "wields",
+      "witnesses",
+      "worships"
+     ]
+    },
+    "description": {
+     "type": "string"
+    },
+    "sequence": {
+     "type": [
+      "integer",
+      "null"
+     ]
+    },
+    "ordering": {
+     "enum": [
+      "required",
+      "any_order",
+      "provisional"
+     ]
+    },
+    "plot_role": {
+     "enum": [
+      "background",
+      "branch",
+      "endgame_plot",
+      "main_plot",
+      "meta"
+     ]
+    },
+    "branches": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "era": {
+     "enum": [
+      "primordial",
+      "precursor",
+      "azmeri_ezomyte_ancient",
+      "vaal",
+      "post_vaal_dark_age",
+      "eternal_empire_rise",
+      "eternal_empire_fall",
+      "post_cataclysm",
+      "poe1_campaign",
+      "poe1_atlas",
+      "poe1_leagues",
+      "interlude_between_games",
+      "poe2_campaign",
+      "poe2_endgame",
+      "unknown"
+     ]
+    },
+    "games": {
+     "type": "array",
+     "items": {
+      "enum": [
+       "poe1",
+       "poe2"
+      ]
+     }
+    },
+    "canon_status": {
+     "enum": [
+      "canon",
+      "community_theory",
+      "dev_statement",
+      "inferred"
+     ]
+    },
+    "confidence": {
+     "enum": [
+      "high",
+      "low",
+      "medium"
+     ]
+    },
+    "release_status": {
+     "enum": [
+      "released",
+      "datamined_pre_1.0"
+     ]
+    },
+    "sources": {
+     "type": "array",
+     "items": {
+      "type": "object",
+      "required": [
+       "source_id"
+      ],
+      "properties": {
+       "source_id": {
+        "type": "string"
+       },
+       "locator": {
+        "type": "string"
+       }
+      }
+     }
+    },
+    "domains": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "curation": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "source": {
+   "type": "object",
+   "required": [
+    "id",
+    "title",
+    "type",
+    "reliability"
+   ],
+   "properties": {
+    "id": {
+     "type": "string"
+    },
+    "title": {
+     "type": "string"
+    },
+    "url": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "type": {
+     "enum": [
+      "book",
+      "dev_interview",
+      "fandom",
+      "forum_post",
+      "in_game_text",
+      "official_site",
+      "other",
+      "patch_notes",
+      "reddit",
+      "wiki",
+      "youtube"
+     ]
+    },
+    "author_or_channel": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "accessed": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "reliability": {
+     "enum": [
+      "primary",
+      "secondary",
+      "tertiary"
+     ]
+    }
+   }
+  }
+ }
+}

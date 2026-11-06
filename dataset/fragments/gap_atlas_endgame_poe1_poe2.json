@@ -1,0 +1,1406 @@
+{
+  "domain": "gap_atlas_endgame_poe1_poe2",
+  "sources": [
+    {
+      "id": "src_poe2wiki_ancient_beacons",
+      "title": "Ancient Beacons - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Ancient_Beacons",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_legacy_of_the_precursors",
+      "title": "Legacy of the Precursors - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Legacy_of_the_Precursors",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_royal_blood_priest",
+      "title": "Royal Blood Priest - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Royal_Blood_Priest",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_royal_colossus",
+      "title": "Royal Colossus - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Royal_Colossus",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_royal_commander",
+      "title": "Royal Commander - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Royal_Commander",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_royal_sentinel",
+      "title": "Royal Sentinel - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Royal_Sentinel",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_royal_spy_master",
+      "title": "Royal Spy Master - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Royal_Spy_Master",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_grand_expedition",
+      "title": "The Grand Expedition - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Grand_Expedition",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_atlas_book_of_skill",
+      "title": "Atlas Book of Skill - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Atlas_Book_of_Skill",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_lost_voidstones",
+      "title": "Lost Voidstones - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Lost_Voidstones",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_maven_quest",
+      "title": "The Maven (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Maven_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_atlas_of_worlds",
+      "title": "The Atlas of Worlds (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Atlas_of_Worlds",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_eater_of_worlds_quest",
+      "title": "The Eater of Worlds (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Eater_of_Worlds_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_elder_quest",
+      "title": "The Elder (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Elder_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_maven_s_game",
+      "title": "The Maven's Game - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Maven's_Game",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_searing_exarch_quest",
+      "title": "The Searing Exarch (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Searing_Exarch_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_threads_of_the_originator",
+      "title": "Threads of the Originator - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Threads_of_the_Originator",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "event_the_mavens_game",
+      "name": "The Maven's Game (quest)",
+      "aliases": [],
+      "type": "event",
+      "subtype": "quest",
+      "summary": "Epilogue quest that starts when the Exile enters Absence of Mercy and Empathy with a Maven's Writ; it culminates in the Maven pinnacle boss fight. Defeating the Maven unlocks the Ceremonial Voidstone (reported to Commander Kirac); the quest's final steps have the Exile use an Atlas Book of Skill for 1 Atlas passive skill point and 2 Atlas passive respec points.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 endgame (Epilogue quest, introduced 3.13.0)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maven_s_game",
+          "locator": "infobox (required=no, start 'Obtain a The Maven's Writ', completion 'Defeat The Maven') and Walkthrough: quest-log lines 'Challenge the Maven', 'Talk to Commander Kirac', 'Use the Atlas Book of Skill'; version history 3.13.0 'Introduced to the game'"
+        },
+        {
+          "source_id": "src_poewiki_the_maven_quest",
+          "locator": "Walkthrough, final paragraph: after the final invitation the player forms 'The Maven's Writ which is used to challenge The Maven'"
+        }
+      ]
+    },
+    {
+      "id": "event_searing_exarch_quest",
+      "name": "The Searing Exarch (quest)",
+      "aliases": [],
+      "type": "event",
+      "subtype": "quest",
+      "summary": "Epilogue quest added in 3.17.0 and run in parallel with The Maven and The Eater of Worlds quests. The Envoy gives the Luminous Astrolabe, which lets the Exile add Searing Exarch influence to Tier 9 to 16 maps. The Tier 11 map boss drops a Polaric Invitation to the Black Star's arena (area level 79); the Tier 16 map boss drops an Incandescent Invitation to the Searing Exarch's arena (The Absence of Patience and Wisdom). The Black Star is defeated first, then the Searing Exarch. The quest pays out Atlas passive points (2 skill points, 4 respec points on completion) and an Omniscient Voidstone via Kirac; the Exarch drops an Eldritch Voidstone if The Eater of Worlds was defeated first.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 endgame (3.17.0 Siege of the Atlas)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_searing_exarch_quest",
+          "locator": "infobox (boss The Searing Exarch) and Walkthrough: quest intro 'This quest runs in parallel to The Maven (quest) and The Eater of Worlds (quest)'; 'Use the Luminous Astrolabe', 'Polaric Invitation', 'Incandescent Invitation' steps; Quest Complete log 'You have gained 2 Atlas Passive Skill Points and 4 Atlas Passive Respec Points'; version history 3.17.0"
+        }
+      ]
+    },
+    {
+      "id": "event_eater_of_worlds_quest",
+      "name": "The Eater of Worlds (quest)",
+      "aliases": [],
+      "type": "event",
+      "subtype": "quest",
+      "summary": "Epilogue quest added in 3.17.0 and run in parallel with the Maven and Searing Exarch quests. The Envoy gives the Flesh Compass, which lets the Exile add Eater of Worlds influence to Tier 9 to 16 maps. The Tier 11 map boss drops a Writhing Invitation to the Infinite Hunger's arena (Seething Chyme); the Tier 16 map boss drops a Screaming Invitation to the Eater of Worlds' arena (Absence of Symmetry and Harmony). After The Infinite Hunger is defeated, the Atlas Book of Skill (Eldritch) is obtained; Kirac gives the Grasping Voidstone on completion. The Eater drops an Eldritch Voidstone if The Searing Exarch was defeated first.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 endgame (3.17.0 Siege of the Atlas)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eater_of_worlds_quest",
+          "locator": "infobox (boss The Eater of Worlds) and Walkthrough: 'Use the Flesh Compass', 'Writhing Invitation', 'Screaming Invitation' steps; log 'You have obtained the Atlas Book of Skill (Eldritch)'; Defeat The Eater of Worlds: 'If the Searing Exarch was defeated first...'; version history 3.17.0"
+        }
+      ]
+    },
+    {
+      "id": "concept_atlas_passive_tree",
+      "name": "Atlas Passive Skill Tree",
+      "aliases": [],
+      "type": "concept",
+      "subtype": "game_system",
+      "summary": "The upgrade tree of the PoE1 Atlas endgame, spent with Atlas passive skill points and Atlas passive respec points. Points come from Atlas Book of Skill items and from quest rewards (for example The Elder, The Maven's Game, The Searing Exarch, The Eater of Worlds). The wiki counts 9 Atlas Books of Skill for 12 Atlas passive points in total.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "meta",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_atlas_book_of_skill",
+          "locator": "'List of Book of Skills' intro: 'There are 9 Atlas Book of Skills in Wraeclast, for a total of 12 Atlas passive points'; the earned points are shown by hovering over the counter 'at the bottom of the Atlas passive tree'"
+        },
+        {
+          "source_id": "src_poewiki_the_elder_quest",
+          "locator": "Walkthrough 'Use the Atlas Book of Skill' and Quest Complete log: 'gained 1 Atlas Passive Skill Point and 2 Atlas Passive Respec Points'"
+        }
+      ]
+    },
+    {
+      "id": "artifact_atlas_book_of_skill",
+      "name": "Atlas Book of Skill",
+      "aliases": [],
+      "type": "artifact",
+      "subtype": "quest_reward",
+      "summary": "Consumable reward item that grants one or more Atlas passive skill points and Atlas passive respec points when used. It is obtained from Commander Kirac or Eagon Caeserius after defeating specific pinnacle bosses. An 'Eldritch' variant is the reward of The Searing Exarch and The Eater of Worlds quests.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_atlas_book_of_skill",
+          "locator": "intro: 'obtained from either Kirac or Eagon after defeating specific pinnacle bosses'; Eldritch variant named in The Searing Exarch and The Eater of Worlds walkthroughs"
+        }
+      ]
+    },
+    {
+      "id": "event_lost_voidstones",
+      "name": "Lost Voidstones (quest)",
+      "aliases": [],
+      "type": "event",
+      "subtype": "quest",
+      "summary": "Hidden Epilogue quest that appears only if the Exile previously obtained and then dropped a Voidstone, or migrated Atlas progress from one league to another. It is completed by talking to Commander Kirac and is not shown on the World Map.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 endgame (Epilogue, introduced 3.17.0)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_voidstones",
+          "locator": "infobox (required=no, start 'Automatic', objective 'Talk to Kirac to recover your lost Voidstones'); Walkthrough: 'It is only visible if the player has previously obtained then dropped one or more Voidstones, or migrated Atlas progress'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_ancient_beacons_quest",
+      "name": "Ancient Beacons (quest)",
+      "aliases": [],
+      "type": "event",
+      "subtype": "quest",
+      "summary": "Optional Fate of the Vaal league quest (0.4.0) that introduces Atziri's Temple. The Exile finds Ancient Beacons surrounded by monsters, sacrifices those monsters and activates beacons (the first, then five, four, three, two and one more), enters the Vaal Ruins, and uses the Temple Console to build and open the first Temple.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE2 endgame (Fate of the Vaal league, 0.4.0)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ancient_beacons",
+          "locator": "infobox (start 'Find an Ancient Beacon', completion 'Open a Temple'); Walkthrough 'Sacrifice the Monsters' and 'Activate five additional Beacons' ... 'Use the Temple Console'; Quest Complete 'You have cleansed Ancient Beacons, built and opened your first Temple'"
+        }
+      ]
+    },
+    {
+      "id": "char_royal_colossus",
+      "name": "Royal Colossus",
+      "aliases": [],
+      "type": "character",
+      "subtype": "unique_monster",
+      "summary": "Unique monster (full name 'X, Royal Colossus') that can be randomly summoned by an Ancient Beacon. Known abilities: Slam Combo and Charged Slam (lightning). Introduced in 0.4.0. The page gives no lore text.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_royal_colossus",
+          "locator": "infobox (location 'Spawned by an Ancient Beacon'); Abilities list; Version history 0.4.0"
+        }
+      ]
+    },
+    {
+      "id": "char_royal_sentinel",
+      "name": "Royal Sentinel",
+      "aliases": [],
+      "type": "character",
+      "subtype": "unique_monster",
+      "summary": "Unique monster (variant of Stone Sentinel) that can be randomly summoned by an Ancient Beacon. Known abilities: Fist Slam, Charged Fist Slam and Charged Foot Slam, the last two converting physical damage to lightning. Introduced in 0.4.0. The page gives no lore text.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_royal_sentinel",
+          "locator": "infobox (location 'Spawned by an Ancient Beacon'); lead 'It is a variant of Stone Sentinel'; Abilities list"
+        }
+      ]
+    },
+    {
+      "id": "char_royal_commander",
+      "name": "Royal Commander",
+      "aliases": [],
+      "type": "character",
+      "subtype": "unique_monster",
+      "summary": "Unique monster (variant of Blackjaw, the Remnant) found in a Commander room of Atziri's Temple. The page lists no abilities and gives no lore text. Introduced in 0.4.0.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_royal_commander",
+          "locator": "infobox (location 'Atziri's Temple'); lead 'found in Atziri's Temple in a Commander room... a variant of Blackjaw, the Remnant'"
+        }
+      ]
+    },
+    {
+      "id": "char_royal_blood_priest",
+      "name": "Royal Blood Priest",
+      "aliases": [],
+      "type": "character",
+      "subtype": "unique_monster",
+      "summary": "Unique monster (variant of Zolin, Blood Priest) found in a Sacrificial Chamber room of Atziri's Temple. The page gives no lore text. Introduced in 0.4.0.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_royal_blood_priest",
+          "locator": "infobox (location 'Atziri's Temple'); lead 'found in Atziri's Temple in a Sacrificial Chamber room... a variant of Zolin, Blood Priest'"
+        }
+      ]
+    },
+    {
+      "id": "char_royal_spy_master",
+      "name": "Royal Spy Master",
+      "aliases": [],
+      "type": "character",
+      "subtype": "unique_monster",
+      "summary": "Unique monster found in a Spymaster room of Atziri's Temple. The page lists no abilities and gives no lore text. Introduced in 0.4.0.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_royal_spy_master",
+          "locator": "infobox (location 'Atziri's Temple'); lead 'found in Atziri's Temple in a Spymaster room'"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_char_exile_poe1__participates_in__event_the_mavens_game__gap_atlas",
+      "source": "char_exile_poe1",
+      "target": "event_the_mavens_game",
+      "relation": "participates_in",
+      "description": "The Exile takes on the Maven in her own game and defeats her.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maven_s_game",
+          "locator": "Walkthrough: 'This quest will automatically be obtained after entering Absence of Mercy and Empathy using a The Maven's Writ'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_maven__participates_in__event_the_mavens_game__gap_atlas",
+      "source": "char_maven",
+      "target": "event_the_mavens_game",
+      "relation": "participates_in",
+      "description": "The Maven is the boss of The Maven's Game ('The Maven wants to capture you for all eternity. Defeat her so that she cannot.').",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maven_s_game",
+          "locator": "Walkthrough 'Challenge the Maven' / 'Defeat the Maven' quest-log text"
+        }
+      ]
+    },
+    {
+      "id": "e_event_atlas_maven_witness__precedes__event_the_mavens_game__gap_atlas",
+      "source": "event_atlas_maven_witness",
+      "target": "event_the_mavens_game",
+      "relation": "precedes",
+      "description": "The Maven quest (map bosses killed under the Maven's witness) forms The Maven's Writ, which is required to enter The Maven's Game.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maven_quest",
+          "locator": "Walkthrough, final paragraph: after the final invitation the player forms 'The Maven's Writ which is used to challenge The Maven'"
+        },
+        {
+          "source_id": "src_poewiki_the_maven_s_game",
+          "locator": "Walkthrough intro: 'automatically be obtained after entering Absence of Mercy and Empathy using a The Maven's Writ'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_the_mavens_game__associated_with__artifact_atlas_book_of_skill__gap_atlas",
+      "source": "event_the_mavens_game",
+      "target": "artifact_atlas_book_of_skill",
+      "relation": "associated_with",
+      "description": "The quest's 'Use the Atlas Book of Skill' step grants 1 Atlas passive skill point and 2 Atlas passive respec points.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maven_s_game",
+          "locator": "Walkthrough 'Use the Atlas Book of Skill' quest-log text"
+        }
+      ]
+    },
+    {
+      "id": "e_event_the_mavens_game__associated_with__artifact_voidstone__gap_atlas",
+      "source": "event_the_mavens_game",
+      "target": "artifact_voidstone",
+      "relation": "associated_with",
+      "description": "Defeating the Maven unlocks the Ceremonial Voidstone.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maven_s_game",
+          "locator": "Walkthrough 'Talk to Commander Kirac': 'unlocked the Ceremonial Voidstone'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_searing_exarch_quest__gap_atlas",
+      "source": "char_exile_poe1",
+      "target": "event_searing_exarch_quest",
+      "relation": "participates_in",
+      "description": "The Exile hunts the Searing Exarch's influence through Atlas maps and fights the Black Star and the Searing Exarch.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_searing_exarch_quest",
+          "locator": "Walkthrough (Pursue influence in Tier 9 to 16 maps; 'Enter The Absence of Patience and Wisdom')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_searing_exarch_quest__introduced_in__league_siege_of_the_atlas__gap_atlas",
+      "source": "event_searing_exarch_quest",
+      "target": "league_siege_of_the_atlas",
+      "relation": "introduced_in",
+      "description": "The Searing Exarch quest was introduced in the Siege of the Atlas league (3.17.0).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_searing_exarch_quest",
+          "locator": "version history 3.17.0 'Introduced to the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_searing_exarch_quest__part_of__event_atlas_siege__gap_atlas",
+      "source": "event_searing_exarch_quest",
+      "target": "event_atlas_siege",
+      "relation": "part_of",
+      "description": "The Searing Exarch quest is the quest chain behind the Searing Exarch half of the Atlas siege node (Siege of the Atlas: Exarch and Eater).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_searing_exarch_quest",
+          "locator": "Walkthrough (Beacon upgrades the Map Device; Searing Exarch influence; Black Star fight)"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_searing_exarch__participates_in__event_searing_exarch_quest__gap_atlas",
+      "source": "deity_searing_exarch",
+      "target": "event_searing_exarch_quest",
+      "relation": "participates_in",
+      "description": "The Searing Exarch is the final boss of the quest (Absence of Patience and Wisdom).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_searing_exarch_quest",
+          "locator": "quest-log 'Defeat The Searing Exarch' and Walkthrough final invitation"
+        }
+      ]
+    },
+    {
+      "id": "e_char_black_star__participates_in__event_searing_exarch_quest__gap_atlas",
+      "source": "char_black_star",
+      "target": "event_searing_exarch_quest",
+      "relation": "participates_in",
+      "description": "The Black Star is the boss of the Polaric Void arena (entered with the Polaric Invitation) that the Exile fights before the Searing Exarch.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_searing_exarch_quest",
+          "locator": "quest-log 'Use the Polaric Invitation in the Map Device' and 'The Black Star'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_envoy__participates_in__event_searing_exarch_quest__gap_atlas",
+      "source": "char_envoy",
+      "target": "event_searing_exarch_quest",
+      "relation": "participates_in",
+      "description": "The Envoy introduces the Searing Exarch's influence and gives the Luminous Astrolabe.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_searing_exarch_quest",
+          "locator": "Walkthrough: 'they will encounter The Envoy... will be given the Luminous Astrolabe'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_voidstone__associated_with__event_searing_exarch_quest__gap_atlas",
+      "source": "artifact_voidstone",
+      "target": "event_searing_exarch_quest",
+      "relation": "associated_with",
+      "description": "Kirac's completion step of the Searing Exarch quest gives an Omniscient Voidstone; the Searing Exarch drops an Eldritch Voidstone if The Eater of Worlds was defeated first.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_searing_exarch_quest",
+          "locator": "Quest logs 'Talk to Commander Kirac' ('receive the Omniscient Voidstone') and 'Defeat The Searing Exarch'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_eater_of_worlds_quest__gap_atlas",
+      "source": "char_exile_poe1",
+      "target": "event_eater_of_worlds_quest",
+      "relation": "participates_in",
+      "description": "The Exile hunts the Eater of Worlds' influence through Atlas maps and fights the Infinite Hunger and the Eater of Worlds.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eater_of_worlds_quest",
+          "locator": "Walkthrough (Pursue influence in Tier 9 to 16 maps; 'Enter Seething Chyme'; 'Enter Absence of Symmetry and Harmony')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_eater_of_worlds_quest__introduced_in__league_siege_of_the_atlas__gap_atlas",
+      "source": "event_eater_of_worlds_quest",
+      "target": "league_siege_of_the_atlas",
+      "relation": "introduced_in",
+      "description": "The Eater of Worlds quest was introduced in the Siege of the Atlas league (3.17.0).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eater_of_worlds_quest",
+          "locator": "version history 3.17.0 'Introduced to the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_eater_of_worlds_quest__part_of__event_atlas_siege__gap_atlas",
+      "source": "event_eater_of_worlds_quest",
+      "target": "event_atlas_siege",
+      "relation": "part_of",
+      "description": "The Eater of Worlds quest is the detailed quest chain behind the Eater part of the Atlas siege.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eater_of_worlds_quest",
+          "locator": "Walkthrough (Flesh Compass; Eater of Worlds influence; Infinite Hunger fight)"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_eater_of_worlds__participates_in__event_eater_of_worlds_quest__gap_atlas",
+      "source": "deity_eater_of_worlds",
+      "target": "event_eater_of_worlds_quest",
+      "relation": "participates_in",
+      "description": "The Eater of Worlds is the final boss of the quest (Absence of Symmetry and Harmony).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eater_of_worlds_quest",
+          "locator": "quest-log 'Defeat The Eater of Worlds' and 'Enter Absence of Symmetry and Harmony'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_infinite_hunger__participates_in__event_eater_of_worlds_quest__gap_atlas",
+      "source": "char_infinite_hunger",
+      "target": "event_eater_of_worlds_quest",
+      "relation": "participates_in",
+      "description": "The Infinite Hunger is the champion fought in Seething Chyme before the Eater of Worlds.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eater_of_worlds_quest",
+          "locator": "quest-log 'Enter Seething Chyme' and 'Defeat The Infinite Hunger'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_envoy__participates_in__event_eater_of_worlds_quest__gap_atlas",
+      "source": "char_envoy",
+      "target": "event_eater_of_worlds_quest",
+      "relation": "participates_in",
+      "description": "The Envoy introduces the Eater of Worlds' influence and gives the Flesh Compass.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eater_of_worlds_quest",
+          "locator": "Walkthrough: 'they will encounter The Envoy... will be given the Flesh Compass'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_voidstone__associated_with__event_eater_of_worlds_quest__gap_atlas",
+      "source": "artifact_voidstone",
+      "target": "event_eater_of_worlds_quest",
+      "relation": "associated_with",
+      "description": "Kirac's completion step of the Eater of Worlds quest gives a Grasping Voidstone.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eater_of_worlds_quest",
+          "locator": "Walkthrough 'Talk to Kirac to complete the quest and receive the Grasping Voidstone'"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_atlas_passive_tree__part_of__concept_atlas__gap_atlas",
+      "source": "concept_atlas_passive_tree",
+      "target": "concept_atlas",
+      "relation": "part_of",
+      "description": "The Atlas passive tree is the progression tree of the Atlas endgame.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "meta",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_atlas_book_of_skill",
+          "locator": "'List of Book of Skills': the earned Atlas passive points are checked 'at the bottom of the Atlas passive tree'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_atlas_book_of_skill__associated_with__concept_atlas_passive_tree__gap_atlas",
+      "source": "artifact_atlas_book_of_skill",
+      "target": "concept_atlas_passive_tree",
+      "relation": "associated_with",
+      "description": "The Atlas Book of Skill is a consumable source of the Atlas passive skill points and respec points spent in the Atlas passive tree.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_atlas_book_of_skill",
+          "locator": "intro: 'grants one or more Atlas passive skill points and Atlas respec point when consumed'; 'List of Book of Skills'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kirac__associated_with__artifact_atlas_book_of_skill__gap_atlas",
+      "source": "char_kirac",
+      "target": "artifact_atlas_book_of_skill",
+      "relation": "associated_with",
+      "description": "Kirac gives out Atlas Books of Skill after pinnacle boss kills.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_atlas_book_of_skill",
+          "locator": "intro: 'obtained from either Kirac or Eagon after defeating specific pinnacle bosses'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_eagon_caeserius__associated_with__artifact_atlas_book_of_skill__gap_atlas",
+      "source": "char_eagon_caeserius",
+      "target": "artifact_atlas_book_of_skill",
+      "relation": "associated_with",
+      "description": "Eagon Caeserius is the second source of Atlas Books of Skill.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_atlas_book_of_skill",
+          "locator": "intro: 'obtained from either Kirac or Eagon after defeating specific pinnacle bosses'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_lost_voidstones__gap_atlas",
+      "source": "char_exile_poe1",
+      "target": "event_lost_voidstones",
+      "relation": "participates_in",
+      "description": "The Exile is asked by Kirac to recover lost Voidstones (hidden quest).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_voidstones",
+          "locator": "Walkthrough: 'Talk to Commander Kirac to complete the quest.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kirac__participates_in__event_lost_voidstones__gap_atlas",
+      "source": "char_kirac",
+      "target": "event_lost_voidstones",
+      "relation": "participates_in",
+      "description": "Kirac is the completion NPC of Lost Voidstones.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_voidstones",
+          "locator": "Walkthrough: 'Talk to Commander Kirac to complete the quest.'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_lost_voidstones__associated_with__artifact_voidstone__gap_atlas",
+      "source": "event_lost_voidstones",
+      "target": "artifact_voidstone",
+      "relation": "associated_with",
+      "description": "The quest is only visible to players who previously obtained and dropped a Voidstone.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lost_voidstones",
+          "locator": "Walkthrough: 'only visible if the player has previously obtained then dropped one or more Voidstones'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__travels_to__loc_atlas_of_worlds__gap_atlas",
+      "source": "char_exile_poe1",
+      "target": "loc_atlas_of_worlds",
+      "relation": "travels_to",
+      "description": "Upon completing A Call to Arms, the Exile is asked to explore the Atlas of Worlds.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_atlas_of_worlds",
+          "locator": "Walkthrough: 'Upon completing A Call to Arms, the player will be asked to explore the Atlas.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__seeks__char_zana_the_originator__gap_atlas",
+      "source": "char_exile_poe1",
+      "target": "char_zana_the_originator",
+      "relation": "seeks",
+      "description": "Through Memory Tears and threads with Eagon, the Exile tracks the Originator ('There, we can chase down the one creating them. The Originator.').",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_threads_of_the_originator",
+          "locator": "Walkthrough, Eagon quote after 'Speak to Eagon Caeserius': 'we can chase down the one creating them. The Originator.'; objective 'Find the Originator' in infobox"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_ancient_beacons_quest__leads_to__loc_atziri_s_temple__gap_atlas",
+      "source": "event_poe2_ancient_beacons_quest",
+      "target": "loc_atziri_s_temple",
+      "relation": "leads_to",
+      "description": "The quest ends with the first Temple built and opened, which introduces Atziri's Temple.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ancient_beacons",
+          "locator": "lead: 'serves as an introduction to Atziri's Temple'; Walkthrough 'Use the Temple Console'; Quest Complete 'built and opened your first Temple'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_ancient_beacons_quest__gap_atlas",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_ancient_beacons_quest",
+      "relation": "participates_in",
+      "description": "The PoE2 Exile activates the Ancient Beacons and builds the first Temple.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ancient_beacons",
+          "locator": "Walkthrough: 'Sacrifice the Monsters' / 'Activate ... Beacon' steps"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_ancient_beacons_quest__part_of__league_poe2_fate_of_the_vaal__gap_atlas",
+      "source": "event_poe2_ancient_beacons_quest",
+      "target": "league_poe2_fate_of_the_vaal",
+      "relation": "part_of",
+      "description": "The quest was exclusive to the Fate of the Vaal league.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ancient_beacons",
+          "locator": "lead: 'It was exclusive to Fate of the Vaal league.'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_ancient_beacons_quest__associated_with__concept_ancient_beacons__gap_atlas",
+      "source": "event_poe2_ancient_beacons_quest",
+      "target": "concept_ancient_beacons",
+      "relation": "associated_with",
+      "description": "The quest is triggered by finding an Ancient Beacon in an area and is built around the Ancient Beacon mechanic.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ancient_beacons",
+          "locator": "walkthrough: 'To trigger this quest, find an Ancient Beacon in an area.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_royal_colossus__associated_with__concept_ancient_beacons__gap_atlas",
+      "source": "char_royal_colossus",
+      "target": "concept_ancient_beacons",
+      "relation": "associated_with",
+      "description": "Royal Colossus can be randomly summoned in an Ancient Beacon encounter.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_royal_colossus",
+          "locator": "infobox location 'Spawned by an Ancient Beacon'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_royal_sentinel__associated_with__concept_ancient_beacons__gap_atlas",
+      "source": "char_royal_sentinel",
+      "target": "concept_ancient_beacons",
+      "relation": "associated_with",
+      "description": "Royal Sentinel can be randomly summoned in an Ancient Beacon encounter.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_royal_sentinel",
+          "locator": "infobox location 'Spawned by an Ancient Beacon'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_royal_commander__located_in__loc_atziri_s_temple__gap_atlas",
+      "source": "char_royal_commander",
+      "target": "loc_atziri_s_temple",
+      "relation": "located_in",
+      "description": "The unique monster is found in a room of Atziri's Temple.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_royal_commander",
+          "locator": "infobox location 'Atziri's Temple'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_royal_blood_priest__located_in__loc_atziri_s_temple__gap_atlas",
+      "source": "char_royal_blood_priest",
+      "target": "loc_atziri_s_temple",
+      "relation": "located_in",
+      "description": "The unique monster is found in a room of Atziri's Temple.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_royal_blood_priest",
+          "locator": "infobox location 'Atziri's Temple'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_royal_spy_master__located_in__loc_atziri_s_temple__gap_atlas",
+      "source": "char_royal_spy_master",
+      "target": "loc_atziri_s_temple",
+      "relation": "located_in",
+      "description": "The unique monster is found in a room of Atziri's Temple.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "fate_of_the_vaal"
+      ],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_royal_spy_master",
+          "locator": "infobox location 'Atziri's Temple'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_the_grand_expedition__same_entity_as__event_poe2_grand_expedition__gap_atlas",
+      "source": "event_poe2_the_grand_expedition",
+      "target": "event_poe2_grand_expedition",
+      "relation": "same_entity_as",
+      "description": "Both nodes describe the PoE2 endgame quest The Grand Expedition (start 'Speak to Farrow'; version history 0.5.0). Merge candidate; the cited wiki page is a stub.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_grand_expedition",
+          "locator": "page infobox 'The Grand Expedition', start 'Speak to Farrow'; page marked {{stub}}"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_legacy_of_the_precursors__same_entity_as__event_poe2_epilogue_legacy_of_precursors__gap_atlas",
+      "source": "event_poe2_legacy_of_the_precursors",
+      "target": "event_poe2_epilogue_legacy_of_precursors",
+      "relation": "same_entity_as",
+      "description": "Both nodes describe the PoE2 endgame quest Legacy of the Precursors (one page; version history 0.5.0). Merge candidate; the cited wiki page is a stub.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_precursors",
+          "locator": "infobox 'Legacy of the Precursors' (primary endgame quest); Version history 0.5.0 'Introduced to the game'; page marked {{stub}}"
+        }
+      ]
+    }
+  ]
+}

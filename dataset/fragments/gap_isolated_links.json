@@ -1,0 +1,2287 @@
+{
+  "domain": "gap_isolated_links",
+  "sources": [
+    {
+      "id": "src_poe2wiki_a_crown_of_stone",
+      "title": "A Crown of Stone - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/A_Crown_of_Stone",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_a_theft_of_ivory",
+      "title": "A Theft of Ivory - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/A_Theft_of_Ivory",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_act_1",
+      "title": "Act 1 - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Act_1",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_act_2",
+      "title": "Act 2 - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Act_2",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_ascent_to_power",
+      "title": "Ascent to Power - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Ascent_to_Power",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_environmental_lore",
+      "title": "Environmental lore - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Environmental_lore",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_faridun",
+      "title": "Faridun - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Faridun",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_legacy_of_the_vaal",
+      "title": "Legacy of the Vaal - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Legacy_of_the_Vaal",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_recruit_the_maraketh",
+      "title": "Recruit the Maraketh - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Recruit_the_Maraketh",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_recruit_the_vaal",
+      "title": "Recruit the Vaal - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Recruit_the_Vaal",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_secrets_in_the_dark",
+      "title": "Secrets in the Dark - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Secrets_in_the_Dark",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_city_of_seven_waters",
+      "title": "The City of Seven Waters - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_City_of_Seven_Waters",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_mysterious_shade",
+      "title": "The Mysterious Shade - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Mysterious_Shade",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_search",
+      "title": "The Search - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Search",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_trail_of_corruption_act_2",
+      "title": "The Trail of Corruption (Act 2) - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Trail_of_Corruption_Act_2_",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_tradition_s_toll",
+      "title": "Tradition's Toll - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Tradition's_Toll",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_utopia",
+      "title": "Utopia - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Utopia",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_abyss_league",
+      "title": "abyss league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/abyss_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_aiding_an_archivist",
+      "title": "Aiding an Archivist - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Aiding_an_Archivist",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_allflame_league",
+      "title": "Allflame league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Allflame_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_avarius_reassembled",
+      "title": "Avarius, Reassembled - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Avarius,_Reassembled",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_delve_league",
+      "title": "delve league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/delve_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_endgame",
+      "title": "Endgame - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Endgame",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_eternal_empire",
+      "title": "Eternal Empire - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Eternal_Empire",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_god",
+      "title": "God - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/God",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_history_of_wraeclast",
+      "title": "History of Wraeclast - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/History_of_Wraeclast",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_karui_gods",
+      "title": "Karui Gods - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Karui_Gods",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_keepers_league",
+      "title": "Keepers league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Keepers_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_letter_kingsmarch_",
+      "title": "Letter (Kingsmarch) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Letter_(Kingsmarch)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_lighting_the_way",
+      "title": "Lighting the Way - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Lighting_the_Way",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_list_of_scourge_league_challenges",
+      "title": "List of Scourge league challenges - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/List_of_Scourge_league_challenges",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_mirage_league",
+      "title": "Mirage league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Mirage_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_safe_passage",
+      "title": "Safe Passage - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Safe_Passage",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_sanctum_league",
+      "title": "Sanctum league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Sanctum_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_sin",
+      "title": "Sin - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Sin",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_crimson_scribe",
+      "title": "The Crimson Scribe - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Crimson_Scribe",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_elder_quest",
+      "title": "The Elder (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Elder_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_root_of_the_problem",
+      "title": "The Root of the Problem - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Root_of_the_Problem",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_vaal",
+      "title": "The Vaal - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Vaal",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_vilenta_s_vengeance",
+      "title": "Vilenta's Vengeance - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Vilenta's_Vengeance",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_yt_7QuY96FyhG4",
+      "title": "PoE Complete Lore Series: The Forbidden Sanctum - Divinia, Lycia, Innocence, and the Future",
+      "url": "https://www.youtube.com/watch?v=7QuY96FyhG4",
+      "type": "youtube",
+      "author_or_channel": "Kitten Cat Noodle",
+      "accessed": "2026-11-05",
+      "reliability": "tertiary"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "concept_corruption",
+      "name": "Corruption",
+      "aliases": [],
+      "type": "concept",
+      "subtype": "in_world_force",
+      "summary": "The in-world corrupting power named by the Karui and Vaal (Kitava as 'God of Corruption', worship of Corruption at a Vaal temple) and carried as the Seed of Corruption (what remains of the Beast) in PoE2. The item-corruption mechanic is a separate game system.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "primordial",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "ancient; Kitava and Beast era",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui_gods",
+          "locator": "Haku dialogue: 'Kitava, God of Corruption'"
+        },
+        {
+          "source_id": "src_poewiki_sin",
+          "locator": "PoE2 section: 'the Seed of Corruption'"
+        },
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "Vaal temple section: 'worship of Corruption'"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_char_exile_poe2__associated_with__artifact_balbalas_barya",
+      "source": "char_exile_poe2",
+      "target": "artifact_balbalas_barya",
+      "relation": "associated_with",
+      "description": "The Exile places Balbala's Barya (the barya holding Balbala's soul) into the Relic Altar of the Trial of the Sekhemas, per the Ascent to Power quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ascent_to_power",
+          "locator": "Quest 'Place your Barya into the Relic Altar'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_balbalas_barya__associated_with__char_balbala",
+      "source": "artifact_balbalas_barya",
+      "target": "char_balbala",
+      "relation": "associated_with",
+      "description": "Shambrin: 'Her barya contains her soul'; the barya is the vessel of Balbala's soul.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ascent_to_power",
+          "locator": "Shambrin dialogue: 'Her barya contains her soul. She will tell you what to do next.'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_balbalas_barya__associated_with__event_balbala_released",
+      "source": "artifact_balbalas_barya",
+      "target": "event_balbala_released",
+      "relation": "associated_with",
+      "description": "Ascent to Power is unlocked by picking up Balbala's Barya; the wiki says that if Balbala is not defeated in Traitor's Passage and the quest barya picked up, she grants Balbala's Barya at the Trial instead.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ascent_to_power",
+          "locator": "Quest note: 'if you have not defeated Balbala, the Traitor in Traitor's Passage and picked up the quest barya, Balbala will grant Balbala's Barya here'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__seeks__artifact_count_lachlanns_ring",
+      "source": "char_exile_poe2",
+      "target": "artifact_count_lachlanns_ring",
+      "relation": "seeks",
+      "description": "The Exile is asked to bring Count Lachlann's Ring to Una in Clearfell Encampment to heal the Hooded One's runic wound; the wiki notes this is optional (defeating Count Geonor also completes the quest).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_mysterious_shade",
+          "locator": "Quest 'Bring Count Lachlann's Ring to Una'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_count_lachlanns_ring__associated_with__event_the_mysterious_shade",
+      "source": "artifact_count_lachlanns_ring",
+      "target": "event_the_mysterious_shade",
+      "relation": "associated_with",
+      "description": "The ring is the key item of the quest that revives the Hooded One through Una.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_mysterious_shade",
+          "locator": "Quest infobox key_item = Count Lachlann's Ring"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__seeks__artifact_essence_of_water",
+      "source": "char_exile_poe2",
+      "target": "artifact_essence_of_water",
+      "relation": "seeks",
+      "description": "In Keth the Exile puts the Water Goddess to rest and picks up the Essence of Water in the Keth Sanctum, after defeating Azarian, the Forsaken Son.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_city_of_seven_waters",
+          "locator": "Quest 'Pick up the Essence of Water'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_essence_of_water__part_of__artifact_horn_of_the_vastiri",
+      "source": "artifact_essence_of_water",
+      "target": "artifact_horn_of_the_vastiri",
+      "relation": "part_of",
+      "description": "One of the three components of the Horn of the Vastiri, which must be recreated to dispel Jamanra's sandstorm.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "Act 2 summary: 'recreate the Horn of the Vastiri by finishing three sub quests: A Theft of Ivory, The City of Seven Waters and A Crown of Stone'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_essence_of_water__associated_with__event_city_of_seven_waters",
+      "source": "artifact_essence_of_water",
+      "target": "event_city_of_seven_waters",
+      "relation": "associated_with",
+      "description": "The item is obtained in the City of Seven Waters quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_city_of_seven_waters",
+          "locator": "Objective 'Obtain The Essence of Water'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__seeks__artifact_flame_ruby",
+      "source": "char_exile_poe2",
+      "target": "artifact_flame_ruby",
+      "relation": "seeks",
+      "description": "The Exile takes the Flame Ruby that Zalmarath, the Colossus drops in the Titan Grotto and brings it to Zarka at the Ardura Caravan.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_a_crown_of_stone",
+          "locator": "Quest 'Pick up the Flame Ruby'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_flame_ruby__part_of__artifact_horn_of_the_vastiri",
+      "source": "artifact_flame_ruby",
+      "target": "artifact_horn_of_the_vastiri",
+      "relation": "part_of",
+      "description": "One of the three components of the Horn of the Vastiri.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "Act 2 summary: three sub quests incl. A Crown of Stone"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_flame_ruby__associated_with__char_zarka",
+      "source": "artifact_flame_ruby",
+      "target": "char_zarka",
+      "relation": "associated_with",
+      "description": "Zarka receives the Flame Ruby at the Ardura Caravan.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_a_crown_of_stone",
+          "locator": "Quest 'Take the Flame Ruby to town': 'Give the Flame Ruby to Zarka'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_jamanra__seeks__artifact_mastodon_tusks",
+      "source": "char_jamanra",
+      "target": "artifact_mastodon_tusks",
+      "relation": "seeks",
+      "description": "Jamanra seeks the Mastodon Tusks to gain lightning abilities for himself and his minions.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_a_theft_of_ivory",
+          "locator": "Quest intro: 'Jamanra, the Risen King seeks to retrieve powerful Mastodon Tusks'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_mastodon_tusks__part_of__artifact_horn_of_the_vastiri",
+      "source": "artifact_mastodon_tusks",
+      "target": "artifact_horn_of_the_vastiri",
+      "relation": "part_of",
+      "description": "One of the three components of the Horn of the Vastiri.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "Act 2 summary: three sub quests incl. A Theft of Ivory"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__seeks__artifact_mastodon_tusks",
+      "source": "char_exile_poe2",
+      "target": "artifact_mastodon_tusks",
+      "relation": "seeks",
+      "description": "The Exile defeats Ekbab, Ancient Steed (with Iktab) in the Bone Pits and retrieves the Mastodon Tusks, which are handed to Zarka for safekeeping.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_a_theft_of_ivory",
+          "locator": "Quest 'Pick up the Mastodon Tusks'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__seeks__artifact_large_soul_core",
+      "source": "char_exile_poe2",
+      "target": "artifact_large_soul_core",
+      "relation": "seeks",
+      "description": "The Exile retrieves the Large Soul Core needed to power the Matlan Waterways mechanism.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_vaal",
+          "locator": "Quest 'Retrieve the Large Soul Core' / 'Enter The Matlan Waterways'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_large_soul_core__associated_with__event_zicoatl_large_soul_core",
+      "source": "artifact_large_soul_core",
+      "target": "event_zicoatl_large_soul_core",
+      "relation": "associated_with",
+      "description": "Taken from Zicoatl at Jiquani's Sanctum.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_vaal",
+          "locator": "Quest objective: defeat Zicoatl and take the large Soul Core"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_large_soul_core__associated_with__loc_matlan_waterways",
+      "source": "artifact_large_soul_core",
+      "target": "loc_matlan_waterways",
+      "relation": "associated_with",
+      "description": "The soul core powers the Matlan Waterways controls that drain the lake to reveal Utzaal.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_vaal",
+          "locator": "Quest 'Enter The Matlan Waterways'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__seeks__artifact_temple_door_idol",
+      "source": "char_exile_poe2",
+      "target": "artifact_temple_door_idol",
+      "relation": "seeks",
+      "description": "The Exile receives the Temple Door Idol from the Queen of Filth.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_vaal",
+          "locator": "Quest 'Pick up the Temple Door Idol'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_temple_door_idol__associated_with__loc_temple_of_kopec",
+      "source": "artifact_temple_door_idol",
+      "target": "loc_temple_of_kopec",
+      "relation": "associated_with",
+      "description": "The idol opens the Temple of Kopec door.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_vaal",
+          "locator": "Quest 'Pick up the Temple Door Idol' (door of the Temple of Kopec)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__wields__artifact_sanctum_relics",
+      "source": "char_exile_poe1",
+      "target": "artifact_sanctum_relics",
+      "relation": "wields",
+      "description": "Relics placed on the Sanctum altar strengthen the Exile across runs.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "sanctum"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sanctum_league",
+          "locator": "'League Mechanic' section: relics placed on the altar"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_sanctum_relics__introduced_in__league_sanctum",
+      "source": "artifact_sanctum_relics",
+      "target": "league_sanctum",
+      "relation": "introduced_in",
+      "description": "Templar relics are a mechanic of the Sanctum league.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "sanctum"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sanctum_league",
+          "locator": "'League Mechanic' section"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_sanctum_relics__associated_with__char_lycia",
+      "source": "artifact_sanctum_relics",
+      "target": "char_lycia",
+      "relation": "associated_with",
+      "description": "Lycia's account of Innocence's origin is conveyed through unique Sanctum relics (per the video, auto-captions).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "sanctum"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_yt_7QuY96FyhG4",
+          "locator": "[24:43]-[25:00] (auto-captions, tertiary)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__seeks__artifact_voidstone",
+      "source": "char_exile_poe1",
+      "target": "artifact_voidstone",
+      "relation": "seeks",
+      "description": "The Exile collects Voidstones by defeating pinnacle bosses on the Atlas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_endgame",
+          "locator": "Endgame content list: Voidstones from pinnacle bosses"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_voidstone__part_of__concept_atlas",
+      "source": "artifact_voidstone",
+      "target": "concept_atlas",
+      "relation": "part_of",
+      "description": "Voidstones are unlocked by defeating pinnacle bosses (Searing Exarch and Eater of Worlds, the Shaper and Elder, the Maven) and form part of Atlas progression.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_endgame",
+          "locator": "Endgame content list: Voidstones / Atlas progression"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_watchstone__associated_with__char_elder",
+      "source": "artifact_watchstone",
+      "target": "char_elder",
+      "relation": "associated_with",
+      "description": "Watchstones are crystallised memories of the Elder's past victims, expelled when the Elder was defeated by the Cosmic Arcana.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "Conquerors of the Atlas section: 'When Baran fled, he left a watchstone. The stones were the crystallised memories of the Elder's past victims, expelled when it was defeated by the Cosmic Arcana.'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_watchstone__part_of__concept_atlas",
+      "source": "artifact_watchstone",
+      "target": "concept_atlas",
+      "relation": "part_of",
+      "description": "Watchstones are socketed into Citadels on the Atlas (Scourge league challenge: 'Socket each of the following Watchstone types into a Citadel on your Atlas').",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_list_of_scourge_league_challenges",
+          "locator": "Scourge league challenges, 'Socket Watchstones': 'Socket each of the following Watchstone types into a Citadel on your Atlas.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_jaetai__serves__char_atziri",
+      "source": "char_jaetai",
+      "target": "char_atziri",
+      "relation": "serves",
+      "description": "Jaetai is named only in the flavour text of Atziri's Foible; the name suggests an advisory role to Atziri, which is inferred.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "vaal",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_vaal",
+          "locator": "section 'Jaetai, Vaal Advisor'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__opposes__char_lorrata",
+      "source": "char_exile_poe1",
+      "target": "char_lorrata",
+      "relation": "opposes",
+      "description": "Helena has the Exile poison the tree Lorrata with Maligaro's Spike and the Baleful Gem, injecting the gem's calibric extantia into the roots before Piety can reach the ruin.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_root_of_the_problem",
+          "locator": "Quest objective 'Poison the tree, Lorrata'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_shambrin__member_of__faction_maraketh",
+      "source": "char_shambrin",
+      "target": "faction_maraketh",
+      "relation": "member_of",
+      "description": "Shambrin is presented as a Maraketh figure: Sekhema Asala's reaction to Shambrin's letter refers to 'my dekhara'. Membership is inferred, not stated.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tradition_s_toll",
+          "locator": "Sekhema Asala (on the final letter): 'I value each and every one of my dekhara.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_shambrin__guides__char_exile_poe2",
+      "source": "char_shambrin",
+      "target": "char_exile_poe2",
+      "relation": "guides",
+      "description": "Shambrin asks the Exile, after the Horn of the Vastiri, to search Deshar for the body of Lailuma, a woman she cared about, and bring back something of hers.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tradition_s_toll",
+          "locator": "Shambrin: 'If you happen to find Lailuma's body in the dunes below the spires... And if you bring me something of hers, then I will know.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tetzlapokal__member_of__faction_vaal",
+      "source": "char_tetzlapokal",
+      "target": "faction_vaal",
+      "relation": "member_of",
+      "description": "Queen of the pre-Atziri Vaal, under whom the Vaal City rose to prominence.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "vaal",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_vaal",
+          "locator": "section 'Reign of Queen Tetzlapokal'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tetzlapokal__worships__deity_arakaali",
+      "source": "char_tetzlapokal",
+      "target": "deity_arakaali",
+      "relation": "worships",
+      "description": "Tetzlapokal is described as a devotee of Arakaali with a fascination for death and corpses.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "vaal",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_vaal",
+          "locator": "section 'Reign of Queen Tetzlapokal'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tetzlapokal__rules__loc_the_vaal_city",
+      "source": "char_tetzlapokal",
+      "target": "loc_the_vaal_city",
+      "relation": "rules",
+      "description": "The Vaal City rose to prominence in her reign.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "vaal",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_vaal",
+          "locator": "section 'Reign of Queen Tetzlapokal'"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_azurite__introduced_in__league_delve",
+      "source": "concept_azurite",
+      "target": "league_delve",
+      "relation": "introduced_in",
+      "description": "Azurite is the currency mined and used in the Delve league's infinitely scaling Azurite Mine (Delves) to upgrade equipment.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "delve"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_delve_league",
+          "locator": "lead paragraph"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_azurite__associated_with__loc_azurite_mine",
+      "source": "concept_azurite",
+      "target": "loc_azurite_mine",
+      "relation": "associated_with",
+      "description": "Delves in the Azurite Mine contain Azurite, which is used to upgrade equipment.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "delve"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_delve_league",
+          "locator": "lead paragraph: Azurite mined in Delve"
+        }
+      ]
+    },
+    {
+      "id": "e_char_izaro__worships__deity_goddess_of_justice",
+      "source": "char_izaro",
+      "target": "deity_goddess_of_justice",
+      "relation": "worships",
+      "description": "Izaro Phrecius worshipped a deity known only as the Goddess of Justice.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_god",
+          "locator": "section 'The Goddess of Justice'"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_god_of_domination__associated_with__league_harbinger",
+      "source": "deity_god_of_domination",
+      "target": "league_harbinger",
+      "relation": "associated_with",
+      "description": "Harbinger uniques foretell the God of Domination's gaze falling over Wraeclast.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harbinger"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_god",
+          "locator": "section 'The God of Domination'"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_utopia__associated_with__faction_twilight_order",
+      "source": "concept_utopia",
+      "target": "faction_twilight_order",
+      "relation": "associated_with",
+      "description": "The Twilight Order's promised god-free world, which the Countess says the Order will remake the world into.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_search",
+          "locator": "Countess (The Search): 'The Twilight Order will see to it that the world is remade. A world without gods... without suffering... without the disease of Divinity.'"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_utopia__associated_with__event_poe2_a4_utopia_oath",
+      "source": "concept_utopia",
+      "target": "event_poe2_a4_utopia_oath",
+      "relation": "associated_with",
+      "description": "The Utopia Act 4 storyline on Arastas: Missionary Lorandis encourages the Exile to journey to Arastas and take an oath to The Saviour; Servitor Marius offers Utopia and the Exile refuses.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_utopia",
+          "locator": "Utopia quest: 'It is begun by speaking with Missionary Lorandis in Kingsmarch, who encourages you to journey to Arastas take an oath to The Saviour.'"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_sekhema__part_of__faction_maraketh",
+      "source": "concept_sekhema",
+      "target": "faction_maraketh",
+      "relation": "part_of",
+      "description": "Sekhema is the Maraketh leader title, always a woman chosen by merit.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "The Maraketh > Society"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_exile_journey__associated_with__concept_exile",
+      "source": "concept_exile_journey",
+      "target": "concept_exile",
+      "relation": "associated_with",
+      "description": "The Day Zero rule frames each league narrative around the Exile in the sand of the Twilight Strand.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "meta",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'The Atlas of Worlds' (Day Zero rule)"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_exile_journey__associated_with__char_dominus",
+      "source": "concept_exile_journey",
+      "target": "char_dominus",
+      "relation": "associated_with",
+      "description": "Dominus exiles the Exile at the start of each league narrative (Day Zero).",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "meta",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'The Atlas of Worlds' (Day Zero rule)"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_uber_pinnacle_bosses__part_of__concept_atlas",
+      "source": "concept_uber_pinnacle_bosses",
+      "target": "concept_atlas",
+      "relation": "part_of",
+      "description": "Uber Elder is a pinnacle boss reached through map fragments from influenced Atlas maps; the source describes only the Uber Elder.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_elder_quest",
+          "locator": "The Elder intro: defeating bosses in influenced map variants drops map fragments 'which when combined allow access to pinnacle boss fights'"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_uber_pinnacle_bosses__associated_with__char_elder",
+      "source": "concept_uber_pinnacle_bosses",
+      "target": "char_elder",
+      "relation": "associated_with",
+      "description": "The Elder epilogue quest culminates in the Uber Elder boss fight.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_elder_quest",
+          "locator": "Intro: 'It culminates in the Uber Elder boss fight.'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_keepers_allflame_not_atlas__associated_with__league_keepers_of_the_flame",
+      "source": "event_keepers_allflame_not_atlas",
+      "target": "league_keepers_of_the_flame",
+      "relation": "associated_with",
+      "description": "Keepers of the Flame (3.27.0) expands the content and lore first introduced in Breach league.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "meta",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_keepers_league",
+          "locator": "Lead paragraph: 'expands upon content and lore first introduced in Breach league'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_keepers_allflame_not_atlas__associated_with__league_mirage",
+      "source": "event_keepers_allflame_not_atlas",
+      "target": "league_mirage",
+      "relation": "associated_with",
+      "description": "Mirage (3.28.0) is one of the 2025-26 challenge leagues in this release run.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "meta",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_mirage_league",
+          "locator": "Lead: 'It launched on March 6, 2026 ... in version 3.28.0'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_keepers_allflame_not_atlas__associated_with__league_allflame",
+      "source": "event_keepers_allflame_not_atlas",
+      "target": "league_allflame",
+      "relation": "associated_with",
+      "description": "Allflame (3.29.0) is one of the 2025-26 challenge leagues in this release run.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "meta",
+      "branches": [],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_allflame_league",
+          "locator": "Lead: 'It launched on July 24, 2026 ... in version 3.29.0'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kaom__participates_in__event_kaom_massacre",
+      "source": "char_kaom",
+      "target": "event_kaom_massacre",
+      "relation": "participates_in",
+      "description": "Kaom leads his 500 warriors into Highgate, where, deceived by the Beast, he has them slaughter the Karui he brought.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "'Axiom Prison' end: Kaom slays his 500 warriors deceived by the Beast"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_a10_aiding_archivist",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_a10_aiding_archivist",
+      "relation": "participates_in",
+      "description": "The Exile retrieves the Mortinomicon for Divinia from the Ossuary and is taken to the Forbidden Sanctum.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "sanctum"
+      ],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_aiding_an_archivist",
+          "locator": "Walkthrough: Travel to the Ossuary; Return the Mortinomicon to Divinia"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_a10_aiding_archivist__associated_with__loc_forbidden_sanctum",
+      "source": "event_poe1_a10_aiding_archivist",
+      "target": "loc_forbidden_sanctum",
+      "relation": "associated_with",
+      "description": "The quest leads to the Forbidden Sanctum.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "sanctum"
+      ],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_aiding_an_archivist",
+          "locator": "Objective: 'Speak to Divinia to travel to the Forbidden Sanctum'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_a10_vilentas_vengeance",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_a10_vilentas_vengeance",
+      "relation": "participates_in",
+      "description": "Optional Act 10 fight in which the Exile kills Vilenta in the Control Blocks.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_vilenta_s_vengeance",
+          "locator": "Walkthrough: optional Vilenta fight"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_the_crimson_scribe__associated_with__league_heist",
+      "source": "faction_the_crimson_scribe",
+      "target": "league_heist",
+      "relation": "associated_with",
+      "description": "The Crimson Scribe is named as client on Heist contracts.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_crimson_scribe",
+          "locator": "lead: society mentioned in Heist contracts as client"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_the_crimson_scribe__associated_with__deity_solaris",
+      "source": "faction_the_crimson_scribe",
+      "target": "deity_solaris",
+      "relation": "associated_with",
+      "description": "Crimson Scribe research proposes that the sisters Solaris and Lunaris of Azmeri legend may be the twin sekhema Solerai and Lunerai.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "Solaris, Lunaris, and Viridi section: 'According to the research of the Crimson Scribe, the sisters Solaris and Lunaris of Azmeri legend and the twin sekhema Solerai and Lunerai may be one and the same.'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_the_crimson_scribe__associated_with__deity_lunaris",
+      "source": "faction_the_crimson_scribe",
+      "target": "deity_lunaris",
+      "relation": "associated_with",
+      "description": "Crimson Scribe research links Lunaris to the Solaris-Lunaris twin legend and the twin sekhema.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "Solaris, Lunaris, and Viridi section: 'According to the research of the Crimson Scribe, the sisters Solaris and Lunaris ... may be one and the same.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_una__located_in__loc_clearfell",
+      "source": "char_una",
+      "target": "loc_clearfell",
+      "relation": "located_in",
+      "description": "Una is met at Clearfell Encampment (the Exile returns there to speak to her about the Hooded One).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_secrets_in_the_dark",
+          "locator": "Meet Una in Clearfell: 'Return to Clearfell Encampment and speak to Una'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_clearfell__located_in__loc_ogham",
+      "source": "loc_clearfell",
+      "target": "loc_ogham",
+      "relation": "located_in",
+      "description": "Clearfell, the logging encampment that serves as the Act 1 town hub, lies in the Ogham region.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_act_1",
+          "locator": "Intro: Act One takes place 'in the region of Ogham' and the Exile finds their way to the Clearfell Encampment; table lists Clearfell as an Act 1 area"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_drowned_city__located_in__loc_utzaal",
+      "source": "loc_drowned_city",
+      "target": "loc_utzaal",
+      "relation": "located_in",
+      "description": "The Drowned City is the submerged section of Utzaal revealed after the lake is drained.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_vaal",
+          "locator": "Quest log 'Talk to Alva': 'lowered the water and revealed the Sunken City of Utzaal'; 'Enter The Drowned City'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_infested_barrens__associated_with__loc_matlan_waterways",
+      "source": "loc_infested_barrens",
+      "target": "loc_matlan_waterways",
+      "relation": "associated_with",
+      "description": "The stone altar in the Infested Barrens needs a large Soul Core to open the Matlan Waterways.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_vaal",
+          "locator": "Quest log 'Talk to Servi'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_sandswept_marsh__associated_with__loc_ziggurat_encampment",
+      "source": "loc_sandswept_marsh",
+      "target": "loc_ziggurat_encampment",
+      "relation": "associated_with",
+      "description": "The Sandswept Marsh is crossed in the search for the Ziggurat.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_legacy_of_the_vaal",
+          "locator": "Quest log 'Find the Ziggurat'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_hunting_grounds__located_in__loc_ogham",
+      "source": "loc_hunting_grounds",
+      "target": "loc_ogham",
+      "relation": "located_in",
+      "description": "The Hunting Grounds lie beyond the clan graves and are crossed on the Act 1 route to Ogham Village, in the Ogham region.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_mysterious_shade",
+          "locator": "Una: 'Beyond our clan graves is the Hunting Grounds. Cut through those to reach the village.'"
+        },
+        {
+          "source_id": "src_poe2wiki_act_1",
+          "locator": "Intro: Act One 'taking place in the region of Ogham'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_mawdun_quarry__associated_with__faction_faridun",
+      "source": "loc_mawdun_quarry",
+      "target": "faction_faridun",
+      "relation": "associated_with",
+      "description": "The Countess asked the Faridun to rally at Mawdun Quarry, where they would prepare weapons and the Dreadnought caravan.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_faridun",
+          "locator": "Events in Path of Exile 2: 'She has asked them to rally at Mawdun Quarry where they would prepare weapons and a caravan known as The Dreadnought'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_mawdun_quarry__associated_with__loc_mawdun_mine",
+      "source": "loc_mawdun_quarry",
+      "target": "loc_mawdun_mine",
+      "relation": "associated_with",
+      "description": "Mawdun Mine and Mawdun Quarry are adjacent Act 2 areas linked on the Act 2 map.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_act_2",
+          "locator": "Act 2 area table: 'Mawdun Mine ... ↔ Mawdun Quarry'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_doryani__located_in__loc_mount_kriar",
+      "source": "char_doryani",
+      "target": "loc_mount_kriar",
+      "relation": "located_in",
+      "description": "Doryani's reserves are said to be in the Cuachic Vault at the summit of Mount Kriar.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_recruit_the_vaal",
+          "locator": "Quest 'Speak to Doryani' (Cuachic Vault)"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_mount_veruso__associated_with__concept_virtue_gems",
+      "source": "loc_mount_veruso",
+      "target": "concept_virtue_gems",
+      "relation": "associated_with",
+      "description": "Virtue gems were discovered beneath Mount Veruso by the Vaal.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "vaal",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "Overview: 'Virtue gems were soon discovered under Mount Veruso by the Vaal'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_path_of_mourning__located_in__loc_deshar",
+      "source": "loc_path_of_mourning",
+      "target": "loc_deshar",
+      "relation": "located_in",
+      "description": "The Path of Mourning is travelled on the way to Deshar, where the Faridun are found atop the burial spires.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "Quest log 'Travel through the Path of Mourning'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_qimah__associated_with__faction_maraketh",
+      "source": "loc_qimah",
+      "target": "faction_maraketh",
+      "relation": "associated_with",
+      "description": "Qimah is a Maraketh city where the Gifting of Water is held.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_recruit_the_maraketh",
+          "locator": "Enter Qimah / Qimah Reservoir"
+        }
+      ]
+    },
+    {
+      "id": "e_event_secrets_in_the_dark__occurs_in__loc_red_vale",
+      "source": "event_secrets_in_the_dark",
+      "target": "loc_red_vale",
+      "relation": "occurs_in",
+      "description": "The Exile searches the Red Vale for the three Obelisks of Rust containing Runes of Power.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_secrets_in_the_dark",
+          "locator": "Walkthrough 'Search the Red Vale'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_the_abyss__associated_with__league_abyss",
+      "source": "loc_the_abyss",
+      "target": "league_abyss",
+      "relation": "associated_with",
+      "description": "The Abyss place is reached through Abyss pits in the Abyss league.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "abyss"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_abyss_league",
+          "locator": "'Mechanics' section"
+        }
+      ]
+    },
+    {
+      "id": "e_char_bannon__located_in__loc_the_cathedral_rooftop",
+      "source": "char_bannon",
+      "target": "loc_the_cathedral_rooftop",
+      "relation": "located_in",
+      "description": "Bannon is trapped on the Cathedral Rooftop by Kitava's cultists.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_safe_passage",
+          "locator": "Walkthrough: 'Bannon is trapped on the Cathedral Rooftop by the cultists of Kitava'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_the_cathedral_rooftop__associated_with__deity_kitava",
+      "source": "loc_the_cathedral_rooftop",
+      "target": "deity_kitava",
+      "relation": "associated_with",
+      "description": "The rooftop is where Kitava's cultists besiege Bannon.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_safe_passage",
+          "locator": "Walkthrough: cultists of Kitava"
+        }
+      ]
+    },
+    {
+      "id": "e_char_avarius__located_in__loc_the_desecrated_chambers",
+      "source": "char_avarius",
+      "target": "loc_the_desecrated_chambers",
+      "relation": "located_in",
+      "description": "Avarius, Reassembled is fought in the Desecrated Chambers.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_avarius_reassembled",
+          "locator": "Infobox location = The Desecrated Chambers"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_temple_of_decay__located_in__loc_the_vaal_city",
+      "source": "loc_temple_of_decay",
+      "target": "loc_the_vaal_city",
+      "relation": "located_in",
+      "description": "Arakaali's Temple of Decay (Act 7) lies in the Vaal City area, near the Arakaali temple entrance Yeena burns open.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lighting_the_way",
+          "locator": "Getting to Yeena: 'Yeena is located inside The Vaal City near the Waypoint and Arakaali's temple'"
+        },
+        {
+          "source_id": "src_poewiki_the_vaal",
+          "locator": "Geography list: 'The Temple of Decay (Act 7)'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_yeena__located_in__loc_the_vaal_city",
+      "source": "char_yeena",
+      "target": "loc_the_vaal_city",
+      "relation": "located_in",
+      "description": "Yeena burns open the entrance to the Temple of Decay in the Vaal City.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lighting_the_way",
+          "locator": "Quest complete: 'She has burned open the entrance to the Temple of Decay'; 'Yeena is located inside The Vaal City'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_lazhwar__created__loc_eternal_laboratory",
+      "source": "char_lazhwar",
+      "target": "loc_eternal_laboratory",
+      "relation": "created",
+      "description": "Lazhwar, an archbishop of the Eternal Faith, experimented with thaumaturgy and discovered the maps used to create the Eternal Laboratory.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "Eternal Empire section: 'Malachai drew upon the work of Lazhwar, an old archbishop of the Eternal Faith, who had experimented with thaumaturgy and discovered maps to create the Eternal Laboratory.'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__mentions__char_dannig",
+      "source": "text_letter_kingsmarch",
+      "target": "char_dannig",
+      "relation": "mentions",
+      "description": "A crumpled note in the Kingsmarch letter collection is headed by Dannig (a love-struck draft).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "full page (letters by Johan, Raulf, Sonja, Dannig, Rog, Tujen, Gwennen, Faustus, Isla)"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__mentions__char_rog",
+      "source": "text_letter_kingsmarch",
+      "target": "char_rog",
+      "relation": "mentions",
+      "description": "The 'Ideas List' letter in the collection is headed by Rog and lists names for Rog and Gwennen's emporium.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "full page"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__mentions__char_tujen",
+      "source": "text_letter_kingsmarch",
+      "target": "char_tujen",
+      "relation": "mentions",
+      "description": "The 'Drunken Scrawl' letter in the collection is by Tujen, listing names and a vow to make 'those bastards remember'.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "full page"
+        }
+      ]
+    },
+    {
+      "id": "e_text_letter_kingsmarch__located_in__loc_kingsmarch",
+      "source": "text_letter_kingsmarch",
+      "target": "loc_kingsmarch",
+      "relation": "located_in",
+      "description": "The letters are posted in the Kingsmarch tavern.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letter_kingsmarch_",
+          "locator": "full page: Kingsmarch tavern"
+        }
+      ]
+    },
+    {
+      "id": "e_text_tavakais_declaration__mentions__char_tavakai",
+      "source": "text_tavakais_declaration",
+      "target": "char_tavakai",
+      "relation": "associated_with",
+      "description": "The note is titled 'Tavakai's Declaration' on the wiki, which attributes it to Tavakai; the text itself is unsigned, so the link is inferred.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_environmental_lore",
+          "locator": "Section heading \"Tavakai's Declaration\" (text unsigned: 'The End of Time has come!')"
+        }
+      ]
+    },
+    {
+      "id": "e_text_tavakais_declaration__located_in__loc_ngakanu",
+      "source": "text_tavakais_declaration",
+      "target": "loc_ngakanu",
+      "relation": "located_in",
+      "description": "The note is found in Ngakanu after the area becomes hostile.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_environmental_lore",
+          "locator": "Tavakai's Declaration: 'Found in Ngakanu after the area becomes hostile.'"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_kitava__associated_with__concept_corruption",
+      "source": "deity_kitava",
+      "target": "concept_corruption",
+      "relation": "associated_with",
+      "description": "Kitava is called the 'God of Corruption' in Karui tradition.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "primordial",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui_gods",
+          "locator": "Haku's 'Kaom' dialogue: 'Kitava, God of Corruption, consumed Kaom'"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_sin__associated_with__concept_corruption",
+      "source": "deity_sin",
+      "target": "concept_corruption",
+      "relation": "associated_with",
+      "description": "Sin carries the Seed of Corruption (what remains of the Beast) into hiding.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sin",
+          "locator": "PoE2 section: 'he took what remains of the Beast, the Seed of Corruption'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_the_hooded_one__associated_with__concept_corruption",
+      "source": "char_the_hooded_one",
+      "target": "concept_corruption",
+      "relation": "associated_with",
+      "description": "The Seed of Corruption is central to the Hooded One's story: the Countess plans to feed it to the Beast, and the Hooded One says the Seed must be found and put back.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_faridun",
+          "locator": "Events in PoE2: the Countess plans to 'feed the Seed of Corruption' to the Beast"
+        },
+        {
+          "source_id": "src_poe2wiki_the_mysterious_shade",
+          "locator": "Hooded One: 'We must put the Seed back...'; Una: 'this Seed ... is that the source of Ogham's affliction?'"
+        }
+      ]
+    }
+  ]
+}

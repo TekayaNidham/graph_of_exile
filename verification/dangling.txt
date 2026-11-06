@@ -1,0 +1,2 @@
+e_concept_lifeforce__associated_with__concept_corruption:  concept_corruption
+e_creature_scourge_monsters__associated_with__loc_the_beyond:  loc_the_beyond

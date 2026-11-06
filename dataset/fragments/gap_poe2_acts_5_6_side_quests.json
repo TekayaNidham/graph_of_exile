@@ -1,0 +1,5326 @@
+{
+  "domain": "gap_poe2_acts_5_6_side_quests",
+  "sources": [
+    {
+      "id": "src_poe2wiki_the_lost_lute",
+      "title": "The Lost Lute - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Lost_Lute",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_hunt_begins",
+      "title": "The Hunt Begins - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Hunt_Begins",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_treacherous_ground",
+      "title": "Treacherous Ground - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Treacherous_Ground",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_finding_the_forge",
+      "title": "Finding the Forge - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Finding_the_Forge",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_cracks_in_the_earth",
+      "title": "Cracks in the Earth - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Cracks_in_the_Earth",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_trail_of_corruption_act_2",
+      "title": "The Trail of Corruption (Act 2) - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Trail_of_Corruption_Act_2_",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_quest",
+      "title": "Quest - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Quest",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_tribal_vengeance",
+      "title": "Tribal Vengeance - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Tribal_Vengeance",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_slithering_dead",
+      "title": "The Slithering Dead - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Slithering_Dead",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_treasures_of_utzaal",
+      "title": "Treasures of Utzaal - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Treasures_of_Utzaal",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_trials_of_chaos",
+      "title": "The Trials of Chaos - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Trials_of_Chaos",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_trial_of_chaos",
+      "title": "The Trial of Chaos - PoE2 Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary",
+      "url": "https://www.poe2wiki.net/wiki/The_Trial_of_Chaos"
+    },
+    {
+      "id": "src_poe2wiki_maraketh_shrine",
+      "title": "Maraketh Shrine - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Maraketh_shrine",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_shrike_island_quest",
+      "title": "Shrike Island (quest) - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Shrike_Island_(quest)",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_whakapanu_island_quest",
+      "title": "Whakapanu Island (quest) - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Whakapanu_Island_(quest)",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_land_of_the_kin",
+      "title": "Land of the Kin - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Land_of_the_Kin",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_abandoned_prison_quest",
+      "title": "Abandoned Prison (quest) - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Abandoned_Prison_(quest)",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_tribal_medicine",
+      "title": "Tribal Medicine - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Tribal_Medicine",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_tasalio_s_test",
+      "title": "Tasalio's Test - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Tasalio%27s_Test",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_tawhoa_s_test",
+      "title": "Tawhoa's Test - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Tawhoa%27s_Test",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_ngamahu_s_test",
+      "title": "Ngamahu's Test - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Ngamahu's_Test",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_clearing_the_way",
+      "title": "Clearing the Way - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Clearing_the_Way",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_hilda_s_hunting_quest_",
+      "title": "Hilda's Hunting (quest) - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Hilda%27s_Hunting_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_vaal_incursion",
+      "title": "Vaal Incursion - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Vaal_Incursion",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_faridun_foray",
+      "title": "Faridun Foray - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Faridun_Foray",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_ezomyte_infiltration",
+      "title": "Ezomyte Infiltration - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Ezomyte_Infiltration",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_web_poe2db_act5",
+      "title": "Act 5 - PoE2DB datamine",
+      "url": "https://poe2db.tw/us/Act_5",
+      "type": "other",
+      "author_or_channel": "poe2db.tw (datamine)",
+      "accessed": "2026-11-06",
+      "reliability": "tertiary"
+    },
+    {
+      "id": "src_web_poe2db_act6",
+      "title": "Act 6 - PoE2DB datamine",
+      "url": "https://poe2db.tw/us/Act_6",
+      "type": "other",
+      "author_or_channel": "poe2db.tw (datamine)",
+      "accessed": "2026-11-06",
+      "reliability": "tertiary"
+    },
+    {
+      "id": "src_poe2wiki_act_6",
+      "title": "Act 6 - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Act_6",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_trial_of_the_ancestors_quest_",
+      "title": "Trial of the Ancestors (Quest) - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Trial_of_the_Ancestors_(Quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_act_5",
+      "title": "Act 5 - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Act_5",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_trial_of_the_ancestors_quest",
+      "title": "Trial of the Ancestors (quest) - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Trial_of_the_Ancestors_(quest)",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_siege_of_oriath",
+      "title": "Siege of Oriath - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Siege_of_Oriath",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "event_poe2_the_lost_lute",
+      "name": "The Lost Lute (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 1 quest begun by Una after The Mysterious Shade: the Exile searches Una's family hut in Ogham Farmlands for her carved lute and returns it to her at Clearfell Encampment for a Book of Specialisation and two Weapon Set passive skill points.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_lost_lute",
+          "locator": "Quest infobox; '===Search for Una's Lute===' and '===Return the Lute to Una===' quest log; '===Quest Complete===' (Book of Specialisation, two Weapon Set Passive Skill Points)"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_the_hunt_begins",
+      "name": "The Hunt Begins (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 1 quest in the Hunting Grounds: Delwyn, an Azmeri hunter, has the Exile track a Spirit wisp to a hunted monster, which introduces the Azmeri Spirit encounter.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_hunt_begins",
+          "locator": "Quest infobox ('act 1', optional); '===Speak to Delwyn===' and '===Quest Complete===' (Version history 0.3.0: 'Azmeri Spirits now start appearing from Hunting Grounds')"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_treacherous_ground",
+      "name": "Treacherous Ground (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 1 quest: Renly asks the Exile to find and kill the Devourer in its Mud Burrow beneath Clearfell so the Ezomytes can leave the walls; the reward is a level 1 Uncut Support Gem and 100 gold.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treacherous_ground",
+          "locator": "Quest infobox ('required: No', act 1, start 'Talk to Renly'); '===Slay the Devourer===' walkthrough; '===Talk to Renly for your reward===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "loc_ogham_farmlands",
+      "name": "Ogham Farmlands",
+      "aliases": [],
+      "type": "location",
+      "summary": "Act 1 farmland area near Ogham Village where Una's family hut, and her lute, are found.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_lost_lute",
+          "locator": "Tips: 'Una's family hut is south and slightly east of the waypoint'; walkthrough '===Search for Una's Lute==='"
+        }
+      ]
+    },
+    {
+      "id": "loc_mud_burrow",
+      "name": "Mud Burrow",
+      "aliases": [],
+      "type": "location",
+      "summary": "Act 1 underground burrow reached from Clearfell, home of the Devourer; also the Abyss-linked passage in Cracks in the Earth.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treacherous_ground",
+          "locator": "Lead: 'a quest in the act 1 area Mud Burrow'; walkthrough '===Find the Mud Burrow==='"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_finding_the_forge",
+      "name": "Finding the Forge (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 1 quest in Ogham Village: the Exile finds Renly's Smithing Tools and returns them, which restores his Salvage Bench and gives a choice of a lesser rune. Can be completed once per league.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_finding_the_forge",
+          "locator": "Quest infobox ('act 1', start 'Talk to Renly', objective 'Find Smithing Tools in Ogham Village'); '===Quest Complete===' (Salvage Bench restored)"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_cracks_in_the_earth",
+      "name": "Cracks in the Earth (PoE2 quest, removed)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Former optional Act 1 quest from Mortimer in Clearfell Encampment, exclusive to the Rise of the Abyssal league: the Exile seeks the source of abyssal monsters, which leads to the Mud Burrow and an Abyss. The quest has been removed from the game.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "poe2_abyss"
+      ],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_cracks_in_the_earth",
+          "locator": "Quest infobox ('historical content', act 1, 'Speak to Mortimer'); '===Find the source of Abyssal Monsters===' and '===Quest Complete===' (intro: 'It was exclusive to Rise of the Abyssal league'; Version history 0.3.0 'Introduced to the game', 0.4.0 'Removed from the game')"
+        }
+      ]
+    },
+    {
+      "id": "char_mortimer",
+      "name": "Mortimer",
+      "aliases": [],
+      "type": "character",
+      "summary": "Clearfell Encampment resident who warns the Exile about ancient creatures beneath the surface and asks the Exile to cave in the cracks and whatever they find (PoE2 Act 1, Cracks in the Earth, removed quest).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "poe2_abyss"
+      ],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_cracks_in_the_earth",
+          "locator": "Walkthrough: Mortimer dialogue, '===Return to Mortimer===' and '===Quest Complete===' section"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_trail_of_corruption_act2",
+      "name": "The Trail of Corruption (Act 2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Act 2 main quest: the Hooded One and Sekhema Asala pursue the Beast's trail of Corruption across the Vastiri desert from the Ardura Caravan, through Mawdun Mine, Traitor's Passage and the Halani Gates, the Horn of the Vastiri and Deshar, to the Dreadnought where Jamanra, the Abomination is defeated. Distinct from the Act 1 quest event_trail_of_corruption_act1.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act2"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "Infobox (act 2, start 'Enter the Ardura Caravan'); Rewards section; quest log headings '===Speak to the Hooded One===' through '===Quest Complete===' (pursuit of Jamanra, the Abomination)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 2 list: 'The Trail of Corruption (Act 2)' with sub-quests 'A Theft of Ivory', 'The City of Seven Waters' and 'A Crown of Stone' nested under it"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_tribal_vengeance",
+      "name": "Tribal Vengeance (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 3 quest in The Azak Bog: Servi asks the Exile to slay Ignagduk, the Bog Witch, at Gor-gor Mog to free the stolen children of her tribe, then to return her Ghastly Spear to Servi for a magic charm.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_vengeance",
+          "locator": "Infobox (act 3, boss Ignagduk, the Bog Witch); quest logs '===Talk to Servi===' and '===Kill Ignagduk==='; Rewards section (charms)"
+        }
+      ]
+    },
+    {
+      "id": "char_ignagduk",
+      "name": "Ignagduk, the Bog Witch",
+      "aliases": [],
+      "type": "character",
+      "summary": "Azak tribe unique boss of The Azak Bog in Act 3, who holds stolen children; slain in the Tribal Vengeance quest, dropping Ignagduk's Ghastly Spear.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_vengeance",
+          "locator": "Infobox (boss Ignagduk, the Bog Witch); lead: 'Find Ignagduk in the Azak village'"
+        }
+      ]
+    },
+    {
+      "id": "loc_azak_bog",
+      "name": "The Azak Bog",
+      "aliases": [],
+      "type": "location",
+      "summary": "Act 3 swamp area where the Azak tribe lives; site of Ignagduk's arena at Gor-gor Mog and the start of the Tribal Vengeance quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_vengeance",
+          "locator": "Lead: 'a quest in the act 3 area The Azak Bog'; 'Start' field"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_the_slithering_dead",
+      "name": "The Slithering Dead (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 3 quest: Servi asks the Exile to find the source of the Azakh-Kul poison; in the Venom Crypts' Den of the Serpent Priestess the Exile finds Corpse-snake Venom, which Servi turns into a Venom Draught, giving a permanent choice of Stun Threshold, Elemental Ailment Threshold or Mana Regeneration.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_slithering_dead",
+          "locator": "Infobox (act 3, start 'Entering the Venom Crypts'); quest logs '===Take the Corpse-snake Venom===' and '===Take a Venom Draught===' ; Rewards section"
+        }
+      ]
+    },
+    {
+      "id": "loc_venom_crypts",
+      "name": "The Venom Crypts",
+      "aliases": [],
+      "type": "location",
+      "summary": "Act 3 crypt area containing the Den of the Serpent Priestess, where the Corpse-snake Venom quest item is found.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_slithering_dead",
+          "locator": "Quest lead: 'explore the area to find the landmark Den of the Serpent Priestess'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_treasures_of_utzaal",
+      "name": "Treasures of Utzaal (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 3 quest begun by Oswald: monkey statues lead to The Molten Vault, where the Exile defeats Mektul, the Forgemaster, who drops The Hammer of Kamasa; returning the hammer to Oswald unlocks the Reforging Bench.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treasures_of_utzaal",
+          "locator": "Infobox (act 3, start 'Summon Oswald in front of the Molten Vault', completion 'Bring The Hammer of Kamasa to Oswald'); '===Speak to Oswald===' quote on the Monkey God (Kamasa); '===Defeat Mektul, the Forgemaster===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "loc_molten_vault",
+      "name": "The Molten Vault",
+      "aliases": [],
+      "type": "location",
+      "summary": "Act 3 vault marked by monkey statues of Kamasa, cleared for treasure in the Treasures of Utzaal quest; its boss is Mektul, the Forgemaster.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treasures_of_utzaal",
+          "locator": "Lead: 'entrance to the Molten Vault' and '===Enter The Molten Vault===' quest log"
+        }
+      ]
+    },
+    {
+      "id": "char_mektul",
+      "name": "Mektul, the Forgemaster",
+      "aliases": [],
+      "type": "character",
+      "summary": "Boss of The Molten Vault in Act 3, defeated in the Treasures of Utzaal quest; drops The Hammer of Kamasa.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treasures_of_utzaal",
+          "locator": "Quest log '===Defeat Mektul, the Forgemaster===' and '===Pick up The Hammer of Kamasa==='"
+        }
+      ]
+    },
+    {
+      "id": "artifact_hammer_of_kamasa",
+      "name": "The Hammer of Kamasa",
+      "aliases": [],
+      "type": "artifact",
+      "summary": "Quest item dropped by Mektul, the Forgemaster; delivered to Oswald in the Ziggurat Encampment to complete Treasures of Utzaal and unlock the Reforging Bench.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treasures_of_utzaal",
+          "locator": "Quest log '===Pick up The Hammer of Kamasa===' and '===Quest Complete===' (Reforging Bench unlock)"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_a3_trials_of_chaos_quest",
+      "name": "The Trials of Chaos (PoE2 Act 3 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 3 quest: after obtaining an Inscribed Ultimatum (or the Chimeral Inscribed Ultimatum from Xyclucian), the Exile places it in the Temple of Chaos offering and completes the Trialmaster's Challenges for 2 Ascendancy Points. The PoE2 entry point to the Trial of Chaos ascension trial.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trials_of_chaos",
+          "locator": "Infobox (act 3, optional, start 'Acquire an Inscribed Ultimatum', boss Xyclucian, the Chimera); '===Place the Inscribed Ultimatum in the Temple Offering===' and '===Quest Complete=== (2 Ascendancy Points)'"
+        },
+        {
+          "source_id": "src_poe2wiki_the_trial_of_chaos",
+          "locator": "Access section (Chimeral Inscribed Ultimatum from Xyclucian; Temple of Chaos offering); lead ('based on Ultimatum from PoE1')"
+        }
+      ]
+    },
+    {
+      "id": "concept_maraketh_shrine",
+      "name": "Maraketh Shrine",
+      "aliases": [],
+      "type": "concept",
+      "summary": "Room-reward shrines in the PoE2 Trial of the Sekhemas. Each shrine (Tabina, Balbala, Ahkeli or Galai variants) lets the player spend 5 Sacred Water to restore part of their Honour, with a random Boon or Minor Affliction on some variants; the Fountain of Youth minor boon restores 40 Honour when a Maraketh Shrine is venerated.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "trial_of_sekhemas"
+      ],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act2"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_maraketh_shrine",
+          "locator": "Full page (stub): 'Maraketh Shrines are found as room rewards in the Trial of the Sekhemas'; shrine list (Honour Tabina / Balbala / Ahkeli / Galai); Fountain of Youth minor boon"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_shrike_island_quest",
+      "name": "Shrike Island (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Required Act 4 side quest, begun by speaking to Makoru and sailing to Shrike Island; the Exile explores the island and kills the unique Scourge of the Skies. Part of the rotating Act 4 requirements.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act4"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_shrike_island_quest",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Shrike Island', completion 'Kill the Scourge of the Skies'); lead ('secondary main story quest'); '===Kill the Scourge of the Skies==='"
+        }
+      ]
+    },
+    {
+      "id": "char_scourge_of_the_skies",
+      "name": "Scourge of the Skies",
+      "aliases": [],
+      "type": "character",
+      "summary": "Unique boss of Shrike Island in Act 4, killed to complete the Shrike Island quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act4"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_shrike_island_quest",
+          "locator": "Infobox completion and quest log '===Kill the Scourge of the Skies==='"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_whakapanu_island_quest",
+      "name": "Whakapanu Island (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Required Act 4 side quest, begun by speaking to Makoru and sailing to Whakapanu Island; the Exile enters the Singing Caverns and kills the Siren Diamora. Part of the rotating Act 4 requirements.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act4"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_whakapanu_island_quest",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Whakapanu Island', completion 'Defeat Diamora, Song of Death'); quest log '===Enter the Singing Caverns===' to '===Kill Diamora==='"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_land_of_the_kin",
+      "name": "Land of the Kin (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Required Act 4 side quest, begun by speaking to Makoru and sailing to the Isle of Kin; the Exile explores the Isle and Volcanic Warrens to kill Krutog, Lord of Kin. Part of the rotating Act 4 requirements.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act4"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_land_of_the_kin",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Isle of Kin', completion 'Kill Krutog, Lord of Kin'); lead; quest log '===Explore the Isle of Kin===' to '===Quest Complete===' "
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_abandoned_prison_quest",
+      "name": "Abandoned Prison (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Required Act 4 side quest, begun by speaking to Makoru: the Exile goes through the Eternal Empire's Abandoned Prison to Solitary Confinement and kills The Prisoner, who holds one of the three Precursor weapon pieces needed for The Search.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act4"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_abandoned_prison_quest",
+          "locator": "Infobox (required: Yes, act 4, completion 'Kill The Prisoner'); lead ('the Prisoner holds one of the three weapon pieces'); quest log '===Slay the Prisoner===' and '===Quest Complete===' "
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_tribal_medicine",
+      "name": "Tribal Medicine (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 4 quest from Kaimana in Ngakanu: the Exile fetches a Shark Fin from the Great White One on Whakapanu Island so Kaimana can make an elixir against the Blood Fever. The reward is a permanent choice of Kaom's Lesson or Rakiata's Lesson.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act4"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_medicine",
+          "locator": "Infobox (act 4, optional, start 'Picking up Shark Fin', completion 'Deliver the Shark Fin to Kaimana'); lead; Rewards (Kaom's Lesson / Rakiata's Lesson, 'cannot be changed'); quest logs '===Speak to Kaimana===' "
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_tasalios_test",
+      "name": "Tasalio's Test (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 4 Test of Mettle in the Halls of the Dead, started at the Hinekora Totem: three waves of enemies, then a Blank Tattoo of Tasalio is turned in for a permanent choice of +5 Intelligence or +5% Cold Resistance (cannot be changed).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act4"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tasalio_s_test",
+          "locator": "Infobox (act 4, optional, start 'Enter Tasalio's Test in Halls of the Dead'); lead ('one of the three additional Tests of Mettle'); Rewards: 'Intelligence Tattoo of Tasalio (+5 Intelligence) or Cold Tattoo of Tasalio (+5% Cold Resistance)'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_tawhoas_test",
+      "name": "Tawhoa's Test (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 4 Test of Mettle in the Halls of the Dead, started at the Hinekora Totem: three waves of enemies, then a Blank Tattoo of Tawhoa is turned in for a permanent choice of +5 Dexterity or +5% Lightning Resistance (cannot be changed).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act4"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tawhoa_s_test",
+          "locator": "Infobox (act 4, optional, start 'Enter Tawhoa's Test in Halls of the Dead'); lead ('one of the three additional Tests of Mettle'); Rewards: 'Dexterity Tattoo of Tawhoa (+5 Dexterity) or Lightning Tattoo of Tawhoa (+5% Lightning Resistance)'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_ngamahus_test",
+      "name": "Ngamahu's Test (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 4 Test of Mettle in the Halls of the Dead, started at the Hinekora Totem: three waves of enemies, then a Blank Tattoo of Ngamahu is turned in for a permanent choice of +5 Strength or +5% Fire Resistance (cannot be changed).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act4"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ngamahu_s_test",
+          "locator": "Infobox (act 4, optional, start 'Enter Ngamahu's Test in Halls of the Dead'); lead ('one of the three additional Tests of Mettle'); Rewards: 'Strength Tattoo of Ngamahu (+5 Strength) or Fire Tattoo of Ngamahu (+5% Fire Resistance)'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_clearing_the_way",
+      "name": "Clearing the Way (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Interlude 2 quest: Risu asks the Exile to slay the scorpion Akthi, the Final Sting, and the sandworm Anundr at the far end of the Khari Crossing so the other akharas can join the Gifting of Water. The reward is a Book of Specialisation.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_interlude2"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_clearing_the_way",
+          "locator": "Infobox (optional, act 'interlude', start 'Speak to Risu at the Khari Bazaar', objective 'Defeat Akthi, the Final Sting and Anundr, the Sandworm'); quest log '===Defeat Akthi and Anundr===' and '===Quest Complete==='; Quest.wiki Interludes list"
+        }
+      ]
+    },
+    {
+      "id": "char_akthi_the_final_sting",
+      "name": "Akthi, the Final Sting",
+      "aliases": [],
+      "type": "character",
+      "summary": "Corrupted scorpion boss at the far end of the Khari Crossing, killed in the Clearing the Way quest (PoE2 Interlude 2).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_interlude2"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_clearing_the_way",
+          "locator": "Objective 'Defeat Akthi, the Final Sting and Anundr, the Sandworm'; quest log '===Find the Scorpion and Sandworm==='"
+        }
+      ]
+    },
+    {
+      "id": "char_anundr_the_sandworm",
+      "name": "Anundr, the Sandworm",
+      "aliases": [],
+      "type": "character",
+      "summary": "Corrupted sandworm boss at the far end of the Khari Crossing, killed in the Clearing the Way quest (PoE2 Interlude 2).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_interlude2"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_clearing_the_way",
+          "locator": "Objective 'Defeat Akthi, the Final Sting and Anundr, the Sandworm'; quest log '===Defeat Akthi and Anundr==='"
+        }
+      ]
+    },
+    {
+      "id": "loc_khari_crossing",
+      "name": "Khari Crossing",
+      "aliases": [],
+      "type": "location",
+      "summary": "Desert crossing near the Khari Bazaar in PoE2 Interlude 2; the far end is plagued by Akthi and Anundr.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_interlude2"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_clearing_the_way",
+          "locator": "Quest log: 'Travel to the Khari Crossing' and 'The way is plagued by a great scorpion and a massive sandworm'"
+        }
+      ]
+    },
+    {
+      "id": "loc_khari_bazaar",
+      "name": "The Khari Bazaar",
+      "aliases": [],
+      "type": "location",
+      "summary": "Interlude 2 settlement where Risu gives the Clearing the Way quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_interlude2"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_clearing_the_way",
+          "locator": "Quest infobox: 'Speak to Risu at the Khari Bazaar'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_hildas_hunting",
+      "name": "Hilda's Hunting (PoE2 quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Required epilogue endgame quest tied to Hilda: automatically started near Hilda's Campsite, the Exile finds Hilda and defeats four Great Beasts in turn, speaking with her between fights; the quest completes after the fourth. The wiki page is a stub; quest steps are listed without rewards.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_hilda_s_hunting_quest_",
+          "locator": "Infobox (required: Yes, act 'epilogue', start 'Reach Hilda's Campsite'); quest log '===Defeat the first Great Beast===' and '===Speak to Hilda===' entries (stub page)"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_vaal_incursion",
+      "name": "Vaal Incursion (PoE2 quest, removed)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Former Epilogue quest started by investigating The Burning Monolith; the boss is Doryani, Royal Thaumaturge. The wiki marks it as historical content, removed from the game.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_vaal_incursion",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss Doryani, Royal Thaumaturge); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_faridun_foray",
+      "name": "Faridun Foray (PoE2 quest, removed)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Former Epilogue quest started by investigating The Burning Monolith; the boss is Count Geonor. The wiki marks it as historical content, removed from the game.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_faridun_foray",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss Count Geonor); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_ezomyte_infiltration",
+      "name": "Ezomyte Infiltration (PoE2 quest, removed)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Former Epilogue quest started by investigating The Burning Monolith; the boss is The Perennial King. The wiki marks it as historical content, removed from the game.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ezomyte_infiltration",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss The Perennial King); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "char_the_perennial_king",
+      "name": "The Perennial King",
+      "aliases": [],
+      "type": "character",
+      "summary": "Boss of the removed Epilogue quest Ezomyte Infiltration.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ezomyte_infiltration",
+          "locator": "Infobox boss 'The Perennial King'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_a5_infiltrating_oriath",
+      "name": "Infiltrating Oriath (PoE2 Act 5, datamined)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Datamined Act 5 Normal quest listed by PoE2DB after The Siege of Oriath; the table gives no description. Unconfirmed until Act 5 is released.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Act 5 (unreleased as of 2026-11-06)",
+        "story_order": 5511
+      },
+      "acts": [
+        "act_poe2_act5"
+      ],
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Infiltrating Oriath' row (Normal; reward none listed)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_a5_pinned_down",
+      "name": "Pinned Down (PoE2 Act 5, datamined)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Datamined Act 5 Normal quest listed by PoE2DB; reward Reefsteel Greaves. No description in the datamine.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Act 5 (unreleased as of 2026-11-06)",
+        "story_order": 5512
+      },
+      "acts": [
+        "act_poe2_act5"
+      ],
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Pinned Down' row (Normal; reward Reefsteel Greaves)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_a5_pleasure_and_pain",
+      "name": "Pleasure and Pain (PoE2 Act 5, datamined)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Datamined Act 5 Normal quest listed by PoE2DB; reward Rogue's Marker x5. No description in the datamine.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Act 5 (unreleased as of 2026-11-06)",
+        "story_order": 5513
+      },
+      "acts": [
+        "act_poe2_act5"
+      ],
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Pleasure and Pain' row (Normal; reward Rogue's Marker x5)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_a5_no_rest_for_the_blighted",
+      "name": "No Rest for the Blighted (PoE2 Act 5, datamined)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Datamined Act 5 Normal quest listed by PoE2DB; its reward is labelled [DNT-UNUSED] Blighted Core Bomb, so it may not be in the live game.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Act 5 (unreleased as of 2026-11-06)",
+        "story_order": 5514
+      },
+      "acts": [
+        "act_poe2_act5"
+      ],
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'No Rest for the Blighted' row (Normal; reward [DNT-UNUSED] Blighted Core Bomb)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_a5_plumbing_the_depths",
+      "name": "Plumbing the Depths (PoE2 Act 5, datamined)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional datamined Act 5 quest: Elwynian reports a water-supply problem and asks the Exile to make their way to the Cisterns to investigate; reward Scroll of Wisdom.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Act 5 (unreleased as of 2026-11-06)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act5"
+      ],
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Plumbing the Depths' row (Optional; reward Scroll of Wisdom)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_a5_trarthan_gladiator",
+      "name": "Trarthan Gladiator (PoE2 Act 5, datamined)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional datamined Act 5 quest: travel to the Plaza of Patrons; reward Detailed Mitts.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Act 5 (unreleased as of 2026-11-06)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act5"
+      ],
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Trarthan Gladiator' row (Optional; reward Detailed Mitts)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_a6_shadow_over_ogham",
+      "name": "Shadow Over Ogham (PoE2 Act 6, datamined)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Datamined optional Act 6 quest named by PoE2DB; the table gives only the objective 'Complete Rituals in these areas' with the area list unresolved. Name-only evidence.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Act 6 (unreleased as of 2026-11-06)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act6"
+      ],
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act6",
+          "locator": "Act 6 Quest table (poe2db 'Act 6 Quest /8'): 'Shadow Over Ogham' row ('Optional'; objective 'Complete Rituals in these areas:{0}')"
+        },
+        {
+          "source_id": "src_poe2wiki_act_6",
+          "locator": "Lead: 'Act Six is Path of Exile 2's sixth and final storyline act'; Progression section empty"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_a6_sands_of_ruin",
+      "name": "Sands of Ruin (PoE2 Act 6, datamined)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Datamined optional Act 6 quest named by PoE2DB; objective 'Complete Rituals in these areas' with the area list unresolved. Name-only evidence.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Act 6 (unreleased as of 2026-11-06)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act6"
+      ],
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act6",
+          "locator": "Act 6 Quest table (poe2db 'Act 6 Quest /8'): 'Sands of Ruin' row ('Optional'; objective 'Complete Rituals in these areas:{0}')"
+        },
+        {
+          "source_id": "src_poe2wiki_act_6",
+          "locator": "Lead: 'Act Six is Path of Exile 2's sixth and final storyline act'; Progression section empty"
+        }
+      ]
+    },
+    {
+      "id": "event_poe2_a6_death_in_the_ranges",
+      "name": "Death in the Ranges (PoE2 Act 6, datamined)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Datamined optional Act 6 quest named by PoE2DB; objective 'Complete Rituals in these areas' with the area list unresolved. Name-only evidence.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "Act 6 (unreleased as of 2026-11-06)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe2_act6"
+      ],
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act6",
+          "locator": "Act 6 Quest table (poe2db 'Act 6 Quest /8'): 'Death in the Ranges' row ('Optional'; objective 'Complete Rituals in these areas:{0}')"
+        },
+        {
+          "source_id": "src_poe2wiki_act_6",
+          "locator": "Lead: 'Act Six is Path of Exile 2's sixth and final storyline act'; Progression section empty"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_event_poe2_the_lost_lute__occurs_in__loc_ogham_farmlands",
+      "source": "event_poe2_the_lost_lute",
+      "target": "loc_ogham_farmlands",
+      "relation": "occurs_in",
+      "description": "The quest's search site is Una's family hut in Ogham Farmlands.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_lost_lute",
+          "locator": "Quest infobox; '===Search for Una's Lute===' and '===Return the Lute to Una===' quest log; '===Quest Complete===' (Book of Specialisation, two Weapon Set Passive Skill Points)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_una__participates_in__event_poe2_the_lost_lute",
+      "source": "char_una",
+      "target": "event_poe2_the_lost_lute",
+      "relation": "participates_in",
+      "description": "Una asks the Exile to recover her lute and receives it back.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_lost_lute",
+          "locator": "Quest infobox; '===Search for Una's Lute===' and '===Return the Lute to Una===' quest log; '===Quest Complete===' (Book of Specialisation, two Weapon Set Passive Skill Points)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_the_lost_lute",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_the_lost_lute",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_lost_lute",
+          "locator": "Quest infobox; '===Search for Una's Lute===' and '===Return the Lute to Una===' quest log; '===Quest Complete===' (Book of Specialisation, two Weapon Set Passive Skill Points)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_the_lost_lute__part_of__act_poe2_act1",
+      "source": "event_poe2_the_lost_lute",
+      "target": "act_poe2_act1",
+      "relation": "part_of",
+      "description": "Optional quest in the Act 1 quest list.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_lost_lute",
+          "locator": "Quest infobox; '===Search for Una's Lute===' and '===Return the Lute to Una===' quest log; '===Quest Complete===' (Book of Specialisation, two Weapon Set Passive Skill Points)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_the_hunt_begins__occurs_in__loc_hunting_grounds",
+      "source": "event_poe2_the_hunt_begins",
+      "target": "loc_hunting_grounds",
+      "relation": "occurs_in",
+      "description": "Quest is started and played in the Hunting Grounds.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_hunt_begins",
+          "locator": "Quest infobox ('act 1', optional); '===Speak to Delwyn===' and '===Quest Complete===' (Version history 0.3.0: 'Azmeri Spirits now start appearing from Hunting Grounds')"
+        }
+      ]
+    },
+    {
+      "id": "e_char_delwyn__participates_in__event_poe2_the_hunt_begins",
+      "source": "char_delwyn",
+      "target": "event_poe2_the_hunt_begins",
+      "relation": "participates_in",
+      "description": "Delwyn leads the hunt and is the quest's contact.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_hunt_begins",
+          "locator": "Quest infobox ('act 1', optional); '===Speak to Delwyn===' and '===Quest Complete===' (Version history 0.3.0: 'Azmeri Spirits now start appearing from Hunting Grounds')"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_the_hunt_begins",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_the_hunt_begins",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_hunt_begins",
+          "locator": "Quest infobox ('act 1', optional); '===Speak to Delwyn===' and '===Quest Complete===' (Version history 0.3.0: 'Azmeri Spirits now start appearing from Hunting Grounds')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_the_hunt_begins__part_of__act_poe2_act1",
+      "source": "event_poe2_the_hunt_begins",
+      "target": "act_poe2_act1",
+      "relation": "part_of",
+      "description": "Optional quest in the Act 1 quest list.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_hunt_begins",
+          "locator": "Quest infobox ('act 1', optional); '===Speak to Delwyn===' and '===Quest Complete===' (Version history 0.3.0: 'Azmeri Spirits now start appearing from Hunting Grounds')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_treacherous_ground__occurs_in__loc_mud_burrow",
+      "source": "event_poe2_treacherous_ground",
+      "target": "loc_mud_burrow",
+      "relation": "occurs_in",
+      "description": "The Devourer lives in a Mud Burrow reached from Clearfell.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treacherous_ground",
+          "locator": "Quest infobox ('required: No', act 1, start 'Talk to Renly'); '===Slay the Devourer===' walkthrough; '===Talk to Renly for your reward===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "e_char_renly__participates_in__event_poe2_treacherous_ground",
+      "source": "char_renly",
+      "target": "event_poe2_treacherous_ground",
+      "relation": "participates_in",
+      "description": "Renly starts the quest and gives the reward.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treacherous_ground",
+          "locator": "Quest infobox ('required: No', act 1, start 'Talk to Renly'); '===Slay the Devourer===' walkthrough; '===Talk to Renly for your reward===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_treacherous_ground",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_treacherous_ground",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treacherous_ground",
+          "locator": "Quest infobox ('required: No', act 1, start 'Talk to Renly'); '===Slay the Devourer===' walkthrough; '===Talk to Renly for your reward===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_treacherous_ground__part_of__act_poe2_act1",
+      "source": "event_poe2_treacherous_ground",
+      "target": "act_poe2_act1",
+      "relation": "part_of",
+      "description": "Optional quest in the Act 1 quest list.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treacherous_ground",
+          "locator": "Quest infobox ('required: No', act 1, start 'Talk to Renly'); '===Slay the Devourer===' walkthrough; '===Talk to Renly for your reward===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_finding_the_forge__occurs_in__loc_ogham_village",
+      "source": "event_poe2_finding_the_forge",
+      "target": "loc_ogham_village",
+      "relation": "occurs_in",
+      "description": "The Smithing Tools are found in Ogham Village.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_finding_the_forge",
+          "locator": "Quest infobox ('act 1', start 'Talk to Renly', objective 'Find Smithing Tools in Ogham Village'); '===Quest Complete===' (Salvage Bench restored)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_renly__participates_in__event_poe2_finding_the_forge",
+      "source": "char_renly",
+      "target": "event_poe2_finding_the_forge",
+      "relation": "participates_in",
+      "description": "Renly starts the quest and receives the tools back.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_finding_the_forge",
+          "locator": "Quest infobox ('act 1', start 'Talk to Renly', objective 'Find Smithing Tools in Ogham Village'); '===Quest Complete===' (Salvage Bench restored)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_finding_the_forge",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_finding_the_forge",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_finding_the_forge",
+          "locator": "Quest infobox ('act 1', start 'Talk to Renly', objective 'Find Smithing Tools in Ogham Village'); '===Quest Complete===' (Salvage Bench restored)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_finding_the_forge__part_of__act_poe2_act1",
+      "source": "event_poe2_finding_the_forge",
+      "target": "act_poe2_act1",
+      "relation": "part_of",
+      "description": "Optional quest in the Act 1 quest list.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_finding_the_forge",
+          "locator": "Quest infobox ('act 1', start 'Talk to Renly', objective 'Find Smithing Tools in Ogham Village'); '===Quest Complete===' (Salvage Bench restored)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_cracks_in_the_earth__introduced_in__league_poe2_rise_of_the_abyssal",
+      "source": "event_poe2_cracks_in_the_earth",
+      "target": "league_poe2_rise_of_the_abyssal",
+      "relation": "introduced_in",
+      "description": "The quest was exclusive to the Rise of the Abyssal league.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "poe2_abyss"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_cracks_in_the_earth",
+          "locator": "Quest infobox ('historical content', act 1, 'Speak to Mortimer'); '===Find the source of Abyssal Monsters===' and '===Quest Complete===' (intro: 'It was exclusive to Rise of the Abyssal league'; Version history 0.3.0 'Introduced to the game', 0.4.0 'Removed from the game')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_cracks_in_the_earth__occurs_in__loc_clearfell",
+      "source": "event_poe2_cracks_in_the_earth",
+      "target": "loc_clearfell",
+      "relation": "occurs_in",
+      "description": "Quest is started in Clearfell Encampment.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "poe2_abyss"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_cracks_in_the_earth",
+          "locator": "Quest infobox ('historical content', act 1, 'Speak to Mortimer'); '===Find the source of Abyssal Monsters===' and '===Quest Complete===' (intro: 'It was exclusive to Rise of the Abyssal league'; Version history 0.3.0 'Introduced to the game', 0.4.0 'Removed from the game')"
+        }
+      ]
+    },
+    {
+      "id": "e_char_mortimer__guides__char_exile_poe2",
+      "source": "char_mortimer",
+      "target": "char_exile_poe2",
+      "relation": "guides",
+      "description": "Mortimer sends the Exile to find the Abyss in Clearfell.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "poe2_abyss"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_cracks_in_the_earth",
+          "locator": "Quest infobox ('historical content', act 1, 'Speak to Mortimer'); '===Find the source of Abyssal Monsters===' and '===Quest Complete===' (intro: 'It was exclusive to Rise of the Abyssal league'; Version history 0.3.0 'Introduced to the game', 0.4.0 'Removed from the game')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_cracks_in_the_earth__associated_with__concept_abyss",
+      "source": "event_poe2_cracks_in_the_earth",
+      "target": "concept_abyss",
+      "relation": "associated_with",
+      "description": "The quest is the introduction to the Abyss encounter.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "poe2_abyss"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_cracks_in_the_earth",
+          "locator": "Quest infobox ('historical content', act 1, 'Speak to Mortimer'); '===Find the source of Abyssal Monsters===' and '===Quest Complete===' (intro: 'It was exclusive to Rise of the Abyssal league'; Version history 0.3.0 'Introduced to the game', 0.4.0 'Removed from the game')"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_cracks_in_the_earth",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_cracks_in_the_earth",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "poe2_abyss"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_cracks_in_the_earth",
+          "locator": "Quest infobox ('historical content', act 1, 'Speak to Mortimer'); '===Find the source of Abyssal Monsters===' and '===Quest Complete===' (intro: 'It was exclusive to Rise of the Abyssal league'; Version history 0.3.0 'Introduced to the game', 0.4.0 'Removed from the game')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_trail_of_corruption_act2__part_of__act_poe2_act2",
+      "source": "event_poe2_trail_of_corruption_act2",
+      "target": "act_poe2_act2",
+      "relation": "part_of",
+      "description": "Main quest of Act 2.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "Infobox (act 2, start 'Enter the Ardura Caravan'); Rewards section; quest log headings '===Speak to the Hooded One===' through '===Quest Complete===' (pursuit of Jamanra, the Abomination)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 2 list: 'The Trail of Corruption (Act 2)' with sub-quests 'A Theft of Ivory', 'The City of Seven Waters' and 'A Crown of Stone' nested under it"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_trail_of_corruption_act2__occurs_in__loc_ardura_caravan",
+      "source": "event_poe2_trail_of_corruption_act2",
+      "target": "loc_ardura_caravan",
+      "relation": "occurs_in",
+      "description": "The quest starts when the Exile boards the Ardura Caravan.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "Infobox (act 2, start 'Enter the Ardura Caravan'); Rewards section; quest log headings '===Speak to the Hooded One===' through '===Quest Complete===' (pursuit of Jamanra, the Abomination)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 2 list: 'The Trail of Corruption (Act 2)' with sub-quests 'A Theft of Ivory', 'The City of Seven Waters' and 'A Crown of Stone' nested under it"
+        }
+      ]
+    },
+    {
+      "id": "e_char_the_hooded_one__participates_in__event_poe2_trail_of_corruption_act2",
+      "source": "char_the_hooded_one",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "participates_in",
+      "description": "The Hooded One directs the pursuit of the Beast.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "Infobox (act 2, start 'Enter the Ardura Caravan'); Rewards section; quest log headings '===Speak to the Hooded One===' through '===Quest Complete===' (pursuit of Jamanra, the Abomination)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 2 list: 'The Trail of Corruption (Act 2)' with sub-quests 'A Theft of Ivory', 'The City of Seven Waters' and 'A Crown of Stone' nested under it"
+        }
+      ]
+    },
+    {
+      "id": "e_char_asala__participates_in__event_poe2_trail_of_corruption_act2",
+      "source": "char_asala",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "participates_in",
+      "description": "Sekhema Asala leads the Ardura and Maraketh support for the pursuit.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "Infobox (act 2, start 'Enter the Ardura Caravan'); Rewards section; quest log headings '===Speak to the Hooded One===' through '===Quest Complete===' (pursuit of Jamanra, the Abomination)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 2 list: 'The Trail of Corruption (Act 2)' with sub-quests 'A Theft of Ivory', 'The City of Seven Waters' and 'A Crown of Stone' nested under it"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_trail_of_corruption_act2",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "Infobox (act 2, start 'Enter the Ardura Caravan'); Rewards section; quest log headings '===Speak to the Hooded One===' through '===Quest Complete===' (pursuit of Jamanra, the Abomination)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 2 list: 'The Trail of Corruption (Act 2)' with sub-quests 'A Theft of Ivory', 'The City of Seven Waters' and 'A Crown of Stone' nested under it"
+        }
+      ]
+    },
+    {
+      "id": "e_event_mawdun_mine_rudja__part_of__event_poe2_trail_of_corruption_act2",
+      "source": "event_mawdun_mine_rudja",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "part_of",
+      "description": "Step of the Act 2 Trail of Corruption quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "'===Enter Mawdun Mine===' to '===Return to the Caravan with the Defector==='"
+        }
+      ]
+    },
+    {
+      "id": "e_event_balbala_released__part_of__event_poe2_trail_of_corruption_act2",
+      "source": "event_balbala_released",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "part_of",
+      "description": "Shambrin asks the Exile to release Balbala, sealed in Traitor's Passage on the way to the Halani Gates; a step of the Act 2 quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "'===Talk to Asala about Risu's information===' section: Shambrin dialogue (Traitor's Passage; Balbala 'is still sealed there... It is long past time to release her')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_halani_gates_first_battle__part_of__event_poe2_trail_of_corruption_act2",
+      "source": "event_halani_gates_first_battle",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "part_of",
+      "description": "Step of the Act 2 Trail of Corruption quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "'===Talk to Risu about the closed Gates===' to '===Open the third Gate===' quest log"
+        }
+      ]
+    },
+    {
+      "id": "e_event_city_of_seven_waters__part_of__event_poe2_trail_of_corruption_act2",
+      "source": "event_city_of_seven_waters",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "part_of",
+      "description": "Step of the Act 2 Trail of Corruption quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Quest.wiki Act 2 list: sub-quest 'The City of Seven Waters' under The Trail of Corruption (Act 2)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_theft_of_ivory__part_of__event_poe2_trail_of_corruption_act2",
+      "source": "event_theft_of_ivory",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "part_of",
+      "description": "Step of the Act 2 Trail of Corruption quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Quest.wiki Act 2 list: sub-quest 'A Theft of Ivory' under The Trail of Corruption (Act 2)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_crown_of_stone__part_of__event_poe2_trail_of_corruption_act2",
+      "source": "event_crown_of_stone",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "part_of",
+      "description": "Step of the Act 2 Trail of Corruption quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Quest.wiki Act 2 list: sub-quest 'A Crown of Stone' under The Trail of Corruption (Act 2)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_horn_of_vastiri_recreated__part_of__event_poe2_trail_of_corruption_act2",
+      "source": "event_horn_of_vastiri_recreated",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "part_of",
+      "description": "Step of the Act 2 Trail of Corruption quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "'===Recreate the Horn of the Vastiri===' quest log"
+        }
+      ]
+    },
+    {
+      "id": "e_event_sandstorm_dispelled__part_of__event_poe2_trail_of_corruption_act2",
+      "source": "event_sandstorm_dispelled",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "part_of",
+      "description": "Step of the Act 2 Trail of Corruption quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "'===Use the Horn of the Vastiri===' quest log"
+        }
+      ]
+    },
+    {
+      "id": "e_event_tor_gul_defeat__part_of__event_poe2_trail_of_corruption_act2",
+      "source": "event_tor_gul_defeat",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "part_of",
+      "description": "Step of the Act 2 Trail of Corruption quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "'===Ascend Deshar===' to '===Defeat Tor Gul, the Defiler===' quest log"
+        }
+      ]
+    },
+    {
+      "id": "e_event_dreadnought_jamanra_abomination__part_of__event_poe2_trail_of_corruption_act2",
+      "source": "event_dreadnought_jamanra_abomination",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "part_of",
+      "description": "Step of the Act 2 Trail of Corruption quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "'===Use the Desert Map to travel to the Dreadnought===', '===Fight your way forward===', '===Fight your way to the the Throne===' and '===Defeat Jamanra, the Abomination===' quest log"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_tribal_vengeance__occurs_in__loc_azak_bog",
+      "source": "event_poe2_tribal_vengeance",
+      "target": "loc_azak_bog",
+      "relation": "occurs_in",
+      "description": "Quest starts on entering The Azak Bog and the boss is fought there.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_vengeance",
+          "locator": "Infobox (act 3, boss Ignagduk, the Bog Witch); quest logs '===Talk to Servi===' and '===Kill Ignagduk==='; Rewards section (charms)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_ignagduk__located_in__loc_azak_bog",
+      "source": "char_ignagduk",
+      "target": "loc_azak_bog",
+      "relation": "located_in",
+      "description": "Ignagduk is found in the Azak village and at Gor-gor Mog arena in The Azak Bog.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_vengeance",
+          "locator": "Infobox (act 3, boss Ignagduk, the Bog Witch); quest logs '===Talk to Servi===' and '===Kill Ignagduk==='; Rewards section (charms)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_servi__participates_in__event_poe2_tribal_vengeance",
+      "source": "char_servi",
+      "target": "event_poe2_tribal_vengeance",
+      "relation": "participates_in",
+      "description": "Servi asks the Exile to kill Ignagduk and collects the spear.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_vengeance",
+          "locator": "Infobox (act 3, boss Ignagduk, the Bog Witch); quest logs '===Talk to Servi===' and '===Kill Ignagduk==='; Rewards section (charms)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__defeats__char_ignagduk",
+      "source": "char_exile_poe2",
+      "target": "char_ignagduk",
+      "relation": "defeats",
+      "description": "The Exile kills Ignagduk in the Tribal Vengeance quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_vengeance",
+          "locator": "Infobox (act 3, boss Ignagduk, the Bog Witch); quest logs '===Talk to Servi===' and '===Kill Ignagduk==='; Rewards section (charms)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_tribal_vengeance",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_tribal_vengeance",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_vengeance",
+          "locator": "Infobox (act 3, boss Ignagduk, the Bog Witch); quest logs '===Talk to Servi===' and '===Kill Ignagduk==='; Rewards section (charms)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_tribal_vengeance__part_of__act_poe2_act3",
+      "source": "event_poe2_tribal_vengeance",
+      "target": "act_poe2_act3",
+      "relation": "part_of",
+      "description": "Optional quest in the Act 3 quest list.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_vengeance",
+          "locator": "Infobox (act 3, boss Ignagduk, the Bog Witch); quest logs '===Talk to Servi===' and '===Kill Ignagduk==='; Rewards section (charms)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_the_slithering_dead__occurs_in__loc_venom_crypts",
+      "source": "event_poe2_the_slithering_dead",
+      "target": "loc_venom_crypts",
+      "relation": "occurs_in",
+      "description": "The quest's search and corpse are in the Venom Crypts.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_slithering_dead",
+          "locator": "Infobox (act 3, start 'Entering the Venom Crypts'); quest logs '===Take the Corpse-snake Venom===' and '===Take a Venom Draught===' ; Rewards section"
+        }
+      ]
+    },
+    {
+      "id": "e_char_servi__participates_in__event_poe2_the_slithering_dead",
+      "source": "char_servi",
+      "target": "event_poe2_the_slithering_dead",
+      "relation": "participates_in",
+      "description": "Servi sets the quest and makes the Venom Draught.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_slithering_dead",
+          "locator": "Infobox (act 3, start 'Entering the Venom Crypts'); quest logs '===Take the Corpse-snake Venom===' and '===Take a Venom Draught===' ; Rewards section"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_the_slithering_dead",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_the_slithering_dead",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_slithering_dead",
+          "locator": "Infobox (act 3, start 'Entering the Venom Crypts'); quest logs '===Take the Corpse-snake Venom===' and '===Take a Venom Draught===' ; Rewards section"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_the_slithering_dead__part_of__act_poe2_act3",
+      "source": "event_poe2_the_slithering_dead",
+      "target": "act_poe2_act3",
+      "relation": "part_of",
+      "description": "Optional quest in the Act 3 quest list.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_slithering_dead",
+          "locator": "Infobox (act 3, start 'Entering the Venom Crypts'); quest logs '===Take the Corpse-snake Venom===' and '===Take a Venom Draught===' ; Rewards section"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_treasures_of_utzaal__occurs_in__loc_molten_vault",
+      "source": "event_poe2_treasures_of_utzaal",
+      "target": "loc_molten_vault",
+      "relation": "occurs_in",
+      "description": "The quest's boss and loot are in The Molten Vault.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treasures_of_utzaal",
+          "locator": "Infobox (act 3, start 'Summon Oswald in front of the Molten Vault', completion 'Bring The Hammer of Kamasa to Oswald'); '===Speak to Oswald===' quote on the Monkey God (Kamasa); '===Defeat Mektul, the Forgemaster===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "e_char_oswald__participates_in__event_poe2_treasures_of_utzaal",
+      "source": "char_oswald",
+      "target": "event_poe2_treasures_of_utzaal",
+      "relation": "participates_in",
+      "description": "Oswald starts the quest and receives the hammer.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treasures_of_utzaal",
+          "locator": "Infobox (act 3, start 'Summon Oswald in front of the Molten Vault', completion 'Bring The Hammer of Kamasa to Oswald'); '===Speak to Oswald===' quote on the Monkey God (Kamasa); '===Defeat Mektul, the Forgemaster===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_treasures_of_utzaal__associated_with__deity_kamasa",
+      "source": "event_poe2_treasures_of_utzaal",
+      "target": "deity_kamasa",
+      "relation": "associated_with",
+      "description": "Oswald says the monkey statues represent Kamasa, the Vaal god of wealth.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treasures_of_utzaal",
+          "locator": "Infobox (act 3, start 'Summon Oswald in front of the Molten Vault', completion 'Bring The Hammer of Kamasa to Oswald'); '===Speak to Oswald===' quote on the Monkey God (Kamasa); '===Defeat Mektul, the Forgemaster===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__defeats__char_mektul",
+      "source": "char_exile_poe2",
+      "target": "char_mektul",
+      "relation": "defeats",
+      "description": "The Exile defeats Mektul, the Forgemaster, in The Molten Vault.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treasures_of_utzaal",
+          "locator": "Infobox (act 3, start 'Summon Oswald in front of the Molten Vault', completion 'Bring The Hammer of Kamasa to Oswald'); '===Speak to Oswald===' quote on the Monkey God (Kamasa); '===Defeat Mektul, the Forgemaster===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__seeks__artifact_hammer_of_kamasa",
+      "source": "char_exile_poe2",
+      "target": "artifact_hammer_of_kamasa",
+      "relation": "seeks",
+      "description": "The Exile recovers the Hammer of Kamasa for Oswald.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treasures_of_utzaal",
+          "locator": "Infobox (act 3, start 'Summon Oswald in front of the Molten Vault', completion 'Bring The Hammer of Kamasa to Oswald'); '===Speak to Oswald===' quote on the Monkey God (Kamasa); '===Defeat Mektul, the Forgemaster===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_hammer_of_kamasa__associated_with__deity_kamasa",
+      "source": "artifact_hammer_of_kamasa",
+      "target": "deity_kamasa",
+      "relation": "associated_with",
+      "description": "Oswald identifies the monkey statues as Kamasa; the item name 'Hammer of Kamasa' gives the link. Name-based, medium confidence.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treasures_of_utzaal",
+          "locator": "Infobox (act 3, start 'Summon Oswald in front of the Molten Vault', completion 'Bring The Hammer of Kamasa to Oswald'); '===Speak to Oswald===' quote on the Monkey God (Kamasa); '===Defeat Mektul, the Forgemaster===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_treasures_of_utzaal",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_treasures_of_utzaal",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treasures_of_utzaal",
+          "locator": "Infobox (act 3, start 'Summon Oswald in front of the Molten Vault', completion 'Bring The Hammer of Kamasa to Oswald'); '===Speak to Oswald===' quote on the Monkey God (Kamasa); '===Defeat Mektul, the Forgemaster===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_treasures_of_utzaal__part_of__act_poe2_act3",
+      "source": "event_poe2_treasures_of_utzaal",
+      "target": "act_poe2_act3",
+      "relation": "part_of",
+      "description": "Optional quest in the Act 3 quest list.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_treasures_of_utzaal",
+          "locator": "Infobox (act 3, start 'Summon Oswald in front of the Molten Vault', completion 'Bring The Hammer of Kamasa to Oswald'); '===Speak to Oswald===' quote on the Monkey God (Kamasa); '===Defeat Mektul, the Forgemaster===' and '===Quest Complete==='"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a3_trials_of_chaos_quest__occurs_in__loc_temple_of_chaos",
+      "source": "event_poe2_a3_trials_of_chaos_quest",
+      "target": "loc_temple_of_chaos",
+      "relation": "occurs_in",
+      "description": "The Trialmaster's challenges are run from the Temple of Chaos offering.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trials_of_chaos",
+          "locator": "Infobox (act 3, optional, start 'Acquire an Inscribed Ultimatum', boss Xyclucian, the Chimera); '===Place the Inscribed Ultimatum in the Temple Offering===' and '===Quest Complete=== (2 Ascendancy Points)'"
+        },
+        {
+          "source_id": "src_poe2wiki_the_trial_of_chaos",
+          "locator": "Access section (Chimeral Inscribed Ultimatum from Xyclucian; Temple of Chaos offering); lead ('based on Ultimatum from PoE1')"
+        }
+      ]
+    },
+    {
+      "id": "e_char_the_trialmaster__leads__event_poe2_a3_trials_of_chaos_quest",
+      "source": "char_the_trialmaster",
+      "target": "event_poe2_a3_trials_of_chaos_quest",
+      "relation": "leads",
+      "description": "The Trialmaster sets the Challenges the Exile must complete to finish the quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trials_of_chaos",
+          "locator": "Infobox (act 3, optional, start 'Acquire an Inscribed Ultimatum', boss Xyclucian, the Chimera); '===Place the Inscribed Ultimatum in the Temple Offering===' and '===Quest Complete=== (2 Ascendancy Points)'"
+        },
+        {
+          "source_id": "src_poe2wiki_the_trial_of_chaos",
+          "locator": "Access section (Chimeral Inscribed Ultimatum from Xyclucian; Temple of Chaos offering); lead ('based on Ultimatum from PoE1')"
+        }
+      ]
+    },
+    {
+      "id": "e_char_xyclucian__associated_with__event_poe2_a3_trials_of_chaos_quest",
+      "source": "char_xyclucian",
+      "target": "event_poe2_a3_trials_of_chaos_quest",
+      "relation": "associated_with",
+      "description": "Defeating Xyclucian, the Chimera yields the Chimeral Inscribed Ultimatum that starts the quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trials_of_chaos",
+          "locator": "Infobox (act 3, optional, start 'Acquire an Inscribed Ultimatum', boss Xyclucian, the Chimera); '===Place the Inscribed Ultimatum in the Temple Offering===' and '===Quest Complete=== (2 Ascendancy Points)'"
+        },
+        {
+          "source_id": "src_poe2wiki_the_trial_of_chaos",
+          "locator": "Access section (Chimeral Inscribed Ultimatum from Xyclucian; Temple of Chaos offering); lead ('based on Ultimatum from PoE1')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a3_trials_of_chaos_quest__associated_with__concept_trial_of_chaos",
+      "source": "event_poe2_a3_trials_of_chaos_quest",
+      "target": "concept_trial_of_chaos",
+      "relation": "associated_with",
+      "description": "The quest is the Act 3 access route to the Trial of Chaos ascension trial.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trials_of_chaos",
+          "locator": "Infobox (act 3, optional, start 'Acquire an Inscribed Ultimatum', boss Xyclucian, the Chimera); '===Place the Inscribed Ultimatum in the Temple Offering===' and '===Quest Complete=== (2 Ascendancy Points)'"
+        },
+        {
+          "source_id": "src_poe2wiki_the_trial_of_chaos",
+          "locator": "Access section (Chimeral Inscribed Ultimatum from Xyclucian; Temple of Chaos offering); lead ('based on Ultimatum from PoE1')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a3_trials_of_chaos_quest__associated_with__event_trials_of_chaos",
+      "source": "event_poe2_a3_trials_of_chaos_quest",
+      "target": "event_trials_of_chaos",
+      "relation": "associated_with",
+      "description": "PoE2 quest adapted from the PoE1 Ultimatum mechanic; not merged with the PoE1 league event.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trials_of_chaos",
+          "locator": "Infobox (act 3, optional, start 'Acquire an Inscribed Ultimatum', boss Xyclucian, the Chimera); '===Place the Inscribed Ultimatum in the Temple Offering===' and '===Quest Complete=== (2 Ascendancy Points)'"
+        },
+        {
+          "source_id": "src_poe2wiki_the_trial_of_chaos",
+          "locator": "Access section (Chimeral Inscribed Ultimatum from Xyclucian; Temple of Chaos offering); lead ('based on Ultimatum from PoE1')"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_a3_trials_of_chaos_quest",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_a3_trials_of_chaos_quest",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trials_of_chaos",
+          "locator": "Infobox (act 3, optional, start 'Acquire an Inscribed Ultimatum', boss Xyclucian, the Chimera); '===Place the Inscribed Ultimatum in the Temple Offering===' and '===Quest Complete=== (2 Ascendancy Points)'"
+        },
+        {
+          "source_id": "src_poe2wiki_the_trial_of_chaos",
+          "locator": "Access section (Chimeral Inscribed Ultimatum from Xyclucian; Temple of Chaos offering); lead ('based on Ultimatum from PoE1')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a3_trials_of_chaos_quest__part_of__act_poe2_act3",
+      "source": "event_poe2_a3_trials_of_chaos_quest",
+      "target": "act_poe2_act3",
+      "relation": "part_of",
+      "description": "Optional quest in the Act 3 quest list.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trials_of_chaos",
+          "locator": "Infobox (act 3, optional, start 'Acquire an Inscribed Ultimatum', boss Xyclucian, the Chimera); '===Place the Inscribed Ultimatum in the Temple Offering===' and '===Quest Complete=== (2 Ascendancy Points)'"
+        },
+        {
+          "source_id": "src_poe2wiki_the_trial_of_chaos",
+          "locator": "Access section (Chimeral Inscribed Ultimatum from Xyclucian; Temple of Chaos offering); lead ('based on Ultimatum from PoE1')"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_trial_of_chaos__occurs_in__loc_temple_of_chaos",
+      "source": "concept_trial_of_chaos",
+      "target": "loc_temple_of_chaos",
+      "relation": "occurs_in",
+      "description": "The Trial of Chaos is entered from the Temple of Chaos offering.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "trial_of_chaos"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trial_of_chaos",
+          "locator": "Access section: 'insert an Inscribed Ultimatum into the Temple Offering' at the Temple of Chaos"
+        }
+      ]
+    },
+    {
+      "id": "e_concept_maraketh_shrine__part_of__concept_trial_of_the_sekhemas",
+      "source": "concept_maraketh_shrine",
+      "target": "concept_trial_of_the_sekhemas",
+      "relation": "part_of",
+      "description": "Shrines are room rewards inside the Trial of the Sekhemas.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "trial_of_sekhemas"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_maraketh_shrine",
+          "locator": "Full page (stub): 'Maraketh Shrines are found as room rewards in the Trial of the Sekhemas'; shrine list (Honour Tabina / Balbala / Ahkeli / Galai); Fountain of Youth minor boon"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_shrike_island_quest__occurs_in__loc_shrike_island",
+      "source": "event_poe2_shrike_island_quest",
+      "target": "loc_shrike_island",
+      "relation": "occurs_in",
+      "description": "Quest is played on Shrike Island.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_shrike_island_quest",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Shrike Island', completion 'Kill the Scourge of the Skies'); lead ('secondary main story quest'); '===Kill the Scourge of the Skies==='"
+        }
+      ]
+    },
+    {
+      "id": "e_char_makoru__participates_in__event_poe2_shrike_island_quest",
+      "source": "char_makoru",
+      "target": "event_poe2_shrike_island_quest",
+      "relation": "participates_in",
+      "description": "Makoru starts the quest by sending the Exile to Shrike Island.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_shrike_island_quest",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Shrike Island', completion 'Kill the Scourge of the Skies'); lead ('secondary main story quest'); '===Kill the Scourge of the Skies==='"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__defeats__char_scourge_of_the_skies",
+      "source": "char_exile_poe2",
+      "target": "char_scourge_of_the_skies",
+      "relation": "defeats",
+      "description": "The Exile kills the Scourge of the Skies.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_shrike_island_quest",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Shrike Island', completion 'Kill the Scourge of the Skies'); lead ('secondary main story quest'); '===Kill the Scourge of the Skies==='"
+        }
+      ]
+    },
+    {
+      "id": "e_char_scourge_of_the_skies__located_in__loc_shrike_island",
+      "source": "char_scourge_of_the_skies",
+      "target": "loc_shrike_island",
+      "relation": "located_in",
+      "description": "The Scourge of the Skies is found on Shrike Island.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_shrike_island_quest",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Shrike Island', completion 'Kill the Scourge of the Skies'); lead ('secondary main story quest'); '===Kill the Scourge of the Skies==='"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_shrike_island_quest",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_shrike_island_quest",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_shrike_island_quest",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Shrike Island', completion 'Kill the Scourge of the Skies'); lead ('secondary main story quest'); '===Kill the Scourge of the Skies==='"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_shrike_island_quest__part_of__act_poe2_act4",
+      "source": "event_poe2_shrike_island_quest",
+      "target": "act_poe2_act4",
+      "relation": "part_of",
+      "description": "Required secondary quest in Act 4.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_shrike_island_quest",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Shrike Island', completion 'Kill the Scourge of the Skies'); lead ('secondary main story quest'); '===Kill the Scourge of the Skies==='"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_whakapanu_island_quest__occurs_in__loc_whakapanu_island",
+      "source": "event_poe2_whakapanu_island_quest",
+      "target": "loc_whakapanu_island",
+      "relation": "occurs_in",
+      "description": "Quest is played on Whakapanu Island and in its Singing Caverns.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_whakapanu_island_quest",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Whakapanu Island', completion 'Defeat Diamora, Song of Death'); quest log '===Enter the Singing Caverns===' to '===Kill Diamora==='"
+        }
+      ]
+    },
+    {
+      "id": "e_char_makoru__participates_in__event_poe2_whakapanu_island_quest",
+      "source": "char_makoru",
+      "target": "event_poe2_whakapanu_island_quest",
+      "relation": "participates_in",
+      "description": "Makoru starts the quest by sending the Exile to Whakapanu Island.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_whakapanu_island_quest",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Whakapanu Island', completion 'Defeat Diamora, Song of Death'); quest log '===Enter the Singing Caverns===' to '===Kill Diamora==='"
+        }
+      ]
+    },
+    {
+      "id": "e_char_diamora__participates_in__event_poe2_whakapanu_island_quest",
+      "source": "char_diamora",
+      "target": "event_poe2_whakapanu_island_quest",
+      "relation": "participates_in",
+      "description": "Diamora, the Siren, is the quest's final target.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_whakapanu_island_quest",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Whakapanu Island', completion 'Defeat Diamora, Song of Death'); quest log '===Enter the Singing Caverns===' to '===Kill Diamora==='"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_whakapanu_island_quest",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_whakapanu_island_quest",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_whakapanu_island_quest",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Whakapanu Island', completion 'Defeat Diamora, Song of Death'); quest log '===Enter the Singing Caverns===' to '===Kill Diamora==='"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_whakapanu_island_quest__part_of__act_poe2_act4",
+      "source": "event_poe2_whakapanu_island_quest",
+      "target": "act_poe2_act4",
+      "relation": "part_of",
+      "description": "Required secondary quest in Act 4.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_whakapanu_island_quest",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Whakapanu Island', completion 'Defeat Diamora, Song of Death'); quest log '===Enter the Singing Caverns===' to '===Kill Diamora==='"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_land_of_the_kin__occurs_in__loc_isle_of_kin",
+      "source": "event_poe2_land_of_the_kin",
+      "target": "loc_isle_of_kin",
+      "relation": "occurs_in",
+      "description": "Quest is played on the Isle of Kin.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_land_of_the_kin",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Isle of Kin', completion 'Kill Krutog, Lord of Kin'); lead; quest log '===Explore the Isle of Kin===' to '===Quest Complete===' "
+        }
+      ]
+    },
+    {
+      "id": "e_char_makoru__participates_in__event_poe2_land_of_the_kin",
+      "source": "char_makoru",
+      "target": "event_poe2_land_of_the_kin",
+      "relation": "participates_in",
+      "description": "Makoru starts the quest by sending the Exile to the Isle of Kin.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_land_of_the_kin",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Isle of Kin', completion 'Kill Krutog, Lord of Kin'); lead; quest log '===Explore the Isle of Kin===' to '===Quest Complete===' "
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_land_of_the_kin",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_land_of_the_kin",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_land_of_the_kin",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Isle of Kin', completion 'Kill Krutog, Lord of Kin'); lead; quest log '===Explore the Isle of Kin===' to '===Quest Complete===' "
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_land_of_the_kin__part_of__act_poe2_act4",
+      "source": "event_poe2_land_of_the_kin",
+      "target": "act_poe2_act4",
+      "relation": "part_of",
+      "description": "Required secondary quest in Act 4.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_land_of_the_kin",
+          "locator": "Infobox (required: Yes, act 4, start 'Sailing to Isle of Kin', completion 'Kill Krutog, Lord of Kin'); lead; quest log '===Explore the Isle of Kin===' to '===Quest Complete===' "
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_abandoned_prison_quest__occurs_in__loc_abandoned_prison",
+      "source": "event_poe2_abandoned_prison_quest",
+      "target": "loc_abandoned_prison",
+      "relation": "occurs_in",
+      "description": "Quest is played in the Abandoned Prison and Solitary Confinement.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_abandoned_prison_quest",
+          "locator": "Infobox (required: Yes, act 4, completion 'Kill The Prisoner'); lead ('the Prisoner holds one of the three weapon pieces'); quest log '===Slay the Prisoner===' and '===Quest Complete===' "
+        }
+      ]
+    },
+    {
+      "id": "e_char_makoru__participates_in__event_poe2_abandoned_prison_quest",
+      "source": "char_makoru",
+      "target": "event_poe2_abandoned_prison_quest",
+      "relation": "participates_in",
+      "description": "Makoru starts the quest by sending the Exile to the Abandoned Prison.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_abandoned_prison_quest",
+          "locator": "Infobox (required: Yes, act 4, completion 'Kill The Prisoner'); lead ('the Prisoner holds one of the three weapon pieces'); quest log '===Slay the Prisoner===' and '===Quest Complete===' "
+        }
+      ]
+    },
+    {
+      "id": "e_char_the_prisoner__participates_in__event_poe2_abandoned_prison_quest",
+      "source": "char_the_prisoner",
+      "target": "event_poe2_abandoned_prison_quest",
+      "relation": "participates_in",
+      "description": "The Prisoner is the quest's target and holds a weapon piece.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_abandoned_prison_quest",
+          "locator": "Infobox (required: Yes, act 4, completion 'Kill The Prisoner'); lead ('the Prisoner holds one of the three weapon pieces'); quest log '===Slay the Prisoner===' and '===Quest Complete===' "
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_abandoned_prison_quest__leads_to__event_poe2_the_search",
+      "source": "event_poe2_abandoned_prison_quest",
+      "target": "event_poe2_the_search",
+      "relation": "leads_to",
+      "description": "Killing The Prisoner yields a weapon piece that further progresses The Search.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_abandoned_prison_quest",
+          "locator": "Infobox (required: Yes, act 4, completion 'Kill The Prisoner'); lead ('the Prisoner holds one of the three weapon pieces'); quest log '===Slay the Prisoner===' and '===Quest Complete===' "
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_abandoned_prison_quest",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_abandoned_prison_quest",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_abandoned_prison_quest",
+          "locator": "Infobox (required: Yes, act 4, completion 'Kill The Prisoner'); lead ('the Prisoner holds one of the three weapon pieces'); quest log '===Slay the Prisoner===' and '===Quest Complete===' "
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_abandoned_prison_quest__part_of__act_poe2_act4",
+      "source": "event_poe2_abandoned_prison_quest",
+      "target": "act_poe2_act4",
+      "relation": "part_of",
+      "description": "Required secondary quest in Act 4.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_abandoned_prison_quest",
+          "locator": "Infobox (required: Yes, act 4, completion 'Kill The Prisoner'); lead ('the Prisoner holds one of the three weapon pieces'); quest log '===Slay the Prisoner===' and '===Quest Complete===' "
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_tribal_medicine__occurs_in__loc_ngakanu",
+      "source": "event_poe2_tribal_medicine",
+      "target": "loc_ngakanu",
+      "relation": "occurs_in",
+      "description": "Quest starts in Ngakanu, where Kaimana can be found, and is turned in there.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_medicine",
+          "locator": "Infobox (act 4, optional, start 'Picking up Shark Fin', completion 'Deliver the Shark Fin to Kaimana'); lead; Rewards (Kaom's Lesson / Rakiata's Lesson, 'cannot be changed'); quest logs '===Speak to Kaimana===' "
+        }
+      ]
+    },
+    {
+      "id": "e_char_kaimana__participates_in__event_poe2_tribal_medicine",
+      "source": "char_kaimana",
+      "target": "event_poe2_tribal_medicine",
+      "relation": "participates_in",
+      "description": "Kaimana asks for the shark fin and gives the reward.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_medicine",
+          "locator": "Infobox (act 4, optional, start 'Picking up Shark Fin', completion 'Deliver the Shark Fin to Kaimana'); lead; Rewards (Kaom's Lesson / Rakiata's Lesson, 'cannot be changed'); quest logs '===Speak to Kaimana===' "
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_tribal_medicine__occurs_in__loc_whakapanu_island",
+      "source": "event_poe2_tribal_medicine",
+      "target": "loc_whakapanu_island",
+      "relation": "occurs_in",
+      "description": "The Shark Fin is taken from the Great White One on Whakapanu Island.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_medicine",
+          "locator": "Infobox (act 4, optional, start 'Picking up Shark Fin', completion 'Deliver the Shark Fin to Kaimana'); lead; Rewards (Kaom's Lesson / Rakiata's Lesson, 'cannot be changed'); quest logs '===Speak to Kaimana===' "
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_tribal_medicine",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_tribal_medicine",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_medicine",
+          "locator": "Infobox (act 4, optional, start 'Picking up Shark Fin', completion 'Deliver the Shark Fin to Kaimana'); lead; Rewards (Kaom's Lesson / Rakiata's Lesson, 'cannot be changed'); quest logs '===Speak to Kaimana===' "
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_tribal_medicine__part_of__act_poe2_act4",
+      "source": "event_poe2_tribal_medicine",
+      "target": "act_poe2_act4",
+      "relation": "part_of",
+      "description": "Optional quest in the Act 4 quest list.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tribal_medicine",
+          "locator": "Infobox (act 4, optional, start 'Picking up Shark Fin', completion 'Deliver the Shark Fin to Kaimana'); lead; Rewards (Kaom's Lesson / Rakiata's Lesson, 'cannot be changed'); quest logs '===Speak to Kaimana===' "
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_tasalios_test__part_of__event_poe2_trial_of_the_ancestors",
+      "source": "event_poe2_tasalios_test",
+      "target": "event_poe2_trial_of_the_ancestors",
+      "relation": "part_of",
+      "description": "Listed as a sub-quest of Trial of the Ancestors in the Act 4 quest list (Quest page).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 4 list: 'Trial of the Ancestors (Quest)' with sub-items Tawhoa's Test, Tasalio's Test, Ngamahu's Test"
+        },
+        {
+          "source_id": "src_poe2wiki_trial_of_the_ancestors_quest_",
+          "locator": "Lead: 'Tests of Mettle' in the Halls of the Dead"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_tasalios_test__associated_with__deity_tasalio",
+      "source": "event_poe2_tasalios_test",
+      "target": "deity_tasalio",
+      "relation": "associated_with",
+      "description": "The test is one of the Karui tests honouring Tasalio.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tasalio_s_test",
+          "locator": "Infobox (act 4, optional, start 'Enter Tasalio's Test in Halls of the Dead'); lead ('one of the three additional Tests of Mettle'); Rewards: 'Intelligence Tattoo of Tasalio (+5 Intelligence) or Cold Tattoo of Tasalio (+5% Cold Resistance)'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_tasalios_test__occurs_in__loc_halls_of_the_dead",
+      "source": "event_poe2_tasalios_test",
+      "target": "loc_halls_of_the_dead",
+      "relation": "occurs_in",
+      "description": "Started from the Hinekora Totem in the Halls of the Dead.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tasalio_s_test",
+          "locator": "Infobox (act 4, optional, start 'Enter Tasalio's Test in Halls of the Dead'); lead ('one of the three additional Tests of Mettle'); Rewards: 'Intelligence Tattoo of Tasalio (+5 Intelligence) or Cold Tattoo of Tasalio (+5% Cold Resistance)'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_tasalios_test",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_tasalios_test",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tasalio_s_test",
+          "locator": "Infobox (act 4, optional, start 'Enter Tasalio's Test in Halls of the Dead'); lead ('one of the three additional Tests of Mettle'); Rewards: 'Intelligence Tattoo of Tasalio (+5 Intelligence) or Cold Tattoo of Tasalio (+5% Cold Resistance)'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_tawhoas_test__part_of__event_poe2_trial_of_the_ancestors",
+      "source": "event_poe2_tawhoas_test",
+      "target": "event_poe2_trial_of_the_ancestors",
+      "relation": "part_of",
+      "description": "Listed as a sub-quest of Trial of the Ancestors in the Act 4 quest list (Quest page).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 4 list: 'Trial of the Ancestors (Quest)' with sub-items Tawhoa's Test, Tasalio's Test, Ngamahu's Test"
+        },
+        {
+          "source_id": "src_poe2wiki_trial_of_the_ancestors_quest_",
+          "locator": "Lead: 'Tests of Mettle' in the Halls of the Dead"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_tawhoas_test__associated_with__deity_tawhoa",
+      "source": "event_poe2_tawhoas_test",
+      "target": "deity_tawhoa",
+      "relation": "associated_with",
+      "description": "The test is one of the Karui tests honouring Tawhoa.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tawhoa_s_test",
+          "locator": "Infobox (act 4, optional, start 'Enter Tawhoa's Test in Halls of the Dead'); lead ('one of the three additional Tests of Mettle'); Rewards: 'Dexterity Tattoo of Tawhoa (+5 Dexterity) or Lightning Tattoo of Tawhoa (+5% Lightning Resistance)'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_tawhoas_test__occurs_in__loc_halls_of_the_dead",
+      "source": "event_poe2_tawhoas_test",
+      "target": "loc_halls_of_the_dead",
+      "relation": "occurs_in",
+      "description": "Started from the Hinekora Totem in the Halls of the Dead.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tawhoa_s_test",
+          "locator": "Infobox (act 4, optional, start 'Enter Tawhoa's Test in Halls of the Dead'); lead ('one of the three additional Tests of Mettle'); Rewards: 'Dexterity Tattoo of Tawhoa (+5 Dexterity) or Lightning Tattoo of Tawhoa (+5% Lightning Resistance)'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_tawhoas_test",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_tawhoas_test",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tawhoa_s_test",
+          "locator": "Infobox (act 4, optional, start 'Enter Tawhoa's Test in Halls of the Dead'); lead ('one of the three additional Tests of Mettle'); Rewards: 'Dexterity Tattoo of Tawhoa (+5 Dexterity) or Lightning Tattoo of Tawhoa (+5% Lightning Resistance)'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_ngamahus_test__part_of__event_poe2_trial_of_the_ancestors",
+      "source": "event_poe2_ngamahus_test",
+      "target": "event_poe2_trial_of_the_ancestors",
+      "relation": "part_of",
+      "description": "Listed as a sub-quest of Trial of the Ancestors in the Act 4 quest list (Quest page).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 4 list: 'Trial of the Ancestors (Quest)' with sub-items Tawhoa's Test, Tasalio's Test, Ngamahu's Test"
+        },
+        {
+          "source_id": "src_poe2wiki_trial_of_the_ancestors_quest_",
+          "locator": "Lead: 'Tests of Mettle' in the Halls of the Dead"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_ngamahus_test__associated_with__deity_ngamahu",
+      "source": "event_poe2_ngamahus_test",
+      "target": "deity_ngamahu",
+      "relation": "associated_with",
+      "description": "The test is one of the Karui tests honouring Ngamahu.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ngamahu_s_test",
+          "locator": "Infobox (act 4, optional, start 'Enter Ngamahu's Test in Halls of the Dead'); lead ('one of the three additional Tests of Mettle'); Rewards: 'Strength Tattoo of Ngamahu (+5 Strength) or Fire Tattoo of Ngamahu (+5% Fire Resistance)'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_ngamahus_test__occurs_in__loc_halls_of_the_dead",
+      "source": "event_poe2_ngamahus_test",
+      "target": "loc_halls_of_the_dead",
+      "relation": "occurs_in",
+      "description": "Started from the Hinekora Totem in the Halls of the Dead.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ngamahu_s_test",
+          "locator": "Infobox (act 4, optional, start 'Enter Ngamahu's Test in Halls of the Dead'); lead ('one of the three additional Tests of Mettle'); Rewards: 'Strength Tattoo of Ngamahu (+5 Strength) or Fire Tattoo of Ngamahu (+5% Fire Resistance)'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_ngamahus_test",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_ngamahus_test",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ngamahu_s_test",
+          "locator": "Infobox (act 4, optional, start 'Enter Ngamahu's Test in Halls of the Dead'); lead ('one of the three additional Tests of Mettle'); Rewards: 'Strength Tattoo of Ngamahu (+5 Strength) or Fire Tattoo of Ngamahu (+5% Fire Resistance)'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_clearing_the_way__occurs_in__loc_khari_crossing",
+      "source": "event_poe2_clearing_the_way",
+      "target": "loc_khari_crossing",
+      "relation": "occurs_in",
+      "description": "The boss fights happen at the far end of the Khari Crossing.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_clearing_the_way",
+          "locator": "Infobox (optional, act 'interlude', start 'Speak to Risu at the Khari Bazaar', objective 'Defeat Akthi, the Final Sting and Anundr, the Sandworm'); quest log '===Defeat Akthi and Anundr===' and '===Quest Complete==='; Quest.wiki Interludes list"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_clearing_the_way__occurs_in__loc_khari_bazaar",
+      "source": "event_poe2_clearing_the_way",
+      "target": "loc_khari_bazaar",
+      "relation": "occurs_in",
+      "description": "Quest is started and turned in at the Khari Bazaar.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_clearing_the_way",
+          "locator": "Infobox (optional, act 'interlude', start 'Speak to Risu at the Khari Bazaar', objective 'Defeat Akthi, the Final Sting and Anundr, the Sandworm'); quest log '===Defeat Akthi and Anundr===' and '===Quest Complete==='; Quest.wiki Interludes list"
+        }
+      ]
+    },
+    {
+      "id": "e_char_risu__guides__char_exile_poe2",
+      "source": "char_risu",
+      "target": "char_exile_poe2",
+      "relation": "guides",
+      "description": "Risu asks the Exile to open the way for the akharas.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_clearing_the_way",
+          "locator": "Infobox (optional, act 'interlude', start 'Speak to Risu at the Khari Bazaar', objective 'Defeat Akthi, the Final Sting and Anundr, the Sandworm'); quest log '===Defeat Akthi and Anundr===' and '===Quest Complete==='; Quest.wiki Interludes list"
+        }
+      ]
+    },
+    {
+      "id": "e_char_risu__participates_in__event_poe2_clearing_the_way",
+      "source": "char_risu",
+      "target": "event_poe2_clearing_the_way",
+      "relation": "participates_in",
+      "description": "Risu gives the quest and hands over the Book of Specialisation reward.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_clearing_the_way",
+          "locator": "Infobox (optional, act 'interlude', start 'Speak to Risu at the Khari Bazaar', objective 'Defeat Akthi, the Final Sting and Anundr, the Sandworm'); quest log '===Defeat Akthi and Anundr===' and '===Quest Complete==='; Quest.wiki Interludes list"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__defeats__char_akthi_the_final_sting",
+      "source": "char_exile_poe2",
+      "target": "char_akthi_the_final_sting",
+      "relation": "defeats",
+      "description": "The Exile defeats Akthi in the Clearing the Way quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_clearing_the_way",
+          "locator": "Infobox (optional, act 'interlude', start 'Speak to Risu at the Khari Bazaar', objective 'Defeat Akthi, the Final Sting and Anundr, the Sandworm'); quest log '===Defeat Akthi and Anundr===' and '===Quest Complete==='; Quest.wiki Interludes list"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__defeats__char_anundr_the_sandworm",
+      "source": "char_exile_poe2",
+      "target": "char_anundr_the_sandworm",
+      "relation": "defeats",
+      "description": "The Exile defeats Anundr in the Clearing the Way quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_clearing_the_way",
+          "locator": "Infobox (optional, act 'interlude', start 'Speak to Risu at the Khari Bazaar', objective 'Defeat Akthi, the Final Sting and Anundr, the Sandworm'); quest log '===Defeat Akthi and Anundr===' and '===Quest Complete==='; Quest.wiki Interludes list"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_clearing_the_way",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_clearing_the_way",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this optional quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_clearing_the_way",
+          "locator": "Infobox (optional, act 'interlude', start 'Speak to Risu at the Khari Bazaar', objective 'Defeat Akthi, the Final Sting and Anundr, the Sandworm'); quest log '===Defeat Akthi and Anundr===' and '===Quest Complete==='; Quest.wiki Interludes list"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_clearing_the_way__part_of__act_poe2_interlude2",
+      "source": "event_poe2_clearing_the_way",
+      "target": "act_poe2_interlude2",
+      "relation": "part_of",
+      "description": "Optional quest in the Interlude 2 quest list.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_clearing_the_way",
+          "locator": "Infobox (optional, act 'interlude', start 'Speak to Risu at the Khari Bazaar', objective 'Defeat Akthi, the Final Sting and Anundr, the Sandworm'); quest log '===Defeat Akthi and Anundr===' and '===Quest Complete==='; Quest.wiki Interludes list"
+        }
+      ]
+    },
+    {
+      "id": "e_char_hilda__participates_in__event_poe2_hildas_hunting",
+      "source": "char_hilda",
+      "target": "event_poe2_hildas_hunting",
+      "relation": "participates_in",
+      "description": "Hilda is the quest's central character.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_hilda_s_hunting_quest_",
+          "locator": "Infobox (required: Yes, act 'epilogue', start 'Reach Hilda's Campsite'); quest log '===Defeat the first Great Beast===' and '===Speak to Hilda===' entries (stub page)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_hildas_hunting",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_hildas_hunting",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this required epilogue quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_hilda_s_hunting_quest_",
+          "locator": "Infobox (required: Yes, act 'epilogue', start 'Reach Hilda's Campsite'); quest log '===Defeat the first Great Beast===' and '===Speak to Hilda===' entries (stub page)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_hildas_hunting__part_of__act_poe2_epilogue",
+      "source": "event_poe2_hildas_hunting",
+      "target": "act_poe2_epilogue",
+      "relation": "part_of",
+      "description": "Epilogue endgame quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_hilda_s_hunting_quest_",
+          "locator": "Infobox (required: Yes, act 'epilogue', start 'Reach Hilda's Campsite'); quest log '===Defeat the first Great Beast===' and '===Speak to Hilda===' entries (stub page)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_burning_monolith__leads_to__event_poe2_vaal_incursion",
+      "source": "event_poe2_burning_monolith",
+      "target": "event_poe2_vaal_incursion",
+      "relation": "leads_to",
+      "description": "The quest is started by investigating the Burning Monolith.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_vaal_incursion",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss Doryani, Royal Thaumaturge); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_vaal_incursion__occurs_in__loc_the_burning_monolith",
+      "source": "event_poe2_vaal_incursion",
+      "target": "loc_the_burning_monolith",
+      "relation": "occurs_in",
+      "description": "The quest starts at The Burning Monolith.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_vaal_incursion",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss Doryani, Royal Thaumaturge); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_doryani__participates_in__event_poe2_vaal_incursion",
+      "source": "char_doryani",
+      "target": "event_poe2_vaal_incursion",
+      "relation": "participates_in",
+      "description": "Doryani is the quest's boss.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_vaal_incursion",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss Doryani, Royal Thaumaturge); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_vaal_incursion",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_vaal_incursion",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this required epilogue quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_vaal_incursion",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss Doryani, Royal Thaumaturge); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_burning_monolith__leads_to__event_poe2_faridun_foray",
+      "source": "event_poe2_burning_monolith",
+      "target": "event_poe2_faridun_foray",
+      "relation": "leads_to",
+      "description": "The quest is started by investigating the Burning Monolith.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_faridun_foray",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss Count Geonor); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_faridun_foray__occurs_in__loc_the_burning_monolith",
+      "source": "event_poe2_faridun_foray",
+      "target": "loc_the_burning_monolith",
+      "relation": "occurs_in",
+      "description": "The quest starts at The Burning Monolith.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_faridun_foray",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss Count Geonor); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_count_geonor__participates_in__event_poe2_faridun_foray",
+      "source": "char_count_geonor",
+      "target": "event_poe2_faridun_foray",
+      "relation": "participates_in",
+      "description": "Count Geonor is the quest's boss.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_faridun_foray",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss Count Geonor); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_faridun_foray",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_faridun_foray",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this required epilogue quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_faridun_foray",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss Count Geonor); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_burning_monolith__leads_to__event_poe2_ezomyte_infiltration",
+      "source": "event_poe2_burning_monolith",
+      "target": "event_poe2_ezomyte_infiltration",
+      "relation": "leads_to",
+      "description": "The quest is started by investigating the Burning Monolith.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ezomyte_infiltration",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss The Perennial King); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_ezomyte_infiltration__occurs_in__loc_the_burning_monolith",
+      "source": "event_poe2_ezomyte_infiltration",
+      "target": "loc_the_burning_monolith",
+      "relation": "occurs_in",
+      "description": "The quest starts at The Burning Monolith.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ezomyte_infiltration",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss The Perennial King); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_the_perennial_king__participates_in__event_poe2_ezomyte_infiltration",
+      "source": "char_the_perennial_king",
+      "target": "event_poe2_ezomyte_infiltration",
+      "relation": "participates_in",
+      "description": "The Perennial King is the quest's boss.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ezomyte_infiltration",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss The Perennial King); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_ezomyte_infiltration",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_ezomyte_infiltration",
+      "relation": "participates_in",
+      "description": "The Exile (player character) takes part in this required epilogue quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ezomyte_infiltration",
+          "locator": "Infobox (act 'Epilogue', start 'Investigate The Burning Monolith', boss The Perennial King); '{{Historical content}}' and 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_infiltrating_oriath__part_of__act_poe2_act5",
+      "source": "event_poe2_a5_infiltrating_oriath",
+      "target": "act_poe2_act5",
+      "relation": "part_of",
+      "description": "Quest in the PoE2DB datamine of Act 5 (unreleased).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Infiltrating Oriath' row (Normal; reward none listed)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_a5_infiltrating_oriath",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_a5_infiltrating_oriath",
+      "relation": "participates_in",
+      "description": "The Exile would play this Act 5 quest (datamined).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Infiltrating Oriath' row (Normal; reward none listed)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_infiltrating_oriath__occurs_in__loc_oriath",
+      "source": "event_poe2_a5_infiltrating_oriath",
+      "target": "loc_oriath",
+      "relation": "occurs_in",
+      "description": "Act 5 is set in Oriath (wiki Act 5 intro).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_act_5",
+          "locator": "Lead: 'taking place in the city of Oriath'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_pinned_down__part_of__act_poe2_act5",
+      "source": "event_poe2_a5_pinned_down",
+      "target": "act_poe2_act5",
+      "relation": "part_of",
+      "description": "Quest in the PoE2DB datamine of Act 5 (unreleased).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Pinned Down' row (Normal; reward Reefsteel Greaves)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_a5_pinned_down",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_a5_pinned_down",
+      "relation": "participates_in",
+      "description": "The Exile would play this Act 5 quest (datamined).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Pinned Down' row (Normal; reward Reefsteel Greaves)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_pinned_down__occurs_in__loc_oriath",
+      "source": "event_poe2_a5_pinned_down",
+      "target": "loc_oriath",
+      "relation": "occurs_in",
+      "description": "Act 5 is set in Oriath (wiki Act 5 intro).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_act_5",
+          "locator": "Lead: 'taking place in the city of Oriath'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_pleasure_and_pain__part_of__act_poe2_act5",
+      "source": "event_poe2_a5_pleasure_and_pain",
+      "target": "act_poe2_act5",
+      "relation": "part_of",
+      "description": "Quest in the PoE2DB datamine of Act 5 (unreleased).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Pleasure and Pain' row (Normal; reward Rogue's Marker x5)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_a5_pleasure_and_pain",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_a5_pleasure_and_pain",
+      "relation": "participates_in",
+      "description": "The Exile would play this Act 5 quest (datamined).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Pleasure and Pain' row (Normal; reward Rogue's Marker x5)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_pleasure_and_pain__occurs_in__loc_oriath",
+      "source": "event_poe2_a5_pleasure_and_pain",
+      "target": "loc_oriath",
+      "relation": "occurs_in",
+      "description": "Act 5 is set in Oriath (wiki Act 5 intro).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_act_5",
+          "locator": "Lead: 'taking place in the city of Oriath'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_no_rest_for_the_blighted__part_of__act_poe2_act5",
+      "source": "event_poe2_a5_no_rest_for_the_blighted",
+      "target": "act_poe2_act5",
+      "relation": "part_of",
+      "description": "Quest in the PoE2DB datamine of Act 5 (unreleased).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'No Rest for the Blighted' row (Normal; reward [DNT-UNUSED] Blighted Core Bomb)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_a5_no_rest_for_the_blighted",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_a5_no_rest_for_the_blighted",
+      "relation": "participates_in",
+      "description": "The Exile would play this Act 5 quest (datamined).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'No Rest for the Blighted' row (Normal; reward [DNT-UNUSED] Blighted Core Bomb)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_no_rest_for_the_blighted__occurs_in__loc_oriath",
+      "source": "event_poe2_a5_no_rest_for_the_blighted",
+      "target": "loc_oriath",
+      "relation": "occurs_in",
+      "description": "Act 5 is set in Oriath (wiki Act 5 intro).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_act_5",
+          "locator": "Lead: 'taking place in the city of Oriath'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_plumbing_the_depths__part_of__act_poe2_act5",
+      "source": "event_poe2_a5_plumbing_the_depths",
+      "target": "act_poe2_act5",
+      "relation": "part_of",
+      "description": "Quest in the PoE2DB datamine of Act 5 (unreleased).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Plumbing the Depths' row (Optional; reward Scroll of Wisdom)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_a5_plumbing_the_depths",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_a5_plumbing_the_depths",
+      "relation": "participates_in",
+      "description": "The Exile would play this Act 5 quest (datamined).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Plumbing the Depths' row (Optional; reward Scroll of Wisdom)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_plumbing_the_depths__occurs_in__loc_oriath",
+      "source": "event_poe2_a5_plumbing_the_depths",
+      "target": "loc_oriath",
+      "relation": "occurs_in",
+      "description": "Act 5 is set in Oriath (wiki Act 5 intro).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_act_5",
+          "locator": "Lead: 'taking place in the city of Oriath'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_trarthan_gladiator__part_of__act_poe2_act5",
+      "source": "event_poe2_a5_trarthan_gladiator",
+      "target": "act_poe2_act5",
+      "relation": "part_of",
+      "description": "Quest in the PoE2DB datamine of Act 5 (unreleased).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Trarthan Gladiator' row (Optional; reward Detailed Mitts)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_a5_trarthan_gladiator",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_a5_trarthan_gladiator",
+      "relation": "participates_in",
+      "description": "The Exile would play this Act 5 quest (datamined).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'Trarthan Gladiator' row (Optional; reward Detailed Mitts)"
+        },
+        {
+          "source_id": "src_poe2wiki_quest",
+          "locator": "Act 5 section: '(planned for full release)' (wiki lists no Act 5 quests)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_trarthan_gladiator__occurs_in__loc_oriath",
+      "source": "event_poe2_a5_trarthan_gladiator",
+      "target": "loc_oriath",
+      "relation": "occurs_in",
+      "description": "Act 5 is set in Oriath (wiki Act 5 intro).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_act_5",
+          "locator": "Lead: 'taking place in the city of Oriath'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_oriath_assault__precedes__event_poe2_a5_infiltrating_oriath",
+      "source": "event_poe2_a5_oriath_assault",
+      "target": "event_poe2_a5_infiltrating_oriath",
+      "relation": "precedes",
+      "description": "Datamined Act 5 table order: the 'The Siege of Oriath' row precedes Infiltrating Oriath (table order only, low confidence; the row is taken to be event_poe2_a5_oriath_assault).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table order (The Siege of Oriath, then Infiltrating Oriath)"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_infiltrating_oriath__precedes__event_poe2_a5_pinned_down",
+      "source": "event_poe2_a5_infiltrating_oriath",
+      "target": "event_poe2_a5_pinned_down",
+      "relation": "precedes",
+      "description": "Datamined table order (low confidence).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table order"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_pinned_down__precedes__event_poe2_a5_pleasure_and_pain",
+      "source": "event_poe2_a5_pinned_down",
+      "target": "event_poe2_a5_pleasure_and_pain",
+      "relation": "precedes",
+      "description": "Datamined table order (low confidence).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table order"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a5_pleasure_and_pain__precedes__event_poe2_a5_no_rest_for_the_blighted",
+      "source": "event_poe2_a5_pleasure_and_pain",
+      "target": "event_poe2_a5_no_rest_for_the_blighted",
+      "relation": "precedes",
+      "description": "Datamined table order (low confidence).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table order"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_a5_oriath_assault",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_a5_oriath_assault",
+      "relation": "participates_in",
+      "description": "The Exile arrives in Oriath at the start of the planned Act 5 (wiki Act 5 intro). PoE2DB lists 'The Siege of Oriath' in its Act 5 quest table, but the wiki's Siege of Oriath page files that quest under Act 4; the link is low confidence.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act5",
+          "locator": "Act 5 Quest table: 'The Siege of Oriath' row, 'Find a safe place to operate from...'"
+        },
+        {
+          "source_id": "src_poe2wiki_act_5",
+          "locator": "Lead: 'The player arrives in search of the beast.'"
+        },
+        {
+          "source_id": "src_poe2wiki_siege_of_oriath",
+          "locator": "Infobox (required: Yes, act 4, start 'Complete all three Interludes', completion 'End up at the Ziggurat Refuge')"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a6_shadow_over_ogham__part_of__act_poe2_act6",
+      "source": "event_poe2_a6_shadow_over_ogham",
+      "target": "act_poe2_act6",
+      "relation": "part_of",
+      "description": "Datamined Act 6 optional quest (unreleased).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act6",
+          "locator": "Act 6 Quest table (poe2db 'Act 6 Quest /8'): 'Shadow Over Ogham' row ('Optional'; objective 'Complete Rituals in these areas:{0}')"
+        },
+        {
+          "source_id": "src_poe2wiki_act_6",
+          "locator": "Lead: 'Act Six is Path of Exile 2's sixth and final storyline act'; Progression section empty"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_a6_shadow_over_ogham",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_a6_shadow_over_ogham",
+      "relation": "participates_in",
+      "description": "The Exile would play this datamined Act 6 quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act6",
+          "locator": "Act 6 Quest table (poe2db 'Act 6 Quest /8'): 'Shadow Over Ogham' row ('Optional'; objective 'Complete Rituals in these areas:{0}')"
+        },
+        {
+          "source_id": "src_poe2wiki_act_6",
+          "locator": "Lead: 'Act Six is Path of Exile 2's sixth and final storyline act'; Progression section empty"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a6_sands_of_ruin__part_of__act_poe2_act6",
+      "source": "event_poe2_a6_sands_of_ruin",
+      "target": "act_poe2_act6",
+      "relation": "part_of",
+      "description": "Datamined Act 6 optional quest (unreleased).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act6",
+          "locator": "Act 6 Quest table (poe2db 'Act 6 Quest /8'): 'Sands of Ruin' row ('Optional'; objective 'Complete Rituals in these areas:{0}')"
+        },
+        {
+          "source_id": "src_poe2wiki_act_6",
+          "locator": "Lead: 'Act Six is Path of Exile 2's sixth and final storyline act'; Progression section empty"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_a6_sands_of_ruin",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_a6_sands_of_ruin",
+      "relation": "participates_in",
+      "description": "The Exile would play this datamined Act 6 quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act6",
+          "locator": "Act 6 Quest table (poe2db 'Act 6 Quest /8'): 'Sands of Ruin' row ('Optional'; objective 'Complete Rituals in these areas:{0}')"
+        },
+        {
+          "source_id": "src_poe2wiki_act_6",
+          "locator": "Lead: 'Act Six is Path of Exile 2's sixth and final storyline act'; Progression section empty"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a6_death_in_the_ranges__part_of__act_poe2_act6",
+      "source": "event_poe2_a6_death_in_the_ranges",
+      "target": "act_poe2_act6",
+      "relation": "part_of",
+      "description": "Datamined Act 6 optional quest (unreleased).",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act6",
+          "locator": "Act 6 Quest table (poe2db 'Act 6 Quest /8'): 'Death in the Ranges' row ('Optional'; objective 'Complete Rituals in these areas:{0}')"
+        },
+        {
+          "source_id": "src_poe2wiki_act_6",
+          "locator": "Lead: 'Act Six is Path of Exile 2's sixth and final storyline act'; Progression section empty"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe2__participates_in__event_poe2_a6_death_in_the_ranges",
+      "source": "char_exile_poe2",
+      "target": "event_poe2_a6_death_in_the_ranges",
+      "relation": "participates_in",
+      "description": "The Exile would play this datamined Act 6 quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_web_poe2db_act6",
+          "locator": "Act 6 Quest table (poe2db 'Act 6 Quest /8'): 'Death in the Ranges' row ('Optional'; objective 'Complete Rituals in these areas:{0}')"
+        },
+        {
+          "source_id": "src_poe2wiki_act_6",
+          "locator": "Lead: 'Act Six is Path of Exile 2's sixth and final storyline act'; Progression section empty"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe2_a4_trial_of_ancestors__same_entity_as__event_poe2_trial_of_the_ancestors",
+      "source": "event_poe2_a4_trial_of_ancestors",
+      "target": "event_poe2_trial_of_the_ancestors",
+      "relation": "same_entity_as",
+      "description": "Duplicate of the PoE2 Act 4 quest 'Trial of the Ancestors' (same Matiki rescue, Hinekora reward, Halls of the Dead). Canonical id proposed: event_poe2_trial_of_the_ancestors; merge step to fold event_poe2_a4_trial_of_ancestors into it.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_trial_of_the_ancestors_quest_",
+          "locator": "Infobox and Rewards (Eye of Hinekora unlock; Tattoo of Hinekora)"
+        },
+        {
+          "source_id": "src_poe2wiki_trial_of_the_ancestors_quest",
+          "locator": "Walkthrough: 'Meet up with Matiki' to 'The Invitation'"
+        }
+      ]
+    }
+  ]
+}

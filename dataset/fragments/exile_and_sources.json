@@ -1,0 +1,3918 @@
+{
+ "domain": "exile_and_sources",
+ "sources": [
+  {
+   "id": "src_poewiki_history_of_wraeclast",
+   "title": "History of Wraeclast - PoE Wiki",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary",
+   "url": "https://www.poewiki.net/wiki/History_of_Wraeclast"
+  },
+  {
+   "id": "src_poewiki_order_of_the_templar",
+   "title": "Order of the Templar - PoE Wiki",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary",
+   "url": "https://www.poewiki.net/wiki/Order_of_the_Templar"
+  },
+  {
+   "id": "src_poewiki_letters_of_exile",
+   "title": "Letters of Exile - PoE Wiki",
+   "type": "in_game_text",
+   "author_or_channel": "in-game environmental lore (quoted by wiki)",
+   "accessed": "2026-11-05",
+   "reliability": "primary",
+   "url": "https://www.poewiki.net/wiki/Letters_of_Exile"
+  },
+  {
+   "id": "src_poewiki_the_lords_labyrinth_quest",
+   "title": "The Lord's Labyrinth (quest) - PoE Wiki",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary",
+   "url": "https://www.poewiki.net/wiki/The_Lord%27s_Labyrinth_(quest)"
+  },
+  {
+   "id": "src_poewiki_chaos_lore",
+   "title": "Chaos (lore) - PoE Wiki",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary",
+   "url": "https://www.poewiki.net/wiki/Chaos_(lore)"
+  },
+  {
+   "id": "src_poewiki_return_to_oriath",
+   "title": "Return to Oriath - PoE Wiki",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary",
+   "url": "https://www.poewiki.net/wiki/Return_to_Oriath"
+  },
+  {
+   "id": "src_poe2wiki_lore",
+   "title": "Lore - PoE2 Wiki",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary",
+   "url": "https://www.poe2wiki.net/wiki/Lore"
+  },
+  {
+   "id": "src_poe2wiki_ascension_trials",
+   "title": "Ascension Trials - PoE2 Wiki",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary",
+   "url": "https://www.poe2wiki.net/wiki/Ascension_Trials"
+  },
+  {
+   "id": "src_poe2wiki_trial_of_the_sekhemas",
+   "title": "Trial of the Sekhemas - PoE2 Wiki",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary",
+   "url": "https://www.poe2wiki.net/wiki/Trial_of_the_Sekhemas"
+  },
+  {
+   "id": "src_poe2wiki_the_trial_of_chaos",
+   "title": "The Trial of Chaos - PoE2 Wiki",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary",
+   "url": "https://www.poe2wiki.net/wiki/The_Trial_of_Chaos"
+  },
+  {
+   "id": "src_book_path_of_exile_origins",
+   "title": "Path of Exile: Origins (Dynamite Entertainment, 2015) - official comic",
+   "type": "book",
+   "author_or_channel": "Grinding Gear Games and Dynamite Entertainment; written by Edwin McRae and Royal McGraw, illustrated by Carlos Rodriguez (per PoE Wiki)",
+   "accessed": "2026-11-05",
+   "reliability": "primary",
+   "url": "https://www.pathofexile.com/forum/view-thread/965056"
+  },
+  {
+   "id": "src_book_the_lords_labyrinth_gamebook",
+   "title": "The Lord's Labyrinth Path of Exile Gamebook (GGG, 2019)",
+   "type": "book",
+   "author_or_channel": "Grinding Gear Games (post by Natalia_GGG, 28 Oct 2019); PoE Wiki reports it is generally not canon",
+   "accessed": "2026-11-05",
+   "reliability": "primary",
+   "url": "https://www.pathofexile.com/forum/view-thread/2671008"
+  }
+ ],
+ "nodes": [
+  {
+   "id": "era_primordial",
+   "name": "Primordial Wraeclast",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "Earliest prehistory: a molten world with Kalandra trapped in her lake, the Titans, the Winter of the World and the Lightless attack. The wiki says the order of prehistoric events is unclear.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "before the Vaal; earliest prehistory (exact years unknown)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Prehistory' and intro paragraphs 1-2"
+    }
+   ]
+  },
+  {
+   "id": "era_precursor",
+   "name": "Precursor Era",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "The Precursor civilization, the only culture that wholly predates the Winter of the World, with technology far beyond later peoples.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "precursor",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "predates the Winter of the World",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Precursor civilization'"
+    }
+   ]
+  },
+  {
+   "id": "era_azmeri_ezomyte_ancient",
+   "name": "Ancient Azmeri, Ezomyte, Maraketh and Karui Era",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "Post-Winter-of-the-World cultures (Azmeri, Maraketh, Ezomyte, Karui) and the Order of the Djinn that defeated the Lightless.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "after the Winter of the World, before the Vaal Empire",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro paragraph 2; sections 'The Azmeri', 'The Ezomytes', 'The Karui'"
+    }
+   ]
+  },
+  {
+   "id": "era_vaal",
+   "name": "Vaal Era",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "The Vaal Empire under Queen Atziri, the use of virtue gems and sacrifice, ending in the Vaal Cataclysm.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "before 1 IC (Imperial calendar start)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Vaal' and 'The Vaal Cataclysm'"
+    }
+   ]
+  },
+  {
+   "id": "era_post_vaal_dark_age",
+   "name": "Post-Vaal Dark Age",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "Ruins of the Vaal, the surviving Vaal absorbed into the Azmeri, and the Kalguur expedition that colonised and failed on Wraeclast.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "between the Vaal Cataclysm and 1 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Kalguur' (Expedition to Wraeclast)"
+    }
+   ]
+  },
+  {
+   "id": "era_eternal_empire_rise",
+   "name": "Eternal Empire Rise",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "From 1 IC: Tarcus Veruso leads the Azmeri into the lands left by the Vaal and founds Sarn and the Eternal Empire; the empire expands; the Night of a Thousand Ribbons (c. 334 IC) ends Romira's reign.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1 IC to c. 334 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Eternal Empire': 'Imperialis Conceptus (1 IC)', 'Reign of Tarcus Veruso', 'Night of a Thousand Ribbons'"
+    }
+   ]
+  },
+  {
+   "id": "era_eternal_empire_fall",
+   "name": "Eternal Empire Fall",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "The later Eternal Empire: Izaro's Lord's Labyrinth (1317 IC), Chitus and the gemling legions, the Purity Rebellion (1333-1334 IC) and the Cataclysm (c. 1339 IC) that ends the empire. Boundary with the 'rise' bucket is a convention.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "c. 334 IC to c. 1339 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "sections 'Reign of Izaro', 'The Purity Rebellion', 'The Cataclysm (~1339 IC)'"
+    }
+   ]
+  },
+  {
+   "id": "era_post_cataclysm",
+   "name": "Post-Cataclysm Oriath",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "Oriath, the island unaffected by the Cataclysm, becomes a Templar theocracy; the Templar Courts and Chamber of Innocence are built under High Templar Avarius. Roughly 260 years pass before PoE1.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "c. 1339 IC to 1599 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Oriath'"
+    },
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "era_poe1_campaign",
+   "name": "PoE1 Campaign (Acts 1-10)",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "The Exile's first story: sentenced to Wraeclast by High Templar Dominus in 1599-1600 IC, the Exile crosses Wraeclast, defeats Dominus, and ends by defeating Kitava in Act 10.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1599-1600 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Present'"
+    },
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "era_poe1_atlas",
+   "name": "PoE1 Atlas Storylines",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "Endgame Atlas storylines after the campaign: the Shaper and the Elder, and later the Conquerors of the Atlas. Dates are not given beyond the 'Day Zero' rule.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe1_atlas",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "after the PoE1 campaign",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Atlas of Worlds' and 'The Elder and the Shaper'"
+    }
+   ]
+  },
+  {
+   "id": "era_poe1_leagues",
+   "name": "PoE1 League Stories",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "League-specific storylines that the wiki's 'Day Zero' rule places alongside PoE1; the Exile wakes up in the sand of the Twilight Strand each league.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "run alongside PoE1 (no fixed date)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Atlas of Worlds' (Day Zero rule)"
+    }
+   ]
+  },
+  {
+   "id": "era_interlude_between_games",
+   "name": "Interlude Between Games",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "About 20 years between the defeat of Kitava and the PoE2 prelude: Count Geonor, Ogham, and the release of the Seed of Corruption.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "interlude_between_games",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "about 20 years after Kitava's defeat",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude / Count Geonor' ('twenty years after the defeat of Kitava')"
+    }
+   ]
+  },
+  {
+   "id": "era_poe2_campaign",
+   "name": "PoE2 Campaign",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "The PoE2 campaign: the Exile chases the Seed of Corruption across Wraeclast, starting in Ogham (Act 1).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 campaign, after the interlude",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Act 1' and 'Prelude'"
+    }
+   ]
+  },
+  {
+   "id": "era_poe2_endgame",
+   "name": "PoE2 Endgame",
+   "aliases": [],
+   "type": "era",
+   "subtype": "era bucket",
+   "summary": "PoE2 endgame storylines after the campaign. Not covered in detail in this domain.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "after the PoE2 campaign",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Notes' (endgame sections not covered by this domain)"
+    }
+   ]
+  },
+  {
+   "id": "concept_exile",
+   "name": "Exile (exile system)",
+   "aliases": [
+    "Exiled to Wraeclast"
+   ],
+   "type": "concept",
+   "subtype": "exile_practice",
+   "summary": "The exile system: criminals of Oriath are sentenced by the Templar government and shipped to Wraeclast. The sentence text reads 'You are hereby Exiled to Wraeclast where, it is hoped, you shall come to repent your Sins'. The player's character is one of these exiles. Precedent exists: under Tyndarus Phrecius, people were exiled to the land later called Trarthus. The wiki gives no single in-world reason for choosing Wraeclast.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1599-1600 IC (PoE1); Trarthus precedent c. 870 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_letters_of_exile",
+     "locator": "section 'Format' (sentence template); exile entries 1597-1599 IC"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Present'; section 'Reign of Tyndarus Phrecius' (Trarthus exile)"
+    }
+   ]
+  },
+  {
+   "id": "concept_exile_journey",
+   "name": "Exile's Journey (Day Zero rule)",
+   "aliases": [],
+   "type": "concept",
+   "subtype": "narrative_structure",
+   "summary": "The wiki's 'Day Zero' rule: each league's narrative starts with the Exile face-down in the sand of the Twilight Strand, having just been exiled by Dominus, so league stories cannot build on earlier leagues' events.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE1 leagues (Day Zero)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Atlas of Worlds' (Day Zero rule)"
+    }
+   ]
+  },
+  {
+   "id": "concept_ascendancy",
+   "name": "Ascendancy",
+   "aliases": [],
+   "type": "concept",
+   "subtype": "class_system",
+   "summary": "Ascendancy classes unlock through trials. In PoE1 the Lord's Labyrinth quest leads to the Trials of Ascendancy; in PoE2 the Ascension Trials (Sekhemas, Chaos) grant ascendancy points.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "labyrinth",
+    "trial_of_chaos",
+    "trial_of_sekhemas"
+   ],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE1 campaign and PoE2 campaign",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lords_labyrinth_quest",
+     "locator": "infobox: objective 'Finish the Trials of Ascendancy to access ... Labyrinth'"
+    },
+    {
+     "source_id": "src_poe2wiki_ascension_trials",
+     "locator": "section 'Ascension requirements'"
+    }
+   ]
+  },
+  {
+   "id": "concept_ascension_trials",
+   "name": "Ascension Trials",
+   "aliases": [],
+   "type": "concept",
+   "subtype": "trial_system",
+   "summary": "PoE2's three-trial system (Sekhemas, Chaos, and a planned third) that gates ascendancy. Each trial is tied to a Wraeclastian culture. Four tiers of trials give 2 ascendancy points each for 8 total.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "trial_of_chaos",
+    "trial_of_sekhemas"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 campaign (Acts 2-3 onwards)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_ascension_trials",
+     "locator": "section 'Ascension requirements'"
+    }
+   ]
+  },
+  {
+   "id": "concept_trial_of_the_sekhemas",
+   "name": "Trial of the Sekhemas",
+   "aliases": [
+    "Sekhemas Trial"
+   ],
+   "type": "concept",
+   "subtype": "ascension_trial",
+   "summary": "A PoE2 Ascension Trial first accessible in Act 2 via the Djinn Barya key (or the quest item Balbala's Barya), a gauntlet of up to 4 floors with bosses including Rattlecage, Hadi and Rafiq, Ashar and Zarokh.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "trial_of_sekhemas"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 Act 2 onwards",
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_trial_of_the_sekhemas",
+     "locator": "section 'Access' and floor table"
+    }
+   ]
+  },
+  {
+   "id": "concept_trial_of_chaos",
+   "name": "Trial of Chaos",
+   "aliases": [],
+   "type": "concept",
+   "subtype": "ascension_trial",
+   "summary": "A PoE2 Ascension Trial first accessible in Act 3 at the Temple of Chaos via an Inscribed Ultimatum (or the quest item Chimeral Inscribed Ultimatum from Xyclucian). Based on the PoE1 Ultimatum league and overseen by the Trialmaster.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "trial_of_chaos"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 Act 3 onwards",
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trial_of_chaos",
+     "locator": "section 'Access'"
+    },
+    {
+     "source_id": "src_poewiki_chaos_lore",
+     "locator": "intro: 'The Trialmaster ... oversee the Trials of Chaos'"
+    }
+   ]
+  },
+  {
+   "id": "loc_lord_s_labyrinth",
+   "name": "The Lord's Labyrinth",
+   "aliases": [
+    "Lord's Labyrinth",
+    "Labyrinth"
+   ],
+   "type": "location",
+   "subtype": "trial_labyrinth",
+   "summary": "A labyrinth built by Emperor Izaro in 1317 IC as a test to choose his successor, opened on the second Galvano of Azmeri. Chitus won it by betraying Weylin, and later sealed Izaro inside. In PoE1 it is the Act 1 quest that leads to the Trials of Ascendancy.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1317 IC (Eternal Empire); PoE1 Act 1 quest",
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act1"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Reign of Izaro' and 'The Lord's Labyrinth'"
+    },
+    {
+     "source_id": "src_poewiki_the_lords_labyrinth_quest",
+     "locator": "infobox and summary"
+    }
+   ]
+  },
+  {
+   "id": "loc_wraeclast",
+   "name": "Wraeclast",
+   "aliases": [],
+   "type": "location",
+   "subtype": "continent",
+   "summary": "The continent where the Exile is sent. It was the site of the Precursor, Primeval, Vaal and Eternal Empire civilisations, and the Cataclysm's effects were mostly confined to its landmass.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "entire history",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro; section 'The Cataclysm (~1339 IC)'"
+    }
+   ]
+  },
+  {
+   "id": "loc_oriath",
+   "name": "Oriath",
+   "aliases": [],
+   "type": "location",
+   "subtype": "island",
+   "summary": "A small island off Wraeclast's south-east coast, founded by followers of Innocence. Unaffected by the Cataclysm, it became the successor of the Eternal Empire and a Templar theocracy.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "c. 1339 IC to 1599 IC; destroyed later (Conquerors of the Atlas)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Oriath'"
+    },
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "loc_twilight_strand",
+   "name": "The Twilight Strand",
+   "aliases": [],
+   "type": "location",
+   "subtype": "shore",
+   "summary": "The shore where each PoE1 league's Exile washes up after the Oriathan sentence, face-down in the sand.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1599-1600 IC",
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act1"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Present' and 'The Atlas of Worlds'"
+    }
+   ]
+  },
+  {
+   "id": "faction_templar",
+   "name": "Order of the Templar",
+   "aliases": [
+    "Templars",
+    "Templar Theocracy",
+    "Theocracy of Oriath"
+   ],
+   "type": "faction",
+   "subtype": "religious_order",
+   "summary": "A human faction led by a High Templar, governing the theocracy of Oriath in the name of Innocence. Its members include High Templars Dominus, Voll and Avarius.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1339 IC onwards",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "intro and section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "faction_eternal_empire",
+   "name": "Eternal Empire",
+   "aliases": [
+    "Sarn Empire"
+   ],
+   "type": "faction",
+   "subtype": "empire",
+   "summary": "The Sarn-based Eternal Empire founded by Tarcus Veruso at 1 IC and ruled by Emperors from Sarn. The Cataclysm around 1339 IC ended it.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1 IC to c. 1339 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Eternal Empire'"
+    }
+   ]
+  },
+  {
+   "id": "char_exile_poe1",
+   "name": "The Exile (PoE1)",
+   "aliases": [
+    "Exile",
+    "PoE1 Exile"
+   ],
+   "type": "character",
+   "subtype": "protagonist",
+   "summary": "The player's character in PoE1: a convict sentenced to Wraeclast by High Templar Dominus in 1599-1600 IC. The character washes up on the Twilight Strand, escapes a Templar boat, and fights through Acts 1-10 (defeating Dominus in Act 3, Voll's remains in Act 4, High Templar Avarius and Innocence in Act 5, and Kitava in Act 10 with Sin) and the Atlas storylines.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1599-1600 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Present'"
+    },
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (exile escapes Templar boat; defeats Dominus, Avarius, Kitava)"
+    }
+   ]
+  },
+  {
+   "id": "char_exile_poe2",
+   "name": "The Exile (PoE2)",
+   "aliases": [
+    "Exile",
+    "PoE2 Exile"
+   ],
+   "type": "character",
+   "subtype": "protagonist",
+   "summary": "The PoE2 protagonist: an Exile in Ogham, sentenced to death by Count Geonor. After escaping the Executioner by jumping into the ocean, the Exile chases the Seed of Corruption released by Geonor across Wraeclast about 20 years after Kitava's death.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "about 20 years after Kitava's defeat (PoE2 campaign)",
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act1"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude' and 'Act 1'"
+    }
+   ]
+  },
+  {
+   "id": "char_class_templar",
+   "name": "Templar (class)",
+   "aliases": [
+    "Templar"
+   ],
+   "type": "character",
+   "subtype": "exile_class",
+   "summary": "The Templar class: a former member of the Order of the Templar who was exiled before the start of Act 1 and is a playable PoE1 class. The Exile's backstory as a Templar is given by the wiki only for this class.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "before Act 1",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "intro: 'The character class Templar is a former member of the Order prior to his exile before the start of Act 1'"
+    }
+   ]
+  },
+  {
+   "id": "char_dominus",
+   "name": "Dominus",
+   "aliases": [
+    "High Templar Dominus"
+   ],
+   "type": "character",
+   "subtype": "high_templar",
+   "summary": "High Templar who orders criminals of Oriath exiled to Wraeclast, including the Exile. The Exile kills him atop the Sceptre of God in Act 3.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1599-1600 IC",
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act3"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (Dominus exiles criminals; killed atop the Sceptre of God in Act 3)"
+    }
+   ]
+  },
+  {
+   "id": "char_voll",
+   "name": "High Templar Voll",
+   "aliases": [
+    "Emperor Voll"
+   ],
+   "type": "character",
+   "subtype": "high_templar",
+   "summary": "High Templar who leads the Purity Rebellion (1333-1334 IC) against Chitus and becomes Emperor of the Eternal Empire. His reanimated remains in the Dried Lake are fought in Act 4.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1333-1339 IC",
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Purity Rebellion' and 'Reign of Voll'"
+    },
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "char_chitus",
+   "name": "Emperor Chitus",
+   "aliases": [
+    "Chitus Perandus"
+   ],
+   "type": "character",
+   "subtype": "emperor",
+   "summary": "Chitus Perandus, crowned Emperor in 1319 IC. He wins the Lord's Labyrinth by betraying Weylin, then seals Izaro inside it. Overthrown by the Purity Rebellion.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1319-1334 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Reign of Chitus' and 'The Lord's Labyrinth'"
+    }
+   ]
+  },
+  {
+   "id": "char_izaro",
+   "name": "Emperor Izaro",
+   "aliases": [
+    "Izaro Phrecius"
+   ],
+   "type": "character",
+   "subtype": "emperor",
+   "summary": "The last Phrecian emperor, impotent from inbreeding, who built the Lord's Labyrinth in 1317 IC to choose a successor. Sealed inside by Chitus. The Exile can still meet him as an enemy in the Labyrinth.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1317-1319 IC",
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act1"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Reign of Izaro'; section 'Reign of Chitus'"
+    },
+    {
+     "source_id": "src_poewiki_the_lords_labyrinth_quest",
+     "locator": "infobox boss=Izaro"
+    }
+   ]
+  },
+  {
+   "id": "char_victario",
+   "name": "Victario",
+   "aliases": [
+    "Victario Nevalius",
+    "Victario"
+   ],
+   "type": "character",
+   "subtype": "poet",
+   "summary": "A Sarn poet and art critic who joined the Purity Rebellion, created the Ancient Graffiti in Sarn, and led the uprisings in the Slums and Docks. At the Night of a Thousand Ribbons ambush he shouted 'Death to Sin!'. Central figure of the comic Path of Exile: Origins.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1332-1334 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "sections 'The Purity Rebellion', 'Battle at the Grain Gate', 'Assassination of Chitus'"
+    },
+    {
+     "source_id": "src_book_path_of_exile_origins",
+     "locator": "issues #1-4 (narrative from Victario's perspective)"
+    }
+   ]
+  },
+  {
+   "id": "char_count_geonor",
+   "name": "Count Geonor",
+   "aliases": [],
+   "type": "character",
+   "subtype": "noble",
+   "summary": "Count of Ogham who captures the Hooded One about 20 years after Kitava's death and extracts the Seed of Corruption. He then sentences the Exile to hang for questioning him.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "interlude_between_games",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "about 20 years after Kitava's defeat",
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act1"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude / Count Geonor'"
+    }
+   ]
+  },
+  {
+   "id": "char_the_trialmaster",
+   "name": "The Trialmaster",
+   "aliases": [
+    "Trialmaster"
+   ],
+   "type": "character",
+   "subtype": "trial_master",
+   "summary": "The servant of Chaos who oversees the Trials of Chaos and tests challengers for Chaos's amusement. At least several thousand years old.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "ultimatum",
+    "trial_of_chaos"
+   ],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "several thousand years old (age unclear)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_chaos_lore",
+     "locator": "sections 'Chaos' and 'Trials'"
+    }
+   ]
+  },
+  {
+   "id": "deity_chaos",
+   "name": "Chaos",
+   "aliases": [
+    "Lord Chaos",
+    "Chaos (Impulse)"
+   ],
+   "type": "deity",
+   "subtype": "impulse",
+   "summary": "An Impulse, a beyond-godlike being and the flip of the coin, who can see multiple timelines and is the master of the Trialmaster. Worshipped by the Vaal. The Blood Crucible was a pact between Chaos and the Vaal High Priests.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Vaal era onwards",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_chaos_lore",
+     "locator": "intro and section 'Interactions with other characters'"
+    }
+   ]
+  },
+  {
+   "id": "deity_kitava",
+   "name": "Kitava",
+   "aliases": [
+    "Kitava, the Insatiable"
+   ],
+   "type": "deity",
+   "subtype": "primordial",
+   "summary": "The Karui god of destruction, who awakens after Innocence is defeated. Killed in Act 10 with Sin and a re-awakened Innocence, after Bannon's sacrifice.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "end of PoE1 campaign",
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act10"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (Kitava awakens; Act 10 defeat)"
+    }
+   ]
+  },
+  {
+   "id": "artifact_seed_of_corruption",
+   "name": "Seed of Corruption",
+   "aliases": [],
+   "type": "artifact",
+   "subtype": "relic",
+   "summary": "A metallic sphere that Count Geonor takes from the Hooded One. It opens and releases corruption across Wraeclast and the Atlas; the PoE2 Exile chases it.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "interlude_between_games",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "about 20 years after Kitava's defeat",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude'"
+    }
+   ]
+  },
+  {
+   "id": "text_path_of_exile_origins",
+   "name": "Path of Exile: Origins (comic)",
+   "aliases": [
+    "Origins comic"
+   ],
+   "type": "text",
+   "subtype": "official_comic",
+   "summary": "A four-issue official comic by Grinding Gear Games and Dynamite Entertainment, told from Victario's perspective. Digital issues ran from July 2014 to April 2015; the paperback was published by Dynamite in June 2015. It centres on the Purity Rebellion and events leading up to the Cataclysm.",
+   "games": [],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1333-1334 IC (events depicted)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_book_path_of_exile_origins",
+     "locator": "'Publication' section (issue table) and intro: written by Edwin McRae and Royal McGraw, illustrated by Carlos Rodriguez"
+    }
+   ]
+  },
+  {
+   "id": "text_lords_labyrinth_gamebook",
+   "name": "The Lord's Labyrinth (gamebook)",
+   "aliases": [
+    "Lord's Labyrinth Gamebook"
+   ],
+   "type": "text",
+   "subtype": "official_gamebook",
+   "summary": "An official GGG gamebook (2019) that retells the Lord's Labyrinth from Weylin's perspective. The PoE Wiki reports repeated inconsistencies with in-game sources, so it is generally not treated as canon.",
+   "games": [],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1317 IC (events depicted)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "dev_statement",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_book_the_lords_labyrinth_gamebook",
+     "locator": "gamebook forum post, 28 Oct 2019 (cited in History of Wraeclast, 'The Lord's Labyrinth')"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Lord's Labyrinth' (gamebook note: generally not canon)"
+    }
+   ]
+  },
+  {
+   "id": "event_winter_of_the_world",
+   "name": "Winter of the World",
+   "aliases": [],
+   "type": "event",
+   "subtype": "catastrophe",
+   "summary": "Volcanic eruptions fill the sky with ash. The Lightless attack destroys the primeval civilization, fells the Titans and devastates the Maraketh and Azmeri. The Order of the Djinn later defeats the Lightless.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "prehistory (undated)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "event_slumber_of_the_gods",
+   "name": "Slumber of the Gods",
+   "aliases": [],
+   "type": "event",
+   "subtype": "divine_event",
+   "summary": "Sin plants the Dark Ember in Highgate, creating the Beast, the source of thaumaturgy. The Beast initiates the Slumber of the Gods, which puts all gods to sleep.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "prehistory (undated)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro paragraph 3"
+    }
+   ]
+  },
+  {
+   "id": "event_vaal_cataclysm",
+   "name": "Vaal Cataclysm",
+   "aliases": [
+    "The Fall"
+   ],
+   "type": "event",
+   "subtype": "cataclysm",
+   "summary": "Doryani's attempt at immortality under Queen Atziri destroys the Vaal Empire. Only 3,126 Vaal survive, and they are absorbed into the Azmeri. In PoE2's Fate of the Vaal league the Exile travels back in time, with Doryani's help, to the moment before the Cataclysm.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "before 1 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Vaal Cataclysm'"
+    },
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Vaal Cataclysm' (paragraph on Path of Exile 2: Fate of the Vaal)"
+    }
+   ]
+  },
+  {
+   "id": "event_kalguur_expedition",
+   "name": "Kalguur Expedition to Wraeclast",
+   "aliases": [],
+   "type": "event",
+   "subtype": "expedition",
+   "summary": "After the Vaal Cataclysm, a Kalguur expedition (led by Olroth, Uhtred, Vorana and Medved) arrives, colonises, and collapses. The Triskelion Flame is lost and famine follows; the wiki says who sabotaged the port is unknown.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_vaal_dark_age",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "post-Cataclysm, before 1 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Kalguur' (Expedition to Wraeclast; Shrine)"
+    }
+   ]
+  },
+  {
+   "id": "event_imperialis_conceptus",
+   "name": "Imperialis Conceptus",
+   "aliases": [],
+   "type": "event",
+   "subtype": "founding",
+   "summary": "Tarcus Veruso leads the Azmeri down into the lands left by the Vaal and founds Sarn at 1 IC, marking the start of the Eternal calendar and the Eternal Empire.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Imperialis Conceptus (1 IC)'"
+    }
+   ]
+  },
+  {
+   "id": "event_night_of_a_thousand_ribbons",
+   "name": "Night of a Thousand Ribbons",
+   "aliases": [],
+   "type": "event",
+   "subtype": "uprising",
+   "summary": "Around 334 IC, Sarn burns in protest at Emperor Romira's cannibal banquet and incest, and Romira is deposed. The date is still celebrated after reconstruction.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "c. 334 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Night of a Thousand Ribbons'"
+    }
+   ]
+  },
+  {
+   "id": "event_lords_labyrinth_opened",
+   "name": "Lord's Labyrinth Opened",
+   "aliases": [],
+   "type": "event",
+   "subtype": "trial",
+   "summary": "Izaro opens the Lord's Labyrinth on the second Galvano of Azmeri, 1317 IC. Chitus wins it by betraying Weylin, and then seals Izaro inside.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1317 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Lord's Labyrinth' and 'Reign of Chitus'"
+    }
+   ]
+  },
+  {
+   "id": "event_purity_rebellion",
+   "name": "Purity Rebellion",
+   "aliases": [],
+   "type": "event",
+   "subtype": "rebellion",
+   "summary": "A rebellion led by High Templar Voll and the poet Victario, with King Kaom, Sekhema Deshret and Thane Rigwald. It culminates in the siege of Sarn (Divini, 1334 IC) and Voll's coronation.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1333-1334 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "sections 'The Purity Rebellion', 'Siege of Sarn', 'Assassination of Chitus'"
+    },
+    {
+     "source_id": "src_book_path_of_exile_origins",
+     "locator": "issues #1-4 (Death to Sin / The Black Heart)"
+    }
+   ]
+  },
+  {
+   "id": "event_eternal_empire_cataclysm",
+   "name": "The Cataclysm",
+   "aliases": [],
+   "type": "event",
+   "subtype": "cataclysm",
+   "summary": "Malachai uses the Rapture Device to breach the Belly of the Beast, triggering the Cataclysm around 1339 IC. It ends the Eternal Empire and Voll's reign, and its effects are mostly confined to the Wraeclast landmass.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "c. 1339 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Cataclysm (~1339 IC)' and 'Reign of Voll'"
+    }
+   ]
+  },
+  {
+   "id": "event_templar_theocracy_oriath",
+   "name": "Templar Theocracy of Oriath",
+   "aliases": [],
+   "type": "event",
+   "subtype": "political_shift",
+   "summary": "After the Cataclysm, the Templars shift their base to Oriath and develop a theocracy. The Templar Courts and Chamber of Innocence are built under High Templar Avarius shortly before PoE1.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "after 1339 IC, before 1599 IC",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (Templars shift base to Oriath)"
+    }
+   ]
+  },
+  {
+   "id": "event_exiles_sentenced_to_wraeclast",
+   "name": "Exiles Sentenced to Wraeclast",
+   "aliases": [],
+   "type": "event",
+   "subtype": "sentencing",
+   "summary": "High Templar Dominus orders criminals of Oriath exiled to Wraeclast. The PoE1 Exile is one of the sentenced, washed up on the Twilight Strand, and escapes a Templar boat.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1599-1600 IC",
+    "story_order": 101
+   },
+   "acts": [
+    "act_poe1_act1"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Present'"
+    },
+    {
+     "source_id": "src_poewiki_letters_of_exile",
+     "locator": "section 'Format' and exile entries 1597-1599 IC"
+    },
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (exile escapes a Templar boat)"
+    }
+   ]
+  },
+  {
+   "id": "event_poe1_kitava_defeated",
+   "name": "Kitava Defeated (Act 10)",
+   "aliases": [],
+   "type": "event",
+   "subtype": "boss_defeat",
+   "summary": "In Act 10 the Exile and Sin, with Innocence re-awakened by Bannon's sacrifice, defeat Kitava. The Exile had earlier failed to defeat Kitava atop the Cathedral.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "end of PoE1 campaign",
+    "story_order": 1001
+   },
+   "acts": [
+    "act_poe1_act10"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (Act 5 to Act 10 sequence)"
+    }
+   ]
+  },
+  {
+   "id": "event_elder_expelled_from_atlas",
+   "name": "Elder Expelled from the Atlas",
+   "aliases": [],
+   "type": "event",
+   "subtype": "atlas_climax",
+   "summary": "The Exile lures the Elder to the centre of the Atlas, Zana uses the Cosmic Arcana to expel it, and Sirus sacrifices himself to hold it in place.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe1_atlas",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE1 Atlas storyline",
+    "story_order": 3001
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Elder and the Shaper' and 'Defeat of the Elder'"
+    }
+   ]
+  },
+  {
+   "id": "event_seed_of_corruption_released",
+   "name": "Seed of Corruption Released",
+   "aliases": [],
+   "type": "event",
+   "subtype": "release",
+   "summary": "About 20 years after Kitava's defeat, Count Geonor pierces the Hooded One with a runic sword and extracts the Seed of Corruption, which begins feeding on a soldier. Corruption spreads across Wraeclast and the Atlas.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "interlude_between_games",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "about 20 years after Kitava's defeat",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude / Count Geonor'"
+    }
+   ]
+  },
+  {
+   "id": "event_ogham_exile_escape",
+   "name": "Exile Escapes Ogham",
+   "aliases": [],
+   "type": "event",
+   "subtype": "escape",
+   "summary": "Count Geonor sentences the PoE2 Exile to death. The Exile narrowly escapes the Executioner's hanging by jumping into the ocean.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 Act 1",
+    "story_order": 5101
+   },
+   "acts": [
+    "act_poe2_act1"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude' (Count Geonor reign of terror)"
+    }
+   ]
+  },
+  {
+   "aliases": [],
+   "subtype": "high_templar",
+   "branches": [],
+   "acts": [],
+   "id": "char_avarius",
+   "name": "High Templar Avarius",
+   "type": "character",
+   "summary": "High Templar who ordered the Templar Courts and Chamber of Innocence built shortly before PoE1. In Act 5 the Exile defeats him in the Templar Courts; he then becomes a vessel for Innocence.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "shortly before 1599 IC; killed Act 5 (PoE1)",
+    "story_order": null
+   },
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (exile enters the Templar Courts and defeats High Templar Avarius in Act 5)"
+    }
+   ]
+  },
+  {
+   "aliases": [
+    "Maxarius"
+   ],
+   "subtype": "god",
+   "branches": [],
+   "acts": [],
+   "id": "deity_innocence",
+   "name": "Innocence",
+   "type": "deity",
+   "summary": "The god the Templars worship as saviour. Sin captures Innocence's soul; Avarius becomes its vessel and Innocence is defeated in Act 5. Re-awakened by Bannon's sacrifice, it helps defeat Kitava in Act 10.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE1 campaign (Acts 5 and 10)",
+    "story_order": null
+   },
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (Innocence defeated in Act 5; re-awakened by Bannon for Act 10)"
+    }
+   ]
+  },
+  {
+   "aliases": [],
+   "subtype": "god",
+   "branches": [],
+   "acts": [],
+   "id": "deity_sin",
+   "name": "Sin",
+   "type": "deity",
+   "summary": "A god vilified as Sin, who planted the Dark Ember in Highgate to create the Beast and triggered the Slumber of the Gods. In PoE1 Act 10 the Exile and Sin defeat Kitava.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "prehistory (Beast creation) and PoE1 Act 10",
+    "story_order": null
+   },
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro paragraph 3 (Sin plants the Dark Ember; Beast initiates the Slumber of the Gods)"
+    },
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (Sin captures Innocence's soul; Sin and the Exile defeat Kitava in Act 10)"
+    }
+   ]
+  },
+  {
+   "aliases": [
+    "Father of Dreams"
+   ],
+   "subtype": "thaumaturgist",
+   "branches": [],
+   "acts": [],
+   "id": "char_malachai",
+   "name": "Malachai",
+   "type": "character",
+   "summary": "Chitus's Laureate Thaumaturge. He persuaded Voll to spare him, built the Rapture Device, and used it at Highgate to breach the Belly of the Beast, triggering the Cataclysm (c. 1339 IC).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "c. 1317-1339 IC",
+    "story_order": null
+   },
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro paragraph 5 and section 'The Cataclysm (~1339 IC)'; 'Reign of Voll'"
+    }
+   ]
+  },
+  {
+   "aliases": [
+    "Mayor Ondar"
+   ],
+   "subtype": "mayor",
+   "branches": [],
+   "acts": [],
+   "id": "char_ondar",
+   "name": "Lord Mayor Ondar",
+   "type": "character",
+   "summary": "Mayor of Sarn who, with gems implanted for the occasion, betrayed and killed Emperor Chitus during the Night of a Thousand Ribbons celebration, during the Purity Rebellion (1334 IC).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1334 IC",
+    "story_order": null
+   },
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Assassination of Chitus' and 'Night of a Thousand Ribbons'"
+    }
+   ]
+  },
+  {
+   "aliases": [],
+   "subtype": "siege",
+   "branches": [],
+   "acts": [],
+   "id": "event_siege_of_sarn",
+   "name": "Siege of Sarn",
+   "type": "event",
+   "summary": "On the last day of Divini 1334 IC, High Templar Voll laid siege to Sarn with Ezomyte, Karui and Maraketh rebel support. Cadiro Perandus negotiated Sarn's surrender on 1 Sacrato of Phreci 1334 IC, and Voll was crowned a week later.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Divini to Phreci 1334 IC",
+    "story_order": null
+   },
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Siege of Sarn (Divini, 1334 IC)' and the paragraph after 'Assassination of Chitus' (surrender and coronation)"
+    }
+   ]
+  },
+  {
+   "aliases": [],
+   "subtype": "assassination",
+   "branches": [],
+   "acts": [],
+   "id": "event_assassination_of_chitus",
+   "name": "Assassination of Chitus",
+   "type": "event",
+   "summary": "During the Night of a Thousand Ribbons celebration in Sarn, Victario's rebels ambushed the event. Mayor Ondar, who had gems implanted for it, betrayed Emperor Chitus and killed him.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "era": "eternal_empire_fall",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "1334 IC (Night of a Thousand Ribbons)",
+    "story_order": null
+   },
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Assassination of Chitus' (ambush, Ondar betrayal; Origins footnotes)"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "id": "e_char_dominus__exiles__char_exile_poe1",
+   "source": "char_dominus",
+   "target": "char_exile_poe1",
+   "relation": "exiles",
+   "description": "Dominus orders the Exile sentenced to Wraeclast.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__participates_in__event_exiles_sentenced_to_wraeclast",
+   "source": "char_exile_poe1",
+   "target": "event_exiles_sentenced_to_wraeclast",
+   "relation": "participates_in",
+   "description": "The Exile is one of the sentenced arrivals in 1599-1600 IC.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Present'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_dominus__member_of__faction_templar",
+   "source": "char_dominus",
+   "target": "faction_templar",
+   "relation": "member_of",
+   "description": "Dominus is a High Templar of the Order.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_templar__rules__loc_oriath",
+   "source": "faction_templar",
+   "target": "loc_oriath",
+   "relation": "rules",
+   "description": "The Templars govern Oriath as a theocracy.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_exile__associated_with__char_exile_poe1",
+   "source": "concept_exile",
+   "target": "char_exile_poe1",
+   "relation": "associated_with",
+   "description": "The Exile is the PoE1 protagonist of the exile system.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_letters_of_exile",
+     "locator": "section 'Format'"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_exile__associated_with__char_exile_poe2",
+   "source": "concept_exile",
+   "target": "char_exile_poe2",
+   "relation": "associated_with",
+   "description": "The PoE2 Exile is also a convict-type protagonist sent into exile (Ogham sentence).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Count Geonor'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__char_dominus",
+   "source": "char_exile_poe1",
+   "target": "char_dominus",
+   "relation": "defeats",
+   "description": "The Exile kills Dominus atop the Sceptre of God in Act 3.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__char_voll",
+   "source": "char_exile_poe1",
+   "target": "char_voll",
+   "relation": "defeats",
+   "description": "The Exile fights Voll's reanimated remains in the Dried Lake in Act 4.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (Voll's reanimated remains fought in Act 4)"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_kitava",
+   "source": "char_exile_poe1",
+   "target": "deity_kitava",
+   "relation": "defeats",
+   "description": "The Exile, with Sin and a re-awakened Innocence, defeats Kitava in Act 10.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__opposes__char_izaro",
+   "source": "char_exile_poe1",
+   "target": "char_izaro",
+   "relation": "opposes",
+   "description": "The Exile can encounter Izaro as an enemy inside the Lord's Labyrinth.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Reign of Chitus'"
+    },
+    {
+     "source_id": "src_poewiki_the_lords_labyrinth_quest",
+     "locator": "infobox: boss = Izaro (Lord's Labyrinth quest, Act 1)"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__travels_to__loc_twilight_strand",
+   "source": "char_exile_poe1",
+   "target": "loc_twilight_strand",
+   "relation": "travels_to",
+   "description": "The Exile arrives on the Twilight Strand after the Oriathan sentence.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Present'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__travels_to__loc_oriath",
+   "source": "char_exile_poe1",
+   "target": "loc_oriath",
+   "relation": "travels_to",
+   "description": "In Act 5 the Exile climbs Mt. Veruso and returns to Oriath through a portal.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_return_to_oriath",
+     "locator": "section 'Walkthrough' (portal back to Oriath)"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__seeks__concept_ascendancy",
+   "source": "char_exile_poe1",
+   "target": "concept_ascendancy",
+   "relation": "seeks",
+   "description": "The Lord's Labyrinth quest (optional, Act 1) leads to the Trials of Ascendancy.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "labyrinth"
+   ],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lords_labyrinth_quest",
+     "locator": "infobox summary"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__participates_in__event_elder_expelled_from_atlas",
+   "source": "char_exile_poe1",
+   "target": "event_elder_expelled_from_atlas",
+   "relation": "participates_in",
+   "description": "The Exile lures the Elder to the centre of the Atlas for the expulsion.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe1_atlas",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Defeat of the Elder'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__participates_in__event_poe1_kitava_defeated",
+   "source": "char_exile_poe1",
+   "target": "event_poe1_kitava_defeated",
+   "relation": "participates_in",
+   "description": "The Exile is a participant in the Act 10 defeat of Kitava.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_class_templar__member_of__faction_templar",
+   "source": "char_class_templar",
+   "target": "faction_templar",
+   "relation": "member_of",
+   "description": "The Templar class is a former member of the Order.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_class_templar__associated_with__char_exile_poe1",
+   "source": "char_class_templar",
+   "target": "char_exile_poe1",
+   "relation": "associated_with",
+   "description": "The Templar class is a playable PoE1 class whose backstory is a former member of the Order of the Templar.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__participates_in__event_ogham_exile_escape",
+   "source": "char_exile_poe2",
+   "target": "event_ogham_exile_escape",
+   "relation": "participates_in",
+   "description": "The PoE2 Exile is sentenced to death and escapes in Ogham.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__seeks__artifact_seed_of_corruption",
+   "source": "char_exile_poe2",
+   "target": "artifact_seed_of_corruption",
+   "relation": "seeks",
+   "description": "The PoE2 Exile chases the Seed of Corruption across Wraeclast.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__seeks__concept_ascension_trials",
+   "source": "char_exile_poe2",
+   "target": "concept_ascension_trials",
+   "relation": "seeks",
+   "description": "The PoE2 Exile may pursue the Ascension Trials for ascendancy points.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "trial_of_sekhemas",
+    "trial_of_chaos"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_ascension_trials",
+     "locator": "section 'Ascension requirements'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__seeks__concept_trial_of_chaos",
+   "source": "char_exile_poe2",
+   "target": "concept_trial_of_chaos",
+   "relation": "seeks",
+   "description": "The PoE2 Exile may pursue the Trial of Chaos (optional, from Act 3).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "trial_of_chaos"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_trial_of_chaos",
+     "locator": "section 'Access'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__seeks__concept_trial_of_the_sekhemas",
+   "source": "char_exile_poe2",
+   "target": "concept_trial_of_the_sekhemas",
+   "relation": "seeks",
+   "description": "The PoE2 Exile may pursue the Trial of the Sekhemas (optional, from Act 2).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "trial_of_sekhemas"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_trial_of_the_sekhemas",
+     "locator": "section 'Access'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__associated_with__char_exile_poe1",
+   "source": "char_exile_poe2",
+   "target": "char_exile_poe1",
+   "relation": "associated_with",
+   "description": "Two distinct protagonists: the PoE1 and PoE2 Exiles share the archetype but are not stated to be the same character.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "interlude_between_games",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Lore' (prelude)"
+    }
+   ]
+  },
+  {
+   "id": "e_char_count_geonor__opposes__char_exile_poe2",
+   "source": "char_count_geonor",
+   "target": "char_exile_poe2",
+   "relation": "opposes",
+   "description": "Count Geonor sentences the Exile to hang.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_count_geonor__participates_in__event_seed_of_corruption_released",
+   "source": "char_count_geonor",
+   "target": "event_seed_of_corruption_released",
+   "relation": "participates_in",
+   "description": "Geonor extracts the Seed of Corruption.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "interlude_between_games",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_count_geonor__seeks__artifact_seed_of_corruption",
+   "source": "char_count_geonor",
+   "target": "artifact_seed_of_corruption",
+   "relation": "seeks",
+   "description": "Geonor takes the Seed of Corruption from the Hooded One.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "interlude_between_games",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude'"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_trial_of_chaos__part_of__concept_ascension_trials",
+   "source": "concept_trial_of_chaos",
+   "target": "concept_ascension_trials",
+   "relation": "part_of",
+   "description": "Trial of Chaos is one of the Ascension Trials.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "trial_of_chaos"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_ascension_trials",
+     "locator": "section 'Ascension requirements'"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_trial_of_the_sekhemas__part_of__concept_ascension_trials",
+   "source": "concept_trial_of_the_sekhemas",
+   "target": "concept_ascension_trials",
+   "relation": "part_of",
+   "description": "Trial of the Sekhemas is one of the Ascension Trials.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "trial_of_sekhemas"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_ascension_trials",
+     "locator": "section 'Ascension requirements'"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_ascension_trials__part_of__concept_ascendancy",
+   "source": "concept_ascension_trials",
+   "target": "concept_ascendancy",
+   "relation": "part_of",
+   "description": "Ascension Trials are the PoE2 route to ascendancy.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "trial_of_sekhemas",
+    "trial_of_chaos"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_ascension_trials",
+     "locator": "section 'Ascension requirements'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_the_trialmaster__serves__deity_chaos",
+   "source": "char_the_trialmaster",
+   "target": "deity_chaos",
+   "relation": "serves",
+   "description": "The Trialmaster serves Chaos as its master.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "trial_of_chaos"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_chaos_lore",
+     "locator": "section 'Chaos'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_chaos__associated_with__concept_trial_of_chaos",
+   "source": "deity_chaos",
+   "target": "concept_trial_of_chaos",
+   "relation": "associated_with",
+   "description": "Chaos is the patron of the Trials of Chaos.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "trial_of_chaos"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_chaos_lore",
+     "locator": "section 'Trials'"
+    }
+   ]
+  },
+  {
+   "id": "e_loc_lord_s_labyrinth__associated_with__concept_ascendancy",
+   "source": "loc_lord_s_labyrinth",
+   "target": "concept_ascendancy",
+   "relation": "associated_with",
+   "description": "The PoE1 Labyrinth quest gates the Trials of Ascendancy.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "labyrinth"
+   ],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lords_labyrinth_quest",
+     "locator": "infobox summary"
+    }
+   ]
+  },
+  {
+   "id": "e_char_izaro__created__loc_lord_s_labyrinth",
+   "source": "char_izaro",
+   "target": "loc_lord_s_labyrinth",
+   "relation": "created",
+   "description": "Izaro built the Lord's Labyrinth in 1317 IC.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Reign of Izaro'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_chitus__imprisons__char_izaro",
+   "source": "char_chitus",
+   "target": "char_izaro",
+   "relation": "imprisons",
+   "description": "Chitus seals Izaro inside the Lord's Labyrinth upon his coronation (1319 IC).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Reign of Chitus'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_chitus__participates_in__event_lords_labyrinth_opened",
+   "source": "char_chitus",
+   "target": "event_lords_labyrinth_opened",
+   "relation": "participates_in",
+   "description": "Chitus enters the Lord's Labyrinth and wins it.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Lord's Labyrinth'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_chitus__leads__faction_eternal_empire",
+   "source": "char_chitus",
+   "target": "faction_eternal_empire",
+   "relation": "leads",
+   "description": "Chitus rules the Eternal Empire.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Reign of Chitus'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_voll__participates_in__event_purity_rebellion",
+   "source": "char_voll",
+   "target": "event_purity_rebellion",
+   "relation": "participates_in",
+   "description": "Voll leads the Purity Rebellion.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Purity Rebellion'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_voll__opposes__char_chitus",
+   "source": "char_voll",
+   "target": "char_chitus",
+   "relation": "opposes",
+   "description": "Voll leads the rebellion against Chitus.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Purity Rebellion'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_voll__leads__faction_templar",
+   "source": "char_voll",
+   "target": "faction_templar",
+   "relation": "leads",
+   "description": "Voll is a High Templar.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_victario__participates_in__event_purity_rebellion",
+   "source": "char_victario",
+   "target": "event_purity_rebellion",
+   "relation": "participates_in",
+   "description": "Victario incites the uprising in Sarn.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Battle at the Grain Gate'"
+    }
+   ]
+  },
+  {
+   "id": "e_text_path_of_exile_origins__mentions__event_purity_rebellion",
+   "source": "text_path_of_exile_origins",
+   "target": "event_purity_rebellion",
+   "relation": "mentions",
+   "description": "The comic Origins covers the Purity Rebellion.",
+   "games": [],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_book_path_of_exile_origins",
+     "locator": "issues #1-4"
+    }
+   ]
+  },
+  {
+   "id": "e_text_path_of_exile_origins__mentions__char_victario",
+   "source": "text_path_of_exile_origins",
+   "target": "char_victario",
+   "relation": "mentions",
+   "description": "Victario is the comic's narrator.",
+   "games": [],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_book_path_of_exile_origins",
+     "locator": "issues #1-4"
+    }
+   ]
+  },
+  {
+   "id": "e_text_lords_labyrinth_gamebook__mentions__loc_lord_s_labyrinth",
+   "source": "text_lords_labyrinth_gamebook",
+   "target": "loc_lord_s_labyrinth",
+   "relation": "mentions",
+   "description": "The gamebook is set in the Lord's Labyrinth.",
+   "games": [],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Lord's Labyrinth' (gamebook note)"
+    }
+   ]
+  },
+  {
+   "id": "e_text_lords_labyrinth_gamebook__mentions__char_izaro",
+   "source": "text_lords_labyrinth_gamebook",
+   "target": "char_izaro",
+   "relation": "mentions",
+   "description": "Izaro is in the gamebook story.",
+   "games": [],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Lord's Labyrinth' (gamebook note)"
+    }
+   ]
+  },
+  {
+   "id": "e_text_lords_labyrinth_gamebook__mentions__char_chitus",
+   "source": "text_lords_labyrinth_gamebook",
+   "target": "char_chitus",
+   "relation": "mentions",
+   "description": "Chitus is in the gamebook story.",
+   "games": [],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Lord's Labyrinth' (gamebook note)"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_eternal_empire__introduced_in__event_imperialis_conceptus",
+   "source": "faction_eternal_empire",
+   "target": "event_imperialis_conceptus",
+   "relation": "introduced_in",
+   "description": "The Eternal Empire is founded at 1 IC.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Imperialis Conceptus (1 IC)'"
+    }
+   ]
+  },
+  {
+   "id": "e_era_primordial__precedes__era_precursor",
+   "source": "era_primordial",
+   "target": "era_precursor",
+   "relation": "precedes",
+   "description": "primordial precedes precursor (the bucket order from the schema).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "precursor",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "timeline order (Gods/Vaal/Eternal Empire/Oriath/PoE1 sections)"
+    }
+   ]
+  },
+  {
+   "id": "e_era_precursor__precedes__era_azmeri_ezomyte_ancient",
+   "source": "era_precursor",
+   "target": "era_azmeri_ezomyte_ancient",
+   "relation": "precedes",
+   "description": "precursor precedes azmeri_ezomyte_ancient (the bucket order from the schema).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "timeline order (Gods/Vaal/Eternal Empire/Oriath/PoE1 sections)"
+    }
+   ]
+  },
+  {
+   "id": "e_era_azmeri_ezomyte_ancient__precedes__era_vaal",
+   "source": "era_azmeri_ezomyte_ancient",
+   "target": "era_vaal",
+   "relation": "precedes",
+   "description": "azmeri_ezomyte_ancient precedes vaal (the bucket order from the schema).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "timeline order (Gods/Vaal/Eternal Empire/Oriath/PoE1 sections)"
+    }
+   ]
+  },
+  {
+   "id": "e_era_vaal__precedes__era_post_vaal_dark_age",
+   "source": "era_vaal",
+   "target": "era_post_vaal_dark_age",
+   "relation": "precedes",
+   "description": "vaal precedes post_vaal_dark_age (the bucket order from the schema).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "timeline order (Gods/Vaal/Eternal Empire/Oriath/PoE1 sections)"
+    }
+   ]
+  },
+  {
+   "id": "e_era_post_vaal_dark_age__precedes__era_eternal_empire_rise",
+   "source": "era_post_vaal_dark_age",
+   "target": "era_eternal_empire_rise",
+   "relation": "precedes",
+   "description": "post_vaal_dark_age precedes eternal_empire_rise (the bucket order from the schema).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "timeline order (Gods/Vaal/Eternal Empire/Oriath/PoE1 sections)"
+    }
+   ]
+  },
+  {
+   "id": "e_era_eternal_empire_rise__precedes__era_eternal_empire_fall",
+   "source": "era_eternal_empire_rise",
+   "target": "era_eternal_empire_fall",
+   "relation": "precedes",
+   "description": "eternal_empire_rise precedes eternal_empire_fall (the bucket order from the schema).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "timeline order (Gods/Vaal/Eternal Empire/Oriath/PoE1 sections)"
+    }
+   ]
+  },
+  {
+   "id": "e_era_eternal_empire_fall__precedes__era_post_cataclysm",
+   "source": "era_eternal_empire_fall",
+   "target": "era_post_cataclysm",
+   "relation": "precedes",
+   "description": "eternal_empire_fall precedes post_cataclysm (the bucket order from the schema).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "post_cataclysm",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "timeline order (Gods/Vaal/Eternal Empire/Oriath/PoE1 sections)"
+    }
+   ]
+  },
+  {
+   "id": "e_era_post_cataclysm__precedes__era_poe1_campaign",
+   "source": "era_post_cataclysm",
+   "target": "era_poe1_campaign",
+   "relation": "precedes",
+   "description": "post_cataclysm precedes poe1_campaign (the bucket order from the schema).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "timeline order (Gods/Vaal/Eternal Empire/Oriath/PoE1 sections)"
+    }
+   ]
+  },
+  {
+   "id": "e_era_poe1_campaign__precedes__era_poe1_atlas",
+   "source": "era_poe1_campaign",
+   "target": "era_poe1_atlas",
+   "relation": "precedes",
+   "description": "poe1_campaign precedes poe1_atlas (the bucket order from the schema).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe1_atlas",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "timeline order (Gods/Vaal/Eternal Empire/Oriath/PoE1 sections)"
+    }
+   ]
+  },
+  {
+   "id": "e_era_poe1_atlas__precedes__era_poe1_leagues",
+   "source": "era_poe1_atlas",
+   "target": "era_poe1_leagues",
+   "relation": "precedes",
+   "description": "poe1_atlas precedes poe1_leagues (the bucket order from the schema).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "timeline order (Gods/Vaal/Eternal Empire/Oriath/PoE1 sections)"
+    }
+   ]
+  },
+  {
+   "id": "e_era_poe1_leagues__precedes__era_interlude_between_games",
+   "source": "era_poe1_leagues",
+   "target": "era_interlude_between_games",
+   "relation": "precedes",
+   "description": "poe1_leagues precedes interlude_between_games (the bucket order from the schema).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "interlude_between_games",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "timeline order (Gods/Vaal/Eternal Empire/Oriath/PoE1 sections)"
+    }
+   ]
+  },
+  {
+   "id": "e_era_interlude_between_games__precedes__era_poe2_campaign",
+   "source": "era_interlude_between_games",
+   "target": "era_poe2_campaign",
+   "relation": "precedes",
+   "description": "interlude_between_games precedes poe2_campaign (the bucket order from the schema).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "timeline order (Gods/Vaal/Eternal Empire/Oriath/PoE1 sections)"
+    }
+   ]
+  },
+  {
+   "id": "e_era_poe2_campaign__precedes__era_poe2_endgame",
+   "source": "era_poe2_campaign",
+   "target": "era_poe2_endgame",
+   "relation": "precedes",
+   "description": "poe2_campaign precedes poe2_endgame (the bucket order from the schema).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "timeline order (Gods/Vaal/Eternal Empire/Oriath/PoE1 sections)"
+    }
+   ]
+  },
+  {
+   "id": "e_event_winter_of_the_world__precedes__event_slumber_of_the_gods",
+   "source": "event_winter_of_the_world",
+   "target": "event_slumber_of_the_gods",
+   "relation": "precedes",
+   "description": "winter_of_the_world precedes slumber_of_the_gods.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro paragraphs 2-3 (order of intro)"
+    }
+   ]
+  },
+  {
+   "id": "e_event_slumber_of_the_gods__precedes__event_vaal_cataclysm",
+   "source": "event_slumber_of_the_gods",
+   "target": "event_vaal_cataclysm",
+   "relation": "precedes",
+   "description": "slumber_of_the_gods precedes vaal_cataclysm.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro paragraph 3 leading to 'Vaal'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_vaal_cataclysm__precedes__event_kalguur_expedition",
+   "source": "event_vaal_cataclysm",
+   "target": "event_kalguur_expedition",
+   "relation": "precedes",
+   "description": "vaal_cataclysm precedes kalguur_expedition.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_vaal_dark_age",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Kalguur'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_kalguur_expedition__precedes__event_imperialis_conceptus",
+   "source": "event_kalguur_expedition",
+   "target": "event_imperialis_conceptus",
+   "relation": "precedes",
+   "description": "kalguur_expedition precedes imperialis_conceptus.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro paragraph 3 ordering of Kalguur then Eternal Empire"
+    }
+   ]
+  },
+  {
+   "id": "e_event_imperialis_conceptus__precedes__event_night_of_a_thousand_ribbons",
+   "source": "event_imperialis_conceptus",
+   "target": "event_night_of_a_thousand_ribbons",
+   "relation": "precedes",
+   "description": "imperialis_conceptus precedes night_of_a_thousand_ribbons.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Night of a Thousand Ribbons'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_night_of_a_thousand_ribbons__precedes__event_lords_labyrinth_opened",
+   "source": "event_night_of_a_thousand_ribbons",
+   "target": "event_lords_labyrinth_opened",
+   "relation": "precedes",
+   "description": "night_of_a_thousand_ribbons precedes lords_labyrinth_opened.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Reign of Izaro'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_lords_labyrinth_opened__precedes__event_purity_rebellion",
+   "source": "event_lords_labyrinth_opened",
+   "target": "event_purity_rebellion",
+   "relation": "precedes",
+   "description": "lords_labyrinth_opened precedes purity_rebellion.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Purity Rebellion'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_purity_rebellion__precedes__event_eternal_empire_cataclysm",
+   "source": "event_purity_rebellion",
+   "target": "event_eternal_empire_cataclysm",
+   "relation": "precedes",
+   "description": "purity_rebellion precedes eternal_empire_cataclysm.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Reign of Voll'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_eternal_empire_cataclysm__precedes__event_templar_theocracy_oriath",
+   "source": "event_eternal_empire_cataclysm",
+   "target": "event_templar_theocracy_oriath",
+   "relation": "precedes",
+   "description": "eternal_empire_cataclysm precedes templar_theocracy_oriath.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_templar_theocracy_oriath__precedes__event_exiles_sentenced_to_wraeclast",
+   "source": "event_templar_theocracy_oriath",
+   "target": "event_exiles_sentenced_to_wraeclast",
+   "relation": "precedes",
+   "description": "templar_theocracy_oriath precedes exiles_sentenced_to_wraeclast.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Present'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_exiles_sentenced_to_wraeclast__precedes__event_poe1_kitava_defeated",
+   "source": "event_exiles_sentenced_to_wraeclast",
+   "target": "event_poe1_kitava_defeated",
+   "relation": "precedes",
+   "description": "exiles_sentenced_to_wraeclast precedes poe1_kitava_defeated.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe1_kitava_defeated__precedes__event_seed_of_corruption_released",
+   "source": "event_poe1_kitava_defeated",
+   "target": "event_seed_of_corruption_released",
+   "relation": "precedes",
+   "description": "poe1_kitava_defeated precedes seed_of_corruption_released.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "interlude_between_games",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude' ('twenty years after the defeat of Kitava')"
+    }
+   ]
+  },
+  {
+   "id": "e_event_seed_of_corruption_released__precedes__event_ogham_exile_escape",
+   "source": "event_seed_of_corruption_released",
+   "target": "event_ogham_exile_escape",
+   "relation": "precedes",
+   "description": "seed_of_corruption_released precedes ogham_exile_escape.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_lore",
+     "locator": "section 'Prelude'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe1_kitava_defeated__precedes__event_elder_expelled_from_atlas",
+   "source": "event_poe1_kitava_defeated",
+   "target": "event_elder_expelled_from_atlas",
+   "relation": "precedes",
+   "description": "Spine: after the campaign, the Atlas climax (sequence key: 1001 -> 3001). (Converted from next_beat: intervening acts are not modelled in this fragment, so the spine would skip beats.)",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "poe1_atlas",
+   "sequence": null,
+   "canon_status": "dev_statement",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'The Atlas of Worlds'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__char_avarius",
+   "source": "char_exile_poe1",
+   "target": "char_avarius",
+   "relation": "defeats",
+   "description": "In Act 5 the Exile defeats High Templar Avarius in the Templar Courts.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (exile enters the Templar Courts and defeats Avarius)"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_innocence",
+   "source": "char_exile_poe1",
+   "target": "deity_innocence",
+   "relation": "defeats",
+   "description": "In Act 5, after Avarius becomes its vessel, Innocence is defeated by the Exile.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (Innocence defeated after Avarius is defeated)"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__allies_with__deity_sin",
+   "source": "char_exile_poe1",
+   "target": "deity_sin",
+   "relation": "allies_with",
+   "description": "In Act 10 the Exile fights Kitava alongside Sin.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_order_of_the_templar",
+     "locator": "section 'Lore' (Kitava defeated in Act 10 alongside Sin)"
+    }
+   ]
+  },
+  {
+   "id": "e_char_malachai__causes__event_eternal_empire_cataclysm",
+   "source": "char_malachai",
+   "target": "event_eternal_empire_cataclysm",
+   "relation": "causes",
+   "description": "Malachai uses the Rapture Device to breach the Belly of the Beast, triggering the Cataclysm.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "intro paragraph 5; section 'Reign of Voll' (Malachai's true purpose); section 'The Cataclysm (~1339 IC)'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_voll__participates_in__event_siege_of_sarn",
+   "source": "char_voll",
+   "target": "event_siege_of_sarn",
+   "relation": "participates_in",
+   "description": "Voll lays siege to Sarn in Divini 1334 IC.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Siege of Sarn (Divini, 1334 IC)'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_ondar__kills__char_chitus",
+   "source": "char_ondar",
+   "target": "char_chitus",
+   "relation": "kills",
+   "description": "Ondar betrays and kills Emperor Chitus during the Night of a Thousand Ribbons.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Assassination of Chitus' and 'Night of a Thousand Ribbons'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_ondar__participates_in__event_assassination_of_chitus",
+   "source": "char_ondar",
+   "target": "event_assassination_of_chitus",
+   "relation": "participates_in",
+   "description": "Ondar kills Chitus during the ambush.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Assassination of Chitus'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_victario__participates_in__event_assassination_of_chitus",
+   "source": "char_victario",
+   "target": "event_assassination_of_chitus",
+   "relation": "participates_in",
+   "description": "Victario ambushes the Night of a Thousand Ribbons celebration, shouting \"Death to Sin!\".",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Assassination of Chitus'"
+    },
+    {
+     "source_id": "src_book_path_of_exile_origins",
+     "locator": "issue #4 'The Black Heart' (ambush)"
+    }
+   ]
+  },
+  {
+   "id": "e_char_chitus__participates_in__event_assassination_of_chitus",
+   "source": "char_chitus",
+   "target": "event_assassination_of_chitus",
+   "relation": "participates_in",
+   "description": "Chitus is killed in the ambush at the Night of a Thousand Ribbons.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_fall",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_history_of_wraeclast",
+     "locator": "section 'Assassination of Chitus'"
+    }
+   ]
+  }
+ ]
+}

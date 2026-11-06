@@ -1,0 +1,6132 @@
+{
+ "domain": "gods_cosmology",
+ "sources": [
+  {
+   "id": "src_other_timesaver_bodach",
+   "title": "Path of Exile 2 0.5 Return of the Ancients coverage (Rite of the Nameless / Bodach)",
+   "url": "https://timesaver.gg/blog/poe2-rite-of-the-nameless-guide",
+   "type": "other",
+   "author_or_channel": "timesaver.gg",
+   "accessed": "2026-11-05",
+   "reliability": "tertiary"
+  },
+  {
+   "id": "src_ingame_haku_navali_dialogue",
+   "title": "Haku / Navali / Weathered Carving texts (PoE1, as transcribed on the wiki)",
+   "url": "https://www.poewiki.net/wiki/Karui_Gods",
+   "type": "in_game_text",
+   "author_or_channel": "Grinding Gear Games",
+   "accessed": "2026-11-05",
+   "reliability": "primary"
+  },
+  {
+   "id": "src_ingame_hinekora_dialogue",
+   "title": "Hinekora dreams and prophecies (PoE1)",
+   "url": "https://www.poewiki.net/wiki/Hinekora",
+   "type": "in_game_text",
+   "author_or_channel": "Grinding Gear Games",
+   "accessed": "2026-11-05",
+   "reliability": "primary"
+  },
+  {
+   "id": "src_ingame_sin_dialogue",
+   "title": "Sin NPC dialogue (PoE1, as transcribed on the wiki)",
+   "url": "https://www.poewiki.net/wiki/Sin",
+   "type": "in_game_text",
+   "author_or_channel": "Grinding Gear Games",
+   "accessed": "2026-11-05",
+   "reliability": "primary"
+  },
+  {
+   "id": "src_poe2wiki_dark_mists",
+   "title": "Dark Mists - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Dark_Mists",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_halani_the_water_goddess",
+   "title": "Halani, the Water Goddess - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Halani,_the_Water_Goddess",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_it_that_was_esh",
+   "title": "It That Was Esh - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/It_That_Was_Esh",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_it_that_was_tul",
+   "title": "It That Was Tul - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/It_That_Was_Tul",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_kamasa_s_orb_of_sacrifice",
+   "title": "Kamasa's Orb of Sacrifice - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Kamasa's_Orb_of_Sacrifice",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_kedge_bay",
+   "title": "Kedge Bay - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Kedge_Bay",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_kulemak",
+   "title": "Kulemak - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Kulemak",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_lore",
+   "title": "Lore - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Lore",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_ngamahu_s_test",
+   "title": "Ngamahu's Test - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Ngamahu's_Test",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_beast",
+   "title": "The Beast - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Beast",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_bodach",
+   "title": "The Bodach - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Bodach",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_dreamer",
+   "title": "The Dreamer - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Dreamer",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_hooded_one",
+   "title": "The Hooded One - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Hooded_One",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_unblinking_eye",
+   "title": "The Unblinking Eye - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Unblinking_Eye",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_the_well_of_souls",
+   "title": "The Well of Souls - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/The_Well_of_Souls",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_abberath_the_cloven_one",
+   "title": "Abberath, the Cloven One - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Abberath,_the_Cloven_One",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_amanamu_liege_of_the_lightless",
+   "title": "Amanamu, Liege of the Lightless - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Amanamu,_Liege_of_the_Lightless",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_arakaali_spinner_of_shadows",
+   "title": "Arakaali, Spinner of Shadows - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Arakaali,_Spinner_of_Shadows",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_breach_league",
+   "title": "Breach league - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Breach_league",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_chaos_lore",
+   "title": "Chaos (lore) - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Chaos_(lore)",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_garukhan_queen_of_the_winds",
+   "title": "Garukhan, Queen of the Winds - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Garukhan,_Queen_of_the_Winds",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_god",
+   "title": "God - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/God",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_gruthkul_mother_of_despair",
+   "title": "Gruthkul, Mother of Despair - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Gruthkul,_Mother_of_Despair",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_hinekora",
+   "title": "Hinekora - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Hinekora",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_kalandra",
+   "title": "Kalandra - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Kalandra",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_karui",
+   "title": "Karui - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Karui",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_karui_gods",
+   "title": "Karui Gods - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Karui_Gods",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_king_kaom",
+   "title": "King Kaom - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/King_Kaom",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_kitava_s_torments",
+   "title": "Kitava's Torments - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Kitava's_Torments",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_kitava_the_insatiable",
+   "title": "Kitava, the Insatiable - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Kitava,_the_Insatiable",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_kurgal_the_blackblooded",
+   "title": "Kurgal, the Blackblooded - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Kurgal,_the_Blackblooded",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_ralakesh_master_of_a_million_faces",
+   "title": "Ralakesh, Master of a Million Faces - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Ralakesh,_Master_of_a_Million_Faces",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_ryslatha_the_puppet_mistress",
+   "title": "Ryslatha, the Puppet Mistress - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Ryslatha,_the_Puppet_Mistress",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_shakari_queen_of_the_sands",
+   "title": "Shakari, Queen of the Sands - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Shakari,_Queen_of_the_Sands",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_sin",
+   "title": "Sin - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Sin",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_strange_voice",
+   "title": "Strange Voice - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Strange_Voice",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_beast_lore",
+   "title": "The Beast (lore) - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Beast_(lore)",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_dreamer_npc",
+   "title": "The Dreamer (NPC) - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Dreamer_(NPC)",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_first_ones",
+   "title": "The First Ones - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_First_Ones",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_lightless",
+   "title": "The Lightless - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Lightless",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_molten_one",
+   "title": "The Molten One - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Molten_One",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_searing_exarch_quest",
+   "title": "The Searing Exarch (quest) - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Searing_Exarch_(quest)",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_the_three_sisters",
+   "title": "The Three Sisters - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/The_Three_Sisters",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_tsoagoth_the_brine_king",
+   "title": "Tsoagoth, The Brine King - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Tsoagoth,_The_Brine_King",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_tukohama_karui_god_of_war",
+   "title": "Tukohama, Karui God of War - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Tukohama,_Karui_God_of_War",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_ulaman_sovereign_of_the_well",
+   "title": "Ulaman, Sovereign of the Well - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Ulaman,_Sovereign_of_the_Well",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_vaal_oversoul",
+   "title": "Vaal Oversoul - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Vaal_Oversoul",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_viridi",
+   "title": "Viridi - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Viridi",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_yugul_reflection_of_terror",
+   "title": "Yugul, Reflection of Terror - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Yugul,_Reflection_of_Terror",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_yt_1E5kADGy5Pw",
+   "title": "Path of Exile 1 Lore: Arakaali the Seductive Vaal Goddess",
+   "url": "https://www.youtube.com/watch?v=1E5kADGy5Pw",
+   "type": "youtube",
+   "author_or_channel": "@TalkativeTri",
+   "accessed": "2026-11-05",
+   "reliability": "tertiary"
+  },
+  {
+   "id": "src_yt_6Y1gnplA1FE",
+   "title": "Path of Exile 1 Lore: Tsoagoth, A God of Wraeclast",
+   "url": "https://www.youtube.com/watch?v=6Y1gnplA1FE",
+   "type": "youtube",
+   "author_or_channel": "@TalkativeTri",
+   "accessed": "2026-11-05",
+   "reliability": "tertiary"
+  },
+  {
+   "id": "src_yt_7QuY96FyhG4",
+   "title": "PoE Complete Lore Series: The Forbidden Sanctum",
+   "url": "https://www.youtube.com/watch?v=7QuY96FyhG4",
+   "type": "youtube",
+   "author_or_channel": "Kitten Cat Noodle",
+   "accessed": "2026-11-05",
+   "reliability": "tertiary"
+  },
+  {
+   "id": "src_poewiki_orbala",
+   "title": "Orbala — PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Orbala",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_high_templar_avarius",
+   "title": "High Templar Avarius — PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/High_Templar_Avarius",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_act_10",
+   "title": "Act 10 — PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Act_10",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-05",
+   "reliability": "secondary"
+  }
+ ],
+ "nodes": [
+  {
+   "id": "concept_godhood",
+   "name": "Nature of godhood (ascension)",
+   "aliases": [],
+   "type": "concept",
+   "subtype": "cosmology",
+   "summary": "In PoE lore a mortal of rare quality could ascend to godhood on the adoration of their people, shedding mortality; this became impossible once Sin created the Beast. Becoming a god often costs one's humanity. Gods can also be 'made' by belief of followers (Innocence's ascension was fuelled by hatred of Sin).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "before the creation of the Beast",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Ascension to godhood'"
+    },
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "Sin, 'The Origins of the Gods': \"There was a time before the Beast ... men and women like you could ascend. Through rareness of quality and the adoration of their people...\""
+    }
+   ]
+  },
+  {
+   "id": "concept_the_pantheon",
+   "name": "The Pantheon (soul-capture mechanic)",
+   "aliases": [],
+   "type": "concept",
+   "subtype": "mechanic_lore",
+   "summary": "Game mechanic and lore device by which Sin captures the essences of slain gods and grants the Exile a fraction of their powers. Major gods: Brine King, Arakaali, Solaris, Lunaris. Minor gods: Tukohama, Abberath, Ryslatha (Act 6), Gruthkul, Ralakesh (Act 7), Yugul (Act 8), Garukhan, Shakari (Act 9).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [
+    "pantheon"
+   ],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Acts 6-10",
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act6"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Pantheon'; Sin dialogue 'The Father of War': \"While a god may fall, their essence lingers... That essence can be yours\""
+    },
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "See also: The Pantheon"
+    },
+    {
+     "source_id": "src_poewiki_tsoagoth_the_brine_king",
+     "locator": "Pantheon powers: major god power"
+    }
+   ]
+  },
+  {
+   "id": "event_slumbering_of_the_gods",
+   "name": "Slumbering of the Gods",
+   "aliases": [],
+   "type": "event",
+   "summary": "Sin's Beast lulled the gods into dreamless slumber, ending an era of divine strife; Hinekora foresaw it and prepared the Halls of the Dead before sleeping.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "unknown, millennia before PoE1 (before the Vaal Empire per PoE2 wiki)",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "Sin 'The Rise of the Gods': \"We gods, we were driven into slumbering darkness, to dream away eternity whilst the gentle Beast watched over us.\""
+    },
+    {
+     "source_id": "src_ingame_hinekora_dialogue",
+     "locator": "Hinekora dream: 'She foresaw the Slumbering of the Gods' / hinekora wiki Lore"
+    }
+   ]
+  },
+  {
+   "id": "event_creation_of_the_beast",
+   "name": "Sin creates the Beast",
+   "aliases": [],
+   "type": "event",
+   "summary": "Sin planted the Dark Ember/Seed of Corruption beneath Highgate and nurtured it into the Beast to suppress the gods and end mortal ascension. PoE2 wiki adds that Sin sought Kalandra's cryptic advice and found the Seed in a Precursor ruin.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "before the Vaal Empire",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Beast'"
+    },
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 2: Sin ... sought the ancient being Kalandra ... found a Precursor ruin containing the Seed of Corruption"
+    }
+   ]
+  },
+  {
+   "id": "event_gods_awaken",
+   "name": "Awakening of the gods",
+   "aliases": [],
+   "type": "event",
+   "summary": "Killing the Beast in Act 4 woke the dormant gods (Kitava, Tukohama, Abberath, Ryslatha, Brine King, Gruthkul, Arakaali, Garukhan, Shakari, Solaris, Lunaris...), setting up PoE1 Part 2.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "Act 4-5",
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act4",
+    "act_poe1_act5"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_beast_lore",
+     "locator": "last paragraph: 'Following the actions of the player in Act 4 ... the old Gods (such as Kitava) are awakened'"
+    },
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "Sin 'The Rise of the Gods'"
+    }
+   ]
+  },
+  {
+   "id": "event_original_sin",
+   "name": "Original Sin (Innocence's ascension)",
+   "aliases": [],
+   "type": "event",
+   "summary": "Per Lycia's relics, twin brothers Innocence and Sin lived among the Azmeri; Innocence, unable to attract enough followers, turned his followers against Sin and used their hatred to ascend, leaving Sin blackened. The Templar stained-glass version is propaganda.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "sanctum"
+   ],
+   "era": "poe1_leagues",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "ancient, Azmeri era",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section on Forbidden Sanctum relics / Lycia's findings; 'Original Sin' unique"
+    },
+    {
+     "source_id": "src_yt_7QuY96FyhG4",
+     "locator": "[24:43]-[25:12] Lycia's story of Sin and Innocence among the Azmeri"
+    }
+   ]
+  },
+  {
+   "id": "event_winter_of_the_world",
+   "name": "Winter of the World",
+   "aliases": [],
+   "type": "event",
+   "summary": "Ancient war in which Kulemak and the Lightless blanketed the Vastiri Plains and the surface, ended when the Three Sisters (Solerai/Lundara etc.) destroyed Kulemak's mortal form and brought back the sun.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [
+    "abyss"
+   ],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "before the Vaal Empire",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_three_sisters",
+     "locator": "paragraph 2"
+    },
+    {
+     "source_id": "src_poe2wiki_kulemak",
+     "locator": "paragraph 1: 'Winter of the World ... lasted for centuries'"
+    }
+   ]
+  },
+  {
+   "id": "concept_belief_forged_gods",
+   "name": "Gods as belief and Beast-energy",
+   "aliases": [],
+   "type": "concept",
+   "subtype": "theory",
+   "summary": "Interpretive concept: gods in Wraeclast are sustained by worship and by proximity to the Beast's power; their abilities are 'restricted by the Beast'. Fan synthesis built from wiki statements on godhood and the Beast.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Ascension to godhood'"
+    },
+    {
+     "source_id": "src_poewiki_kitava_the_insatiable",
+     "locator": "Lore: 'Like the other gods of Wraeclast, Kitava's abilities are restricted by the Beast'"
+    },
+    {
+     "source_id": "src_poe2wiki_halani_the_water_goddess",
+     "locator": "Halani found powerless from lack of worship (see PoE1 'God' page, Maraketh gods)"
+    }
+   ]
+  },
+  {
+   "id": "deity_beast",
+   "name": "The Beast",
+   "aliases": [
+    "Nightmare",
+    "Darkness"
+   ],
+   "type": "deity",
+   "subtype": "divine_creature",
+   "summary": "Divine creature, source of thaumaturgy and corruption, grown by Sin from the Dark Ember beneath Highgate to keep the gods asleep. Has no will of its own; exploited by Doryani, Atziri, Chitus, Malachai. The Exile kills it in Act 4; PoE2 follows a new Beast grown from the stolen Seed of Corruption.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act4"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_beast_lore",
+     "locator": "intro and paragraph 3"
+    },
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "artifact_dark_ember",
+   "name": "Dark Ember",
+   "aliases": [],
+   "type": "artifact",
+   "summary": "Seed from which the Beast grew; its residue after the Beast's death is extracted by the Exile and Sin from the Beast's core using the souls of Shavronne, Maligaro and Doedre, and used against Kitava.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act6",
+    "act_poe1_act10"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "dialogue 'The Dark Ember' / 'Shavronne': \"The very seed that brought my Beast into existence. The Dark Ember.\""
+    }
+   ]
+  },
+  {
+   "id": "artifact_seed_of_corruption",
+   "name": "Seed of Corruption",
+   "aliases": [],
+   "type": "artifact",
+   "summary": "Essence found by Sin in a Precursor ruin and used to create the Beast; in PoE2 a seed is stolen by Count Geonor from Sin and grows into a new Beast.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE2 ~20 years after PoE1",
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 2 and last paragraph"
+    },
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section on Path of Exile 2"
+    }
+   ]
+  },
+  {
+   "id": "deity_sin",
+   "name": "Sin",
+   "aliases": [
+    "The Forgotten One",
+    "Thief of Virtue",
+    "The Hooded One",
+    "Original Evil"
+   ],
+   "type": "deity",
+   "summary": "God, twin brother of Innocence, 'Thief of Virtue', creator of the Beast and Exile's ally in PoE1 Act 5-10 (sources the Pantheon); husband of Garukhan, father of Shakari. In PoE2 he hides as the Hooded One.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act5",
+    "act_poe1_act10",
+    "act_poe2_act2"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poe2wiki_the_hooded_one",
+     "locator": "Lore: reveals himself as Sin at the end of Act 2"
+    }
+   ]
+  },
+  {
+   "id": "deity_innocence",
+   "name": "Innocence",
+   "aliases": [
+    "High Templar Avarius (host)"
+   ],
+   "type": "deity",
+   "summary": "Templar god of light and purity, twin of Sin; per Lycia's relics his ascension was fuelled by turning followers against Sin. In Act 5 High Templar Avarius is his vessel; after Sin's 'more sensible host' (Bannon) sacrifices himself with the Staff of Purity in Act 10, he is reborn, helps defeat Kitava and then goes into self-exile in the far south.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act5",
+    "act_poe1_act10"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Innocence'"
+    },
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "Original Sin / Act 10 dialogue"
+    },
+    {
+     "source_id": "src_poewiki_high_templar_avarius",
+     "locator": "Avarius as vessel of Innocence (see Kitava page: Triumph of Innocence)"
+    },
+    {
+     "source_id": "src_poewiki_act_10",
+     "locator": "quest An End to Hunger/Death and Rebirth: Bannon resurrects Innocence"
+    }
+   ]
+  },
+  {
+   "id": "deity_the_forgotten_daughter",
+   "name": "The Forgotten Daughter",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Unique monster in Act 2 Fellshrine Ruins representing Sin and Innocence's sister, from before the gods; presumably never ascended.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'The Forgotten Daughter'"
+    },
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "sister, 'whom he only vaguely recalls'"
+    }
+   ]
+  },
+  {
+   "id": "artifact_sign_of_purity",
+   "name": "Sign of Purity",
+   "aliases": [],
+   "type": "artifact",
+   "summary": "Weapon forged by Innocence from his own blood, kept in the Templar Ossuary; destroyed by Kitava's beam in Act 5.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act5"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "Sin 'The Sign of Purity'"
+    },
+    {
+     "source_id": "src_poewiki_kitava_the_insatiable",
+     "locator": "Act 5: beam destroys the Sign of Purity"
+    }
+   ]
+  },
+  {
+   "id": "deity_kitava",
+   "name": "Kitava",
+   "aliases": [
+    "The Cannibal King",
+    "The Black Spirit",
+    "The Ravenous One",
+    "The Tormented One",
+    "Father of Corruption",
+    "Kitava, the Insatiable"
+   ],
+   "type": "deity",
+   "summary": "Karui god of chaos, hunger and corruption (Father of Corruption, the Cannibal King, Black Spirit); invited into Wraeclast by the Eternals per Karui lore, devours Oriath and is slain by the Exile with Sin and Innocence in Act 10.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act5",
+    "act_poe1_act10"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kitava_the_insatiable",
+     "locator": "section 'Lore'"
+    },
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section 'Kitava'"
+    }
+   ]
+  },
+  {
+   "id": "deity_hinekora",
+   "name": "Hinekora",
+   "aliases": [
+    "Mother of Death"
+   ],
+   "type": "deity",
+   "summary": "Karui Mother of Death; collects souls in the Halls of the Dead, foresees events across timelines, whipped Kitava into the underworld with her hair, and slept after foreseeing the Slumbering of the Gods. Oversees the Trial of the Ancestors.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [
+    "ancestor"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_hinekora",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "deity_tukohama",
+   "name": "Tukohama",
+   "aliases": [
+    "Father of War"
+   ],
+   "type": "deity",
+   "summary": "Karui god of war; his tooth slashed Kitava's face. Revived by the Beast's death, he raises the Karui Fortress and is the first god the Exile captures for the Pantheon in Act 6. Kaom claimed to be his son (carvings in Kaom's Stronghold).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act6"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section 'Tukohama'"
+    },
+    {
+     "source_id": "src_poewiki_tukohama_karui_god_of_war",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "deity_valako",
+   "name": "Valako",
+   "aliases": [
+    "Father of the Storm"
+   ],
+   "type": "deity",
+   "summary": "Karui god of storms and lightning; his jaw became a fish hook, one of Kitava's Torments.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section 'Valako'"
+    },
+    {
+     "source_id": "src_poewiki_kitava_s_torments",
+     "locator": "Lani: 'A fish hook that was once the Valako's Jaw'"
+    }
+   ]
+  },
+  {
+   "id": "deity_ngamahu",
+   "name": "Ngamahu",
+   "aliases": [
+    "Mother of Fire"
+   ],
+   "type": "deity",
+   "summary": "Karui goddess of fire, Mother of Fire; honoured in Ngamakanui.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section 'Ngamahu'"
+    },
+    {
+     "source_id": "src_poe2wiki_ngamahu_s_test",
+     "locator": "Halls of the Dead test; Karui tattoos by god's domain"
+    }
+   ]
+  },
+  {
+   "id": "deity_tasalio",
+   "name": "Tasalio",
+   "aliases": [
+    "Father of Water"
+   ],
+   "type": "deity",
+   "summary": "Karui god of water, Father of Water.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section 'Tasalio'; Haku level 7 dialogue"
+    }
+   ]
+  },
+  {
+   "id": "deity_tawhoa",
+   "name": "Tawhoa",
+   "aliases": [
+    "Father of the Forest"
+   ],
+   "type": "deity",
+   "summary": "Karui god of the forest and birds, Father of the Forest.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "section 'Tawhoa'"
+    }
+   ]
+  },
+  {
+   "id": "deity_ramako",
+   "name": "Ramako",
+   "aliases": [
+    "Father of Light",
+    "Father of the Sun"
+   ],
+   "type": "deity",
+   "summary": "Karui god of light and the sun; husband of Sione; fathered Arohongui in an alleged affair with Lani Lua, which he claims was an impostor.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Karui gods' (Ramako/Arohongui/Rongokurai/Lani Lua/Sione myths)"
+    }
+   ]
+  },
+  {
+   "id": "deity_rongokurai",
+   "name": "Rongokurai",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Karui god of the night; accused of helping Ramako's affair; on bad terms with Ramako.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Karui gods' (Ramako/Arohongui/Rongokurai/Lani Lua/Sione myths)"
+    }
+   ]
+  },
+  {
+   "id": "deity_lani_lua",
+   "name": "Lani Lua",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Karui Mother of the Moon (the Karui sister name for the lunar goddess), involved in the myth of Ramako and Arohongui. Note: The Three Sisters page lists Lani Lua as sun and Sione as moon, contradicting the God page (Lani Lua moon, Sione sun); the wiki is inconsistent.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Karui gods' (Ramako/Arohongui/Rongokurai/Lani Lua/Sione myths)"
+    },
+    {
+     "source_id": "src_poewiki_the_three_sisters",
+     "locator": "Karui: Lani Lua (sun), Sione (moon) - wiki lists them in this order; conflicts with Karui Gods page"
+    }
+   ]
+  },
+  {
+   "id": "deity_sione",
+   "name": "Sione",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Karui Mother of the Sun, wife of Ramako, locked in endless battle with Lani Lua. See Lani Lua node for wiki inconsistency on which is sun/moon.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Karui gods' (Ramako/Arohongui/Rongokurai/Lani Lua/Sione myths)"
+    }
+   ]
+  },
+  {
+   "id": "deity_arohongui",
+   "name": "Arohongui",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Karui moon goddess, Daughter of the Moon; daughter of Ramako and Lani Lua in myth (possibly Tangmazu's child).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Karui gods' (Ramako/Arohongui/Rongokurai/Lani Lua/Sione myths)"
+    },
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Karui gods' (Ramako/Arohongui/Rongokurai/Lani Lua/Sione myths)"
+    }
+   ]
+  },
+  {
+   "id": "artifact_kitavas_torments",
+   "name": "Kitava's Torments",
+   "aliases": [],
+   "type": "artifact",
+   "summary": "Three Karui relics taken by Templars: Hinekora's Hair (whip), Tukohama's Tooth, and Valako's Jaw (fish hook). Lani asks the Exile to recover them in Act 5 for the Karui defence of Ngamakanui. Optional quest (Act 5, 'required: no').",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act5"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kitava_s_torments",
+     "locator": "Lani dialogue"
+    }
+   ]
+  },
+  {
+   "id": "event_kitava_invited_to_wraeclast",
+   "name": "Kitava invited into Wraeclast",
+   "aliases": [],
+   "type": "event",
+   "summary": "Karui carvings say the Eternals opened the gate and invited Kitava into the land; Kitava cut the Karui off from the Ancestors. Haku adds that the Karui also had a hand in the downfall.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_ingame_haku_navali_dialogue",
+     "locator": "Weathered Carving in Kaom's Stronghold; Haku 'The Karui and Wraeclast'"
+    }
+   ]
+  },
+  {
+   "id": "deity_solaris",
+   "name": "Solaris",
+   "aliases": [
+    "Eternal Sun",
+    "Solari (Azmeri)",
+    "Solerai (Maraketh)"
+   ],
+   "type": "deity",
+   "summary": "Eternal/Azmeri sun goddess, twin sister of Lunaris; led a rival cult after Tangmazu tricked her into believing Lunaris betrayed her. Sin has her soul captured for the Pantheon in Act 8. (PoE2 appearance of Solaris/Lunaris by name not verified in the local PoE2 corpus; Maraketh variants Solerai/Lundara and the Three Sisters myth cover PoE2.)",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act8"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Solaris and Lunaris'"
+    },
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "Sin 'Solaris' dialogue"
+    }
+   ]
+  },
+  {
+   "id": "deity_lunaris",
+   "name": "Lunaris",
+   "aliases": [
+    "Eternal Moon",
+    "Lunari (Azmeri)",
+    "Lundara (Maraketh)"
+   ],
+   "type": "deity",
+   "summary": "Eternal/Azmeri moon goddess, sister of Solaris; her rivalry was engineered by Tangmazu. (PoE2 appearance of Solaris/Lunaris by name not verified in the local PoE2 corpus; Maraketh variants Solerai/Lundara and the Three Sisters myth cover PoE2.)",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act8"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Solaris and Lunaris'"
+    },
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "Sin 'Lunaris' dialogue"
+    }
+   ]
+  },
+  {
+   "id": "deity_viridi",
+   "name": "Viridi",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Third sister of Solaris and Lunaris, Azmeri goddess of the earth, trapped within 'the orb' in Azmeri creation myth; probable namesake of the Viridian Wildwood.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_viridi",
+     "locator": "intro and 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "concept_three_sisters",
+   "name": "The Three Sisters",
+   "aliases": [],
+   "type": "concept",
+   "summary": "Cross-cultural myth of the sun, moon and earth sisters who destroyed Kulemak's mortal form and ended the Winter of the World; named differently by Eternals, Maraketh, Karui, Azmeri and the Wildwood Draiocht (Catha, Mhacha, Morrigan).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_three_sisters",
+     "locator": "intro and culture list"
+    }
+   ]
+  },
+  {
+   "id": "deity_tangmazu",
+   "name": "Tangmazu",
+   "aliases": [
+    "Strange Voice",
+    "Tekaru the Deceiver",
+    "Raven Trickster",
+    "Black Crow"
+   ],
+   "type": "deity",
+   "summary": "Trickster god (Raven Trickster / Tekaru / Black Crow), brother of Ralakesh, who caused the Solaris-Lunaris feud. The Strange Voice of Delirium mirrors; in PoE2 he is bound in Kedge Bay by Karui bindings, disguised as Freya Hartlin, and freed in Dark Mists.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "delirium"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_strange_voice",
+     "locator": "section 'Lore'"
+    },
+    {
+     "source_id": "src_poe2wiki_dark_mists",
+     "locator": "Freya Hartlin reveals herself as Tangmazu"
+    }
+   ]
+  },
+  {
+   "id": "deity_ralakesh",
+   "name": "Ralakesh",
+   "aliases": [
+    "Master of a Million Faces"
+   ],
+   "type": "deity",
+   "summary": "God of subjugation and control, Master of a Million Faces, brother of Tangmazu. Eramir says he ruled a Vaal city and enslaved Azmeri to repopulate it; the God page lists him among Azmerian/Eternal gods. His relic possessed Greust; in the Act 7 quest The Master of a Million Faces the Exile kills Greust and Sin then drains and kills Ralakesh.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act9"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_ralakesh_master_of_a_million_faces",
+     "locator": "intro + Lore (Eramir/Sin quotes); 'Sin will then kill Ralakesh by draining its power'"
+    },
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Ralakesh'"
+    }
+   ]
+  },
+  {
+   "id": "deity_arakaali",
+   "name": "Arakaali",
+   "aliases": [
+    "Spinner of Shadows"
+   ],
+   "type": "deity",
+   "summary": "Vaal harlot turned fertility goddess and queen, the Spinner of Shadows; held Sin captive; sealed in the Temple of Decay and slain by the Exile in Act 7.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act7"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_arakaali_spinner_of_shadows",
+     "locator": "section 'Lore'"
+    },
+    {
+     "source_id": "src_yt_1E5kADGy5Pw",
+     "locator": "[0:00]-[1:30]"
+    }
+   ]
+  },
+  {
+   "id": "deity_gruthkul",
+   "name": "Gruthkul",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Bestial minor god, Mother of Despair / Porcelain Queen, a mother whose children were slaughtered by Arakaali and whose grief made her a horned beast; Act 7 Pantheon boss. Sources disagree on the culprit: the God page says Arakaali slaughtered her children; Sin's dialogue says the Vaal laid waste to her kingdom; Sin's 'Mother of Despair' dialogue says her daughters plotted against Arakaali.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act7"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Gruthkul'"
+    },
+    {
+     "source_id": "src_poewiki_gruthkul_mother_of_despair",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "deity_ryslatha",
+   "name": "Ryslatha",
+   "aliases": [
+    "The Puppet Mistress"
+   ],
+   "type": "deity",
+   "summary": "Former Azmeri matriarch who lost her children to Tukohama's warriors and became a parasitic carrion queen; Act 6 Pantheon boss.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act6"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Ryslatha'"
+    },
+    {
+     "source_id": "src_poewiki_ryslatha_the_puppet_mistress",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "deity_brine_king",
+   "name": "The Brine King",
+   "aliases": [
+    "Tsoagoth",
+    "Soygoth",
+    "Lord of Salt and Scale",
+    "Old Briney"
+   ],
+   "type": "deity",
+   "summary": "Azmeri king Tsoagoth turned god of storms and sea, worshipped by the Brinerot pirates with sacrifices; Act 6 Pantheon boss.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act6"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_tsoagoth_the_brine_king",
+     "locator": "section 'Lore'"
+    },
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'The Brine King'"
+    },
+    {
+     "source_id": "src_yt_6Y1gnplA1FE",
+     "locator": "[0:00]-[1:50]"
+    }
+   ]
+  },
+  {
+   "id": "deity_abberath",
+   "name": "Abberath",
+   "aliases": [
+    "The Cloven One"
+   ],
+   "type": "deity",
+   "summary": "Former scholar who consumed souls of goats and became the goat-like Cloven One; father of the Faun; Act 6 Pantheon boss.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act6"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Abberath'"
+    },
+    {
+     "source_id": "src_poewiki_abberath_the_cloven_one",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "deity_yugul",
+   "name": "Yugul",
+   "aliases": [
+    "Reflection of Terror"
+   ],
+   "type": "deity",
+   "summary": "Vaal scholar obsessed with fear who used mirrors to petrify terror; ascended through worship; slain by the Exile in Act 8 (Reflection of Terror).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act8"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_yugul_reflection_of_terror",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "deity_garukhan",
+   "name": "Garukhan",
+   "aliases": [
+    "Queen of the Winds",
+    "Orbala"
+   ],
+   "type": "deity",
+   "summary": "Maraketh storm goddess, Queen of the Winds; wife of Sin, mother of Shakari; formerly the hero Orbala, Sekhema of Sekhemas (PoE2). Slain by the Exile in Act 9 at Sin's request.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act9",
+    "act_poe2_act2"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_garukhan_queen_of_the_winds",
+     "locator": "section 'Lore'"
+    },
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Garukhan'"
+    }
+   ]
+  },
+  {
+   "id": "deity_shakari",
+   "name": "Shakari",
+   "aliases": [
+    "Queen of the Sands"
+   ],
+   "type": "deity",
+   "summary": "Daughter of Sin and Garukhan; Queen of the Sands, twisted scorpion-like by lust for power; optional Act 9 boss.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act9"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_shakari_queen_of_the_sands",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Shakari'"
+    }
+   ]
+  },
+  {
+   "id": "char_orbala",
+   "name": "Orbala",
+   "aliases": [],
+   "type": "character",
+   "summary": "Maraketh warrior who fought the 'bandit king of Stridevolf'; PoE2 states she was the mortal identity of Garukhan before ascension, known as the Sekhema of Sekhemas. PoE1 3.22 relics (a traveller freeing Sin from Innocence's worshippers) are suggested, not confirmed, to be her.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_orbala",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'Relationships'"
+    },
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Garukhan'"
+    }
+   ]
+  },
+  {
+   "id": "deity_halani",
+   "name": "Halani",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Forgotten Maraketh water goddess, found powerless and dying from lack of worship in PoE2 Act 2 Buried Shrines; mother of Azarian.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_halani_the_water_goddess",
+     "locator": "intro and dialogue with Azarian"
+    },
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Halani'"
+    }
+   ]
+  },
+  {
+   "id": "deity_prospero",
+   "name": "Prospero",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Azmerian god of wealth and the underworld, patron of the Perandus family; Cadiro struck a deal for long life.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "perandus"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Prospero'"
+    }
+   ]
+  },
+  {
+   "id": "deity_kamasa",
+   "name": "Kamasa",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Vaal Monkey God of wealth and greed; mentioned in PoE2 Act 2/3 and in PoE1 items.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Kamasa'"
+    },
+    {
+     "source_id": "src_poe2wiki_kamasa_s_orb_of_sacrifice",
+     "locator": "Orb of Sacrifice named for Kamasa"
+    }
+   ]
+  },
+  {
+   "id": "deity_kopec",
+   "name": "Kopec",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Vaal god, presumably of sun or fire; PoE2 has the Temple of Kopec.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Kopec'"
+    }
+   ]
+  },
+  {
+   "id": "deity_yaomac",
+   "name": "Yaomac",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Vaal shepherd of souls with three serpentine heads who maintains the balance of seasons.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Yaomac'"
+    }
+   ]
+  },
+  {
+   "id": "deity_the_first_ones",
+   "name": "The First Ones",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Group of animalistic Ezomyte gods including Craiceann, Farrul, Fenumus, Saqawal, the Greatwolf and the Gull; roam the realm of Spirit.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_first_ones",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'The First Ones'"
+    }
+   ]
+  },
+  {
+   "id": "deity_chaos",
+   "name": "Chaos",
+   "aliases": [],
+   "type": "deity",
+   "subtype": "impulse",
+   "summary": "Impulse able to see across timelines, once worshipped by Vaal priests; master of the Trialmaster and enemy-of-sorts to Hinekora's fixed prophecies.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "ultimatum",
+    "trial_of_chaos"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_chaos_lore",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Chaos'"
+    }
+   ]
+  },
+  {
+   "id": "deity_order",
+   "name": "Order",
+   "aliases": [],
+   "type": "deity",
+   "subtype": "impulse",
+   "summary": "Impulse opposed to Chaos; almost nothing is known.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Order'"
+    }
+   ]
+  },
+  {
+   "id": "deity_kulemak",
+   "name": "Kulemak",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Master of the Lightless and creator of the Lich Lords; exalted within the Well of Souls (which arose after The Master Below All 'raged'), he waged the Winter of the World against the surface until the Three Sisters destroyed his mortal form; his soul returned to the Well. Namesake of the Horns of Kulemak (Immortal Syndicate). PoE2 pinnacle of the Well of Souls content.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "abyss",
+    "poe2_abyss"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "section 'Kulemak'"
+    },
+    {
+     "source_id": "src_poe2wiki_kulemak",
+     "locator": "intro (not re-fetchable; Cloudflare/Anubis block)"
+    },
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Kulemak'"
+    }
+   ]
+  },
+  {
+   "id": "deity_master_below_all",
+   "name": "The Master Below All",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Ancient being whose rage created the Well of Souls, power source of necromancy; nothing else known.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "section 'Kulemak'"
+    },
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'The Master Below All'"
+    }
+   ]
+  },
+  {
+   "id": "loc_well_of_souls",
+   "name": "The Well of Souls",
+   "aliases": [],
+   "type": "location",
+   "summary": "Source of necromantic power that collects all souls; hub area in PoE2 Abyss content.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "poe2_abyss"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_well_of_souls",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "char_amanamu",
+   "name": "Amanamu",
+   "aliases": [],
+   "type": "character",
+   "subtype": "abyssal_lich",
+   "summary": "Amanamu is an Abyssal Lich and one of Kulemak's three most powerful servants commanding the Lightless.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "abyss"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_amanamu_liege_of_the_lightless",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "char_kurgal",
+   "name": "Kurgal",
+   "aliases": [],
+   "type": "character",
+   "subtype": "abyssal_lich",
+   "summary": "Kurgal is an Abyssal Lich and one of Kulemak's three most powerful servants commanding the Lightless.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "abyss"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kurgal_the_blackblooded",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "char_ulaman",
+   "name": "Ulaman",
+   "aliases": [],
+   "type": "character",
+   "subtype": "abyssal_lich",
+   "summary": "Ulaman is an Abyssal Lich and one of Kulemak's three most powerful servants commanding the Lightless.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "abyss"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_ulaman_sovereign_of_the_well",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "deity_the_bodach",
+   "name": "The Bodach",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Embodiment of the Unlight sealed away by the Three Sisters in Wildwood Azmeri myth; PoE2 Ritual pinnacle boss in Caer Tarth, tied to the King in the Mists (0.5).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "ritual"
+   ],
+   "era": "poe2_endgame",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_three_sisters",
+     "locator": "paragraph 3: Sisters sealed away the Bodach"
+    },
+    {
+     "source_id": "src_poe2wiki_the_bodach",
+     "locator": "intro and Phase 1b"
+    },
+    {
+     "source_id": "src_other_timesaver_bodach",
+     "locator": "Rite of the Nameless summary (third-party)"
+    }
+   ]
+  },
+  {
+   "id": "deity_the_molten_one",
+   "name": "The Molten One",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Last known Titan from a prehistoric era, indirectly worshipped as the volcano home of the Redblade warband.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "crucible"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_molten_one",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'The Molten One'"
+    }
+   ]
+  },
+  {
+   "id": "char_kalandra",
+   "name": "Kalandra",
+   "aliases": [],
+   "type": "character",
+   "summary": "Ancient owl-bodied being trapped in her lake since the primordial era; disdains gods ('thieves of virtue') and is said to have counselled Sin on creating the Beast.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "kalandra"
+   ],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kalandra",
+     "locator": "Lore 'Ancient Etchings'"
+    },
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "deity_vaal_oversoul",
+   "name": "Vaal Oversoul",
+   "aliases": [],
+   "type": "deity",
+   "summary": "Colossal Vaal entity summoned on the Dark Altar in the Ancient Pyramid with The Apex; Act 2 final boss. Wiki gives no explicit lore on its nature; its relation to Vaal soul-worship is inferred.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "vaal",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe1_act2"
+   ],
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_oversoul",
+     "locator": "intro; map variant 'Vessel of the Vaal'"
+    }
+   ]
+  },
+  {
+   "id": "faction_brinerot",
+   "name": "Brinerot",
+   "aliases": [],
+   "type": "faction",
+   "summary": "Pirates who worship the Brine King and drown mutineers or slaves.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'The Brine King'"
+    }
+   ]
+  },
+  {
+   "id": "char_azarian",
+   "name": "Azarian, the Forsaken Son",
+   "aliases": [],
+   "type": "character",
+   "summary": "Son of Halani, abandoned and raised among the Faridun; Act 2 boss in Buried Shrines.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "act_poe2_act2"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_halani_the_water_goddess",
+     "locator": "dialogue with Azarian"
+    }
+   ]
+  },
+  {
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "low",
+   "aliases": [],
+   "id": "deity_the_spirit",
+   "name": "The Spirit",
+   "type": "deity",
+   "summary": "Mysterious entity with which Yeena (Act 2) communicates; listed among Azmerian/Eternal gods on the God page. Nothing more is stated.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'The Spirit'"
+    }
+   ],
+   "subtype": "unknown_entity"
+  },
+  {
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "low",
+   "aliases": [],
+   "id": "deity_goddess_of_justice",
+   "name": "The Goddess of Justice",
+   "type": "deity",
+   "summary": "Deity worshipped by Izaro Phrecius; known only by this title.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'The Goddess of Justice'"
+    }
+   ]
+  },
+  {
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "harbinger"
+   ],
+   "era": "unknown",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "low",
+   "aliases": [],
+   "id": "deity_god_of_domination",
+   "name": "The God of Domination",
+   "type": "deity",
+   "summary": "Mysterious, possibly otherworldly god tied to the Harbingers; Harbinger uniques foretell its gaze falling over Wraeclast.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'The God of Domination'"
+    }
+   ]
+  },
+  {
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "unknown",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [],
+   "canon_status": "canon",
+   "confidence": "low",
+   "aliases": [],
+   "id": "deity_thruldana",
+   "name": "Thruldana",
+   "type": "deity",
+   "summary": "God whose name Undertaker Arimor invokes in a chant; nothing else is known.",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Thruldana'"
+    }
+   ]
+  },
+  {
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": null,
+    "story_order": null
+   },
+   "acts": [
+    "poe1_act10"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "aliases": [],
+   "id": "char_bannon",
+   "name": "Bannon",
+   "type": "character",
+   "summary": "Templar commander and Act 10 ally who uses the Staff of Purity to resurrect Innocence, sacrificing himself; Lani says he went to Hinekora's home. Minimal node (owned by campaign domain).",
+   "sources": [
+    {
+     "source_id": "src_poewiki_act_10",
+     "locator": "quest Death and Rebirth: Bannon used the Staff of Purity and sacrificed himself to resurrect Innocence"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "id": "e_char_exile_poe1__defeats__deity_tukohama",
+   "source": "char_exile_poe1",
+   "target": "deity_tukohama",
+   "relation": "defeats",
+   "description": "The Exile defeats Tukohama in Act 6.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_tukohama_karui_god_of_war",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_abberath",
+   "source": "char_exile_poe1",
+   "target": "deity_abberath",
+   "relation": "defeats",
+   "description": "The Exile defeats Abberath in Act 6.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_abberath_the_cloven_one",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_ryslatha",
+   "source": "char_exile_poe1",
+   "target": "deity_ryslatha",
+   "relation": "defeats",
+   "description": "The Exile defeats Ryslatha in Act 6.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_ryslatha_the_puppet_mistress",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_brine_king",
+   "source": "char_exile_poe1",
+   "target": "deity_brine_king",
+   "relation": "defeats",
+   "description": "The Exile defeats The Brine King in Act 6.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_tsoagoth_the_brine_king",
+     "locator": "Pantheon powers"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_gruthkul",
+   "source": "char_exile_poe1",
+   "target": "deity_gruthkul",
+   "relation": "defeats",
+   "description": "The Exile defeats Gruthkul in Act 7.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_gruthkul_mother_of_despair",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_arakaali",
+   "source": "char_exile_poe1",
+   "target": "deity_arakaali",
+   "relation": "defeats",
+   "description": "The Exile defeats Arakaali in Act 7.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_arakaali_spinner_of_shadows",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_yugul",
+   "source": "char_exile_poe1",
+   "target": "deity_yugul",
+   "relation": "defeats",
+   "description": "The Exile defeats Yugul in Act 8.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_yugul_reflection_of_terror",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_ralakesh",
+   "source": "char_exile_poe1",
+   "target": "deity_ralakesh",
+   "relation": "defeats",
+   "description": "Act 7 quest The Master of a Million Faces: Ralakesh is untargetable and aids Greust; the Exile kills Greust, then Sin drains and kills Ralakesh and the Exile claims the Pantheon power.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_ralakesh_master_of_a_million_faces",
+     "locator": "intro: boss in Act 7, The Ashen Fields"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_garukhan",
+   "source": "char_exile_poe1",
+   "target": "deity_garukhan",
+   "relation": "defeats",
+   "description": "The Exile defeats Garukhan in Act 9.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_garukhan_queen_of_the_winds",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_shakari",
+   "source": "char_exile_poe1",
+   "target": "deity_shakari",
+   "relation": "defeats",
+   "description": "The Exile defeats Shakari in Act 9.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_shakari_queen_of_the_sands",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_solaris",
+   "source": "char_exile_poe1",
+   "target": "deity_solaris",
+   "relation": "defeats",
+   "description": "The Exile defeats Solaris in Act 8.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "Sin 'Solaris and Lunaris'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_lunaris",
+   "source": "char_exile_poe1",
+   "target": "deity_lunaris",
+   "relation": "defeats",
+   "description": "The Exile defeats Lunaris in Act 8.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "Sin 'Lunaris'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_kitava",
+   "source": "char_exile_poe1",
+   "target": "deity_kitava",
+   "relation": "defeats",
+   "description": "Act 5: the Exile fights Kitava but is overcome (the fight ends as a scripted 'defeat'; Sin rescues them). Act 10: the Exile kills Kitava in the Feeding Trough with Sin and the reborn Innocence.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kitava_the_insatiable",
+     "locator": "intro: final boss of Act 5 and 10; resist penalty after being \"defeated\" at end of Act 5"
+    },
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "In-game interactions: failed attempt to defeat reawakened Kitava in Act 5; Act 10 'assists the player to defeat Kitava'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__defeats__deity_vaal_oversoul",
+   "source": "char_exile_poe1",
+   "target": "deity_vaal_oversoul",
+   "relation": "defeats",
+   "description": "The Exile defeats Vaal Oversoul in Act 2.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_oversoul",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__destroyed__deity_beast",
+   "source": "char_exile_poe1",
+   "target": "deity_beast",
+   "relation": "destroyed",
+   "description": "In Act 4 the Exile slays Malachai and destroys the Beast, awakening the gods.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_beast_lore",
+     "locator": "paragraph 3"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__participates_in__event_gods_awaken",
+   "source": "char_exile_poe1",
+   "target": "event_gods_awaken",
+   "relation": "participates_in",
+   "description": "The Exile's killing of the Beast wakes the gods.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_beast_lore",
+     "locator": "paragraph 3"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__guides__char_exile_poe1",
+   "source": "deity_sin",
+   "target": "char_exile_poe1",
+   "relation": "guides",
+   "description": "Sin guides the Exile from Act 5 to Act 10 and grants Pantheon powers.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__allies_with__char_exile_poe1",
+   "source": "deity_sin",
+   "target": "char_exile_poe1",
+   "relation": "allies_with",
+   "description": "Sin and the Exile jointly face Kitava.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "Act 10 dialogue: 'Together we will save humankind'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__guides__char_exile_poe2",
+   "source": "deity_sin",
+   "target": "char_exile_poe2",
+   "relation": "guides",
+   "description": "As the Hooded One, Sin aids the Exile in tracking the new Beast; the Garukhan shrine in Act 2 hints at his past and he reveals himself as Sin at the end of Act 2.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_hooded_one",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_innocence__allies_with__char_exile_poe1",
+   "source": "deity_innocence",
+   "target": "char_exile_poe1",
+   "relation": "allies_with",
+   "description": "Reincarnated through Bannon, Innocence fights Kitava beside the Exile in Act 10.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "Sin: 'We must invoke my dormant brother'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_kitava__opposes__char_exile_poe1",
+   "source": "deity_kitava",
+   "target": "char_exile_poe1",
+   "relation": "opposes",
+   "description": "Kitava devours Oriath and hunts the Exile; unwinnable in Act 5.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kitava_the_insatiable",
+     "locator": "Act 5"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__participates_in__concept_the_pantheon",
+   "source": "char_exile_poe1",
+   "target": "concept_the_pantheon",
+   "relation": "participates_in",
+   "description": "The Exile carries souls of captured gods as Pantheon powers.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "'The Father of War' dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__associated_with__concept_the_pantheon",
+   "source": "deity_sin",
+   "target": "concept_the_pantheon",
+   "relation": "associated_with",
+   "description": "Sin introduces the Pantheon system: he captures the souls of slain gods and grants the Exile their powers.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "function: 'Unlocks and upgrades Pantheon powers'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_tukohama__part_of__concept_the_pantheon",
+   "source": "deity_tukohama",
+   "target": "concept_the_pantheon",
+   "relation": "part_of",
+   "description": "Tukohama's soul becomes a Pantheon power for the Exile.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Pantheon'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_abberath__part_of__concept_the_pantheon",
+   "source": "deity_abberath",
+   "target": "concept_the_pantheon",
+   "relation": "part_of",
+   "description": "Abberath's soul becomes a Pantheon power for the Exile.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Pantheon'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_ryslatha__part_of__concept_the_pantheon",
+   "source": "deity_ryslatha",
+   "target": "concept_the_pantheon",
+   "relation": "part_of",
+   "description": "Ryslatha's soul becomes a Pantheon power for the Exile.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Pantheon'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_brine_king__part_of__concept_the_pantheon",
+   "source": "deity_brine_king",
+   "target": "concept_the_pantheon",
+   "relation": "part_of",
+   "description": "The Brine King's soul becomes a Pantheon power for the Exile.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Pantheon'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_gruthkul__part_of__concept_the_pantheon",
+   "source": "deity_gruthkul",
+   "target": "concept_the_pantheon",
+   "relation": "part_of",
+   "description": "Gruthkul's soul becomes a Pantheon power for the Exile.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Pantheon'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_arakaali__part_of__concept_the_pantheon",
+   "source": "deity_arakaali",
+   "target": "concept_the_pantheon",
+   "relation": "part_of",
+   "description": "Arakaali's soul becomes a Pantheon power for the Exile.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Pantheon'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_yugul__part_of__concept_the_pantheon",
+   "source": "deity_yugul",
+   "target": "concept_the_pantheon",
+   "relation": "part_of",
+   "description": "Yugul's soul becomes a Pantheon power for the Exile.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Pantheon'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_ralakesh__part_of__concept_the_pantheon",
+   "source": "deity_ralakesh",
+   "target": "concept_the_pantheon",
+   "relation": "part_of",
+   "description": "Ralakesh's soul becomes a Pantheon power for the Exile.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_ralakesh_master_of_a_million_faces",
+     "locator": "Pantheon powers: minor god power"
+    },
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "Act 7: tasks the exile with defeating Ralakesh"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_garukhan__part_of__concept_the_pantheon",
+   "source": "deity_garukhan",
+   "target": "concept_the_pantheon",
+   "relation": "part_of",
+   "description": "Garukhan's soul becomes a Pantheon power for the Exile.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Pantheon'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_shakari__part_of__concept_the_pantheon",
+   "source": "deity_shakari",
+   "target": "concept_the_pantheon",
+   "relation": "part_of",
+   "description": "Shakari's soul becomes a Pantheon power for the Exile.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Pantheon'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_solaris__part_of__concept_the_pantheon",
+   "source": "deity_solaris",
+   "target": "concept_the_pantheon",
+   "relation": "part_of",
+   "description": "Solaris's soul becomes a Pantheon power for the Exile.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Pantheon'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_lunaris__part_of__concept_the_pantheon",
+   "source": "deity_lunaris",
+   "target": "concept_the_pantheon",
+   "relation": "part_of",
+   "description": "Lunaris's soul becomes a Pantheon power for the Exile.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Pantheon'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__created__deity_beast",
+   "source": "deity_sin",
+   "target": "deity_beast",
+   "relation": "created",
+   "description": "Sin planted the Dark Ember beneath Highgate and nurtured the Beast.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Beast'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_creation_of_the_beast__leads_to__event_slumbering_of_the_gods",
+   "source": "event_creation_of_the_beast",
+   "target": "event_slumbering_of_the_gods",
+   "relation": "leads_to",
+   "description": "The Beast put the gods to sleep.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "'The Rise of the Gods'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_beast__causes__event_slumbering_of_the_gods",
+   "source": "deity_beast",
+   "target": "event_slumbering_of_the_gods",
+   "relation": "causes",
+   "description": "The Beast's presence kept the gods asleep.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_beast_lore",
+     "locator": "paragraph 3"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__participates_in__event_creation_of_the_beast",
+   "source": "deity_sin",
+   "target": "event_creation_of_the_beast",
+   "relation": "participates_in",
+   "description": "Sin is the author of the Beast.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Beast'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_slumbering_of_the_gods__leads_to__event_gods_awaken",
+   "source": "event_slumbering_of_the_gods",
+   "target": "event_gods_awaken",
+   "relation": "leads_to",
+   "description": "Gods remained asleep until the Beast was destroyed.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_beast_lore",
+     "locator": "paragraph 3"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_dark_ember__originates_from__deity_beast",
+   "source": "artifact_dark_ember",
+   "target": "deity_beast",
+   "relation": "originates_from",
+   "description": "The Dark Ember is the seed/black core of the Beast.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "'The Dark Ember': 'the black core of the Beast's heart'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_beast__same_entity_as__concept_the_beast",
+   "source": "deity_beast",
+   "target": "concept_the_beast",
+   "relation": "same_entity_as",
+   "description": "Concept node for the Beast mechanic/lore is the same entity.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_beast_lore",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_seed_of_corruption__same_entity_as__artifact_dark_ember",
+   "source": "artifact_seed_of_corruption",
+   "target": "artifact_dark_ember",
+   "relation": "same_entity_as",
+   "description": "Seed of Corruption (PoE2) is the Beast's seed, called the Dark Ember in PoE1.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_seed_of_corruption__continues_in__deity_beast",
+   "source": "artifact_seed_of_corruption",
+   "target": "deity_beast",
+   "relation": "continues_in",
+   "description": "The stolen seed grows into the new Beast in PoE2.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "last paragraph"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kalandra__guides__deity_sin",
+   "source": "char_kalandra",
+   "target": "deity_sin",
+   "relation": "guides",
+   "description": "Sin sought Kalandra's cryptic instructions before finding the Seed.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_beast",
+     "locator": "paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_godhood__causes__event_creation_of_the_beast",
+   "source": "concept_godhood",
+   "target": "event_creation_of_the_beast",
+   "relation": "causes",
+   "description": "Sin created the Beast to free humanity from gods and ended mortal ascension.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "'The Beast': 'I created a Beast that would free humanity from the tyranny of the gods'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_creation_of_the_beast__leads_to__concept_godhood",
+   "source": "event_creation_of_the_beast",
+   "target": "concept_godhood",
+   "relation": "leads_to",
+   "description": "After the Beast mortals could no longer ascend (end of the age of ascension).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section 'The Beast'"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_belief_forged_gods__associated_with__concept_godhood",
+   "source": "concept_belief_forged_gods",
+   "target": "concept_godhood",
+   "relation": "associated_with",
+   "description": "Interpretive concept built on godhood passage.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Ascension to godhood'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__sibling_of__deity_innocence",
+   "source": "deity_sin",
+   "target": "deity_innocence",
+   "relation": "sibling_of",
+   "description": "Twin brothers born to the Mother of Two.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "stained glass summary; Lycia's relics"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_innocence__sibling_of__deity_sin",
+   "source": "deity_innocence",
+   "target": "deity_sin",
+   "relation": "sibling_of",
+   "description": "Twin brothers.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "same"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_innocence__opposes__deity_sin",
+   "source": "deity_innocence",
+   "target": "deity_sin",
+   "relation": "opposes",
+   "description": "Innocence vilified Sin and drove him from the Azmeri; reconciled in Act 10.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "Lycia's findings; Act 10 dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_event_original_sin__participates_in__deity_innocence",
+   "source": "event_original_sin",
+   "target": "deity_innocence",
+   "relation": "participates_in",
+   "description": "Innocence's ascension via hatred of Sin.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "Lycia's findings"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_innocence__participates_in__event_original_sin",
+   "source": "deity_innocence",
+   "target": "event_original_sin",
+   "relation": "participates_in",
+   "description": "Perpetrator of Original Sin.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_yt_7QuY96FyhG4",
+     "locator": "[25:00]-[25:12]"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__participates_in__event_original_sin",
+   "source": "deity_sin",
+   "target": "event_original_sin",
+   "relation": "participates_in",
+   "description": "Victim of Original Sin, turned 'black as coal'.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_leagues",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "Lycia's findings"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_the_forgotten_daughter__sibling_of__deity_sin",
+   "source": "deity_the_forgotten_daughter",
+   "target": "deity_sin",
+   "relation": "sibling_of",
+   "description": "Sin and Innocence's vaguely remembered sister.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section on sister"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__spouse_of__deity_garukhan",
+   "source": "deity_sin",
+   "target": "deity_garukhan",
+   "relation": "spouse_of",
+   "description": "Sin was wed to Garukhan.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section on Garukhan; Act 9 'Queen of the Winds'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_garukhan__spouse_of__deity_sin",
+   "source": "deity_garukhan",
+   "target": "deity_sin",
+   "relation": "spouse_of",
+   "description": "Garukhan was Sin's wife.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "same"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__parent_of__deity_shakari",
+   "source": "deity_sin",
+   "target": "deity_shakari",
+   "relation": "parent_of",
+   "description": "Shakari is Sin's daughter.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_shakari_queen_of_the_sands",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_garukhan__parent_of__deity_shakari",
+   "source": "deity_garukhan",
+   "target": "deity_shakari",
+   "relation": "parent_of",
+   "description": "Shakari is Garukhan's daughter.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_shakari_queen_of_the_sands",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_orbala__transforms_into__deity_garukhan",
+   "source": "char_orbala",
+   "target": "deity_garukhan",
+   "relation": "transforms_into",
+   "description": "PoE2 states Orbala (Sekhema of Sekhemas) was Garukhan's mortal identity before ascension.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_orbala",
+     "locator": "intro"
+    },
+    {
+     "source_id": "src_poewiki_garukhan_queen_of_the_winds",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_char_orbala__allies_with__deity_sin",
+   "source": "char_orbala",
+   "target": "deity_sin",
+   "relation": "allies_with",
+   "description": "Orbala freed Sin from Innocence's worshippers (relic story, identified with Garukhan).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "section on Garukhan: v3.22 relics"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__sacrifices__deity_garukhan",
+   "source": "deity_sin",
+   "target": "deity_garukhan",
+   "relation": "sacrifices",
+   "description": "Sin has the Exile kill his wife and daughter, Garukhan and Shakari.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "Act 9 'Queen of the Sands' and 'Garukhan' dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__sacrifices__deity_shakari",
+   "source": "deity_sin",
+   "target": "deity_shakari",
+   "relation": "sacrifices",
+   "description": "Sin lays his daughter 'upon the sacrificial altar'.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "'Queen of the Sands'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_hinekora__imprisons__deity_kitava",
+   "source": "deity_hinekora",
+   "target": "deity_kitava",
+   "relation": "imprisons",
+   "description": "Hinekora whipped Kitava with her hair and held him in the underworld without food or water.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_hinekora",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_tukohama__opposes__deity_kitava",
+   "source": "deity_tukohama",
+   "target": "deity_kitava",
+   "relation": "opposes",
+   "description": "Tukohama's tooth slashed Kitava's face.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Kitava': face slashed with Tukohama's Tooth"
+    },
+    {
+     "source_id": "src_poewiki_kitava_s_torments",
+     "locator": "Lani: tooth Tukohama ripped from his own mouth"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_valako__opposes__deity_kitava",
+   "source": "deity_valako",
+   "target": "deity_kitava",
+   "relation": "opposes",
+   "description": "Valako's Jaw skewered Kitava through the chest.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Kitava': skewered by Valako's Jaw through his chest"
+    }
+   ]
+  },
+  {
+   "id": "e_artifact_kitavas_torments__part_of__deity_kitava",
+   "source": "artifact_kitavas_torments",
+   "target": "deity_kitava",
+   "relation": "part_of",
+   "description": "Kitava's Torments (Hinekora's Hair, Tukohama's Tooth, Valako's Jaw) are relics of the gods' wounds on Kitava. (Link to Kitava's wounds is from the God page; the quest only calls them 'Kitava's Torments'.)",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kitava_s_torments",
+     "locator": "Lani"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__seeks__artifact_kitavas_torments",
+   "source": "char_exile_poe1",
+   "target": "artifact_kitavas_torments",
+   "relation": "seeks",
+   "description": "The Exile recovers the Torments for Lani.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kitava_s_torments",
+     "locator": "quest"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_hinekora__witnesses__event_slumbering_of_the_gods",
+   "source": "deity_hinekora",
+   "target": "event_slumbering_of_the_gods",
+   "relation": "witnesses",
+   "description": "Hinekora foresaw the Slumbering and created the Halls of the Dead before sleeping.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_hinekora",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_hinekora__opposes__deity_chaos",
+   "source": "deity_hinekora",
+   "target": "deity_chaos",
+   "relation": "opposes",
+   "description": "Hinekora wants a fixed timeline, Chaos an unpredictable one.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_hinekora",
+     "locator": "section 'Lore'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_ramako__spouse_of__deity_sione",
+   "source": "deity_ramako",
+   "target": "deity_sione",
+   "relation": "spouse_of",
+   "description": "Ramako wed Sione.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Karui gods' (Ramako/Arohongui myths)"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_ramako__lover_of__deity_lani_lua",
+   "source": "deity_ramako",
+   "target": "deity_lani_lua",
+   "relation": "lover_of",
+   "description": "Alleged affair, mother of Arohongui; Ramako denies.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Karui gods' (Ramako/Arohongui myths)"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_ramako__parent_of__deity_arohongui",
+   "source": "deity_ramako",
+   "target": "deity_arohongui",
+   "relation": "parent_of",
+   "description": "Arohongui conceived of Ramako and Lani Lua in myth.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Karui gods' (Ramako/Arohongui myths)"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_lani_lua__parent_of__deity_arohongui",
+   "source": "deity_lani_lua",
+   "target": "deity_arohongui",
+   "relation": "parent_of",
+   "description": "Arohongui took her mother's place.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Karui gods' (Ramako/Arohongui myths)"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_rongokurai__opposes__deity_ramako",
+   "source": "deity_rongokurai",
+   "target": "deity_ramako",
+   "relation": "opposes",
+   "description": "Rongokurai and Ramako on bad terms after the affair myth.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Karui gods' (Ramako/Arohongui myths)"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sione__opposes__deity_lani_lua",
+   "source": "deity_sione",
+   "target": "deity_lani_lua",
+   "relation": "opposes",
+   "description": "Locked in endless battle.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Karui gods' (Ramako/Arohongui myths)"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kaom__worships__deity_tukohama",
+   "source": "char_kaom",
+   "target": "deity_tukohama",
+   "relation": "worships",
+   "description": "Kaom claimed to be Tukohama's son and sacrificed 500 warriors to him.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_ingame_haku_navali_dialogue",
+     "locator": "Weathered Carvings in Kaom's Dream and Stronghold"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kaom__serves__deity_kitava",
+   "source": "char_kaom",
+   "target": "deity_kitava",
+   "relation": "serves",
+   "description": "Haku says Kitava consumed Kaom and made him the greatest of his slaves.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_ingame_haku_navali_dialogue",
+     "locator": "Haku 'Kaom'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_karui__worships__deity_hinekora",
+   "source": "faction_karui",
+   "target": "deity_hinekora",
+   "relation": "worships",
+   "description": "Karui revere Hinekora, Mother of Death.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "Hinekora section"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_karui__worships__deity_tukohama",
+   "source": "faction_karui",
+   "target": "deity_tukohama",
+   "relation": "worships",
+   "description": "Karui war god.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "Tukohama section"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_karui__worships__deity_ngamahu",
+   "source": "faction_karui",
+   "target": "deity_ngamahu",
+   "relation": "worships",
+   "description": "Karui fire goddess.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "Ngamahu section"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_karui__worships__deity_kitava",
+   "source": "faction_karui",
+   "target": "deity_kitava",
+   "relation": "worships",
+   "description": "Kitava is part of the Karui pantheon (Father of Chaos/Corruption; Haku would 'carve the mark of Kitava'), but Karui carvings say he murdered the Karui Way and Haku fights his slaves; 'worship' is loose.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kitava_the_insatiable",
+     "locator": "Lore: Navali/Haku dialogue; Haku level 5 'mark of Kitava, Father of Chaos'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_eternal_empire__causes__event_kitava_invited_to_wraeclast",
+   "source": "faction_eternal_empire",
+   "target": "event_kitava_invited_to_wraeclast",
+   "relation": "causes",
+   "description": "Karui carvings say the Eternals opened the gate.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "Kaom's Stronghold carving"
+    }
+   ]
+  },
+  {
+   "id": "e_event_kitava_invited_to_wraeclast__leads_to__deity_kitava",
+   "source": "event_kitava_invited_to_wraeclast",
+   "target": "deity_kitava",
+   "relation": "leads_to",
+   "description": "Kitava's arrival in Wraeclast.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "eternal_empire_rise",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "carving"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_solaris__sibling_of__deity_lunaris",
+   "source": "deity_solaris",
+   "target": "deity_lunaris",
+   "relation": "sibling_of",
+   "description": "Twin sisters of sun and moon.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Solaris and Lunaris'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_lunaris__sibling_of__deity_solaris",
+   "source": "deity_lunaris",
+   "target": "deity_solaris",
+   "relation": "sibling_of",
+   "description": "Twin sisters.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "same"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_viridi__sibling_of__deity_solaris",
+   "source": "deity_viridi",
+   "target": "deity_solaris",
+   "relation": "sibling_of",
+   "description": "Third sister.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_viridi",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_viridi__sibling_of__deity_lunaris",
+   "source": "deity_viridi",
+   "target": "deity_lunaris",
+   "relation": "sibling_of",
+   "description": "Third sister.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_viridi",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_tangmazu__betrays__deity_lunaris",
+   "source": "deity_tangmazu",
+   "target": "deity_lunaris",
+   "relation": "betrays",
+   "description": "Tangmazu's trickery set Solaris against Lunaris, massacring thousands.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "'Lunaris': 'In turning sister against sister he saw to the massacre of thousands'"
+    },
+    {
+     "source_id": "src_poewiki_strange_voice",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_tangmazu__betrays__deity_solaris",
+   "source": "deity_tangmazu",
+   "target": "deity_solaris",
+   "relation": "betrays",
+   "description": "Tricked Solaris into believing her sister turned on her.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_strange_voice",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_solaris__opposes__deity_lunaris",
+   "source": "deity_solaris",
+   "target": "deity_lunaris",
+   "relation": "opposes",
+   "description": "Rival cult-like feud.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Solaris and Lunaris'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_tangmazu__sibling_of__deity_ralakesh",
+   "source": "deity_tangmazu",
+   "target": "deity_ralakesh",
+   "relation": "sibling_of",
+   "description": "Tangmazu is Ralakesh's brother.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_strange_voice",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_ralakesh__sibling_of__deity_tangmazu",
+   "source": "deity_ralakesh",
+   "target": "deity_tangmazu",
+   "relation": "sibling_of",
+   "description": "Brothers.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_strange_voice",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_three_sisters__associated_with__deity_solaris",
+   "source": "concept_three_sisters",
+   "target": "deity_solaris",
+   "relation": "associated_with",
+   "description": "Eternal name for the sun sister.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_three_sisters",
+     "locator": "culture list"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_three_sisters__associated_with__deity_lunaris",
+   "source": "concept_three_sisters",
+   "target": "deity_lunaris",
+   "relation": "associated_with",
+   "description": "Eternal name for the moon sister.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_three_sisters",
+     "locator": "culture list"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_three_sisters__associated_with__deity_viridi",
+   "source": "concept_three_sisters",
+   "target": "deity_viridi",
+   "relation": "associated_with",
+   "description": "Azmeri earth sister.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_three_sisters",
+     "locator": "culture list"
+    }
+   ]
+  },
+  {
+   "id": "e_concept_three_sisters__causes__event_winter_of_the_world",
+   "source": "concept_three_sisters",
+   "target": "event_winter_of_the_world",
+   "relation": "causes",
+   "description": "The Sisters ended the Winter of the World by destroying Kulemak's mortal form.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "azmeri_ezomyte_ancient",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_three_sisters",
+     "locator": "paragraph 2"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_kulemak__causes__event_winter_of_the_world",
+   "source": "deity_kulemak",
+   "target": "event_winter_of_the_world",
+   "relation": "causes",
+   "description": "Kulemak waged war on the surface.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "section 'Kulemak'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_kulemak__opposes__concept_three_sisters",
+   "source": "deity_kulemak",
+   "target": "concept_three_sisters",
+   "relation": "opposes",
+   "description": "Defeated by the Three Sisters.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "'After his defeat by the hands of the Three Sisters'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_the_bodach__opposes__concept_three_sisters",
+   "source": "deity_the_bodach",
+   "target": "concept_three_sisters",
+   "relation": "opposes",
+   "description": "Sealed away by the Sisters (Wildwood Azmeri); Sisters help the player in the fight.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_three_sisters",
+     "locator": "paragraph 3"
+    },
+    {
+     "source_id": "src_poe2wiki_the_bodach",
+     "locator": "Phase 1b"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_the_bodach__associated_with__deity_tangmazu",
+   "source": "deity_the_bodach",
+   "target": "deity_tangmazu",
+   "relation": "associated_with",
+   "description": "Tangmazu's origin: given power of Darkness by the Bodach (implied, not stated outright).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_strange_voice",
+     "locator": "Lore last paragraph"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_kulemak__associated_with__deity_master_below_all",
+   "source": "deity_kulemak",
+   "target": "deity_master_below_all",
+   "relation": "associated_with",
+   "description": "Lore only states The Master Below All 'raged' and the Well of Souls arose before Kulemak became exalted in it; servitude is not stated in the corpus.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "section 'Kulemak'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_master_below_all__created__loc_well_of_souls",
+   "source": "deity_master_below_all",
+   "target": "loc_well_of_souls",
+   "relation": "created",
+   "description": "The Master Below All's rage created the Well of Souls.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "section 'Kulemak'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_kulemak__located_in__loc_well_of_souls",
+   "source": "deity_kulemak",
+   "target": "loc_well_of_souls",
+   "relation": "located_in",
+   "description": "Kulemak draws power from the Well.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_kulemak",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_amanamu__serves__deity_kulemak",
+   "source": "char_amanamu",
+   "target": "deity_kulemak",
+   "relation": "serves",
+   "description": "Abyssal Lich servant of Kulemak.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "section 'Kulemak'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_kurgal__serves__deity_kulemak",
+   "source": "char_kurgal",
+   "target": "deity_kulemak",
+   "relation": "serves",
+   "description": "Abyssal Lich servant of Kulemak.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "section 'Kulemak'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_ulaman__serves__deity_kulemak",
+   "source": "char_ulaman",
+   "target": "deity_kulemak",
+   "relation": "serves",
+   "description": "Abyssal Lich servant of Kulemak.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_lightless",
+     "locator": "section 'Kulemak'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_arakaali__opposes__deity_gruthkul",
+   "source": "deity_arakaali",
+   "target": "deity_gruthkul",
+   "relation": "opposes",
+   "description": "Arakaali slaughtered Gruthkul's children; Gruthkul defeated Arakaali. (Sin's dialogue instead blames the Vaal for Gruthkul's children.)",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Gruthkul'"
+    },
+    {
+     "source_id": "src_ingame_sin_dialogue",
+     "locator": "Sin 'Gruthkul': 'The Vaal laid waste to her kingdom'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_tukohama__opposes__deity_ryslatha",
+   "source": "deity_tukohama",
+   "target": "deity_ryslatha",
+   "relation": "opposes",
+   "description": "Tukohama's warriors killed Ryslatha's children.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Ryslatha'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_arakaali__imprisons__deity_sin",
+   "source": "deity_arakaali",
+   "target": "deity_sin",
+   "relation": "imprisons",
+   "description": "Sin was trapped for years in Arakaali's webbed bed before she was sealed in her temple.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_arakaali_spinner_of_shadows",
+     "locator": "Sin dialogue 'The Spinner of Shadows'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__lover_of__deity_arakaali",
+   "source": "deity_sin",
+   "target": "deity_arakaali",
+   "relation": "lover_of",
+   "description": "Sin was held in Arakaali's bed (a captive, not a willing lover).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_arakaali_spinner_of_shadows",
+     "locator": "Sin dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_chaos__associated_with__deity_hinekora",
+   "source": "deity_chaos",
+   "target": "deity_hinekora",
+   "relation": "associated_with",
+   "description": "Both foresee futures but disagree.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "Chaos / Hinekora"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_chaos",
+   "source": "faction_vaal",
+   "target": "deity_chaos",
+   "relation": "worships",
+   "description": "Chaos was once worshipped by Vaal priests.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Chaos'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_arakaali",
+   "source": "faction_vaal",
+   "target": "deity_arakaali",
+   "relation": "worships",
+   "description": "Vaal goddess and queen.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_arakaali_spinner_of_shadows",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_yugul",
+   "source": "faction_vaal",
+   "target": "deity_yugul",
+   "relation": "worships",
+   "description": "Yugul ascended on Vaal worship.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_yugul_reflection_of_terror",
+     "locator": "Lore"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_kamasa",
+   "source": "faction_vaal",
+   "target": "deity_kamasa",
+   "relation": "worships",
+   "description": "Vaal god of wealth.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Kamasa'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_kopec",
+   "source": "faction_vaal",
+   "target": "deity_kopec",
+   "relation": "worships",
+   "description": "Vaal god.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Kopec'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_yaomac",
+   "source": "faction_vaal",
+   "target": "deity_yaomac",
+   "relation": "worships",
+   "description": "Vaal god.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Yaomac'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_vaal__worships__deity_vaal_oversoul",
+   "source": "faction_vaal",
+   "target": "deity_vaal_oversoul",
+   "relation": "worships",
+   "description": "Inferred: the Oversoul is the Vaal's ascended spirit-form; wiki gives only boss data.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_vaal_oversoul",
+     "locator": "map variant 'Vessel of the Vaal'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_brinerot__worships__deity_brine_king",
+   "source": "faction_brinerot",
+   "target": "deity_brine_king",
+   "relation": "worships",
+   "description": "Brinerot pirates sacrifice to the Brine King.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "post_cataclysm",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'The Brine King'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_maraketh__worships__deity_garukhan",
+   "source": "faction_maraketh",
+   "target": "deity_garukhan",
+   "relation": "worships",
+   "description": "Maraketh storm goddess.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Garukhan'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_maraketh__worships__deity_halani",
+   "source": "faction_maraketh",
+   "target": "deity_halani",
+   "relation": "worships",
+   "description": "Maraketh water goddess, forgotten.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Halani'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_ezomyte__worships__deity_the_first_ones",
+   "source": "faction_ezomyte",
+   "target": "deity_the_first_ones",
+   "relation": "worships",
+   "description": "Ezomytes worship the First Ones.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_first_ones",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_templar__worships__deity_innocence",
+   "source": "faction_templar",
+   "target": "deity_innocence",
+   "relation": "worships",
+   "description": "Templars worship Innocence as god of light.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Innocence'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_azmeri__worships__deity_viridi",
+   "source": "faction_azmeri",
+   "target": "deity_viridi",
+   "relation": "worships",
+   "description": "Azmeri worship Viridi as earth goddess.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_viridi",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_azmeri__worships__deity_solaris",
+   "source": "faction_azmeri",
+   "target": "deity_solaris",
+   "relation": "worships",
+   "description": "Azmeri sun goddess.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Solaris and Lunaris'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_azmeri__worships__deity_lunaris",
+   "source": "faction_azmeri",
+   "target": "deity_lunaris",
+   "relation": "worships",
+   "description": "Azmeri moon goddess.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'Solaris and Lunaris'"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_halani__parent_of__char_azarian",
+   "source": "deity_halani",
+   "target": "char_azarian",
+   "relation": "parent_of",
+   "description": "Halani left a child (Azarian) to die before ascending.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_halani_the_water_goddess",
+     "locator": "dialogue with Azarian"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__witnesses__deity_halani",
+   "source": "char_exile_poe2",
+   "target": "deity_halani",
+   "relation": "witnesses",
+   "description": "The Exile ends Halani's suffering by igniting her in Buried Shrines (Act 2).",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_halani_the_water_goddess",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__frees__deity_tangmazu",
+   "source": "char_exile_poe2",
+   "target": "deity_tangmazu",
+   "relation": "frees",
+   "description": "In Dark Mists the Exile frees Freya Hartlin, revealed as Tangmazu, with Verisium spikes.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "branch",
+   "branches": [
+    "delirium"
+   ],
+   "era": "poe2_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_dark_mists",
+     "locator": "quest text"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe2__defeats__deity_the_bodach",
+   "source": "char_exile_poe2",
+   "target": "deity_the_bodach",
+   "relation": "defeats",
+   "description": "The Exile fights The Bodach as Ritual pinnacle.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [
+    "ritual"
+   ],
+   "era": "poe2_endgame",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_bodach",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_xesh__associated_with__concept_godhood",
+   "source": "deity_xesh",
+   "target": "concept_godhood",
+   "relation": "associated_with",
+   "description": "Breachlords are treated as gods/god-like entities in PoE lore (Pantheon-adjacent splinter/blessing worship).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_breach_league",
+     "locator": "Breachstone, Splinter and Blessing items"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_tul__associated_with__concept_godhood",
+   "source": "deity_tul",
+   "target": "concept_godhood",
+   "relation": "associated_with",
+   "description": "Breachlords are treated as gods/god-like entities in PoE lore (Pantheon-adjacent splinter/blessing worship).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_breach_league",
+     "locator": "Breachstone, Splinter and Blessing items"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_esh__associated_with__concept_godhood",
+   "source": "deity_esh",
+   "target": "concept_godhood",
+   "relation": "associated_with",
+   "description": "Breachlords are treated as gods/god-like entities in PoE lore (Pantheon-adjacent splinter/blessing worship).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_breach_league",
+     "locator": "Breachstone, Splinter and Blessing items"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_uul_netol__associated_with__concept_godhood",
+   "source": "deity_uul_netol",
+   "target": "concept_godhood",
+   "relation": "associated_with",
+   "description": "Breachlords are treated as gods/god-like entities in PoE lore (Pantheon-adjacent splinter/blessing worship).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_breach_league",
+     "locator": "Breachstone, Splinter and Blessing items"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_chayula__associated_with__concept_godhood",
+   "source": "deity_chayula",
+   "target": "concept_godhood",
+   "relation": "associated_with",
+   "description": "Breachlords are treated as gods/god-like entities in PoE lore (Pantheon-adjacent splinter/blessing worship).",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_breach_league",
+     "locator": "Breachstone, Splinter and Blessing items"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_chayula__associated_with__deity_xesh",
+   "source": "deity_chayula",
+   "target": "deity_xesh",
+   "relation": "associated_with",
+   "description": "Per PoE2, Breachlords merged into the incomplete Xesht while Chayula was severed.",
+   "games": [
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poe2wiki_the_dreamer",
+     "locator": "Lore: Chayula severed from union; Xesht"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_searing_exarch__associated_with__deity_eater_of_worlds",
+   "source": "deity_searing_exarch",
+   "target": "deity_eater_of_worlds",
+   "relation": "associated_with",
+   "description": "Parallel Atlas questlines of the Eldritch; both treated as god-like entities by players.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "endgame_plot",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "inferred",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_the_searing_exarch_quest",
+     "locator": "intro: runs in parallel to The Eater of Worlds"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_sin__kills__deity_ralakesh",
+   "source": "deity_sin",
+   "target": "deity_ralakesh",
+   "relation": "kills",
+   "description": "In the Act 7 fight Sin drains Ralakesh's power and kills him after the Exile kills Greust.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "medium",
+   "sources": [
+    {
+     "source_id": "src_poewiki_ralakesh_master_of_a_million_faces",
+     "locator": "intro"
+    }
+   ]
+  },
+  {
+   "id": "e_deity_innocence__possesses__char_avarius",
+   "source": "deity_innocence",
+   "target": "char_avarius",
+   "relation": "possesses",
+   "description": "High Templar Avarius is the vessel of Innocence; Avarius is defeated in Act 5.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_kitava_the_insatiable",
+     "locator": "Environmental Lore: Avarius is the vessel of Innocence himself"
+    },
+    {
+     "source_id": "src_poewiki_sin",
+     "locator": "Act 5 'Innocence' dialogue: 'pretentious little vessel'"
+    }
+   ]
+  },
+  {
+   "id": "e_char_bannon__resurrects__deity_innocence",
+   "source": "char_bannon",
+   "target": "deity_innocence",
+   "relation": "resurrects",
+   "description": "In Act 10 Bannon uses the Staff of Purity and sacrifices himself to resurrect Innocence.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_act_10",
+     "locator": "quest Death and Rebirth"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_karui__worships__deity_valako",
+   "source": "faction_karui",
+   "target": "deity_valako",
+   "relation": "worships",
+   "description": "Part of the Karui pantheon.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "Haku level 6: 'mark of Valako, Father of the Storm'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_karui__worships__deity_tasalio",
+   "source": "faction_karui",
+   "target": "deity_tasalio",
+   "relation": "worships",
+   "description": "Part of the Karui pantheon.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "Haku level 7: 'mark of Tasalio, Father of Water'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_karui__worships__deity_tawhoa",
+   "source": "faction_karui",
+   "target": "deity_tawhoa",
+   "relation": "worships",
+   "description": "Part of the Karui pantheon.",
+   "games": [
+    "poe1",
+    "poe2"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "Navali 'Karui Gods': Tawhoa gives trees and birds"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_karui__worships__deity_ramako",
+   "source": "faction_karui",
+   "target": "deity_ramako",
+   "relation": "worships",
+   "description": "Part of the Karui pantheon.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_karui_gods",
+     "locator": "Marauder in Sarn: 'Ramako, Father of Light'"
+    }
+   ]
+  },
+  {
+   "id": "e_faction_azmeri__worships__deity_the_spirit",
+   "source": "faction_azmeri",
+   "target": "deity_the_spirit",
+   "relation": "worships",
+   "description": "Yeena communicates with the Spirit (low-information entry).",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "background",
+   "branches": [],
+   "era": "primordial",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "low",
+   "sources": [
+    {
+     "source_id": "src_poewiki_god",
+     "locator": "section 'The Spirit'"
+    }
+   ]
+  }
+ ]
+}

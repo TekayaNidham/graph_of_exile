@@ -1,0 +1,388 @@
+{
+  "issues": [
+    {
+      "target": "e_spine_poe1_017",
+      "kind": "spine",
+      "severity": "high",
+      "problem": "PoE1 Act 3 Sever the Right Hand is optional, but the next_beat chain makes it mandatory between Fiery Dust and Piety's Pets.",
+      "fix": "Remove event_a3_sever_right_hand from the critical spine; link Fiery Dust directly to Piety's Pets and relabel the optional quest as branch/campaign_side_quest.",
+      "evidence": "data/raw/poewiki/Sever_the_Right_Hand.wiki:5,11-13: required=No; page explicitly says players can skip the quest and do Piety's Pets first."
+    },
+    {
+      "target": "event_poe1_a6_father_of_war",
+      "kind": "missing_spine_beat",
+      "severity": "high",
+      "problem": "PoE1 Act 6 main quest The Father of War is absent from next_beat before the Tukohama kill, although its event node already exists.",
+      "fix": "Insert existing event_poe1_a6_father_of_war between Return to Wraeclast and event_poe1_a6_kill_tukohama; give it story_order and participation edge.",
+      "evidence": "data/raw/poewiki/The_Father_of_War.wiki:1-8: Act 6 quest The Father of War, required=Yes; objective is to reach Tukohama through the Karui Fortress."
+    },
+    {
+      "target": "e_spine_poe1_038",
+      "kind": "chronology",
+      "severity": "high",
+      "problem": "PoE1 Act 7 spine kills Greust/Ralakesh before Maligaro. The passage to Greust is unlocked by the key Silk gives after Maligaro and Web of Secrets.",
+      "fix": "Order Maligaro and Web of Secrets before Ralakesh; then continue to Lighting the Way and Arakaali.",
+      "evidence": "data/raw/poewiki/The_Master_of_a_Million_Faces.wiki:22,30-31: the secret passage to the Den requires Silk's key given after Maligaro is defeated; data/raw/poewiki/Web_of_Secrets.wiki:43 says Web of Secrets is prerequisite for Chamber of Sins Level 2."
+    },
+    {
+      "target": "event_poe1_a7_web_of_secrets",
+      "kind": "missing_spine_beat",
+      "severity": "high",
+      "problem": "PoE1 Act 7 required quest Web of Secrets is absent from next_beat. Its Black Venom turn-in to Silk unlocks the Chamber of Sins route to Ralakesh.",
+      "fix": "Insert existing event_poe1_a7_web_of_secrets after the Maligaro fight and before the Ralakesh route, with story_order and exile participation.",
+      "evidence": "data/raw/poewiki/Web_of_Secrets.wiki:1-11,43: Act 7 Web of Secrets has required=yes; completion and Obsidian Key are prerequisites to access Chamber of Sins Level 2 and the Den."
+    },
+    {
+      "target": "event_lighting_the_way",
+      "kind": "missing_spine_beat",
+      "severity": "high",
+      "problem": "PoE1 Act 7 required quest Lighting the Way is absent from next_beat between the Maligaro/Ralakesh section and Arakaali.",
+      "fix": "Insert existing event_lighting_the_way before event_poe1_a7_kill_arakaali, with story_order and exile participation.",
+      "evidence": "data/raw/poewiki/Lighting_the_Way.wiki:1-7,25,45: Act 7 Lighting the Way has required=yes; seven Fireflies let Yeena burn open the Temple of Decay entrance."
+    },
+    {
+      "target": "event_poe1_a8_lunar_eclipse",
+      "kind": "missing_spine_beat",
+      "severity": "high",
+      "problem": "PoE1 Act 8 required quest Lunar Eclipse is missing between Doedre and the Solaris/Lunaris fight; the Moon Orb is needed to summon the sisters.",
+      "fix": "Add the quest beat before event_poe1_a8_kill_solaris_lunaris, with exile participation. The two orb quests are parallel and should not imply a required order.",
+      "evidence": "data/raw/poewiki/Lunar_Eclipse.wiki:1-8: Act 8 Lunar Eclipse has required=yes; its objective is to obtain the Moon Orb and use it at the Harbour Bridge."
+    },
+    {
+      "target": "event_poe1_a8_solar_eclipse",
+      "kind": "missing_spine_beat",
+      "severity": "high",
+      "problem": "PoE1 Act 8 required quest Solar Eclipse is missing between Doedre and the Solaris/Lunaris fight; the Sun Orb is needed to summon the sisters.",
+      "fix": "Add the quest beat before event_poe1_a8_kill_solaris_lunaris, with exile participation. The two orb quests are parallel and should not imply a required order.",
+      "evidence": "data/raw/poewiki/Solar_Eclipse.wiki:1-8: Act 8 Solar Eclipse has required=yes; its objective is to obtain the Sun Orb and use it at the Harbour Bridge."
+    },
+    {
+      "target": "event_poe1_a9_recurring_nightmare",
+      "kind": "missing_spine_beat",
+      "severity": "high",
+      "problem": "PoE1 Act 9 required quest Recurring Nightmare is missing from next_beat; the existing node has no story_order despite covering the ingredients that open the Beast and lead to the Trinity.",
+      "fix": "Put existing event_poe1_a9_recurring_nightmare after the Act 8 finale and before entering the Beast, with participation and story_order.",
+      "evidence": "data/raw/poewiki/Recurring_Nightmare.wiki:1-8,12-14: Act 9 Recurring Nightmare has required=yes; Sin needs Trarthan Powder and Basilisk Acid to open the Beast."
+    },
+    {
+      "target": "event_balbala_released",
+      "kind": "spine",
+      "severity": "high",
+      "problem": "PoE2 Act 2 spine requires defeating and releasing Balbala, but this detour in Traitor's Passage is optional for Ascent to Power. The main quest only requires ascending the passage to the Halani Gates.",
+      "fix": "Remove event_balbala_released from next_beat and clear story_order; give its optional trial content plot_role branch and a suitable side/trial tag.",
+      "evidence": "data/raw/poe2wiki/Quest.wiki:21-30 lists Ascent to Power as optional; data/raw/poe2wiki/Ascent_to_Power.wiki:3 has required=No; data/raw/poe2wiki/The_Trail_of_Corruption_Act_2_.wiki:112-120 directs the main route to ascend Traitor's Passage without requiring Balbala."
+    },
+    {
+      "target": "e_spine_poe2_012",
+      "kind": "chronology",
+      "severity": "medium",
+      "problem": "PoE2 Act 2 spine imposes Keth -> Bone Pits -> Titan Grotto, but the three Horn of the Vastiri relic errands can be completed in any order.",
+      "fix": "Represent A Theft of Ivory, The City of Seven Waters, and A Crown of Stone as parallel prerequisites of Horn recreation, not consecutive mandatory next_beat edges.",
+      "evidence": "data/raw/poe2wiki/The_Trail_of_Corruption_Act_2_.wiki:161: Asala says the three locations can be retraced in any order; lines 174,314 show all three components are needed for the Horn."
+    },
+    {
+      "target": "event_poe2_a4_island_weapon_pieces",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "PoE2 Act 4 summary says Kedge Bay is among the islands cleared to find three Weapon pieces. The Act 4 location table never assigns a Weapon piece to Kedge Bay; only three of the other islands carry pieces in a given version.",
+      "fix": "Remove Kedge Bay from the Weapon-piece search description; explain the three rotating piece locations and separate Dark Mists/Kedge Bay content.",
+      "evidence": "data/raw/poe2wiki/Act_4.wiki:10,59-65: four of five islands carry three Weapon pieces plus Matiki, and the version table lists weapon locations without Kedge Bay."
+    },
+    {
+      "target": "text_precursor_edicts",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "The summary concludes that the Beast itself predates the gods because it appears in Precursor murals. The same corpus page says Sin later created the Beast from a Precursor Seed of Corruption; the mural does not establish that the Beast already existed.",
+      "fix": "State only that Precursor murals depict the Beast or a precursor to it; distinguish the older Seed from Sin's later creation, and mark any interpretation as inferred.",
+      "evidence": "data/raw/poe2wiki/The_Beast.wiki:5,7-9: murals are vague; Sin found a Precursor Seed and used it to create the Beast."
+    },
+    {
+      "target": "text_edict_fourth",
+      "kind": "node",
+      "severity": "low",
+      "problem": "The Fourth Edict summary incorporates an unverified search snippet, a Quora reading, and speculation about causing the Great Fire. The local quest evidence only confirms an Investigate the Fourth Edict step.",
+      "fix": "Limit the summary to the verified quest-log step and explicitly unknown contents; omit the search snippet and Quora inference.",
+      "evidence": "data/raw/poe2wiki/Legacy_of_the_Precursors.wiki:381-382: only the objective Investigate the Fourth Edict is recorded; the summary itself labels the other claims unverified."
+    },
+    {
+      "target": "league_poe2_the_third_edict",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "This node and league_poe2_third_edict both describe the same PoE2 0.3.0 Third Edict content update.",
+      "fix": "Merge into one canonical content-update node and redirect edges and source citations.",
+      "evidence": "build/master/nodes.json: league_poe2_the_third_edict and league_poe2_third_edict both say 2025-08-29 / 0.3.0, Act 4, three interludes, removal of Cruel, Rise of the Abyssal."
+    },
+    {
+      "target": "league_breach",
+      "kind": "games",
+      "severity": "medium",
+      "problem": "league_breach has a cross-game games label although the specific release, place, character, or storyline is evidenced only in one game.",
+      "fix": "Set games to [\"poe1\"]; PoE2 Breach is represented by separate mechanic/story nodes.",
+      "evidence": "data/raw/poewiki/Breach_league.wiki:1-8: Breach is a PoE1 challenge league; the PoE2 storyline is a separate 0.5 release."
+    },
+    {
+      "target": "concept_breach_poe2",
+      "kind": "games",
+      "severity": "medium",
+      "problem": "concept_breach_poe2 has a cross-game games label although the specific release, place, character, or storyline is evidenced only in one game.",
+      "fix": "Set games to [\"poe2\"] for this PoE2 0.5 story, retaining cross-game Ailith links on the shared character node.",
+      "evidence": "data/raw/poe2wiki/Quest.wiki:75-82: PoE2 epilogue includes the Keepers of the Flame storyline."
+    },
+    {
+      "target": "concept_ritual_poe2",
+      "kind": "games",
+      "severity": "medium",
+      "problem": "concept_ritual_poe2 has a cross-game games label although the specific release, place, character, or storyline is evidenced only in one game.",
+      "fix": "Set games to [\"poe2\"] for this PoE2 endgame storyline.",
+      "evidence": "data/raw/poe2wiki/Legacy_of_the_Maji.wiki:3-10: Ritual endgame quest in PoE2."
+    },
+    {
+      "target": "concept_expedition_poe2",
+      "kind": "games",
+      "severity": "medium",
+      "problem": "concept_expedition_poe2 has a cross-game games label although the specific release, place, character, or storyline is evidenced only in one game.",
+      "fix": "Set games to [\"poe2\"] for this PoE2 Grand Expedition storyline.",
+      "evidence": "data/raw/poe2wiki/The_Grand_Expedition.wiki:1-9,22-23: PoE2 endgame quest from the Ruins of Kingsmarch."
+    },
+    {
+      "target": "loc_ruins_of_kingsmarch",
+      "kind": "games",
+      "severity": "medium",
+      "problem": "loc_ruins_of_kingsmarch has a cross-game games label although the specific release, place, character, or storyline is evidenced only in one game.",
+      "fix": "Set games to [\"poe2\"]; retain loc_kingsmarch as the cross-game town.",
+      "evidence": "data/raw/poewiki/Exploring_Kingsmarch.wiki:1-10: PoE1 town; data/raw/poe2wiki/The_Grand_Expedition.wiki:22-23: the Ruins of Kingsmarch appear in PoE2."
+    },
+    {
+      "target": "event_poe1_a7_queen_of_despair",
+      "kind": "plot_role",
+      "severity": "medium",
+      "problem": "Optional campaign side quest is labelled main_plot, which the schema reserves for the Exile's critical path.",
+      "fix": "Set plot_role=branch, add campaign_side_quest to branches, and keep story_order null.",
+      "evidence": "data/raw/poewiki/Queen_of_Despair.wiki:4: quest page marks required=no or explicitly calls the quest optional."
+    },
+    {
+      "target": "event_poe1_a7_silver_locket",
+      "kind": "plot_role",
+      "severity": "medium",
+      "problem": "Optional campaign side quest is labelled main_plot, which the schema reserves for the Exile's critical path.",
+      "fix": "Set plot_role=branch, add campaign_side_quest to branches, and keep story_order null.",
+      "evidence": "data/raw/poewiki/The_Silver_Locket.wiki:7: quest page marks required=no or explicitly calls the quest optional."
+    },
+    {
+      "target": "event_poe1_a9_ruler_of_highgate",
+      "kind": "plot_role",
+      "severity": "medium",
+      "problem": "Optional campaign side quest is labelled main_plot, which the schema reserves for the Exile's critical path.",
+      "fix": "Set plot_role=branch, add campaign_side_quest to branches, and keep story_order null.",
+      "evidence": "data/raw/poewiki/The_Ruler_of_Highgate.wiki:1-5: quest page marks required=no or explicitly calls the quest optional."
+    },
+    {
+      "target": "event_poe2_a3_trials_of_chaos_quest",
+      "kind": "plot_role",
+      "severity": "medium",
+      "problem": "Optional campaign side quest is labelled main_plot, which the schema reserves for the Exile's critical path.",
+      "fix": "Set plot_role=branch, add campaign_side_quest to branches, and keep story_order null.",
+      "evidence": "data/raw/poe2wiki/The_Trials_of_Chaos.wiki:4: quest page marks required=no or explicitly calls the quest optional."
+    },
+    {
+      "target": "event_poe2_clearing_the_way",
+      "kind": "plot_role",
+      "severity": "medium",
+      "problem": "Optional campaign side quest is labelled main_plot, which the schema reserves for the Exile's critical path.",
+      "fix": "Set plot_role=branch, add campaign_side_quest to branches, and keep story_order null.",
+      "evidence": "data/raw/poe2wiki/Clearing_the_Way.wiki:3,9: quest page marks required=no or explicitly calls the quest optional."
+    },
+    {
+      "target": "event_poe2_finding_the_forge",
+      "kind": "plot_role",
+      "severity": "medium",
+      "problem": "Optional campaign side quest is labelled main_plot, which the schema reserves for the Exile's critical path.",
+      "fix": "Set plot_role=branch, add campaign_side_quest to branches, and keep story_order null.",
+      "evidence": "data/raw/poe2wiki/Finding_the_Forge.wiki:3: quest page marks required=no or explicitly calls the quest optional."
+    },
+    {
+      "target": "event_poe2_the_hunt_begins",
+      "kind": "plot_role",
+      "severity": "medium",
+      "problem": "Optional campaign side quest is labelled main_plot, which the schema reserves for the Exile's critical path.",
+      "fix": "Set plot_role=branch, add campaign_side_quest to branches, and keep story_order null.",
+      "evidence": "data/raw/poe2wiki/The_Hunt_Begins.wiki:3,11: quest page marks required=no or explicitly calls the quest optional."
+    },
+    {
+      "target": "event_poe2_the_lost_lute",
+      "kind": "plot_role",
+      "severity": "medium",
+      "problem": "Optional campaign side quest is labelled main_plot, which the schema reserves for the Exile's critical path.",
+      "fix": "Set plot_role=branch, add campaign_side_quest to branches, and keep story_order null.",
+      "evidence": "data/raw/poe2wiki/The_Lost_Lute.wiki:3: quest page marks required=no or explicitly calls the quest optional."
+    },
+    {
+      "target": "event_poe2_the_slithering_dead",
+      "kind": "plot_role",
+      "severity": "medium",
+      "problem": "Optional campaign side quest is labelled main_plot, which the schema reserves for the Exile's critical path.",
+      "fix": "Set plot_role=branch, add campaign_side_quest to branches, and keep story_order null.",
+      "evidence": "data/raw/poe2wiki/The_Slithering_Dead.wiki:3: quest page marks required=no or explicitly calls the quest optional."
+    },
+    {
+      "target": "event_poe2_treacherous_ground",
+      "kind": "plot_role",
+      "severity": "medium",
+      "problem": "Optional campaign side quest is labelled main_plot, which the schema reserves for the Exile's critical path.",
+      "fix": "Set plot_role=branch, add campaign_side_quest to branches, and keep story_order null.",
+      "evidence": "data/raw/poe2wiki/Treacherous_Ground.wiki:3: quest page marks required=no or explicitly calls the quest optional."
+    },
+    {
+      "target": "event_poe2_treasures_of_utzaal",
+      "kind": "plot_role",
+      "severity": "medium",
+      "problem": "Optional campaign side quest is labelled main_plot, which the schema reserves for the Exile's critical path.",
+      "fix": "Set plot_role=branch, add campaign_side_quest to branches, and keep story_order null.",
+      "evidence": "data/raw/poe2wiki/Treasures_of_Utzaal.wiki:3,14: quest page marks required=no or explicitly calls the quest optional."
+    },
+    {
+      "target": "event_poe2_tribal_medicine",
+      "kind": "plot_role",
+      "severity": "medium",
+      "problem": "Optional campaign side quest is labelled main_plot, which the schema reserves for the Exile's critical path.",
+      "fix": "Set plot_role=branch, add campaign_side_quest to branches, and keep story_order null.",
+      "evidence": "data/raw/poe2wiki/Tribal_Medicine.wiki:3: quest page marks required=no or explicitly calls the quest optional."
+    },
+    {
+      "target": "event_poe2_tribal_vengeance",
+      "kind": "plot_role",
+      "severity": "medium",
+      "problem": "Optional campaign side quest is labelled main_plot, which the schema reserves for the Exile's critical path.",
+      "fix": "Set plot_role=branch, add campaign_side_quest to branches, and keep story_order null.",
+      "evidence": "data/raw/poe2wiki/Tribal_Vengeance.wiki:3: quest page marks required=no or explicitly calls the quest optional."
+    },
+    {
+      "target": "act_poe2_act5",
+      "kind": "release_status",
+      "severity": "medium",
+      "problem": "Node describes an unreleased or datamined PoE2 Act 5/6 entry but has release_status=\"released\". Other pre-1.0 nodes use datamined_pre_1.0.",
+      "fix": "Set release_status=\"datamined_pre_1.0\"; retain the node and its stated uncertainty.",
+      "evidence": "data/raw/poe2wiki/Quest.wiki:58-64: Acts 5 and 6 are marked planned for full release; node summary itself identifies this entry as datamined or unreleased."
+    },
+    {
+      "target": "act_poe2_act6",
+      "kind": "release_status",
+      "severity": "medium",
+      "problem": "Node describes an unreleased or datamined PoE2 Act 5/6 entry but has release_status=\"released\". Other pre-1.0 nodes use datamined_pre_1.0.",
+      "fix": "Set release_status=\"datamined_pre_1.0\"; retain the node and its stated uncertainty.",
+      "evidence": "data/raw/poe2wiki/Quest.wiki:58-64: Acts 5 and 6 are marked planned for full release; node summary itself identifies this entry as datamined or unreleased."
+    },
+    {
+      "target": "event_poe2_a5_infiltrating_oriath",
+      "kind": "release_status",
+      "severity": "medium",
+      "problem": "Node describes an unreleased or datamined PoE2 Act 5/6 entry but has release_status=\"released\". Other pre-1.0 nodes use datamined_pre_1.0.",
+      "fix": "Set release_status=\"datamined_pre_1.0\"; retain the node and its stated uncertainty.",
+      "evidence": "data/raw/poe2wiki/Quest.wiki:58-64: Acts 5 and 6 are marked planned for full release; node summary itself identifies this entry as datamined or unreleased."
+    },
+    {
+      "target": "event_poe2_a5_pinned_down",
+      "kind": "release_status",
+      "severity": "medium",
+      "problem": "Node describes an unreleased or datamined PoE2 Act 5/6 entry but has release_status=\"released\". Other pre-1.0 nodes use datamined_pre_1.0.",
+      "fix": "Set release_status=\"datamined_pre_1.0\"; retain the node and its stated uncertainty.",
+      "evidence": "data/raw/poe2wiki/Quest.wiki:58-64: Acts 5 and 6 are marked planned for full release; node summary itself identifies this entry as datamined or unreleased."
+    },
+    {
+      "target": "event_poe2_a5_pleasure_and_pain",
+      "kind": "release_status",
+      "severity": "medium",
+      "problem": "Node describes an unreleased or datamined PoE2 Act 5/6 entry but has release_status=\"released\". Other pre-1.0 nodes use datamined_pre_1.0.",
+      "fix": "Set release_status=\"datamined_pre_1.0\"; retain the node and its stated uncertainty.",
+      "evidence": "data/raw/poe2wiki/Quest.wiki:58-64: Acts 5 and 6 are marked planned for full release; node summary itself identifies this entry as datamined or unreleased."
+    },
+    {
+      "target": "event_poe2_a5_no_rest_for_the_blighted",
+      "kind": "release_status",
+      "severity": "medium",
+      "problem": "Node describes an unreleased or datamined PoE2 Act 5/6 entry but has release_status=\"released\". Other pre-1.0 nodes use datamined_pre_1.0.",
+      "fix": "Set release_status=\"datamined_pre_1.0\"; retain the node and its stated uncertainty.",
+      "evidence": "data/raw/poe2wiki/Quest.wiki:58-64: Acts 5 and 6 are marked planned for full release; node summary itself identifies this entry as datamined or unreleased."
+    },
+    {
+      "target": "event_poe2_a5_plumbing_the_depths",
+      "kind": "release_status",
+      "severity": "medium",
+      "problem": "Node describes an unreleased or datamined PoE2 Act 5/6 entry but has release_status=\"released\". Other pre-1.0 nodes use datamined_pre_1.0.",
+      "fix": "Set release_status=\"datamined_pre_1.0\"; retain the node and its stated uncertainty.",
+      "evidence": "data/raw/poe2wiki/Quest.wiki:58-64: Acts 5 and 6 are marked planned for full release; node summary itself identifies this entry as datamined or unreleased."
+    },
+    {
+      "target": "event_poe2_a5_trarthan_gladiator",
+      "kind": "release_status",
+      "severity": "medium",
+      "problem": "Node describes an unreleased or datamined PoE2 Act 5/6 entry but has release_status=\"released\". Other pre-1.0 nodes use datamined_pre_1.0.",
+      "fix": "Set release_status=\"datamined_pre_1.0\"; retain the node and its stated uncertainty.",
+      "evidence": "data/raw/poe2wiki/Quest.wiki:58-64: Acts 5 and 6 are marked planned for full release; node summary itself identifies this entry as datamined or unreleased."
+    },
+    {
+      "target": "event_poe2_a6_shadow_over_ogham",
+      "kind": "node",
+      "severity": "high",
+      "problem": "This gap-fill node calls the name a datamined Act 6 optional quest. The corpus identifies it as a released Forbidden Rites Ritual cluster in a PoE2 interlude, not an Act 6 story quest.",
+      "fix": "Correct the name, act/interlude, summary, branch tag (forbidden_rites), plot_role=branch and release_status=released; remove the Act 6/datamined claim.",
+      "evidence": "data/raw/poe2wiki/Forbidden_Rites.wiki:87: the name labels an Interlude Ritual cluster and lists its zones; data/raw/poe2wiki/Quest.wiki:62-64 says Act 6 is planned."
+    },
+    {
+      "target": "event_poe2_a6_sands_of_ruin",
+      "kind": "node",
+      "severity": "high",
+      "problem": "This gap-fill node calls the name a datamined Act 6 optional quest. The corpus identifies it as a released Forbidden Rites Ritual cluster in a PoE2 interlude, not an Act 6 story quest.",
+      "fix": "Correct the name, act/interlude, summary, branch tag (forbidden_rites), plot_role=branch and release_status=released; remove the Act 6/datamined claim.",
+      "evidence": "data/raw/poe2wiki/Forbidden_Rites.wiki:88: the name labels an Interlude Ritual cluster and lists its zones; data/raw/poe2wiki/Quest.wiki:62-64 says Act 6 is planned."
+    },
+    {
+      "target": "event_poe2_a6_death_in_the_ranges",
+      "kind": "node",
+      "severity": "high",
+      "problem": "This gap-fill node calls the name a datamined Act 6 optional quest. The corpus identifies it as a released Forbidden Rites Ritual cluster in a PoE2 interlude, not an Act 6 story quest.",
+      "fix": "Correct the name, act/interlude, summary, branch tag (forbidden_rites), plot_role=branch and release_status=released; remove the Act 6/datamined claim.",
+      "evidence": "data/raw/poe2wiki/Forbidden_Rites.wiki:89: the name labels an Interlude Ritual cluster and lists its zones; data/raw/poe2wiki/Quest.wiki:62-64 says Act 6 is planned."
+    },
+    {
+      "target": "e_spine_poe2_047",
+      "kind": "spine",
+      "severity": "medium",
+      "problem": "The PoE2 campaign spine connects released Interlude 3 content through four unreleased datamined Act 5 quest names as though their exact order and mandatory status were confirmed.",
+      "fix": "Keep the datamined nodes with their release labels, but detach them from the confirmed next_beat chain or mark the proposed sequence as provisional outside the canonical spine.",
+      "evidence": "data/raw/poe2wiki/Quest.wiki:58-64: Acts 5 and 6 are planned for full release, with no confirmed quest list in the local corpus."
+    },
+    {
+      "target": "char_ascendancy_*",
+      "kind": "schema",
+      "severity": "medium",
+      "problem": "All 44 gap_exile_classes ascendancy nodes use type=character and plot_role=background, although ascendancies are gameplay specialisations, not individual persons or deep-history actors.",
+      "fix": "Retype ascendancy specialisation nodes as concept and use plot_role=meta, preserving actual lore characters as separate nodes; rename IDs and redirect their edges consistently.",
+      "evidence": "docs/SCHEMA.md:47,58-59 defines character as a person and background as deep history; data/raw/poewiki_extra/Assassin.wiki:8 identifies Assassin as an Ascendancy class; gap node char_ascendancy_assassin itself describes its passive tree."
+    },
+    {
+      "target": "e_spine_poe1_055",
+      "kind": "chronology",
+      "severity": "high",
+      "problem": "The Atlas spine still runs directly from the player Exile and Zana defeating the Elder to the Conquerors' madness. The Conquerors arc uses the alternate Elderslayers history in which Zana recruited Sirus and companions instead of the player Exile; the edge fuses incompatible versions after the first-round curation.",
+      "fix": "Detach event_atlas_conquerors from the Shaper/Elder player spine; make the Elderslayers history its background prerequisite and start the player's Conquerors quest chain from Kirac without asserting a direct Elder-victory sequence.",
+      "evidence": "data/raw/poewiki/History_of_Wraeclast.wiki:783 describes the player Exile and Zana expelling the Elder; lines 787-801 explicitly say Conquerors instead had Zana recruit the Elderslayers, whose later madness and Sirus's sacrifice belong to that version."
+    },
+    {
+      "target": "e_spine_poe1_061",
+      "kind": "chronology",
+      "severity": "medium",
+      "problem": "The Atlas next_beat chain makes the Searing Exarch quest precede the Eater of Worlds quest, and makes the Maven quest a predecessor of both. The three are optional parallel endgame quests and can be undertaken in different orders.",
+      "fix": "Remove mandatory next_beat sequencing among Maven, Exarch, and Eater; connect them as parallel Atlas story branches from the Envoy/Atlas entry.",
+      "evidence": "data/raw/poewiki/The_Searing_Exarch_quest_.wiki:6,13-16: required=no, explicitly parallel to Maven and Eater, with an Eater-first case; data/raw/poewiki/The_Eater_of_Worlds_quest_.wiki:6,13: required=no and explicitly parallel."
+    },
+    {
+      "target": "char_lumerius",
+      "kind": "release_status",
+      "severity": "medium",
+      "problem": "Node says Lumerius is an unverified datamined Act 5 boss, yet release_status is released.",
+      "fix": "Set release_status=\"datamined_pre_1.0\" while retaining the node, its low confidence, and the confirmed mother-son relationship.",
+      "evidence": "data/raw/poe2wiki/Quest.wiki:58-64: Act 5 is planned for full release; the node summary itself says the Act 5 boss role is datamined and unverified."
+    }
+  ]
+}

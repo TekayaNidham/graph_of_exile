@@ -1,0 +1,3467 @@
+[
+ {
+  "id": "src_book_path_of_exile_origins",
+  "title": "Path of Exile: Origins (Dynamite Entertainment, 2015) - official comic",
+  "type": "book",
+  "author_or_channel": "Grinding Gear Games and Dynamite Entertainment; written by Edwin McRae and Royal McGraw, illustrated by Carlos Rodriguez (per PoE Wiki)",
+  "accessed": "2026-11-05",
+  "reliability": "primary",
+  "url": "https://www.pathofexile.com/forum/view-thread/965056"
+ },
+ {
+  "id": "src_book_poe_origins",
+  "title": "Path of Exile: Origins (comic series)",
+  "url": "https://www.poewiki.net/wiki/Path_of_Exile:_Origins",
+  "type": "book",
+  "author_or_channel": "Grinding Gear Games",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_book_the_lords_labyrinth_gamebook",
+  "title": "The Lord's Labyrinth Path of Exile Gamebook (GGG, 2019)",
+  "type": "book",
+  "author_or_channel": "Grinding Gear Games (post by Natalia_GGG, 28 Oct 2019); PoE Wiki reports it is generally not canon",
+  "accessed": "2026-11-05",
+  "reliability": "primary",
+  "url": "https://www.pathofexile.com/forum/view-thread/2671008"
+ },
+ {
+  "id": "src_ggg_ascendancy",
+  "title": "Path of Exile: Ascendancy",
+  "url": "https://www.pathofexile.com/ascendancy",
+  "type": "official_site",
+  "author_or_channel": "Grinding Gear Games",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ggg_chaos_community_team",
+  "title": "Community Team post on the Trialmaster and Chaos (forum thread 3106179)",
+  "url": "https://www.pathofexile.com/forum/view-thread/3106179",
+  "type": "forum_post",
+  "author_or_channel": "Community_Team (GGG)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ggg_content_update_0_3_0",
+  "title": "Content Update 0.3.0 - Path of Exile 2: The Third Edict (patch notes)",
+  "url": "https://www.pathofexile.com/forum/view-thread/3826682",
+  "type": "patch_notes",
+  "author_or_channel": "Grinding Gear Games (official)",
+  "accessed": "2026-11-06",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ggg_content_update_0_5_0",
+  "title": "Early Access Patch Notes - Content Update 0.5.0 - Path of Exile 2: Return of the Ancients",
+  "url": "https://www.pathofexile.com/forum/view-thread/3932540",
+  "type": "patch_notes",
+  "author_or_channel": "Grinding Gear Games (official)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ggg_lore_qa_part_one",
+  "title": "Path of Exile Lore: Questions and Answers Part One",
+  "url": "https://www.pathofexile.com/forum/view-thread/2991402",
+  "type": "forum_post",
+  "author_or_channel": "Natalia_GGG (Grinding Gear Games)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ggg_perandus_challenge_leagues",
+  "title": "The Perandus Challenge Leagues",
+  "url": "https://www.pathofexile.com/forum/view-thread/1595088",
+  "type": "forum_post",
+  "author_or_channel": "Bex_GGG (Grinding Gear Games)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ingame_breaking_the_seal",
+  "title": "In-game dialogue/text quoted on Breaking the Seal (poewiki)",
+  "url": "https://www.poewiki.net/wiki/Breaking_the_Seal",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games (as quoted by wiki)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ingame_brutus_lord_incarcerator",
+  "title": "In-game dialogue/text quoted on Brutus Lord Incarcerator (poewiki)",
+  "url": "https://www.poewiki.net/wiki/Brutus,_Lord_Incarcerator",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games (as quoted by wiki)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ingame_doryani_s_catalyst",
+  "title": "Doryani's Catalyst (flavour text)",
+  "url": "https://www.poewiki.net/wiki/Doryani%27s_Catalyst",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ingame_haku_navali_dialogue",
+  "title": "Haku / Navali / Weathered Carving texts (PoE1, as transcribed on the wiki)",
+  "url": "https://www.poewiki.net/wiki/Karui_Gods",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ingame_hinekora_dialogue",
+  "title": "Hinekora dreams and prophecies (PoE1)",
+  "url": "https://www.poewiki.net/wiki/Hinekora",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ingame_kitava_the_insatiable",
+  "title": "In-game dialogue/text quoted on Kitava the Insatiable (poewiki)",
+  "url": "https://www.poewiki.net/wiki/Kitava,_the_Insatiable",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games (as quoted by wiki)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ingame_rapture_device",
+  "title": "In-game dialogue/text quoted on Rapture Device (poewiki)",
+  "url": "https://www.poewiki.net/wiki/Rapture_Device",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games (as quoted by wiki)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ingame_sin_dialogue",
+  "title": "Sin NPC dialogue (PoE1, as transcribed on the wiki)",
+  "url": "https://www.poewiki.net/wiki/Sin",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ingame_the_caged_brute",
+  "title": "In-game dialogue/text quoted on The Caged Brute (poewiki)",
+  "url": "https://www.poewiki.net/wiki/The_Caged_Brute",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games (as quoted by wiki)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ingame_the_king_s_feast",
+  "title": "In-game dialogue/text quoted on The King s Feast (poewiki)",
+  "url": "https://www.poewiki.net/wiki/The_King%27s_Feast",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games (as quoted by wiki)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ingame_vaal_oversoul",
+  "title": "In-game dialogue/text quoted on Vaal Oversoul (poewiki)",
+  "url": "https://www.poewiki.net/wiki/Vaal_Oversoul",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games (as quoted by wiki)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_other_timesaver_bodach",
+  "title": "Path of Exile 2 0.5 Return of the Ancients coverage (Rite of the Nameless / Bodach)",
+  "url": "https://timesaver.gg/blog/poe2-rite-of-the-nameless-guide",
+  "type": "other",
+  "author_or_channel": "timesaver.gg",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_poe2wiki_a_crown_of_stone",
+  "title": "A Crown of Stone - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/A_Crown_of_Stone",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_a_theft_of_ivory",
+  "title": "A Theft of Ivory - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/A_Theft_of_Ivory",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_abandoned_prison_quest",
+  "title": "Abandoned Prison (quest) - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Abandoned_Prison_(quest)",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_abyssal_lich",
+  "title": "Abyssal Lich - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Abyssal_Lich",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_acolyte_of_chayula",
+  "title": "Acolyte of Chayula - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Acolyte_of_Chayula",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_act",
+  "title": "Act - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Act",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_act_1",
+  "title": "Act 1 - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Act_1",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_act_2",
+  "title": "Act 2 - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Act_2",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_act_3",
+  "title": "Act 3 - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Act_3",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_act_4",
+  "title": "Act 4 - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Act_4",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_act_5",
+  "title": "Act 5 - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Act_5",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_act_6",
+  "title": "Act 6 - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Act_6",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_ahn_s_citadel",
+  "title": "Ahn's Citadel - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Ahn%27s_Citadel",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_aldur",
+  "title": "Aldur - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Aldur",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_amazon",
+  "title": "Amazon - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Amazon",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_ancient_beacons",
+  "title": "Ancient Beacons - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Ancient_Beacons",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_ascendancy_class",
+  "title": "Ascendancy class - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Ascendancy_class",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_ascension_trials",
+  "title": "Ascension Trials - PoE2 Wiki",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary",
+  "url": "https://www.poe2wiki.net/wiki/Ascension_Trials"
+ },
+ {
+  "id": "src_poe2wiki_ascent_to_power",
+  "title": "Ascent to Power - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Ascent_to_Power",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_atziri_s_temple",
+  "title": "Atziri's Temple - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Atziri's_Temple",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_atziri_the_red_queen",
+  "title": "Atziri, the Red Queen - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Atziri,_the_Red_Queen",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_blood_mage",
+  "title": "Blood Mage - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Blood_Mage",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_cataclysm_s_wake",
+  "title": "Cataclysm's Wake - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Cataclysm's_Wake",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_character_class",
+  "title": "Character class - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Character_class",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_chronomancer",
+  "title": "Chronomancer - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Chronomancer",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_citaqualotl_s_thesis",
+  "title": "Citaqualotl's Thesis - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Citaqualotl's_Thesis",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_clearing_the_way",
+  "title": "Clearing the Way - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Clearing_the_Way",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_cracks_in_the_earth",
+  "title": "Cracks in the Earth - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Cracks_in_the_Earth",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_dark_mists",
+  "title": "Dark Mists - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Dark_Mists",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_dawn_of_the_hunt_league",
+  "title": "Dawn of the Hunt league - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Dawn_of_the_Hunt_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_deadeye",
+  "title": "Deadeye - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Deadeye",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_disciple_of_varashta",
+  "title": "Disciple of Varashta - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Disciple_of_Varashta",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_doryani_royal_thaumaturge",
+  "title": "Doryani, Royal Thaumaturge - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Doryani,_Royal_Thaumaturge",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_druid",
+  "title": "Druid - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Druid",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_duelist",
+  "title": "Duelist - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Duelist",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_earning_passage",
+  "title": "Earning Passage - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Earning_Passage",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_environmental_lore",
+  "title": "Environmental lore - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Environmental_lore",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_ezomyte_infiltration",
+  "title": "Ezomyte Infiltration - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Ezomyte_Infiltration",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_faridun",
+  "title": "Faridun - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Faridun",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_faridun_foray",
+  "title": "Faridun Foray - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Faridun_Foray",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_farrow",
+  "title": "Farrow - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Farrow",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_fate_of_the_vaal_league",
+  "title": "Fate of the Vaal league - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Fate_of_the_Vaal_league",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_fate_of_the_vaal_quest_",
+  "title": "Fate of the Vaal (quest) - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Fate_of_the_Vaal_(quest)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_finding_the_forge",
+  "title": "Finding the Forge - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Finding_the_Forge",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_forbidden_rites",
+  "title": "Forbidden Rites - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Forbidden_Rites",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_gemling_legionnaire",
+  "title": "Gemling Legionnaire - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Gemling_Legionnaire",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_guatelitzi_s_ablation",
+  "title": "Guatelitzi's Ablation - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Guatelitzi's_Ablation",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_guatelitzi_s_thesis",
+  "title": "Guatelitzi's Thesis - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Guatelitzi's_Thesis",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_halani_the_water_goddess",
+  "title": "Halani, the Water Goddess - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Halani,_the_Water_Goddess",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_hayoxi_s_fulmination",
+  "title": "Hayoxi's Fulmination - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Hayoxi's_Fulmination",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_hilda_s_hunting_quest_",
+  "title": "Hilda's Hunting (quest) - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Hilda%27s_Hunting_(quest)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_hostile_takeover",
+  "title": "Hostile Takeover - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Hostile_Takeover",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_huntress",
+  "title": "Huntress - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Huntress",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_infernalist",
+  "title": "Infernalist - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Infernalist",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_invoker",
+  "title": "Invoker - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Invoker",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_it_that_was_esh",
+  "title": "It That Was Esh - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/It_That_Was_Esh",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_it_that_was_tul",
+  "title": "It That Was Tul - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/It_That_Was_Tul",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_jiquani_s_thesis",
+  "title": "Jiquani's Thesis - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Jiquani's_Thesis",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_kamasa_s_orb_of_sacrifice",
+  "title": "Kamasa's Orb of Sacrifice - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Kamasa's_Orb_of_Sacrifice",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_keth",
+  "title": "Keth - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Keth",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_kopec_s_orb_of_sacrifice",
+  "title": "Kopec's Orb of Sacrifice - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Kopec's_Orb_of_Sacrifice",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_kulemak",
+  "title": "Kulemak - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Kulemak",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_land_of_the_kin",
+  "title": "Land of the Kin - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Land_of_the_Kin",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_league",
+  "title": "League - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/League",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_legacy_of_the_maji",
+  "title": "Legacy of the Maji - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Legacy_of_the_Maji",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_legacy_of_the_precursors",
+  "title": "Legacy of the Precursors - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Legacy_of_the_Precursors",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_legacy_of_the_vaal",
+  "title": "Legacy of the Vaal - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Legacy_of_the_Vaal",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_lich",
+  "title": "Lich - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Lich",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_lore",
+  "title": "Lore - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Lore",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_maraketh_shrine",
+  "title": "Maraketh Shrine - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Maraketh_shrine",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_marauder",
+  "title": "Marauder - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Marauder",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_martial_artist",
+  "title": "Martial Artist - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Martial_Artist",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_mercenary",
+  "title": "Mercenary - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Mercenary",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_monk",
+  "title": "Monk - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Monk",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_ngamahu_s_test",
+  "title": "Ngamahu's Test - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Ngamahu's_Test",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_ominous_altars",
+  "title": "Ominous Altars - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Ominous_Altars",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_oracle",
+  "title": "Oracle - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Oracle",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_order_of_the_djinn",
+  "title": "Order of the Djinn - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Order_of_the_Djinn",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_pathfinder",
+  "title": "Pathfinder - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Pathfinder",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_quest",
+  "title": "Quest - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Quest",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_quipolatl_s_thesis",
+  "title": "Quipolatl's Thesis - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Quipolatl's_Thesis",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_ranger",
+  "title": "Ranger - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Ranger",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_reaching_clearfell",
+  "title": "Reaching Clearfell - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Reaching_Clearfell",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_recruit_the_ezomytes",
+  "title": "Recruit the Ezomytes - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Recruit_the_Ezomytes",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_recruit_the_maraketh",
+  "title": "Recruit the Maraketh - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Recruit_the_Maraketh",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_recruit_the_vaal",
+  "title": "Recruit the Vaal - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Recruit_the_Vaal",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_rise_of_the_abyssal_league",
+  "title": "Rise of the Abyssal league - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Rise_of_the_Abyssal_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_ritualist",
+  "title": "Ritualist - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Ritualist",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_royal_blood_priest",
+  "title": "Royal Blood Priest - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Royal_Blood_Priest",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_royal_colossus",
+  "title": "Royal Colossus - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Royal_Colossus",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_royal_commander",
+  "title": "Royal Commander - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Royal_Commander",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_royal_sentinel",
+  "title": "Royal Sentinel - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Royal_Sentinel",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_royal_spy_master",
+  "title": "Royal Spy Master - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Royal_Spy_Master",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_runes_of_aldur_league",
+  "title": "Runes of Aldur league - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Runes_of_Aldur_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_secrets_in_the_dark",
+  "title": "Secrets in the Dark - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Secrets_in_the_Dark",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_shadow",
+  "title": "Shadow - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Shadow",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_shaman",
+  "title": "Shaman - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Shaman",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_shrike_island_quest",
+  "title": "Shrike Island (quest) - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Shrike_Island_(quest)",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_siege_of_oriath",
+  "title": "Siege of Oriath - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Siege_of_Oriath",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_smith_of_kitava",
+  "title": "Smith of Kitava - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Smith_of_Kitava",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_sorceress",
+  "title": "Sorceress - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Sorceress",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_sorrow_among_stones",
+  "title": "Sorrow Among Stones - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Sorrow_Among_Stones",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_spirit_walker",
+  "title": "Spirit Walker - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Spirit_Walker",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_stormweaver",
+  "title": "Stormweaver - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Stormweaver",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_strange_reflection",
+  "title": "Strange Reflection - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Strange_Reflection",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_tactician",
+  "title": "Tactician - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Tactician",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_tasalio_s_test",
+  "title": "Tasalio's Test - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Tasalio%27s_Test",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_tawhoa_s_test",
+  "title": "Tawhoa's Test - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Tawhoa%27s_Test",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_tecrod",
+  "title": "Tecrod - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Tecrod",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_templar",
+  "title": "Templar - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Templar",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_arbiter_of_ash",
+  "title": "The Arbiter of Ash - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Arbiter_of_Ash",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_beast",
+  "title": "The Beast - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Beast",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_bodach",
+  "title": "The Bodach - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Bodach",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_city_of_seven_waters",
+  "title": "The City of Seven Waters - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_City_of_Seven_Waters",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_countess",
+  "title": "The Countess - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Countess",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_dreamer",
+  "title": "The Dreamer - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Dreamer",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_grand_expedition",
+  "title": "The Grand Expedition - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Grand_Expedition",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_grand_project",
+  "title": "The Grand Project - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Grand_Project",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_hooded_one",
+  "title": "The Hooded One - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Hooded_One",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_hunt_begins",
+  "title": "The Hunt Begins - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Hunt_Begins",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_lost_lute",
+  "title": "The Lost Lute - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Lost_Lute",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_mad_wolf_of_ogham",
+  "title": "The Mad Wolf of Ogham - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Mad_Wolf_of_Ogham",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_mysterious_shade",
+  "title": "The Mysterious Shade - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Mysterious_Shade",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_pinnacle_of_flame",
+  "title": "The Pinnacle of Flame - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Pinnacle_of_Flame",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_runeseeker",
+  "title": "The Runeseeker - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Runeseeker",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_search",
+  "title": "The Search - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Search",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_slithering_dead",
+  "title": "The Slithering Dead - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Slithering_Dead",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_trail_of_corruption",
+  "title": "The Trail of Corruption - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Trail_of_Corruption",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_trail_of_corruption_act_2",
+  "title": "The Trail of Corruption (Act 2) - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Trail_of_Corruption_Act_2_",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_trial_of_chaos",
+  "title": "The Trial of Chaos - PoE2 Wiki",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary",
+  "url": "https://www.poe2wiki.net/wiki/The_Trial_of_Chaos"
+ },
+ {
+  "id": "src_poe2wiki_the_trials_of_chaos",
+  "title": "The Trials of Chaos - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Trials_of_Chaos",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_twilight_order",
+  "title": "The Twilight Order - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Twilight_Order",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_unblinking_eye",
+  "title": "The Unblinking Eye - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Unblinking_Eye",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_well_of_souls",
+  "title": "The Well of Souls - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Well_of_Souls",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_well_of_souls_quest",
+  "title": "The Well of Souls (quest) - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Well_of_Souls_(quest)",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_the_well_of_souls_quest_",
+  "title": "The Well of Souls (quest) - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/The_Well_of_Souls_(quest)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_titan",
+  "title": "Titan - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Titan",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_tower",
+  "title": "Tower - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Tower",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_tradition_s_toll",
+  "title": "Tradition's Toll - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Tradition's_Toll",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_treacherous_ground",
+  "title": "Treacherous Ground - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Treacherous_Ground",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_treasures_of_utzaal",
+  "title": "Treasures of Utzaal - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Treasures_of_Utzaal",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_trial_of_the_ancestors_quest",
+  "title": "Trial of the Ancestors (quest) - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Trial_of_the_Ancestors_(quest)",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_trial_of_the_ancestors_quest_",
+  "title": "Trial of the Ancestors (Quest) - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Trial_of_the_Ancestors_(Quest)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_trial_of_the_sekhemas",
+  "title": "Trial of the Sekhemas - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Trial_of_the_Sekhemas",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_tribal_medicine",
+  "title": "Tribal Medicine - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Tribal_Medicine",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_tribal_vengeance",
+  "title": "Tribal Vengeance - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Tribal_Vengeance",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_utopia",
+  "title": "Utopia - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Utopia",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_vaal_incursion",
+  "title": "Vaal Incursion - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Vaal_Incursion",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_vruun_marshal_of_xesht",
+  "title": "Vruun Marshal of Xesht - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Vruun_Marshal_of_Xesht",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_warbringer",
+  "title": "Warbringer - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Warbringer",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_warrior",
+  "title": "Warrior - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Warrior",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_whakapanu_island_quest",
+  "title": "Whakapanu Island (quest) - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Whakapanu_Island_(quest)",
+  "type": "wiki",
+  "author_or_channel": "poe2wiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_witch",
+  "title": "Witch - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Witch",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_witchhunter",
+  "title": "Witchhunter - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Witchhunter",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_wraeclast",
+  "title": "Wraeclast - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Wraeclast",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_xipocado_royal_architect",
+  "title": "Xipocado, Royal Architect - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Xipocado,_Royal_Architect",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_yaomac_s_orb_of_sacrifice",
+  "title": "Yaomac's Orb of Sacrifice - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Yaomac's_Orb_of_Sacrifice",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poe2wiki_yugul_s_orb_of_sacrifice",
+  "title": "Yugul's Orb of Sacrifice - PoE2 Wiki",
+  "url": "https://www.poe2wiki.net/wiki/Yugul's_Orb_of_Sacrifice",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_a_fixture_of_fate",
+  "title": "A Fixture of Fate - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/A_Fixture_of_Fate",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_abyss_league",
+  "title": "abyss league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/abyss_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_act_1",
+  "title": "Act 1 - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Act_1",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_act_10",
+  "title": "Act 10 — PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Act_10",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_act_3",
+  "title": "Act 3 - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Act_3",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_act_4",
+  "title": "Act 4 - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Act_4",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_act_5",
+  "title": "Act 5 - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Act_5",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_act_6",
+  "title": "Act 6 - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Act_6",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_act_9",
+  "title": "Act 9 - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Act_9",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_affliction_league",
+  "title": "Affliction league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Affliction_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_amanamu_liege_of_the_lightless",
+  "title": "Amanamu, Liege of the Lightless - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Amanamu,_Liege_of_the_Lightless",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_an_end_to_hunger",
+  "title": "An End to Hunger - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/An_End_to_Hunger",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_an_indomitable_spirit",
+  "title": "An Indomitable Spirit - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/An_Indomitable_Spirit",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_anarchy_league",
+  "title": "anarchy league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/anarchy_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_ancestor_league",
+  "title": "Ancestor league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Ancestor_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_arakaali_spinner_of_shadows",
+  "title": "Arakaali, Spinner of Shadows - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Arakaali,_Spinner_of_Shadows",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_atziri_lore",
+  "title": "Atziri (lore) - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Atziri_(lore)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_atziri_lore_",
+  "title": "Atziri (lore) - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Atziri_(lore)",
+  "type": "wiki",
+  "author_or_channel": "poewiki.net",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_aul_the_crystal_king",
+  "title": "Aul the Crystal King - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Aul_the_Crystal_King",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_avarius_reassembled",
+  "title": "Avarius, Reassembled - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Avarius,_Reassembled",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_bestiary_league",
+  "title": "bestiary league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/bestiary_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_betrayal_league",
+  "title": "betrayal league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/betrayal_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_breach_league",
+  "title": "Breach league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Breach_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_breaking_the_seal",
+  "title": "Breaking the Seal - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Breaking_the_Seal",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_brutus_lord_incarcerator",
+  "title": "Brutus Lord Incarcerator - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Brutus,_Lord_Incarcerator",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_calendar_lore",
+  "title": "Calendar (lore) - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Calendar_(lore)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_chaos_lore",
+  "title": "Chaos (lore) - PoE Wiki",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary",
+  "url": "https://www.poewiki.net/wiki/Chaos_(lore)"
+ },
+ {
+  "id": "src_poewiki_chayula_who_dreamt",
+  "title": "Chayula Who Dreamt - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Chayula_Who_Dreamt",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_crucible_league",
+  "title": "Crucible league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Crucible_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_daresso_king_of_swords",
+  "title": "Daresso, King of Swords - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Daresso,_King_of_Swords",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_deal_with_the_bandits",
+  "title": "Deal with the Bandits - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Deal_with_the_Bandits",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_death_and_rebirth",
+  "title": "Death and Rebirth - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Death_and_Rebirth",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_doedre_darktongue",
+  "title": "Doedre Darktongue - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Doedre_Darktongue",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_doedre_stamatis",
+  "title": "Doedre Stamatis - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Doedre_Stamatis",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_dominus",
+  "title": "Dominus - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Dominus",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_doryani",
+  "title": "Doryani - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Doryani",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_environmental_lore",
+  "title": "Environmental lore - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Environmental_lore",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_esh_forked_thought",
+  "title": "Esh Forked Thought - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Esh_Forked_Thought",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_essence_of_the_artist",
+  "title": "Essence of the Artist - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Essence_of_the_Artist",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_essence_of_the_hag",
+  "title": "Essence of the Hag - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Essence_of_the_Hag",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_essence_of_umbra",
+  "title": "Essence of Umbra - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Essence_of_Umbra",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_eternal_empire",
+  "title": "Eternal Empire - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Eternal_Empire",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_expedition_league",
+  "title": "Expedition league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Expedition_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_exploring_kingsmarch",
+  "title": "Exploring Kingsmarch - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Exploring_Kingsmarch",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_faridun",
+  "title": "Faridun - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Faridun",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_fertilising_the_genesis_tree",
+  "title": "Fertilising the Genesis Tree - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Fertilising_the_Genesis_Tree",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_garukhan_queen_of_the_winds",
+  "title": "Garukhan, Queen of the Winds - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Garukhan,_Queen_of_the_Winds",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_general_marceus_lioneye",
+  "title": "General Marceus Lioneye - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/General_Marceus_Lioneye",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_gifts_for_the_genesis_tree",
+  "title": "Gifts for the Genesis Tree - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Gifts_for_the_Genesis_Tree",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_god",
+  "title": "God - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/God",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_gruthkul_mother_of_despair",
+  "title": "Gruthkul, Mother of Despair - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Gruthkul,_Mother_of_Despair",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_high_templar_avarius",
+  "title": "High Templar Avarius - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/High_Templar_Avarius",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_hinekora",
+  "title": "Hinekora - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Hinekora",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_history_of_wraeclast",
+  "title": "History of Wraeclast - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/History_of_Wraeclast",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_icius_perandus",
+  "title": "Icius Perandus - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Icius_Perandus",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_incursion_league",
+  "title": "Incursion league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Incursion_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_innocence",
+  "title": "Innocence — PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Innocence",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_inscription",
+  "title": "Inscription - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Inscription",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_into_the_breach",
+  "title": "Into the Breach - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Into_the_Breach",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_intruders_in_black",
+  "title": "Intruders in Black - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Intruders_in_Black",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_it_that_was_esh",
+  "title": "It That Was Esh - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/It_That_Was_Esh",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_it_that_was_tul",
+  "title": "It That Was Tul - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/It_That_Was_Tul",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_johan_the_king_s_hand",
+  "title": "Johan, the King's Hand - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Johan,_the_King's_Hand",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_kalandra",
+  "title": "Kalandra - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Kalandra",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_kalandra_league",
+  "title": "Kalandra league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Kalandra_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_kalguur",
+  "title": "Kalguur - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Kalguur",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_karui",
+  "title": "Karui - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Karui",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_karui_gods",
+  "title": "Karui Gods - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Karui_Gods",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_keepers_league",
+  "title": "Keepers league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Keepers_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_king_kaom",
+  "title": "King Kaom - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/King_Kaom",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_kingsmarch",
+  "title": "Kingsmarch - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Kingsmarch",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_kingsmarch_disenchanting",
+  "title": "Kingsmarch Disenchanting - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Kingsmarch_Disenchanting",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_kingsmarch_shipping",
+  "title": "Kingsmarch Shipping - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Kingsmarch_Shipping",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_kingsmarch_smelting",
+  "title": "Kingsmarch Smelting - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Kingsmarch_Smelting",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_kitava_s_torments",
+  "title": "Kitava's Torments - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Kitava's_Torments",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_kitava_the_insatiable",
+  "title": "Kitava, the Insatiable - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Kitava,_the_Insatiable",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_kurgal_the_blackblooded",
+  "title": "Kurgal, the Blackblooded - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Kurgal,_the_Blackblooded",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_letter_kingsmarch_",
+  "title": "Letter (Kingsmarch) - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Letter_(Kingsmarch)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_letters_from_chitus",
+  "title": "Letters from Chitus - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Letters_from_Chitus",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_letters_of_exile",
+  "title": "Letters of Exile - PoE Wiki",
+  "type": "in_game_text",
+  "author_or_channel": "in-game environmental lore (quoted by wiki)",
+  "accessed": "2026-11-05",
+  "reliability": "primary",
+  "url": "https://www.poewiki.net/wiki/Letters_of_Exile"
+ },
+ {
+  "id": "src_poewiki_love_is_dead",
+  "title": "Love is Dead - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Love_is_Dead",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_lunaris_eternal_moon",
+  "title": "Lunaris, Eternal Moon - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Lunaris,_Eternal_Moon",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_lycia_herald_of_the_scourge",
+  "title": "Lycia, Herald of the Scourge - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Lycia,_Herald_of_the_Scourge",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_malachai_the_nightmare",
+  "title": "Malachai, The Nightmare - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Malachai,_The_Nightmare",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_maligaro",
+  "title": "Maligaro - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Maligaro",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_merveil_the_siren",
+  "title": "Merveil the Siren - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Merveil,_the_Siren",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_mirage_league",
+  "title": "Mirage league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Mirage_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_necropolis_league",
+  "title": "Necropolis league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Necropolis_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_ngamakanui",
+  "title": "Ngamakanui - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Ngamakanui",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_orbala",
+  "title": "Orbala — PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Orbala",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_order_of_the_djinn",
+  "title": "Order of the Djinn - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Order_of_the_Djinn",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_order_of_the_templar",
+  "title": "Order of the Templar - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Order_of_the_Templar",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_path_of_exile_settlers_of_kalguur",
+  "title": "Path of Exile: Settlers of Kalguur - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Path_of_Exile:_Settlers_of_Kalguur",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_perandus_family",
+  "title": "Perandus family - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Perandus_family",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_perandus_league",
+  "title": "perandus league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/perandus_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_picking_up_the_pieces",
+  "title": "Picking Up the Pieces - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Picking_Up_the_Pieces",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_piety",
+  "title": "Piety - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Piety",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_primeval_civilization",
+  "title": "Primeval civilization - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Primeval_civilization",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_prophecy_league",
+  "title": "prophecy league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/prophecy_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_queen_hyrri_ngamaku",
+  "title": "Queen Hyrri Ngamaku - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Queen_Hyrri_Ngamaku",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_queen_of_despair",
+  "title": "Queen of Despair - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Queen_of_Despair",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_queen_of_the_sands",
+  "title": "Queen of the Sands - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Queen_of_the_Sands",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_ralakesh_master_of_a_million_faces",
+  "title": "Ralakesh, Master of a Million Faces - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Ralakesh,_Master_of_a_Million_Faces",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_rapture_device",
+  "title": "Rapture Device - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Rapture_Device",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_reflection_of_terror",
+  "title": "Reflection of Terror - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Reflection_of_Terror",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_ridan_afarud_commander",
+  "title": "Ridan, Afarud Commander - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Ridan,_Afarud_Commander",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_ritual_league",
+  "title": "Ritual league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Ritual_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_ryslatha_the_puppet_mistress",
+  "title": "Ryslatha, the Puppet Mistress - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Ryslatha,_the_Puppet_Mistress",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_saresh_of_the_weeping_black",
+  "title": "Saresh, of the Weeping Black - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Saresh,_of_the_Weeping_Black",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_settlers_league",
+  "title": "Settlers league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Settlers_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_shakari_queen_of_the_sands",
+  "title": "Shakari, Queen of the Sands - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Shakari,_Queen_of_the_Sands",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_shavronne_of_umbra",
+  "title": "Shavronne of Umbra - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Shavronne_of_Umbra",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_sin",
+  "title": "Sin - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Sin",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_solar_eclipse",
+  "title": "Solar Eclipse - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Solar_Eclipse",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_solaris_and_lunaris",
+  "title": "Solaris and Lunaris - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Solaris_and_Lunaris",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_solaris_eternal_sun",
+  "title": "Solaris, Eternal Sun - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Solaris,_Eternal_Sun",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_strange_voice",
+  "title": "Strange Voice - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Strange_Voice",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_stridevolf",
+  "title": "Stridevolf - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Stridevolf",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_synthesis_league",
+  "title": "Synthesis league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Synthesis_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_talisman_league",
+  "title": "talisman league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/talisman_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_tarcus_veruso",
+  "title": "Tarcus Veruso - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Tarcus_Veruso",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_ancients",
+  "title": "The Ancients - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Ancients",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_azmeri",
+  "title": "The Azmeri - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Azmeri",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_beast_lore",
+  "title": "The Beast (lore) - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Beast_(lore)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_caged_brute",
+  "title": "The Caged Brute - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Caged_Brute",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_clayshaper",
+  "title": "The Clayshaper - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Clayshaper",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_decay",
+  "title": "The Decay - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Decay",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_depraved_trinity",
+  "title": "The Depraved Trinity - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Depraved_Trinity",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_dreamer_npc_",
+  "title": "The Dreamer (NPC) - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Dreamer_(NPC)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_eternal_nightmare",
+  "title": "The Eternal Nightmare - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Eternal_Nightmare",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_ezomytes",
+  "title": "The Ezomytes - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Ezomytes",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_father_of_war",
+  "title": "The Father of War - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Father_of_War",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_first_ones",
+  "title": "The First Ones - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_First_Ones",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_gemling_legion",
+  "title": "The Gemling Legion - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Gemling_Legion",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_gemling_queen",
+  "title": "The Gemling Queen - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Gemling_Queen",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_immortal_syndicate",
+  "title": "The Immortal Syndicate - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Immortal_Syndicate",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_king_of_desire",
+  "title": "The King of Desire - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_King_of_Desire",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_king_of_fury",
+  "title": "The King of Fury - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_King_of_Fury",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_king_s_feast",
+  "title": "The King s Feast - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_King%27s_Feast",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_lightless",
+  "title": "The Lightless - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Lightless",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_lord_s_labyrinth_quest_",
+  "title": "The Lord's Labyrinth (quest) - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Lord%27s_Labyrinth_(quest)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_lords_labyrinth_quest",
+  "title": "The Lord's Labyrinth (quest) - PoE Wiki",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary",
+  "url": "https://www.poewiki.net/wiki/The_Lord%27s_Labyrinth_(quest)"
+ },
+ {
+  "id": "src_poewiki_the_lost_expedition",
+  "title": "The Lost Expedition - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Lost_Expedition",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_maraketh",
+  "title": "The Maraketh - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Maraketh",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_master_of_a_million_faces",
+  "title": "The Master of a Million Faces - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Master_of_a_Million_Faces",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_molten_one",
+  "title": "The Molten One - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Molten_One",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_mother_of_spiders",
+  "title": "The Mother of Spiders - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Mother_of_Spiders",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_puppet_mistress",
+  "title": "The Puppet Mistress - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Puppet_Mistress",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_purity_chronicles",
+  "title": "The Purity Chronicles - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Purity_Chronicles",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_ravenous_god",
+  "title": "The Ravenous God - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Ravenous_God",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_rogue_harbour_quest",
+  "title": "The Rogue Harbour (quest) - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Rogue_Harbour_(quest)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_ruler_of_highgate",
+  "title": "The Ruler of Highgate - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Ruler_of_Highgate",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_sacred_grove_quest",
+  "title": "The Sacred Grove (quest) - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Sacred_Grove_(quest)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_sceptre_of_god_quest",
+  "title": "The Sceptre of God quest  - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Sceptre_of_God_(quest)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_shaper_quest",
+  "title": "The Shaper (quest) - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Shaper_(quest)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_storm_blade",
+  "title": "The Storm Blade - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Storm_Blade",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_three_sisters",
+  "title": "The Three Sisters - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Three_Sisters",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_trialmaster",
+  "title": "The Trialmaster - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Trialmaster",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_vaal",
+  "title": "The Vaal - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Vaal",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_vastiri_plains",
+  "title": "The Vastiri Plains - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Vastiri_Plains",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_watchers_of_decay",
+  "title": "The Watchers of Decay - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Watchers_of_Decay",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_wings_of_vastiri",
+  "title": "The Wings of Vastiri - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Wings_of_Vastiri",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_word_of_the_dreamer",
+  "title": "The Word of the Dreamer - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Word_of_the_Dreamer",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_threads_of_the_originator",
+  "title": "Threads of the Originator - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Threads_of_the_Originator",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_trarthus",
+  "title": "Trarthus - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Trarthus",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_tukohama_karui_god_of_war",
+  "title": "Tukohama, Karui God of War - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Tukohama,_Karui_God_of_War",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_tul_creeping_avalanche",
+  "title": "Tul Creeping Avalanche - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Tul_Creeping_Avalanche",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_ulaman_sovereign_of_the_well",
+  "title": "Ulaman, Sovereign of the Well - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Ulaman,_Sovereign_of_the_Well",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_ultimatum_league",
+  "title": "Ultimatum league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Ultimatum_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_uul-netol_unburdened_flesh",
+  "title": "Uul-Netol Unburdened Flesh - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Uul-Netol_Unburdened_Flesh",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_vaal_letter",
+  "title": "Vaal Letter - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Vaal_Letter",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_vaal_oversoul",
+  "title": "Vaal Oversoul - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Vaal_Oversoul",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_varashta_the_winter_sekhema",
+  "title": "Varashta, the Winter Sekhema - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Varashta,_the_Winter_Sekhema",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_victario",
+  "title": "Victario - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Victario",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_victario_s_writings",
+  "title": "Victario's Writings - PoE Wiki",
+  "type": "wiki",
+  "author_or_channel": "community wiki (PoE Wiki)",
+  "url": "https://www.poewiki.net/wiki/Victario%27s_Writings",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_viper_napuatzi",
+  "title": "Viper Napuatzi - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Viper_Napuatzi",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_viridi",
+  "title": "Viridi - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Viridi",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_voll_emperor_of_purity",
+  "title": "Voll, Emperor of Purity - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Voll,_Emperor_of_Purity",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_xesht-ula_the_open_hand",
+  "title": "Xesht-Ula the Open Hand - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Xesht-Ula_the_Open_Hand",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_xibaqua",
+  "title": "Xibaqua - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Xibaqua",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_xoph_dark_embers",
+  "title": "Xoph Dark Embers - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Xoph_Dark_Embers",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_yugul_reflection_of_terror",
+  "title": "Yugul, Reflection of Terror - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Yugul,_Reflection_of_Terror",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_web_allthings_poe2_release",
+  "title": "Path of Exile 2 Release Date: 1.0 Launches December 11, 2026",
+  "url": "https://allthings.how/path-of-exile-2-release-date/",
+  "type": "other",
+  "author_or_channel": "allthings.how",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_web_domistae_poe2_endgame_guide",
+  "title": "PoE 2 Endgame Guide - Forbidden Rites (Patch 0.5.5)",
+  "url": "https://domistae.github.io/poe2-leveling/poe2_endgame_guide.html",
+  "type": "other",
+  "author_or_channel": "community guide",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_web_ezg_ritual_0_5",
+  "title": "PoE 2 0.5.0 Ritual league changes",
+  "url": "https://www.ezg.com/blog/poe-2-0-5-0-ritual-league-changes-are-massive-new-boss-progression-rewards-and-mechanics",
+  "type": "other",
+  "author_or_channel": "community guide",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_web_game8_arbiter_of_ash",
+  "title": "The Arbiter of Ash Boss Guide",
+  "url": "https://game8.co/games/Path-of-Exile-2/archives/493384",
+  "type": "other",
+  "author_or_channel": "Game8",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_web_game8_arbiter_of_divinity",
+  "title": "The Arbiter of Divinity Boss Guide",
+  "url": "https://game8.co/games/Path-of-Exile-2/archives/604768",
+  "type": "other",
+  "author_or_channel": "Game8",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_web_gamedeveloper_return_of_the_ancients",
+  "title": "Path of Exile 2: Return of the Ancients Redefines The Endgame Experience on May 29 (press release)",
+  "url": "https://www.gamedeveloper.com/press-release/path-of-exile-2-return-of-the-ancients-redefines-the-endgame-experience-on-may-29",
+  "type": "other",
+  "author_or_channel": "Grinding Gear Games press release via Game Developer",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_web_maxroll_poe2_campaign",
+  "title": "PoE2 Campaign Story Overview - Maxroll",
+  "url": "https://maxroll.gg/poe2/resources/path-of-exile-2-campaign-overview",
+  "type": "other",
+  "author_or_channel": "maxroll.gg",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_web_mobalytics_arbiter_of_divinity",
+  "title": "PoE2 0.5 new pinnacle boss (Arbiter of Divinity) - Mobalytics",
+  "url": "https://mobalytics.gg/poe-2/guides/0-5-new-pinnacle-boss",
+  "type": "other",
+  "author_or_channel": "Mobalytics",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_web_pcgamesn_return_of_the_ancients",
+  "title": "Patch 0.5 Return of the Ancients endgame rework",
+  "url": "https://www.pcgamesn.com/path-of-exile-2/patch-0-5-return-of-the-ancients-endgame-rework",
+  "type": "other",
+  "author_or_channel": "PCGamesN",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_web_poe2_last_of_the_druids_release",
+  "title": "Path of Exile 2 Update 0.4.0 - The Last of the Druids (release coverage)",
+  "url": "https://mp1st.com/news/path-of-exile-2-update-0-4-0-the-last-of-the-druids-dlc-patch-1-063",
+  "type": "other",
+  "author_or_channel": "MP1st",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_web_poe2db_act5",
+  "title": "Act 5 - PoE2DB datamine",
+  "url": "https://poe2db.tw/us/Act_5",
+  "type": "other",
+  "author_or_channel": "poe2db.tw (datamine)",
+  "accessed": "2026-11-06",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_web_poe2db_act6",
+  "title": "Act 6 - PoE2DB datamine",
+  "url": "https://poe2db.tw/us/Act_6",
+  "type": "other",
+  "author_or_channel": "poe2db.tw (datamine)",
+  "accessed": "2026-11-06",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_web_quora_fourth_edict",
+  "title": "What's the Fourth Edict with The Arbiter's voicelines in Path of Exile 2? - Quora",
+  "url": "https://www.quora.com/Whats-the-Fourth-Edict-with-The-Arbiters-voicelines-in-Path-of-Exile-2",
+  "type": "other",
+  "author_or_channel": "Quora user answer",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_web_thegamer_poe2_release_date",
+  "title": "Path Of Exile 2 Full Release Date Announced For December 2026",
+  "url": "https://www.thegamer.com/path-of-exile-2-final-release-date-december-2026/",
+  "type": "other",
+  "author_or_channel": "TheGamer (2026-08-25)",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_web_timesaver_pinnacle_bosses",
+  "title": "PoE2 Pinnacle Bosses Guide (0.5) - timesaver.gg",
+  "url": "https://timesaver.gg/blog/poe2-pinnacle-bosses-guide",
+  "type": "other",
+  "author_or_channel": "community guide",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_web_timesaver_poe2_citadels",
+  "title": "PoE2 Citadels 0.5: How to Find All 3 & Beat Arbiter of Ash",
+  "url": "https://timesaver.gg/blog/poe2-citadel-guide",
+  "type": "other",
+  "author_or_channel": "community guide",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_yt_16jF71G2M6M",
+  "title": "Fall of the Eternal Empire and Emperor Chitus | Path of exile Lore",
+  "url": "https://www.youtube.com/watch?v=16jF71G2M6M",
+  "type": "youtube",
+  "author_or_channel": "PhoenixDash",
+  "accessed": "2026-11-06",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_yt_1E5kADGy5Pw",
+  "title": "Path of Exile 1 Lore: Arakaali the Seductive Vaal Goddess",
+  "url": "https://www.youtube.com/watch?v=1E5kADGy5Pw",
+  "type": "youtube",
+  "author_or_channel": "@TalkativeTri",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_yt_1U2bFh1V9Mo",
+  "title": "Path of Exile Lore: The Entire Map of Wraeclast in 9 Minutes",
+  "url": "https://www.youtube.com/watch?v=1U2bFh1V9Mo",
+  "type": "youtube",
+  "author_or_channel": "Whispers From Wraeclast",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_yt_1Zt4tv8fjI4",
+  "title": "Who is Doryani? | Path Of Exile 2 Lore",
+  "url": "https://www.youtube.com/watch?v=1Zt4tv8fjI4",
+  "type": "youtube",
+  "author_or_channel": "Lore Of Exile",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_yt_4UKJmVK7Iv4",
+  "title": "The Story of The Iron Count | Path Of Exile 2 Lore",
+  "url": "https://www.youtube.com/watch?v=4UKJmVK7Iv4",
+  "type": "youtube",
+  "author_or_channel": "Lore Of Exile",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_yt_6W2cqV9l3wE",
+  "title": "Path of Exile 2 Lore - Act 2 Full Campaign Dialogue (Archives of Wraeclast)",
+  "url": "https://www.youtube.com/watch?v=6W2cqV9l3wE",
+  "type": "youtube",
+  "author_or_channel": "Gavryn",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_yt_6tP4TcFw4Lo",
+  "title": "PoE Complete Lore Series: Betrayal (The Syndicate)",
+  "url": "https://www.youtube.com/watch?v=6tP4TcFw4Lo",
+  "type": "youtube",
+  "author_or_channel": "Kitten Cat Noodle",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ },
+ {
+  "id": "src_yt_7QuY96FyhG4",
+  "title": "PoE Complete Lore Series: The Forbidden Sanctum - Divinia, Lycia, Innocence, and the Future",
+  "url": "https://www.youtube.com/watch?v=7QuY96FyhG4",
+  "type": "youtube",
+  "author_or_channel": "Kitten Cat Noodle",
+  "accessed": "2026-11-05",
+  "reliability": "tertiary"
+ }
+]

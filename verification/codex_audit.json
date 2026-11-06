@@ -1,0 +1,580 @@
+{
+  "issues": [
+    {
+      "target": "e_char_exile_poe1__defeats__char_dialla",
+      "kind": "edge",
+      "severity": "high",
+      "problem": "The Exile does not defeat Dialla in Act 3; she is found alive and becomes an ally.",
+      "fix": "Remove edge; connect the Exile to Dialla with meets/allies_with instead.",
+      "evidence": "data/raw/poewiki/The_Gemling_Queen.wiki:6-8: objective Find the Gemling Queen; completion Talk to Lady Dialla."
+    },
+    {
+      "target": "artifact_map_device",
+      "kind": "node",
+      "severity": "high",
+      "problem": "Summary attributes construction of the ancient Map Device to the Watchers of Decay. The corpus says Valdo investigated an ancient broken device and the Watchers made Starforge, not the Map Device.",
+      "fix": "summary: remove Watchers of Decay as builders; say its ancient maker is unknown and Valdo restored the broken device.",
+      "evidence": "data/raw/poewiki/History_of_Wraeclast.wiki:761,765-769: Watchers forged Starforge; Valdo was instructed to investigate an ancient Map Device and completed it with the Shade."
+    },
+    {
+      "target": "event_elder_expelled_from_atlas",
+      "kind": "node",
+      "severity": "high",
+      "problem": "Combines two incompatible Atlas versions: the player Exile and Zana expel the Elder in the Shaper route, whereas Sirus sacrifices himself in the Elderslayers version involving a previous exile team.",
+      "fix": "Merge the duplicate expulsion beat into event_atlas_defeat_elder for the Shaper route; keep Sirus sacrifice solely in event_atlas_elderslayers as the alternate version.",
+      "evidence": "data/raw/poewiki/History_of_Wraeclast.wiki:783,787-798: Conquerors says the exile did not help Zana track Shaper/Elder; she recruited the Elderslayers instead."
+    },
+    {
+      "target": "e_event_atlas_defeat_elder__next_beat__event_atlas_elderslayers",
+      "kind": "chronology",
+      "severity": "high",
+      "problem": "next_beat makes a past, alternative Elder hunt follow the player Exile’s Elder victory, reversing the Elderslayers’ chronology and merging incompatible Atlas routes.",
+      "fix": "Delete this next_beat; represent the Elderslayers hunt as parallel historical continuity preceding their Conquerors arc.",
+      "evidence": "data/raw/poewiki/History_of_Wraeclast.wiki:787-798: Conquerors replaces the Exile-assisted hunt with a team led by Sirus."
+    },
+    {
+      "target": "e_char_tecrod__serves__char_kulemak",
+      "kind": "edge",
+      "severity": "high",
+      "problem": "Tecrod is explicitly independent of Kulemak, unlike the three other Lich Lords.",
+      "fix": "Remove serves edge; use opposes/independent narrative or member_of Lightless only.",
+      "evidence": "data/raw/poe2wiki/Tecrod.wiki:15-19: Tecrod acts independently; the Lurking Creature refuses to serve him."
+    },
+    {
+      "target": "e_char_exile_poe1__rescues__char_deshret",
+      "kind": "edge",
+      "severity": "medium",
+      "problem": "Description places Deshret’s release in Act 9; An Indomitable Spirit is an Act 4 quest.",
+      "fix": "description: The Exile frees Deshret’s spirit in the Mines Level 2 during Act 4.",
+      "evidence": "data/raw/poewiki/An_Indomitable_Spirit.wiki:4-12: act=4, objective find Deshret in the mines and free her."
+    },
+    {
+      "target": "e_event_poe2_interlude_siege_of_oriath__occurs_in__loc_oriath",
+      "kind": "edge",
+      "severity": "high",
+      "problem": "The Siege of Oriath quest aims at Oriath but completes at the Ziggurat Refuge without reaching Oriath.",
+      "fix": "Remove occurs_in Oriath; use seeks/travels_to for intended destination and occurs_in loc_ziggurat_refuge for the ending.",
+      "evidence": "data/raw/poe2wiki/Siege_of_Oriath.wiki:6-7,59: objective Travel to Oriath; completion End up at Ziggurat Refuge despite attempts to travel to Oriath."
+    },
+    {
+      "target": "e_concept_poe2_atlas_of_worlds__continues_in__concept_atlas",
+      "kind": "edge",
+      "severity": "medium",
+      "problem": "The continues_in direction is backwards: PoE2 is successor to PoE1.",
+      "fix": "source: concept_atlas; target: concept_poe2_atlas_of_worlds.",
+      "evidence": "Edge description itself: PoE2 Atlas of Worlds is the successor of the PoE1 Atlas concept."
+    },
+    {
+      "target": "deity_sin",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Summary says the Hooded One is only likely Sin and not explicitly confirmed, but he states his identity outright in the Act 2 quest.",
+      "fix": "summary: In PoE2 the Hooded One reveals he is Sin, the Thief of Virtue.",
+      "evidence": "data/raw/poe2wiki/The_Trail_of_Corruption_Act_2_.wiki:293: I am... a god. I am the Thief of Virtue. I am Sin."
+    },
+    {
+      "target": "char_renly",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "games includes poe1 although Renly is a PoE2 Clearfell NPC and has no appearance or mention in the provided PoE1 corpus.",
+      "fix": "games: [\"poe2\"].",
+      "evidence": "data/raw/poe2wiki/Reaching_Clearfell.wiki: Renly rewards the Exile; no Renly occurrence under data/raw/poewiki or poewiki_extra (rg -l -w Renly)."
+    },
+    {
+      "target": "char_daresso",
+      "kind": "chronology",
+      "severity": "medium",
+      "problem": "Era eternal_empire_fall conflicts with the corpus date that Daresso left Oriath around 1450 IC, more than a century after the 1339 IC Cataclysm. The source itself notes the Eye of Desire continuity problem.",
+      "fix": "era: post_cataclysm; preserve a note that Malachai’s use of his Eye in 1339 IC conflicts with this date.",
+      "evidence": "data/raw/poewiki/History_of_Wraeclast.wiki:711,744: Malachai used the Eye during the Cataclysm, but Daresso left Oriath c.1450 IC."
+    },
+    {
+      "target": "act_poe1_act1",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "The name Act 1 - Silenus Bluffs is unsupported by the Act 1 corpus, which places the act on Wraeclast’s coast.",
+      "fix": "name: Act 1 (Wraeclast Coast).",
+      "evidence": "data/raw/poewiki/Act_1.wiki:2: first act takes place on the shores of Wraeclast."
+    },
+    {
+      "target": "event_poe1_kitava_defeated",
+      "kind": "duplicate",
+      "severity": "high",
+      "problem": "Same Act 10 Kitava defeat as event_poe1_a10_kill_kitava, but it has story_order 1001, before Act 1.",
+      "fix": "Merge into event_poe1_a10_kill_kitava (story_order 1955); redirect its edges.",
+      "evidence": "data/raw/poewiki/Act_10.wiki:2: Act 10 ends with the Exile killing Kitava; both graph summaries describe the same fight."
+    },
+    {
+      "target": "event_exiles_sentenced_to_wraeclast",
+      "kind": "chronology",
+      "severity": "medium",
+      "problem": "story_order 101 is outside the 1000-1999 PoE1 campaign spine and the node is disconnected from the Act 1 opening.",
+      "fix": "story_order: 1099 or merge with event_exile_sentenced and link to event_a1_shipwreck.",
+      "evidence": "docs/SCHEMA.md: Main plot spine assigns PoE1 campaign keys 1000-1999; event_a1_shipwreck has story_order 1100."
+    },
+    {
+      "target": "event_elder_expelled_from_atlas",
+      "kind": "duplicate",
+      "severity": "high",
+      "problem": "Same Elder expulsion as event_atlas_defeat_elder, with a conflicting 3001 order that puts it before the Shaper hunt and Shaper defeat.",
+      "fix": "Merge into event_atlas_defeat_elder (3030) after removing the Sirus detail from this version.",
+      "evidence": "data/raw/poewiki/History_of_Wraeclast.wiki:781-783: Shaper fight precedes Zana using Cosmic Arcana to expel the Elder."
+    },
+    {
+      "target": "event_ogham_exile_escape",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "Same PoE2 opening sentence, hanging attempt and ocean escape as event_poe2_exile_death_sentence; both occupy order 5100/5101.",
+      "fix": "Merge into event_poe2_exile_death_sentence (5100); redirect participation/precedes edges.",
+      "evidence": "Both graph summaries: Count Geonor sentences the Exile; the Executioner tries hanging; the Exile escapes into the ocean."
+    },
+    {
+      "target": "event_creation_of_beast",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "Same event of Sin planting the Dark Ember that creates the Beast as event_creation_of_the_beast.",
+      "fix": "Merge into event_creation_of_the_beast; redirect edges.",
+      "evidence": "data/raw/poe2wiki/The_Beast.wiki:9: Sin created the Beast using the Seed of Corruption."
+    },
+    {
+      "target": "concept_the_beast_act4",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "Models the same Beast entity as deity_beast, with no distinct concept from the creature.",
+      "fix": "Merge into deity_beast; retain Act 4 encounter facts on the deity/event nodes.",
+      "evidence": "Both graph summaries identify the giant Beast under Highgate killed in Act 4."
+    },
+    {
+      "target": "event_poe2_a3_capture_doryani",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "Same Act 3 capture and recruitment of Doryani as event_doryani_captured.",
+      "fix": "Merge into event_doryani_captured (story_order 5308); redirect edges.",
+      "evidence": "data/raw/poe2wiki/Legacy_of_the_Vaal.wiki:408-426: Doryani is brought to the present to help contain the Beast."
+    },
+    {
+      "target": "event_poe2_a3_survive_cataclysm",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "Same escape from Utzaal’s past with Doryani as event_utzaal_past_cataclysm.",
+      "fix": "Merge into event_utzaal_past_cataclysm (story_order 5309); redirect edges.",
+      "evidence": "Both graph summaries: Exile, Alva and Doryani return through the gateway as the Cataclysm begins."
+    },
+    {
+      "target": "event_poe2_siege_of_oriath",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "Same Act 4 finale quest as event_poe2_interlude_siege_of_oriath; graph even links them with same_entity_as.",
+      "fix": "Merge into event_poe2_siege_of_oriath; redirect the interlude next_beat chain and assign story_order 5504.",
+      "evidence": "data/raw/poe2wiki/Siege_of_Oriath.wiki:3-10: single quest unlocked after the three Interludes."
+    },
+    {
+      "target": "event_poe2_epilogue_legacy_of_precursors",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "Same Legacy of the Precursors endgame quest as event_poe2_legacy_of_the_precursors; one node lacks story_order and splits the spine.",
+      "fix": "Merge into event_poe2_legacy_of_the_precursors (6001); redirect next_beat and participation edges.",
+      "evidence": "data/raw/poe2wiki/Legacy_of_the_Precursors.wiki:15-41: single quest opens after the Hooded One falls asleep."
+    },
+    {
+      "target": "event_poe2_grand_expedition",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "Same The Grand Expedition endgame quest as event_poe2_the_grand_expedition.",
+      "fix": "Merge into event_poe2_the_grand_expedition; redirect edges.",
+      "evidence": "data/raw/poe2wiki/The_Grand_Expedition.wiki:3-10: one named endgame quest related to Expedition."
+    },
+    {
+      "target": "event_poe2_grand_expedition",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "The Grand Expedition is explicitly Expedition side content, yet this duplicate is labelled endgame_plot and given story_order 6200.",
+      "fix": "plot_role: branch; branches: [\"expedition\"]; chronology.story_order: null.",
+      "evidence": "data/raw/poe2wiki/The_Grand_Expedition.wiki:10: endgame quest related to Expedition."
+    },
+    {
+      "target": "char_oriana",
+      "kind": "duplicate",
+      "severity": "high",
+      "problem": "The Countess and Oriana are the same named character, represented as char_oriana and char_the_countess; a third datamined spelling also names her.",
+      "fix": "Keep char_the_countess; merge char_oriana and char_orianna_countess_act5 into it; redirect all edges.",
+      "evidence": "data/raw/poe2wiki/The_Countess.wiki:4: The Countess, or Oriana, is a major antagonist and Twilight Order leader."
+    },
+    {
+      "target": "char_uber_atziri",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "Uber Atziri is an encounter variant of Queen Atziri, not a distinct character.",
+      "fix": "Merge into char_atziri; retain Alluring Abyss variant as an encounter/location fact.",
+      "evidence": "data/raw/poewiki/Atziri_lore_.wiki:21-23: mechanically identical Atziri in the Alluring Abyss is known as Uber Atziri."
+    },
+    {
+      "target": "char_uber_elder",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "Uber Elder is the memory/encounter variant of the Elder, not a separate character.",
+      "fix": "Merge into char_elder; retain memory variant as an event or encounter detail.",
+      "evidence": "data/raw/poewiki/The_Elder_quest_.wiki:7-13: fight a memory of The Elder; quest culminates in Uber Elder boss fight."
+    },
+    {
+      "target": "char_hillock_blacksmith",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "Betrayal’s Hillock is the Act 1 Hillock resurrected by Catarina, not a separate person.",
+      "fix": "Merge into char_hillock; add Betrayal affiliation to the canonical node.",
+      "evidence": "Graph summary of char_hillock_blacksmith: Act 1 boss Hillock resurrected by the Mastermind and joined the Syndicate."
+    },
+    {
+      "target": "loc_the_cathedral_rooftop",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "Same Cathedral Rooftop physical area as loc_cathedral_rooftop, merely used in Act 5 and Act 10.",
+      "fix": "Merge into loc_cathedral_rooftop; describe both act appearances.",
+      "evidence": "Graph summaries: both are the Cathedral Rooftop where Kitava and Bannon are encountered."
+    },
+    {
+      "target": "loc_the_temple_of_chaos",
+      "kind": "duplicate",
+      "severity": "medium",
+      "problem": "Same Vaal Temple of Chaos near Utzaal as loc_temple_of_chaos.",
+      "fix": "Merge into loc_temple_of_chaos; combine historical and PoE2 Trial descriptions.",
+      "evidence": "Graph summaries: both describe the Vaal Temple of Chaos near Utzaal used for the PoE2 Trial of Chaos."
+    },
+    {
+      "target": "event_poe2_trial_of_the_ancestors",
+      "kind": "duplicate",
+      "severity": "low",
+      "problem": "Same optional PoE2 Act 4 quest as event_poe2_a4_trial_of_ancestors.",
+      "fix": "Merge into event_poe2_trial_of_the_ancestors; redirect edges.",
+      "evidence": "Both graph summaries describe rescuing Matiki, Yama’s test and Hinekora’s reward."
+    },
+    {
+      "target": "e_event_poe2_interlude_recruit_vaal__next_beat__event_poe2_interlude_siege_of_oriath",
+      "kind": "chronology",
+      "severity": "medium",
+      "problem": "The next_beat target lacks story_order, interrupting the numbered 5503 to 5505 finale chain.",
+      "fix": "After merging Siege duplicates, target event_poe2_siege_of_oriath with story_order 5504; link it to event_poe2_interlude_ziggurat_refuge.",
+      "evidence": "data/raw/poe2wiki/Siege_of_Oriath.wiki:10,59: Siege unlocks after three Interludes and ends at Ziggurat Refuge."
+    },
+    {
+      "target": "e_event_poe2_origin_tower__next_beat__event_poe2_defeat_arbiter_of_divinity",
+      "kind": "chronology",
+      "severity": "medium",
+      "problem": "The final next_beat points to an event with null story_order although it is the explicit finale after order 6070.",
+      "fix": "Set event_poe2_defeat_arbiter_of_divinity chronology.story_order: 6080; remove story_order 6080 from character char_the_arbiter_of_divinity.",
+      "evidence": "data/raw/poe2wiki/Legacy_of_the_Precursors.wiki: quest finale: defeat the Arbiter of Divinity after activating the Origin Tower."
+    },
+    {
+      "target": "event_poe2_interlude_ziggurat_refuge",
+      "kind": "chronology",
+      "severity": "medium",
+      "problem": "The campaign spine ends at the Ziggurat Refuge and separately starts the endgame at event_poe2_legacy_of_the_precursors, with a duplicate null-order quest inserted between.",
+      "fix": "After merging the Legacy quest duplicates, next_beat: event_poe2_interlude_ziggurat_refuge -> event_poe2_legacy_of_the_precursors.",
+      "evidence": "data/raw/poe2wiki/Siege_of_Oriath.wiki:59 and Legacy_of_the_Precursors.wiki:15-32: Refuge arrival opens the sleeping Hooded One/endgame quest."
+    },
+    {
+      "target": "event_doryani_joins_exile",
+      "kind": "chronology",
+      "severity": "medium",
+      "problem": "Act 3 spine stops at this event; Act 4 begins from a separate node despite the group’s explicit travel to Kingsmarch.",
+      "fix": "Add next_beat from event_doryani_joins_exile (5310) to event_poe2_a4_arrive_kingsmarch (5400).",
+      "evidence": "data/raw/poe2wiki/Legacy_of_the_Vaal.wiki:422-426: Hooded One chooses Kingsmarch as base and directs travel south."
+    },
+    {
+      "target": "event_a5_ravenous_god",
+      "kind": "chronology",
+      "severity": "medium",
+      "problem": "PoE1 spine breaks after the Act 5 Kitava defeat because a second, duplicate reawakening node starts Act 6.",
+      "fix": "Merge event_poe1_a5_kitava_reawakens into event_a5_ravenous_god, then link directly to event_poe1_a6_return_to_wraeclast.",
+      "evidence": "data/raw/poewiki/Act_5.wiki:2 and Act_10.wiki:2: the Act 5 fall precedes the return to Wraeclast and later Kitava kill."
+    },
+    {
+      "target": "event_poe2_exile_death_sentence",
+      "kind": "chronology",
+      "severity": "low",
+      "problem": "Opening PoE2 beat links straight to reaching Clearfell while a duplicate ocean escape occupies 5101 and is disconnected.",
+      "fix": "Merge event_ogham_exile_escape into this node and make reaching Clearfell the next ordered beat.",
+      "evidence": "Both opening event summaries describe the same hanging escape; graph next_beat skips event_ogham_exile_escape."
+    },
+    {
+      "target": "char_the_arbiter_of_ash",
+      "kind": "chronology",
+      "severity": "low",
+      "problem": "A character node has story_order 6060, duplicating the event beat at the same order; schema reserves story_order for event beats.",
+      "fix": "chronology.story_order: null; keep event_poe2_defeat_arbiter_of_ash at 6060.",
+      "evidence": "docs/SCHEMA.md: Main plot spine assigns story_order to event nodes; graph has both character and event at 6060."
+    },
+    {
+      "target": "act_poe1_act6",
+      "kind": "node",
+      "severity": "low",
+      "problem": "Act container is labelled main_plot and has a spine story_order, although the schema defines act nodes as meta containers. The same pattern affects Acts 7-10 and the PoE1/PoE2 epilogue containers.",
+      "fix": "For act_poe1_act6, act_poe1_act7, act_poe1_act8, act_poe1_act9, act_poe1_act10, act_poe1_epilogue, act_poe2_act4 and act_poe2_epilogue: plot_role: meta; chronology.story_order: null; keep event beats on the spine.",
+      "evidence": "docs/SCHEMA.md: act is a release/container node; meta covers act containers; story_order belongs to event beats."
+    },
+    {
+      "target": "char_essie_and_paulius",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Unreleased Act 5 datamine is labelled main_plot and games poe2 even though it has no in-game campaign appearance or lore. Similar nodes are char_phanos, char_ursea, char_the_preacher and char_the_high_priest.",
+      "fix": "For these unreleased datamine-only nodes: plot_role: meta; games: []; keep canon_status inferred and low confidence until release evidence exists.",
+      "evidence": "Graph summaries explicitly say Unreleased; no lore available; docs/SCHEMA.md says games records in-game appearance or mention."
+    },
+    {
+      "target": "event_poe2_a5_oriath_assault",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Announced/datamined Act 5 future assault is labelled main_plot though the act is unreleased in this corpus.",
+      "fix": "plot_role: meta; chronology.story_order: null; canon_status: inferred; games: [] until released.",
+      "evidence": "Graph act_poe2_act5 summary: announced/datamined, not released as of 2026-11-05; data/raw/poe2wiki/Act_5.wiki:3 only sketches future setting."
+    },
+    {
+      "target": "e_char_exile_poe1__defeats__deity_ralakesh",
+      "kind": "edge",
+      "severity": "medium",
+      "problem": "Description says Ralakesh is untargetable and Sin drains/kills him after the Exile kills Greust; relation defeats credits the Exile with defeating Ralakesh directly.",
+      "fix": "Replace with Exile defeats char_greust, and deity_sin kills deity_ralakesh; remove this edge or use participates_in the Ralakesh event.",
+      "evidence": "Graph edge description: Ralakesh is untargetable and aids Greust; the Exile kills Greust, then Sin drains and kills Ralakesh."
+    },
+    {
+      "target": "event_atlas_defeat_maven",
+      "kind": "missing",
+      "severity": "medium",
+      "problem": "The Atlas spine stops at witnessing/invitations before Siege and lacks a distinct Maven confrontation event, despite an Exile-defeats-Maven edge.",
+      "fix": "Add event_atlas_defeat_maven with endgame_plot and its appropriate branch in the Atlas progression; connect the existing defeat edge through participation.",
+      "evidence": "data/raw/poewiki/The_Maven_quest_.wiki:35: Maven’s Writ is used to challenge The Maven; graph has e_char_exile_poe1__defeats__char_maven."
+    },
+    {
+      "target": "event_atlas_defeat_exarch",
+      "kind": "missing",
+      "severity": "medium",
+      "problem": "The Siege beat mentions only champions and no separate Searing Exarch victory event, despite this being a quest climax and an existing defeat edge.",
+      "fix": "Add event_atlas_defeat_exarch and its participant/boss relations; put after Black Star within the Siege arc.",
+      "evidence": "data/raw/poewiki/The_Searing_Exarch_quest_.wiki:102: Defeat The Searing Exarch."
+    },
+    {
+      "target": "event_atlas_defeat_eater",
+      "kind": "missing",
+      "severity": "medium",
+      "problem": "The Siege beat mentions only champions and no separate Eater of Worlds victory event, despite this being a quest climax and an existing defeat edge.",
+      "fix": "Add event_atlas_defeat_eater and its participant/boss relations; put after Infinite Hunger within the Siege arc.",
+      "evidence": "data/raw/poewiki/The_Eater_of_Worlds_quest_.wiki:101: Defeat The Eater of Worlds."
+    },
+    {
+      "target": "event_atlas_defeat_uber_elder",
+      "kind": "missing",
+      "severity": "low",
+      "problem": "No explicit Uber Elder memory fight event despite the Elder quest and Decayed Voidstone progression.",
+      "fix": "Add an endgame event for defeating the Elder memory in the Shaper’s Realm, without duplicating the Elder character.",
+      "evidence": "data/raw/poewiki/The_Elder_quest_.wiki:7-13,49: epilogue quest culminates in Uber Elder and grants Decayed Voidstone."
+    },
+    {
+      "target": "event_a1_mercy_mission",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/Mercy_Mission.wiki:5: quest infobox required=no."
+    },
+    {
+      "target": "event_a1_a_dirty_job",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/A_Dirty_Job.wiki:5: quest infobox required=no."
+    },
+    {
+      "target": "event_a1_dweller_of_the_deep",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/The_Dweller_of_the_Deep.wiki:7: quest infobox required=no."
+    },
+    {
+      "target": "event_a1_marooned_mariner",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/The_Marooned_Mariner.wiki:7: quest infobox required=no."
+    },
+    {
+      "target": "event_a1_the_way_forward",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/The_Way_Forward.wiki:4: quest infobox required=no."
+    },
+    {
+      "target": "event_a2_great_white_beast",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/The_Great_White_Beast.wiki:6: quest infobox required=no."
+    },
+    {
+      "target": "event_a2_through_sacred_ground",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/Through_Sacred_Ground.wiki:5: quest infobox required=no."
+    },
+    {
+      "target": "event_a3_victarios_secrets",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/Victario_s_Secrets.wiki:3: quest infobox required=no."
+    },
+    {
+      "target": "event_a3_swig_of_hope",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/A_Swig_of_Hope.wiki:4: quest infobox required=no."
+    },
+    {
+      "target": "event_a3_fixture_of_fate",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/A_Fixture_of_Fate.wiki:4: quest infobox required=no."
+    },
+    {
+      "target": "event_a4_indomitable_spirit",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/An_Indomitable_Spirit.wiki:4: quest infobox required=no."
+    },
+    {
+      "target": "event_a5_in_service_to_science",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/In_Service_to_Science.wiki:4: quest infobox required=no."
+    },
+    {
+      "target": "event_a5_kitavas_torments",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/Kitava_s_Torments.wiki:3: quest infobox required=no."
+    },
+    {
+      "target": "event_poe1_a6_clear_twilight_strand",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/Fallen_from_Grace.wiki:4: quest infobox required=no."
+    },
+    {
+      "target": "event_poe1_a6_kill_ryslatha",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/The_Puppet_Mistress.wiki:4: quest infobox required=no."
+    },
+    {
+      "target": "event_poe1_a7_kill_gruthkul",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/Queen_of_Despair.wiki:4: quest infobox required=no."
+    },
+    {
+      "target": "event_poe1_a8_kill_yugul",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/Reflection_of_Terror.wiki:4: quest infobox required=no."
+    },
+    {
+      "target": "event_poe1_a8_tolman_resurrection",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/Love_is_Dead.wiki:4: quest infobox required=no."
+    },
+    {
+      "target": "event_poe1_a9_kill_garukhan",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/The_Ruler_of_Highgate.wiki:5: quest infobox required=no."
+    },
+    {
+      "target": "event_poe1_a9_kill_shakari",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/Queen_of_the_Sands.wiki:4: quest infobox required=no."
+    },
+    {
+      "target": "event_poe1_a10_vilentas_vengeance",
+      "kind": "node",
+      "severity": "medium",
+      "problem": "Optional campaign quest is labelled main_plot and placed on/along the critical-path spine.",
+      "fix": "plot_role: branch; branches: [\"campaign_side_quest\"]; chronology.story_order: null; remove its next_beat links and connect as an optional offshoot.",
+      "evidence": "data/raw/poewiki/Vilenta_s_Vengeance.wiki:4: quest infobox required=no."
+    },
+    {
+      "target": "e_deity_sin__lover_of__deity_arakaali",
+      "kind": "edge",
+      "severity": "medium",
+      "problem": "Sin describes his time with Arakaali as captivity under a bewitching spell; lover_of misstates a coercive imprisonment as a mutual relationship.",
+      "fix": "Remove lover_of; use imprisons from deity_arakaali to deity_sin with the coercion in the description.",
+      "evidence": "data/raw/poewiki/Arakaali_Spinner_of_Shadows.wiki:91-97: Sin says the illusion of love veiled that he was not free to leave."
+    },
+    {
+      "target": "e_char_nessa__lover_of__deity_brine_king",
+      "kind": "edge",
+      "severity": "medium",
+      "problem": "Nessa was transformed and forced into the Brine King’s marriage; lover_of asserts an affectionate relationship that the quest dialogue contradicts.",
+      "fix": "Remove lover_of; use deity_brine_king corrupts/imprisons char_nessa or a forced-bride description.",
+      "evidence": "data/raw/poewiki/The_Brine_King_quest_.wiki:22-24,38: the Brine King transformed Nessa; she begs the Exile to help and stop him."
+    },
+    {
+      "target": "e_char_doryani__created__artifact_waygate",
+      "kind": "edge",
+      "severity": "medium",
+      "problem": "Creation of the Waygate by Doryani is asserted as fact although his dialogue only says he has a plan and calls the machine a Waygate; the artifact node itself says who built it is unstated.",
+      "fix": "Replace created with associated_with or uses; revise event_poe2_epilogue_waygate summary to say Doryani introduces/activates the Waygate.",
+      "evidence": "data/raw/poe2wiki/Legacy_of_the_Precursors.wiki:58: The machine you see here... I call it... a Waygate; no builder is identified."
+    },
+    {
+      "target": "e_event_poe2_pinnacle_of_flame__precedes__event_poe2_legacy_of_the_precursors",
+      "kind": "chronology",
+      "severity": "medium",
+      "problem": "An obsolete 0.1-0.4 quest is linked as an in-world predecessor of its 0.5 replacement. The same Exile does not sequentially complete both versions.",
+      "fix": "Remove precedes; record version replacement as metadata, not a story chronology edge.",
+      "evidence": "Graph event_poe2_pinnacle_of_flame summary: Removed in 0.5.0 and folded into Legacy of the Precursors."
+    },
+    {
+      "target": "e_char_exile_poe1__participates_in__event_a1_a_dirty_job",
+      "kind": "edge",
+      "severity": "medium",
+      "problem": "Participation and next_beat edges for optional quests inherit main_plot even though the quest nodes are nonrequired side content; this repeats for the optional quest nodes listed in this audit.",
+      "fix": "For edges incident to the listed optional quest nodes, use plot_role branch and branches [\"campaign_side_quest\"]; delete next_beat edges through them and preserve any offshoot participation/quest-giver relations.",
+      "evidence": "data/raw/poewiki/A_Dirty_Job.wiki:5,11-13: required=No; it is a side quest and explicitly optional."
+    }
+  ]
+}

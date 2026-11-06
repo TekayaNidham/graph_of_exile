@@ -1,0 +1,11 @@
+# local environment
+.venv/
+__pycache__/
+*.pyc
+# raw corpus (third-party text; regenerate with scripts/wiki_dump.py and scripts/yt_*.py)
+data/raw/
+# agent scratch work and logs (may contain local paths)
+scripts/tmp_*
+verification/*.log
+logo/*.psd
+.DS_Store

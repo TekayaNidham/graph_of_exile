@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Graph of Exile: a sourced knowledge graph of Path of Exile lore"
+type: dataset
+authors:
+  - family-names: Tekaya
+    given-names: Nidham
+version: 1.0.0
+date-released: 2026-11-06
+license: CC-BY-NC-SA-3.0
+repository-code: "https://github.com/TekayaNidham/graph_of_exile"
+url: "https://tekayanidham.github.io/graph_of_exile/"
+keywords:
+  - knowledge graph
+  - Path of Exile
+  - video game lore
+  - dataset
+  - narrative graph

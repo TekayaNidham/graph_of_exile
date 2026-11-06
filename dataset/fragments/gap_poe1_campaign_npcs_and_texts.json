@@ -1,0 +1,3450 @@
+{
+  "domain": "gap_poe1_campaign_npcs_and_texts",
+  "sources": [
+    {
+      "id": "src_poewiki_a_choice_of_futures",
+      "title": "A Choice of Futures - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/A_Choice_of_Futures",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_aberration",
+      "title": "Aberration - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Aberration",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_al_hezmin_s_journals",
+      "title": "Al-Hezmin's Journals - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Al-Hezmin's_journals",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_baran_s_journals",
+      "title": "Baran's Journals - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Baran's_Journals",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_breaking_down_the_door",
+      "title": "Breaking Down the Door - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Breaking_Down_the_Door",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_brotherhood_of_silence",
+      "title": "Brotherhood of Silence - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Brotherhood_of_Silence",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_dannig",
+      "title": "Dannig - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Dannig",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_drox_s_journals",
+      "title": "Drox's Journals - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Drox's_Journals",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_dying_for_a_fight",
+      "title": "Dying for a Fight - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Dying_for_a_Fight",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_kitava_s_heart",
+      "title": "Kitava's Heart - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Kitava's_Heart",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_lorrata",
+      "title": "Lorrata — PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Lorrata",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_oshabi",
+      "title": "Oshabi - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Oshabi",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_phaaryl",
+      "title": "Phaaryl - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Phaaryl",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_pound_of_flesh",
+      "title": "Pound of Flesh - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Pound_of_Flesh",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_prisoner_of_fate",
+      "title": "Prisoner of Fate - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Prisoner_of_Fate",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_queen_of_despair",
+      "title": "Queen of Despair - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Queen_of_Despair",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_rapture_device",
+      "title": "Rapture Device - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Rapture_Device",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_recurring_nightmare",
+      "title": "Recurring Nightmare - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Recurring_Nightmare",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_rog",
+      "title": "Rog - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Rog",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_safe_and_sound",
+      "title": "Safe and Sound - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Safe_and_Sound",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_shattered_past",
+      "title": "Shattered Past - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Shattered_Past",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_sirus_journals",
+      "title": "Sirus' Journals - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Sirus_Journals",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_sister_cassia",
+      "title": "Sister Cassia - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Sister_Cassia",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_strange_growths",
+      "title": "Strange Growths - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Strange_Growths",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_stridevolf",
+      "title": "Stridevolf - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Stridevolf",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_eldritch_decay_quest",
+      "title": "The Eldritch Decay (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Eldritch_Decay_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_father_of_war",
+      "title": "The Father of War - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Father_of_War",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_master_of_a_million_faces",
+      "title": "The Master of a Million Faces - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Master_of_a_Million_Faces",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_memory_eater",
+      "title": "The Memory Eater - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/The_Memory_Eater",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_mother_of_spiders",
+      "title": "The Mother of Spiders - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Mother_of_Spiders",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_redeemer_quest",
+      "title": "The Redeemer (quest) - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/The_Redeemer_(quest)",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_ruler_of_highgate",
+      "title": "The Ruler of Highgate - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Ruler_of_Highgate",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_sacred_grove_quest",
+      "title": "The Sacred Grove (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Sacred_Grove_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_silver_locket",
+      "title": "The Silver Locket - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/The_Silver_Locket",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_undertakers_apprentice",
+      "title": "The Undertaker's Apprentice - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/The_Undertaker%27s_Apprentice",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_tujen",
+      "title": "Tujen - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Tujen",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_veritania_s_journals",
+      "title": "Veritania's Journals - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Veritania's_journals",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_victario_s_writings",
+      "title": "Victario's Writings - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Victario%27s_Writings",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "faction_brotherhood_of_silence",
+      "name": "Brotherhood of Silence",
+      "aliases": [
+        "The Silent Brotherhood"
+      ],
+      "type": "faction",
+      "summary": "Assassins-for-hire based primarily in Sarn, also called the Silent Brotherhood. The wiki says it acted as a hit squad for many of the Eternal Empire's elite (business with Cadiro and the Perandus family), framed Jorgin for his brother's death so he was exiled from Ogham, and surrounded Drusus in the Bath House until he drowned himself. Listed members: Shadow (former), Coralito and Vorici.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poewiki_brotherhood_of_silence",
+          "locator": "lead paragraph: 'faction of assassins-for-hire based primarily in Sarn'; section 'Lore': 'acted as a hit squad for many of the elite of the Eternal Empire' and the Jorgin and Drusus incidents. Era is not dated on the page (confidence low)."
+        }
+      ],
+      "subtype": "assassin guild"
+    },
+    {
+      "id": "event_poe1_epilogue_eldritch_decay",
+      "name": "The Eldritch Decay",
+      "aliases": [],
+      "type": "event",
+      "summary": "Final Atlas quest given by Zana in the epilogue. The Exile spreads Elder influence to the four Tier 16 Shaper Guardian maps so the Elder spawns in the Shaper's Realm, then defeats the Elder Guardians and the Uber Elder. Removed from the game in 3.9.0 when the Atlas mechanic was reworked (introduced 3.2.0).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 epilogue (Atlas endgame)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eldritch_decay_quest",
+          "locator": "infobox: start 'Talk to Zana', completion 'Talk to Zana', act 'Epilogue'; section 'Walkthrough': 'Defeat the Elder (Uber Elder)'; Version history 3.9.0 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_epilogue_the_memory_eater",
+      "name": "The Memory Eater",
+      "aliases": [],
+      "type": "event",
+      "summary": "Epilogue quest given by Zana. The Exile must collect 15 Memory Fragments by killing the bosses of Elder-influenced Atlas maps; each fragment can be exchanged for a Shaper's Orb, and each turn-in earns Zana reputation, and fragments II to X also earn a map of the same tier as the fragment. Removed in 3.9.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 epilogue (Atlas endgame)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_memory_eater",
+          "locator": "lead paragraph: 'a quest given by Zana in the story's epilogue ... collect 15 Memory Fragments by killing the bosses of 15 maps'; infobox start 'Speak to Zana'; Version history 3.9.0 'Removed from the game'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_epilogue_sacred_grove",
+      "name": "The Sacred Grove (quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Introductory quest for the Harvest mechanic. After the Exile finds the Sacred Grove, Oshabi teaches the Exile to harvest the Grove's seeds (Wild, Vivid and Primal Lifeforce pools), kill the monsters that emerge, and talk to her about the harvest. Reworked in 3.13.0.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harvest"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 epilogue (Harvest league)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_sacred_grove_quest",
+          "locator": "infobox: start 'The Sacred Grove', objective 'Talk to Oshabi about how to harvest the Grove's seeds', act 'Epilogue'; quest logs: 'Activate the Lifeforce Collector ... Kill the monsters that have emerged from the Seeds'; Version history 3.13.0 'Reworked'"
+        },
+        {
+          "source_id": "src_poewiki_oshabi",
+          "locator": "section 'Quests': 'Oshabi offers players the following quest: The Sacred Grove'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_a9_ruler_of_highgate",
+      "name": "The Ruler of Highgate",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 9 quest. Kira has kidnapped Oyun to sacrifice her to Garukhan. The Exile kills Kira and Garukhan but cannot save Oyun; the Sekhema Feather is then given to Tasuni or Irasha (the Exile's choice), who rules Highgate. The reward is a Book of Skill.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Act 9",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act9"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ruler_of_highgate",
+          "locator": "lead: 'an optional quest in act 9'; walkthrough: 'Kira has kidnapped Oyun and plans to sacrifice her to Garukhan'; completion lines: 'You have given the Sekhema Feather to Tasuni and he now rules Highgate' / 'to Irasha and she now rules Highgate'; 'failed to save Oyun'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_a9_recurring_nightmare",
+      "name": "Recurring Nightmare",
+      "aliases": [],
+      "type": "event",
+      "summary": "Required Act 9 quest. Sin asks the Exile to gather Basilisk Acid and Trarthan Powder (Refinery, Boiling Lake) so he can burn a new entrance into the Beast. The Exile meets Sin at the Quarry, enters the Belly of the Beast, and kills the Depraved Trinity; Lilly Roth then offers to ferry the Exile to Oriath for Act 10.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Act 9",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act9"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_recurring_nightmare",
+          "locator": "walkthrough: 'Talk to Sin in Highgate about the Beast and what to do'; 'Meet Sin at the Quarry, where he will burn open a new entrance into the Belly of the Beast'; completion: 'You have killed the Depraved Trinity. Now talk to Lilly to gain access to Act 10'; Lilly Roth: 'Say the words and we'll set the sails.'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_a7_mother_of_spiders",
+      "name": "The Mother of Spiders",
+      "aliases": [],
+      "type": "event",
+      "summary": "Required Act 7 quest. After Silk's strange dialogue, Yeena sends the Exile to Arakaali's temple (Temple of Decay) to save Silk. The Exile kills Arakaali, which opens Act 8, but fails to save Silk.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Act 7",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act7"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_mother_of_spiders",
+          "locator": "infobox: start 'Talk to Yeena', boss Arakaali, completion 'Go to Act 8'; walkthrough: 'Kill Arakaali at the heart of the Temple of Decay to save Silk'; Quest Complete: 'You have killed Arakaali and gained access to Act 8, but failed to save Silk.'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_a6_father_of_war",
+      "name": "The Father of War",
+      "aliases": [],
+      "type": "event",
+      "summary": "Required Act 6 quest. The Exile finds the missing Eye of Conquest (from the Dishonoured Queen), enters the Karui Fortress and Tukohama's Keep, and kills Tukohama, the Karui god of war. Sin then introduces the Pantheon. The quest completes when Tarkleigh rewards the Exile in Lioneye's Watch.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Act 6",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act6"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_father_of_war",
+          "locator": "infobox: boss 'Tukohama, Karui God of War', key item 'Eye of Conquest', completion 'Talk to Tarkleigh after Tukohama is defeated'; walkthrough: 'After you defeat him, Sin will come and introduce the Pantheon'; Tarkleigh: 'You've killed the Karui war god?'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_a7_master_of_a_million_faces",
+      "name": "The Master of a Million Faces",
+      "aliases": [],
+      "type": "event",
+      "summary": "Required Act 7 quest. Eramir reads the Vaal inscriptions on the relic that washed ashore and identifies the god Ralakesh. Ralakesh has possessed Greust; killing Greust forces the god back into the relic, and destroying the relic may destroy the god. The route to the Old Fields runs through a secret passage from the Chamber of Sins, whose key Silk gives after Maligaro's map boss.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Act 7",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act7"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_master_of_a_million_faces",
+          "locator": "infobox: boss 'Ralakesh, Master of a Million Faces', start 'Talk to Eramir in the Bridge Encampment'; Eramir: 'Our poor friend, Greust, has likely become Ralakesh's avatar'; walkthrough: 'The key to this passage is given to you by Silk after you defeat Maligaro in the map device'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_a7_queen_of_despair",
+      "name": "Queen of Despair",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 7 quest. Sin sends the Exile into the Den of Despair in the Dread Thicket to kill Gruthkul, the Mother of Despair, whose children the Vaal slaughtered. Eramir rewards the Exile and records the story in a book.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Act 7",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act7"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_queen_of_despair",
+          "locator": "infobox: boss 'Gruthkul, Mother of Despair', start 'Talk to Sin', completion 'Talk to Eramir', required 'no'; walkthrough: 'Into the most dreaded of thickets you must go ... Gruthkul the Despairing sulks and schemes'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_a7_silver_locket",
+      "name": "The Silver Locket",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 7 quest. Weylam Roth asks the Exile to find the Silver Locket, which holds a portrait of his late wife Meredith, buried in a lockbox near the Broken Bridge. Delivering it earns a reward; since 3.15.0 the reward is a choice of flask.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Act 7",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act7"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_silver_locket",
+          "locator": "infobox: act 7, start 'Talk to Weylam Roth in the Bridge Encampment', required 'No'; walkthrough: 'buried near the Broken Bridge'; Weylam Roth: 'The box has a silver locket in it, holds the portrait of me late wife, Meredith'; Version history 3.15.0 flask choice"
+        }
+      ]
+    },
+    {
+      "id": "event_a1_breaking_down_the_door",
+      "name": "Breaking Down the Door",
+      "aliases": [],
+      "type": "event",
+      "summary": "Act 1 quest exclusive to the Betrayal league (historical). Jun asks the Exile to help dismantle Immortal Syndicate fortifications on the Coast and to defeat a Syndicate member there. It was replaced by The Immortal Syndicate after the league ended.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "betrayal"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Act 1 (Betrayal league)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_breaking_down_the_door",
+          "locator": "lead: 'was a quest in Act 1 exclusive to the Betrayal league. After the league end it is replaced by The Immortal Syndicate'; walkthrough: 'Jun wants you to help her find and dismantle the Immortal Syndicate fortifications on the Coast'"
+        }
+      ]
+    },
+    {
+      "id": "event_a1_dying_for_a_fight",
+      "name": "Dying for a Fight",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional tutorial quest for the Trial of the Ancestors (Ancestor league, historical). A Silver Coin opens a portal to the Halls of the Dead; Navali, a revenant, tells the Exile that they have apparently died and sends them into the Halls of the Dead, where winning a tournament completes the quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Act 1 (Ancestor league)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_dying_for_a_fight",
+          "locator": "lead: 'an optional tutorial quest for Trial of the Ancestors'; walkthrough quote from Navali: 'Your coming was foretold, but you are decades early ... I am Navali, once a hatungo'; 'Quest Complete - You have won a tournament in the Halls of the Dead'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_a_choice_of_futures",
+      "name": "A Choice of Futures",
+      "aliases": [],
+      "type": "event",
+      "summary": "Tutorial quest for the Ultimatum mechanic (Ultimatum league). In a map, the Exile approaches an entity of Chaos, chooses one of the Trialmaster's challenges, completes the round without leaving the ritual circle, and decides whether to raise the difficulty or leave with the current reward.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ultimatum"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Ultimatum league (maps)",
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_a_choice_of_futures",
+          "locator": "infobox: start 'Any map with Trialmaster', objective 'Start Ultimatum encounter'; walkthrough: 'Your path has led you to an entity of Chaos. Approach him.'; 'Complete the Trialmaster's (round number) challenge without leaving the ritual circle'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_undertakers_apprentice",
+      "name": "The Undertaker's Apprentice",
+      "aliases": [],
+      "type": "event",
+      "summary": "Tutorial quest for the Necropolis league mechanic. The Exile kills monsters until a usable corpse drops, buries it in The Necropolis, performs the exorcism by digging the grave, and returns to Undertaker Arimor to end the quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "necropolis"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Necropolis league",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_undertakers_apprentice",
+          "locator": "infobox: start 'Approach Undertaker Arimor', objective 'Collect corpse / Perform the Exorcism in The Necropolis', completion 'Talk to Undertaker Arimor', act 1; walkthrough: 'Perform the Exorcism by digging the grave in the Necropolis'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_pound_of_flesh",
+      "name": "Pound of Flesh",
+      "aliases": [],
+      "type": "event",
+      "summary": "Epilogue Metamorph-league quest. Tane Octavius asks the Exile to slay monsters and collect five different Metamorph organ samples; the samples summon a Metamorph which the Exile defeats. Afterwards Tane can be invited to the hideout and the Tane's Laboratory is accessible.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "metamorph"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 epilogue (Metamorph league)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_pound_of_flesh",
+          "locator": "infobox: act 'Epilogue', start 'Map', objective 'Tane wants you to slay creatures and collect samples ... five different samples'; walkthrough: 'Your samples have summoned a Metamorph! Defeat it.'; 'the player character can access the Tane's Laboratory after the quest'"
+        }
+      ]
+    },
+    {
+      "id": "event_a2_safe_and_sound",
+      "name": "Safe and Sound",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 2 quest. Helena asks the Exile to find a Hideout location rumoured in the Dread Thicket beyond the Vaal Ruins; after clearing it the Exile claims the Hideout and uses its crafting bench to enhance an item.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Act 2",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act2"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_safe_and_sound",
+          "locator": "infobox: act 2, start 'Talk to Helena'; walkthrough: 'Helena wants you to find a suitable location for a Hideout. There is one rumoured to be located in the Dread Thicket beyond the Vaal Ruins'; 'Quest Complete - You have claimed a Hideout'"
+        }
+      ]
+    },
+    {
+      "id": "event_a1_prisoner_of_fate",
+      "name": "Prisoner of Fate",
+      "aliases": [],
+      "type": "event",
+      "summary": "Optional Act 1 quest (historical; the prophecy system was removed in 3.17.0). The Exile defeats the Faun in the Climb to free Navali, who thanks the Exile and teaches prophecies in Lioneye's Watch.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Act 1 (prophecy era)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_prisoner_of_fate",
+          "locator": "lead: 'Historical content ... the prophecy system was removed from the game in version 3.17.0'; walkthrough: 'Navali has been captured by the Faun in the Climb. Defeat the Faun to to rescue Navali'; Navali: 'Thank you for freeing me.'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_epilogue_the_redeemer",
+      "name": "The Redeemer (quest)",
+      "aliases": [],
+      "type": "event",
+      "summary": "Epilogue Atlas quest in which Zana's former colleague Veritania has gone insane and lurks in corner-region maps of the Atlas. The Exile finds her three times, then uses Kirac's information and Zana's portals to enter her Citadel and defeat Veritania the Redeemer. Reworked for 3.16 when the Atlas was reduced to four regions; removed in 3.17.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 epilogue (Atlas endgame)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_epilogue"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_redeemer_quest",
+          "locator": "infobox: start 'Complete The Elderslayers', boss 'Veritania'; walkthrough: 'The third time you do, Veritania will appear and taunt the player'; 'talk to Kirac ... talk to Zana to open six portals into Veritania's Citadel'; Version history: reworked as regions reduced to 4; removed in 3.17"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_strange_growths",
+      "name": "Strange Growths",
+      "aliases": [],
+      "type": "event",
+      "summary": "Blight tutorial quest (Act 3 or any Blight encounter). Sister Cassia asks the Exile to activate her Ichor Pump; the Exile builds towers near the Mycelium and defends the pump from Fungal Defenders. Completing it unlocks Anointing.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "blight"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Act 3 (Blight league)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act3"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_strange_growths",
+          "locator": "infobox: act 3, start 'Any Map (except Blighted Map) with the presence of Cassia'; walkthrough: 'Build a Tower near the Mycelium to help protect Cassia's pump'; 'Quest Complete - You have helped Cassia defend her Ichor Pump'; quest unlocks 'anointing'"
+        }
+      ]
+    },
+    {
+      "id": "event_poe1_shattered_past",
+      "name": "Shattered Past",
+      "aliases": [],
+      "type": "event",
+      "summary": "Act 1 quest exclusive to the Synthesis league (historical; removed in 3.7.0). Cavas, an amnesiac, asks the Exile to explore and stabilise a corrupted memory and find more memories; once he remembers enough, the Exile is given access to the Memory Nexus.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "synthesis"
+      ],
+      "era": "poe1_leagues",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Act 1 (Synthesis league)",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act1"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_shattered_past",
+          "locator": "lead: 'was a quest in Act 1 exclusive to the Synthesis league'; Cavas: 'Oh. Oh dear. Oh DEAR! I've remembered something! Exile, it is time we go to the Nexus.'; 'Quest Complete - You have gained access to the Memory Nexus'"
+        }
+      ]
+    },
+    {
+      "id": "creature_kitavas_heart",
+      "name": "Kitava's Heart",
+      "aliases": [],
+      "type": "creature",
+      "summary": "A part of Kitava that spawns during its battle in Act 5 (Cathedral Rooftop, The Feeding Trough) and Act 10. Introduced as a boss monster in 3.0.0; since 3.2.0 it cannot be slowed below its base speed.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "chronology": {
+        "in_world_year": null,
+        "relative": "PoE1 Acts 5 and 10",
+        "story_order": null
+      },
+      "acts": [
+        "act_poe1_act5",
+        "act_poe1_act10"
+      ],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kitava_s_heart",
+          "locator": "lead: 'Kitava's Heart is a part of Kitava that spawns during the battle with Kitava, the Insatiable, which occurs in Act 5 and Act 10'; Version history 3.0.0 'Introduced to the game as boss monster'; 3.2.0 speed note"
+        }
+      ],
+      "subtype": "boss form part"
+    },
+    {
+      "id": "loc_stridevolf",
+      "name": "Stridevolf",
+      "aliases": [],
+      "type": "location",
+      "summary": "Enclave on the southern outskirts of the Vastiri Plains, past Mount Vastiri. It was burned down by the unnamed 'bandit king of Stridevolf' during a conflict with the Maraketh warrior Orbala. Governor Kastov is listed among its notable members.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poewiki_stridevolf",
+          "locator": "lead paragraph: 'an enclave on the southern outskirts of the Vastiri Plains, past Mount Vastiri ... burned down by the bandit king of Stridevolf during a conflict with Maraketh warrior Orbala'; 'Notable members: Governor Kastov'. No date is given on the page, so era is unknown."
+        }
+      ],
+      "subtype": "settlement"
+    },
+    {
+      "id": "loc_phaaryl",
+      "name": "Phaaryl",
+      "aliases": [],
+      "type": "location",
+      "summary": "Unexplorable location north of Sarn, said to be the point of invasion of the Harbingers as described in Commander Kirac's 'Kirac's Memory' quest dialogue. More than three thousand Oriathan soldiers were killed in the Battle of Phaaryl.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_phaaryl",
+          "locator": "lead paragraph: 'an unexplorable location north of Sarn ... the point of invasion by the Harbingers, as described by Commander Kirac's Kirac's Memory quest dialogue. Over three thousand Oriathan soldiers were killed in the Battle of Phaaryl'"
+        }
+      ],
+      "subtype": "unexplorable area"
+    },
+    {
+      "id": "text_veritania_journals",
+      "name": "Veritania's Journals",
+      "aliases": [],
+      "type": "text",
+      "summary": "Four clickable journal entries that appeared in Veritania's arena after she was defeated. They trace her from a self-described disciplined exile who is disgusted by Atlas vice, to the self-appointed 'Redeemer' who plans to purge the mortals who indulge.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_veritania_s_journals",
+          "locator": "section 'Journal I' to 'Journal IV': e.g. Journal III 'I am the only one that can save us', signed 'Veritania the Pure'; Journal IV 'I shall save you from your own vices by purging your weakness.' signed 'Veritania the Redeemer'"
+        }
+      ],
+      "subtype": "environmental lore"
+    },
+    {
+      "id": "text_sirus_journals",
+      "name": "Sirus' Journals",
+      "aliases": [],
+      "type": "text",
+      "summary": "Four clickable lore journals in the Conquerors of the Atlas boss rooms that expand the story of Sirus, Awakener of Worlds: his wish for purpose, his dread of the monster the group pursues, the last days with his companions, and his entrapment and 'empty' existence after he stepped into an orb of darkness.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sirus_journals",
+          "locator": "section 'Journal 1' ('If it weren't for Zana...') to 'Journal 4' ('They left me. In my moment of need, they left me.' ... 'Empty.')"
+        }
+      ],
+      "subtype": "environmental lore"
+    },
+    {
+      "id": "text_drox_journals",
+      "name": "Drox's Journals",
+      "aliases": [],
+      "type": "text",
+      "summary": "Four clickable journals in Drox's arena in which the former exile pursues a kingdom of law and justice through force, conquers valley after valley and grows more convinced that strength will make the mists real, ending as 'Drox the Warlord'.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_drox_s_journals",
+          "locator": "section 'Journal I' ('Drox the Just') to 'Journal IV' ('Drox the Warlord.'); Journal I: 'I shall be the one who leads')"
+        }
+      ],
+      "subtype": "environmental lore"
+    },
+    {
+      "id": "text_baran_journals",
+      "name": "Baran's Journals",
+      "aliases": [],
+      "type": "text",
+      "summary": "Four clickable journals from Baran's arena: a will bequeathing his staff and platemail to Veritania, Sirus, Drox and Al-Hezmin and his Oriathan home to Templar siblings; a letter to Landren about being trapped in the Atlas; a letter to a discoverer describing the demon that fed on Valdo Caeserius's memories ('the Decay') and Sirus's sacrifice; and a final entry in which Baran turns to God and plans to take the Atlas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_baran_s_journals",
+          "locator": "section 'Journal I' (Last Will and Testament: 'To my good friends and allies, Veritania, Sirus, Drox, and Al-Hezmin'), 'Journal III' ('feeding on the memories of Valdo Caeserius'), 'Journal IV' ('I am your sword')"
+        }
+      ],
+      "subtype": "environmental lore"
+    },
+    {
+      "id": "text_al_hezmin_journals",
+      "name": "Al-Hezmin's Journals",
+      "aliases": [],
+      "type": "text",
+      "summary": "Four clickable hunter's journals from Al-Hezmin's arena. They are notes on his companions (Baran's prayers, Veritania's reading, Zana's secrets, Drox's drills), his rivalry with Drox, and a final entry about a 'New Person' who talked with Zana and seemed stronger than the other exiles.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_al_hezmin_s_journals",
+          "locator": "section 'Journal I' (Baran: 'Prayer is the centre of his regimen'; Zana: 'Hiding something important') to 'Journal IV': 'New Person: I don't recognise this one ... Saw them talking to Zana.'"
+        }
+      ],
+      "subtype": "environmental lore"
+    },
+    {
+      "id": "text_victario_writings",
+      "name": "Victario's Writings",
+      "aliases": [],
+      "type": "text",
+      "summary": "Four environmental lore texts in The Library, written as anecdotes and allegory by the poet Victario of Sarn: Kalisa Maas and the Virtue gem that shatters glass; the Blackest Monkey parable; Slaves of Virtue, on shackled workers who mine gems for the Eternal citizens while Malachai abuses them; and A Friend in Need, on the musician Lorenzi who has a gem implanted in his hand.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_victario_s_writings",
+          "locator": "section headings 'Volume 1: Kalisa Maas', 'Volume 2: The Blackest Monkey', 'Volume 3: Slaves of Virtue' (mentions Malachai and Highgate), 'Volume 4: A Friend in Need' (Lorenzi and Malachai's gem implant); each signed 'Victario of Sarn'"
+        }
+      ],
+      "subtype": "environmental lore"
+    },
+    {
+      "id": "text_aberrations",
+      "name": "Aberrations",
+      "aliases": [],
+      "type": "text",
+      "summary": "Environmental lore objects tied to the Originator (Zana) and her father Valdo. Most entries are narrated by Zana: the Atlas as a trap, Sirus's transformation by the Atlas, her intervention through memory threads to save him, and the Templars' brutality. The entries in the Incarnation boss arenas are narrated by Valdo.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "chronology": {
+        "in_world_year": null,
+        "relative": null,
+        "story_order": null
+      },
+      "acts": [],
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_aberration",
+          "locator": "lead: 'environmental lore objects found in areas related to Zana, the Originator ... the ones in the Incarnation boss arenas are narrated by Valdo'; 'Entry 2 (The Success)': 'I set the threads in motion across time and space'; 'The Neglected Flame' on Sirus"
+        }
+      ],
+      "subtype": "environmental lore"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_faction_brotherhood_of_silence__located_in__loc_sarn",
+      "source": "faction_brotherhood_of_silence",
+      "target": "loc_sarn",
+      "relation": "located_in",
+      "description": "The Brotherhood is based primarily in Sarn.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_brotherhood_of_silence",
+          "locator": "lead paragraph: 'a faction of assassins-for-hire based primarily in Sarn'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_brotherhood_of_silence__associated_with__faction_eternal_empire",
+      "source": "faction_brotherhood_of_silence",
+      "target": "faction_eternal_empire",
+      "relation": "associated_with",
+      "description": "Hit squad for many of the Eternal Empire's elite.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_brotherhood_of_silence",
+          "locator": "section 'Lore': 'acted as a hit squad for many of the elite of the Eternal Empire'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_brotherhood_of_silence__associated_with__loc_the_bath_house",
+      "source": "faction_brotherhood_of_silence",
+      "target": "loc_the_bath_house",
+      "relation": "associated_with",
+      "description": "Surrounded Drusus in the Bath House and pressured him into drowning himself.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_brotherhood_of_silence",
+          "locator": "section 'Lore': 'surrounded Drusus in the Bath House, pressuring him into drowning himself'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_epilogue_eldritch_decay",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_epilogue_eldritch_decay",
+      "relation": "participates_in",
+      "description": "The Exile completes the Atlas quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eldritch_decay_quest",
+          "locator": "walkthrough: 'Defeat the Elder (Uber Elder)'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_elder__participates_in__event_poe1_epilogue_eldritch_decay",
+      "source": "char_elder",
+      "target": "event_poe1_epilogue_eldritch_decay",
+      "relation": "participates_in",
+      "description": "The Elder is spawned into the Shaper's Realm and defeated as the Uber Elder.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_eldritch_decay_quest",
+          "locator": "walkthrough: 'the Elder will spawn in the Shaper's Realm ... defeat the Elder Guardians and finally the Uber Elder'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_epilogue_the_memory_eater",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_epilogue_the_memory_eater",
+      "relation": "participates_in",
+      "description": "The Exile collects Memory Fragments from Elder-influenced map bosses.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_memory_eater",
+          "locator": "lead paragraph: 'The player must collect 15 Memory Fragments by killing the bosses of 15 maps'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_epilogue_sacred_grove",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_epilogue_sacred_grove",
+      "relation": "participates_in",
+      "description": "The Exile harvests the seeds of the Sacred Grove with Oshabi.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harvest"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_sacred_grove_quest",
+          "locator": "lead: 'an introductory quest for the Harvest mechanic'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_oshabi__participates_in__event_poe1_epilogue_sacred_grove",
+      "source": "char_oshabi",
+      "target": "event_poe1_epilogue_sacred_grove",
+      "relation": "participates_in",
+      "description": "Oshabi teaches the Exile the harvesting of the Grove and talks to them at completion.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harvest"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_oshabi",
+          "locator": "section 'Quests': 'Oshabi offers players the following quest: The Sacred Grove'"
+        },
+        {
+          "source_id": "src_poewiki_the_sacred_grove_quest",
+          "locator": "quest logs: 'Talk to Oshabi in the Sacred Grove about the harvest'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_epilogue_sacred_grove__occurs_in__loc_the_sacred_grove",
+      "source": "event_poe1_epilogue_sacred_grove",
+      "target": "loc_the_sacred_grove",
+      "relation": "occurs_in",
+      "description": "The quest takes place in the Sacred Grove.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harvest"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_sacred_grove_quest",
+          "locator": "quest logs: 'You have found a mysterious Grove'; lead: 'Talk to Oshabi in the Sacred Grove'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_a9_ruler_of_highgate",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_a9_ruler_of_highgate",
+      "relation": "participates_in",
+      "description": "The Exile hunts Kira to save Oyun and decides who gets the Sekhema Feather.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ruler_of_highgate",
+          "locator": "walkthrough: 'Travel to The Quarry, then to the Arena ... Kill Kira and save Oyun'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kira__participates_in__event_poe1_a9_ruler_of_highgate",
+      "source": "char_kira",
+      "target": "event_poe1_a9_ruler_of_highgate",
+      "relation": "participates_in",
+      "description": "Kira kidnaps Oyun and wears the Sekhema Feather; she is killed in the quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ruler_of_highgate",
+          "locator": "walkthrough: 'Kira has kidnapped Oyun and plans to sacrifice her to Garukhan'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_oyun__participates_in__event_poe1_a9_ruler_of_highgate",
+      "source": "char_oyun",
+      "target": "event_poe1_a9_ruler_of_highgate",
+      "relation": "participates_in",
+      "description": "Oyun is kidnapped; the Exile fails to save her.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ruler_of_highgate",
+          "locator": "completion text: 'You have killed Kira and Garukhan but failed to save Oyun'"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_garukhan__participates_in__event_poe1_a9_ruler_of_highgate",
+      "source": "deity_garukhan",
+      "target": "event_poe1_a9_ruler_of_highgate",
+      "relation": "participates_in",
+      "description": "Garukhan is the goddess Kira worships and is killed in the quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ruler_of_highgate",
+          "locator": "completion text: 'You have killed Kira and Garukhan but failed to save Oyun'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_a9_kill_garukhan__part_of__event_poe1_a9_ruler_of_highgate",
+      "source": "event_poe1_a9_kill_garukhan",
+      "target": "event_poe1_a9_ruler_of_highgate",
+      "relation": "part_of",
+      "description": "The Kira and Garukhan battle is the climax of the optional Ruler of Highgate quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ruler_of_highgate",
+          "locator": "completion: 'You have killed Kira and Garukhan but failed to save Oyun'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_a9_recurring_nightmare",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_a9_recurring_nightmare",
+      "relation": "participates_in",
+      "description": "The Exile gathers ingredients for Sin and enters the Belly of the Beast.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_recurring_nightmare",
+          "locator": "walkthrough: 'Meet Sin at the Quarry ... Enter, and meet Sin at the Black Core'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_depraved_trinity__participates_in__event_poe1_a9_recurring_nightmare",
+      "source": "char_depraved_trinity",
+      "target": "event_poe1_a9_recurring_nightmare",
+      "relation": "participates_in",
+      "description": "The Depraved Trinity is manifested by Sin at the Black Core and killed by the Exile.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_recurring_nightmare",
+          "locator": "walkthrough: 'Talk to Sin to manifest the Depraved Trinity'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_a9_enter_beast__part_of__event_poe1_a9_recurring_nightmare",
+      "source": "event_poe1_a9_enter_beast",
+      "target": "event_poe1_a9_recurring_nightmare",
+      "relation": "part_of",
+      "description": "Entering the Belly of the Beast is a step of Recurring Nightmare.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_recurring_nightmare",
+          "locator": "walkthrough: 'Sin has burned open a new entrance into the Belly of the Beast. Enter, and meet Sin at the Black Core'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_a9_kill_depraved_trinity__part_of__event_poe1_a9_recurring_nightmare",
+      "source": "event_poe1_a9_kill_depraved_trinity",
+      "target": "event_poe1_a9_recurring_nightmare",
+      "relation": "part_of",
+      "description": "Killing the Depraved Trinity completes Recurring Nightmare.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_recurring_nightmare",
+          "locator": "completion: 'You have killed the Depraved Trinity. Now talk to Lilly to gain access to Act 10'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_a9_recurring_nightmare__leads_to__event_poe1_a10_arrive_oriath",
+      "source": "event_poe1_a9_recurring_nightmare",
+      "target": "event_poe1_a10_arrive_oriath",
+      "relation": "leads_to",
+      "description": "Lilly Roth ferries the Exile to Oriath for Act 10 after the quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_recurring_nightmare",
+          "locator": "Lilly Roth: 'Well, I suppose you'll be wanting us to ferry you over to Oriath ... Say the words and we'll set the sails.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_a7_mother_of_spiders",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_a7_mother_of_spiders",
+      "relation": "participates_in",
+      "description": "The Exile finds Silk in Arakaali's temple and kills Arakaali.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_mother_of_spiders",
+          "locator": "walkthrough: 'Find him in Arakaali's temple and save him'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_silk__participates_in__event_poe1_a7_mother_of_spiders",
+      "source": "char_silk",
+      "target": "event_poe1_a7_mother_of_spiders",
+      "relation": "participates_in",
+      "description": "Silk is consorting with Arakaali and is not saved.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_mother_of_spiders",
+          "locator": "dialogue 'Silk': 'My bride has arrived, exile!'; 'failed to save Silk'"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_arakaali__participates_in__event_poe1_a7_mother_of_spiders",
+      "source": "deity_arakaali",
+      "target": "event_poe1_a7_mother_of_spiders",
+      "relation": "participates_in",
+      "description": "Arakaali sleeps in the Temple of Decay and is killed by the Exile.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_mother_of_spiders",
+          "locator": "walkthrough: 'Arakaali ... Kill Arakaali at the heart of the Temple of Decay to save Silk'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_a7_kill_arakaali__part_of__event_poe1_a7_mother_of_spiders",
+      "source": "event_poe1_a7_kill_arakaali",
+      "target": "event_poe1_a7_mother_of_spiders",
+      "relation": "part_of",
+      "description": "Killing Arakaali completes The Mother of Spiders.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_mother_of_spiders",
+          "locator": "Quest Complete - You have killed Arakaali and gained access to Act 8"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_a6_father_of_war",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_a6_father_of_war",
+      "relation": "participates_in",
+      "description": "The Exile enters the Karui Fortress and kills Tukohama.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_father_of_war",
+          "locator": "walkthrough: 'Defeat Tukohama. You have to kill Tukohama.'"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_tukohama__participates_in__event_poe1_a6_father_of_war",
+      "source": "deity_tukohama",
+      "target": "event_poe1_a6_father_of_war",
+      "relation": "participates_in",
+      "description": "Tukohama, the Karui god of war, is the boss of the quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_father_of_war",
+          "locator": "infobox: boss 'Tukohama, Karui God of War'; 'Let me teach you the laws of war.'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_a6_kill_tukohama__part_of__event_poe1_a6_father_of_war",
+      "source": "event_poe1_a6_kill_tukohama",
+      "target": "event_poe1_a6_father_of_war",
+      "relation": "part_of",
+      "description": "The Tukohama kill is the climax of The Father of War.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_father_of_war",
+          "locator": "walkthrough: 'Defeat Tukohama'; completion 'Talk to Tarkleigh after Tukohama is defeated'"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_sin__participates_in__event_poe1_a6_father_of_war",
+      "source": "deity_sin",
+      "target": "event_poe1_a6_father_of_war",
+      "relation": "participates_in",
+      "description": "Sin appears after Tukohama's death and introduces the Pantheon.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_father_of_war",
+          "locator": "walkthrough: 'After you defeat him, Sin will come and introduce the Pantheon'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_a7_master_of_a_million_faces",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_a7_master_of_a_million_faces",
+      "relation": "participates_in",
+      "description": "The Exile kills Greust, the possessed avatar of Ralakesh.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_master_of_a_million_faces",
+          "locator": "walkthrough: 'You must kill Greust to defeat Ralakesh'"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_ralakesh__participates_in__event_poe1_a7_master_of_a_million_faces",
+      "source": "deity_ralakesh",
+      "target": "event_poe1_a7_master_of_a_million_faces",
+      "relation": "participates_in",
+      "description": "Ralakesh possesses Greust and is driven back into his relic.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_master_of_a_million_faces",
+          "locator": "lead: 'The god Ralakesh has possessed Greust'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_greust__participates_in__event_poe1_a7_master_of_a_million_faces",
+      "source": "char_greust",
+      "target": "event_poe1_a7_master_of_a_million_faces",
+      "relation": "participates_in",
+      "description": "Greust is possessed by Ralakesh and is killed.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_master_of_a_million_faces",
+          "locator": "walkthrough: 'Greust has likely become Ralakesh's avatar'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_a7_kill_ralakesh__part_of__event_poe1_a7_master_of_a_million_faces",
+      "source": "event_poe1_a7_kill_ralakesh",
+      "target": "event_poe1_a7_master_of_a_million_faces",
+      "relation": "part_of",
+      "description": "Killing Greust to drive Ralakesh into the relic completes the quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_master_of_a_million_faces",
+          "locator": "walkthrough: 'If you could see to Greust's ... passing ... Ralakesh will be forced to retreat into the relic'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_a7_queen_of_despair",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_a7_queen_of_despair",
+      "relation": "participates_in",
+      "description": "The Exile kills Gruthkul in the Dread Thicket.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_queen_of_despair",
+          "locator": "infobox: boss 'Gruthkul, Mother of Despair'; 'You have killed Gruthkul, the Mother of Despair'"
+        }
+      ]
+    },
+    {
+      "id": "e_deity_gruthkul__participates_in__event_poe1_a7_queen_of_despair",
+      "source": "deity_gruthkul",
+      "target": "event_poe1_a7_queen_of_despair",
+      "relation": "participates_in",
+      "description": "Gruthkul, the Mother of Despair, is the quest boss.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_queen_of_despair",
+          "locator": "walkthrough: 'Gruthkul the Despairing sulks and schemes'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_eramir__participates_in__event_poe1_a7_queen_of_despair",
+      "source": "char_eramir",
+      "target": "event_poe1_a7_queen_of_despair",
+      "relation": "participates_in",
+      "description": "Eramir rewards the Exile and records the story in a book.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_queen_of_despair",
+          "locator": "dialogue 'Eramir': 'I shall record it in a book'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_a7_kill_gruthkul__part_of__event_poe1_a7_queen_of_despair",
+      "source": "event_poe1_a7_kill_gruthkul",
+      "target": "event_poe1_a7_queen_of_despair",
+      "relation": "part_of",
+      "description": "The Gruthkul kill is the completion step of Queen of Despair.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_queen_of_despair",
+          "locator": "completion: 'You have killed Gruthkul, the Mother of Despair. Talk to Eramir for your reward.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_a7_silver_locket",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_a7_silver_locket",
+      "relation": "participates_in",
+      "description": "The Exile digs up the lockbox and returns the locket.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_silver_locket",
+          "locator": "walkthrough: 'Weylam Roth has asked you to find his Silver Locket, buried near the Broken Bridge'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_weylam_roth__guides__char_exile_poe1",
+      "source": "char_weylam_roth",
+      "target": "char_exile_poe1",
+      "relation": "guides",
+      "description": "Weylam Roth asks the Exile to recover his locket.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_silver_locket",
+          "locator": "dialogue 'Weylam Roth': 'If you happen across me lockbox in your travels, I'd be appreciating of its return.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_weylam_roth__participates_in__event_poe1_a7_silver_locket",
+      "source": "char_weylam_roth",
+      "target": "event_poe1_a7_silver_locket",
+      "relation": "participates_in",
+      "description": "Weylam Roth gives and receives the quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_silver_locket",
+          "locator": "infobox: start 'Talk to Weylam Roth in the Bridge Encampment', completion 'Talk to Weylam Roth'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_a7_silver_locket__occurs_in__loc_the_bridge_encampment",
+      "source": "event_poe1_a7_silver_locket",
+      "target": "loc_the_bridge_encampment",
+      "relation": "occurs_in",
+      "description": "The quest starts and ends in the Bridge Encampment.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_silver_locket",
+          "locator": "infobox: start 'Talk to Weylam Roth in the Bridge Encampment'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_a1_breaking_down_the_door",
+      "source": "char_exile_poe1",
+      "target": "event_a1_breaking_down_the_door",
+      "relation": "participates_in",
+      "description": "The Exile helps Jun against the Immortal Syndicate.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "betrayal"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_breaking_down_the_door",
+          "locator": "walkthrough: 'You have defeated the Immortal Syndicate member with Jun's help'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__opposes__faction_immortal_syndicate",
+      "source": "char_exile_poe1",
+      "target": "faction_immortal_syndicate",
+      "relation": "opposes",
+      "description": "The Exile fights a Syndicate member on the Coast.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "betrayal"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_breaking_down_the_door",
+          "locator": "walkthrough: 'You have defeated the Immortal Syndicate member'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_a1_dying_for_a_fight",
+      "source": "char_exile_poe1",
+      "target": "event_a1_dying_for_a_fight",
+      "relation": "participates_in",
+      "description": "The Exile is tested by the Halls of the Dead.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_dying_for_a_fight",
+          "locator": "section 'Start a Match' / 'Win a Tournament': 'you must win an entire tournament to prove yourself worthy'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_a_choice_of_futures",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_a_choice_of_futures",
+      "relation": "participates_in",
+      "description": "The Exile accepts the Trialmaster's challenge.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ultimatum"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_a_choice_of_futures",
+          "locator": "walkthrough: 'Choose one of the Trialmaster's challenges and begin the trial'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_undertakers_apprentice",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_undertakers_apprentice",
+      "relation": "participates_in",
+      "description": "The Exile buries a corpse and performs the Exorcism.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "necropolis"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_undertakers_apprentice",
+          "locator": "walkthrough: 'Travel to The Necropolis, speak with Undertaker Arimor, and bury the aforementioned corpse'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_undertakers_apprentice__occurs_in__loc_the_necropolis",
+      "source": "event_poe1_undertakers_apprentice",
+      "target": "loc_the_necropolis",
+      "relation": "occurs_in",
+      "description": "The burial and exorcism are performed in The Necropolis.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "necropolis"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_undertakers_apprentice",
+          "locator": "walkthrough: 'Perform the Exorcism by digging the grave in the Necropolis'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_pound_of_flesh",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_pound_of_flesh",
+      "relation": "participates_in",
+      "description": "The Exile hunts monsters for Tane's samples and defeats the Metamorph.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "metamorph"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_pound_of_flesh",
+          "locator": "walkthrough: 'Tane wants you to slay creatures and collect samples from them. You will need five different samples.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tane__participates_in__event_poe1_pound_of_flesh",
+      "source": "char_tane",
+      "target": "event_poe1_pound_of_flesh",
+      "relation": "participates_in",
+      "description": "Tane Octavius sets the quest and is consulted about the defeated Metamorph.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "metamorph"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_pound_of_flesh",
+          "locator": "walkthrough: 'Speak to Tane about the monster you defeated'"
+        }
+      ]
+    },
+    {
+      "id": "e_creature_metamorph__participates_in__event_poe1_pound_of_flesh",
+      "source": "creature_metamorph",
+      "target": "event_poe1_pound_of_flesh",
+      "relation": "participates_in",
+      "description": "The collected samples summon a Metamorph that the Exile must defeat.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "metamorph"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_pound_of_flesh",
+          "locator": "walkthrough: 'Your samples have summoned a Metamorph! Defeat it.'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_pound_of_flesh__leads_to__loc_tane_s_laboratory",
+      "source": "event_poe1_pound_of_flesh",
+      "target": "loc_tane_s_laboratory",
+      "relation": "leads_to",
+      "description": "After the quest the Tane's Laboratory is accessible to the Exile.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "metamorph"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_pound_of_flesh",
+          "locator": "text after completion: 'the player character can access the Tane's Laboratory after the quest'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_a2_safe_and_sound",
+      "source": "char_exile_poe1",
+      "target": "event_a2_safe_and_sound",
+      "relation": "participates_in",
+      "description": "The Exile clears the Hideout location and enhances an item.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_safe_and_sound",
+          "locator": "walkthrough: 'You have cleared the Hideout. Talk to Helena to claim it.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_a1_prisoner_of_fate",
+      "source": "char_exile_poe1",
+      "target": "event_a1_prisoner_of_fate",
+      "relation": "participates_in",
+      "description": "The Exile defeats the Faun in the Climb to free Navali.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_prisoner_of_fate",
+          "locator": "walkthrough: 'Defeat the Faun in the Climb to rescue Navali'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_navali__participates_in__event_a1_prisoner_of_fate",
+      "source": "char_navali",
+      "target": "event_a1_prisoner_of_fate",
+      "relation": "participates_in",
+      "description": "Navali is held by the Faun and is freed by the Exile.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_prisoner_of_fate",
+          "locator": "walkthrough: 'Navali has been captured by the Faun in the Climb'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_epilogue_the_redeemer",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_epilogue_the_redeemer",
+      "relation": "participates_in",
+      "description": "The Exile tracks Veritania through Atlas corner maps to her Citadel.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_redeemer_quest",
+          "locator": "walkthrough: 'Open a map that's in one of the corner regions ... Veritania will appear and taunt the player'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_veritania__participates_in__event_poe1_epilogue_the_redeemer",
+      "source": "char_veritania",
+      "target": "event_poe1_epilogue_the_redeemer",
+      "relation": "participates_in",
+      "description": "Veritania the Redeemer is the boss of the quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_redeemer_quest",
+          "locator": "infobox: boss 'Veritania'; completion 'Defeat Veritania in a region with four Watchstones slotted'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_zana__participates_in__event_poe1_epilogue_the_redeemer",
+      "source": "char_zana",
+      "target": "event_poe1_epilogue_the_redeemer",
+      "relation": "participates_in",
+      "description": "Zana opens portals into Veritania's Citadel.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_redeemer_quest",
+          "locator": "walkthrough: 'talk to Zana to open six portals into Veritania's Citadel'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_strange_growths",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_strange_growths",
+      "relation": "participates_in",
+      "description": "The Exile defends Cassia's Ichor Pump from the Blight.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "blight"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_strange_growths",
+          "locator": "walkthrough: 'Defeat the Fungal Defenders before they reach the Ichor Pump'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_sister_cassia__participates_in__event_poe1_strange_growths",
+      "source": "char_sister_cassia",
+      "target": "event_poe1_strange_growths",
+      "relation": "participates_in",
+      "description": "Sister Cassia runs the Ichor Pump and sets the quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "blight"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_strange_growths",
+          "locator": "infobox: start 'Any Map ... with the presence of Cassia'; completion 'Talk to Cassia'"
+        },
+        {
+          "source_id": "src_poewiki_sister_cassia",
+          "locator": "dialogue 'Fungi': 'the moment the pump's needle pierces the fungal flesh, creatures ... begin to emerge'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__participates_in__event_poe1_shattered_past",
+      "source": "char_exile_poe1",
+      "target": "event_poe1_shattered_past",
+      "relation": "participates_in",
+      "description": "The Exile stabilises Cavas's memories.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "synthesis"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_shattered_past",
+          "locator": "walkthrough: 'Find more memories for Cavas and stabilise them to help him restore his memory'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_cavas__participates_in__event_poe1_shattered_past",
+      "source": "char_cavas",
+      "target": "event_poe1_shattered_past",
+      "relation": "participates_in",
+      "description": "Cavas gives the quest and recovers his memories.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "synthesis"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_shattered_past",
+          "locator": "infobox: start 'Talk to Cavas'; dialogue 'Cavas': 'I think this was a memory of mine'"
+        }
+      ]
+    },
+    {
+      "id": "e_event_poe1_shattered_past__leads_to__loc_memory_nexus",
+      "source": "event_poe1_shattered_past",
+      "target": "loc_memory_nexus",
+      "relation": "leads_to",
+      "description": "Completing the quest gives access to the Memory Nexus.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "synthesis"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_shattered_past",
+          "locator": "Quest Complete - You have gained access to the Memory Nexus"
+        }
+      ]
+    },
+    {
+      "id": "e_creature_kitavas_heart__part_of__deity_kitava",
+      "source": "creature_kitavas_heart",
+      "target": "deity_kitava",
+      "relation": "part_of",
+      "description": "Kitava's Heart is a part of Kitava.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kitava_s_heart",
+          "locator": "lead: 'Kitava's Heart is a part of Kitava that spawns during the battle with Kitava, the Insatiable'"
+        }
+      ]
+    },
+    {
+      "id": "e_creature_kitavas_heart__participates_in__event_poe1_a5_kitava_reawakens",
+      "source": "creature_kitavas_heart",
+      "target": "event_poe1_a5_kitava_reawakens",
+      "relation": "participates_in",
+      "description": "Kitava's Heart spawns in the Act 5 battle.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kitava_s_heart",
+          "locator": "lead: 'which occurs in Act 5 and Act 10'; location 'The Cathedral Rooftop (Act 5), The Feeding Trough'"
+        }
+      ]
+    },
+    {
+      "id": "e_creature_kitavas_heart__participates_in__event_poe1_a10_kill_kitava",
+      "source": "creature_kitavas_heart",
+      "target": "event_poe1_a10_kill_kitava",
+      "relation": "participates_in",
+      "description": "Kitava's Heart spawns in the Act 10 battle.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kitava_s_heart",
+          "locator": "lead: 'which occurs in Act 5 and Act 10'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_stridevolf__located_in__loc_vastiri",
+      "source": "loc_stridevolf",
+      "target": "loc_vastiri",
+      "relation": "located_in",
+      "description": "Stridevolf is on the southern outskirts of the Vastiri Plains.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_stridevolf",
+          "locator": "lead paragraph: 'on the southern outskirts of the Vastiri Plains, past Mount Vastiri'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_phaaryl__located_in__loc_sarn",
+      "source": "loc_phaaryl",
+      "target": "loc_sarn",
+      "relation": "located_in",
+      "description": "Phaaryl lies north of Sarn.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_phaaryl",
+          "locator": "lead paragraph: 'an unexplorable location north of Sarn'"
+        }
+      ]
+    },
+    {
+      "id": "e_loc_phaaryl__associated_with__concept_harbinger",
+      "source": "loc_phaaryl",
+      "target": "concept_harbinger",
+      "relation": "associated_with",
+      "description": "Phaaryl is said to be the Harbingers' point of invasion.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_phaaryl",
+          "locator": "lead paragraph: 'said to be the point of invasion by the Harbingers, as described by Commander Kirac's Kirac's Memory quest dialogue'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kirac__associated_with__loc_phaaryl",
+      "source": "char_kirac",
+      "target": "loc_phaaryl",
+      "relation": "associated_with",
+      "description": "Commander Kirac's quest dialogue describes the Battle of Phaaryl.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_phaaryl",
+          "locator": "lead: 'as described by Commander Kirac's Kirac's Memory quest dialogue'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_veritania_journals__part_of__text_conqueror_journals",
+      "source": "text_veritania_journals",
+      "target": "text_conqueror_journals",
+      "relation": "part_of",
+      "description": "Part of the set of journals found in the Conquerors' arenas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_veritania_s_journals",
+          "locator": "see 'See also' list of the journal page, which links the other three journal sets"
+        }
+      ]
+    },
+    {
+      "id": "e_text_sirus_journals__part_of__text_conqueror_journals",
+      "source": "text_sirus_journals",
+      "target": "text_conqueror_journals",
+      "relation": "part_of",
+      "description": "Part of the set of journals found in the Conquerors' arenas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sirus_journals",
+          "locator": "see 'See also' list of the journal page, which links the other three journal sets"
+        }
+      ]
+    },
+    {
+      "id": "e_text_drox_journals__part_of__text_conqueror_journals",
+      "source": "text_drox_journals",
+      "target": "text_conqueror_journals",
+      "relation": "part_of",
+      "description": "Part of the set of journals found in the Conquerors' arenas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_drox_s_journals",
+          "locator": "see 'See also' list of the journal page, which links the other three journal sets"
+        }
+      ]
+    },
+    {
+      "id": "e_text_baran_journals__part_of__text_conqueror_journals",
+      "source": "text_baran_journals",
+      "target": "text_conqueror_journals",
+      "relation": "part_of",
+      "description": "Part of the set of journals found in the Conquerors' arenas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_baran_s_journals",
+          "locator": "see 'See also' list of the journal page, which links the other three journal sets"
+        }
+      ]
+    },
+    {
+      "id": "e_text_al_hezmin_journals__part_of__text_conqueror_journals",
+      "source": "text_al_hezmin_journals",
+      "target": "text_conqueror_journals",
+      "relation": "part_of",
+      "description": "Part of the set of journals found in the Conquerors' arenas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_al_hezmin_s_journals",
+          "locator": "see 'See also' list of the journal page, which links the other three journal sets"
+        }
+      ]
+    },
+    {
+      "id": "e_text_veritania_journals__mentions__char_veritania",
+      "source": "text_veritania_journals",
+      "target": "char_veritania",
+      "relation": "mentions",
+      "description": "Journals written by Veritania.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_veritania_s_journals",
+          "locator": "'Veritania's journals are clickable lore items that appeared each time in the arena, after you defeat Veritania'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_sirus_journals__mentions__char_sirus",
+      "source": "text_sirus_journals",
+      "target": "char_sirus",
+      "relation": "mentions",
+      "description": "Journals about Sirus.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sirus_journals",
+          "locator": "lead: 'The journals expand the lore of Sirus, Awakener of Worlds'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_sirus_journals__mentions__char_zana",
+      "source": "text_sirus_journals",
+      "target": "char_zana",
+      "relation": "mentions",
+      "description": "Journal 1 and 3 refer to Zana, whose father is the centre of the Atlas conflict.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_sirus_journals",
+          "locator": "Journal 1: 'If it weren't for Zana...'; Journal 3: 'My heart aches for Zana. Her father is caught in the centre of this whole debacle'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_drox_journals__mentions__char_drox",
+      "source": "text_drox_journals",
+      "target": "char_drox",
+      "relation": "mentions",
+      "description": "Journals written by Drox.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_drox_s_journals",
+          "locator": "lead: 'Drox's journals are clickable lore items that appeared each time in the arena, after you defeat Drox'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_baran_journals__mentions__char_baran",
+      "source": "text_baran_journals",
+      "target": "char_baran",
+      "relation": "mentions",
+      "description": "Journals written by Baran.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_baran_s_journals",
+          "locator": "lead: 'Baran's journals are clickable lore items that appeared each time in the arena, after you defeat Baran'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_baran_journals__mentions__char_valdo_caeserius",
+      "source": "text_baran_journals",
+      "target": "char_valdo_caeserius",
+      "relation": "mentions",
+      "description": "The third journal describes the demon feeding on Valdo Caeserius's memories.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_baran_s_journals",
+          "locator": "Journal III: 'feeding on the memories of Valdo Caeserius, a son of Oriath'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_al_hezmin_journals__mentions__char_al_hezmin",
+      "source": "text_al_hezmin_journals",
+      "target": "char_al_hezmin",
+      "relation": "mentions",
+      "description": "Journals written by Al-Hezmin.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_al_hezmin_s_journals",
+          "locator": "lead: 'Al-Hezmin's journals are clickable lore items'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_victario_writings__mentions__char_victario",
+      "source": "text_victario_writings",
+      "target": "char_victario",
+      "relation": "mentions",
+      "description": "Anecdotes written by the poet Victario.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_victario_s_writings",
+          "locator": "lead: 'environmental lore objects ... They contain anecdotes and allegory written by the poet Victario of Sarn'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_victario_writings__located_in__loc_the_library",
+      "source": "text_victario_writings",
+      "target": "loc_the_library",
+      "relation": "located_in",
+      "description": "Found in The Library.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_victario_s_writings",
+          "locator": "lead: 'environmental lore objects founds in The Library'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_victario_writings__mentions__char_malachai",
+      "source": "text_victario_writings",
+      "target": "char_malachai",
+      "relation": "mentions",
+      "description": "Slaves of Virtue describes Malachai's gem mining and gem implants.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_victario_s_writings",
+          "locator": "Volume 3: Slaves of Virtue: 'Malachai has had his wicked way with them all.'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_aberrations__mentions__char_zana",
+      "source": "text_aberrations",
+      "target": "char_zana",
+      "relation": "mentions",
+      "description": "Most entries are narrated by Zana, the Originator.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_aberration",
+          "locator": "lead: 'Most of these are narrated by Zana, but the ones in the Incarnation boss arenas are narrated by Valdo'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_aberrations__mentions__char_sirus",
+      "source": "text_aberrations",
+      "target": "char_sirus",
+      "relation": "mentions",
+      "description": "The Neglected Flame entry describes Sirus's transformation.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_aberration",
+          "locator": "section 'The Neglected Flame': 'Over time, the Atlas took hold of Sirus.'"
+        }
+      ]
+    },
+    {
+      "id": "e_text_aberrations__mentions__char_valdo_caeserius",
+      "source": "text_aberrations",
+      "target": "char_valdo_caeserius",
+      "relation": "mentions",
+      "description": "The Incarnation arena entries are narrated by Valdo.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_aberration",
+          "locator": "lead: 'the ones in the Incarnation boss arenas are narrated by Valdo'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_lorrata__participates_in__event_a2_root_of_the_problem",
+      "source": "char_lorrata",
+      "target": "event_a2_root_of_the_problem",
+      "relation": "participates_in",
+      "description": "The tree Lorrata blocks the Vaal Ruins and is poisoned in the quest.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lorrata",
+          "locator": "lead: 'Lorrata is the name of a giant tree growing over The Vaal Ruins'; 'Lorrata is associated with the quest The Root of the Problem'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__kills__char_lorrata",
+      "source": "char_exile_poe1",
+      "target": "char_lorrata",
+      "relation": "kills",
+      "description": "The Exile kills Lorrata with the Baleful Gem and Maligaro's Spike.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lorrata",
+          "locator": "image caption: 'Dead Lorrata after using the Baleful Gem and Maligaro's Spike on her'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_baleful_gem__participates_in__event_a2_root_of_the_problem",
+      "source": "artifact_baleful_gem",
+      "target": "event_a2_root_of_the_problem",
+      "relation": "participates_in",
+      "description": "The Baleful Gem is used on Lorrata.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lorrata",
+          "locator": "image caption: 'after using the Baleful Gem and Maligaro's Spike on her'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_maligaro_s_spike__participates_in__event_a2_root_of_the_problem",
+      "source": "artifact_maligaro_s_spike",
+      "target": "event_a2_root_of_the_problem",
+      "relation": "participates_in",
+      "description": "Maligaro's Spike is used on Lorrata.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_lorrata",
+          "locator": "image caption: 'after using the Baleful Gem and Maligaro's Spike on her'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_rapture_device__participates_in__event_a4_rapture_device",
+      "source": "artifact_rapture_device",
+      "target": "event_a4_rapture_device",
+      "relation": "participates_in",
+      "description": "The Rapture Device drills into the Beast once activated.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_rapture_device",
+          "locator": "lead: 'It requires The Eye of Desire, The Eye of Fury and Lady Dialla's life force to activate it. It can drill a hole into the Beast'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_eye_of_desire__participates_in__event_a4_rapture_device",
+      "source": "artifact_eye_of_desire",
+      "target": "event_a4_rapture_device",
+      "relation": "participates_in",
+      "description": "The Eye of Desire powers the Rapture Device.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_rapture_device",
+          "locator": "lead: 'requires The Eye of Desire, The Eye of Fury and Lady Dialla's life force'"
+        }
+      ]
+    },
+    {
+      "id": "e_artifact_eye_of_fury__participates_in__event_a4_rapture_device",
+      "source": "artifact_eye_of_fury",
+      "target": "event_a4_rapture_device",
+      "relation": "participates_in",
+      "description": "The Eye of Fury powers the Rapture Device.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_rapture_device",
+          "locator": "lead: 'requires The Eye of Desire, The Eye of Fury and Lady Dialla's life force'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__allies_with__char_dannig",
+      "source": "char_exile_poe1",
+      "target": "char_dannig",
+      "relation": "allies_with",
+      "description": "Dannig invites the Exile to lend their skills to a matter of honour.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_dannig",
+          "locator": "Dialogue > Introduction: 'You're naught but skin and bones, Exile ... Care to lend your skills to a matter of honour?'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__allies_with__char_rog",
+      "source": "char_exile_poe1",
+      "target": "char_rog",
+      "relation": "allies_with",
+      "description": "Rog offers his supply and logistics skills to the Exile.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_rog",
+          "locator": "Dialogue > Introductions: 'I'll do what I can to support you with my supply skills!'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_exile_poe1__allies_with__char_tujen",
+      "source": "char_exile_poe1",
+      "target": "char_tujen",
+      "relation": "allies_with",
+      "description": "Tujen agrees to an alliance with the Exile.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_tujen",
+          "locator": "Dialogue > Introduction: 'You're to do the dirty work while we do the diggin'. It's as good an alliance as any.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tane__guides__char_exile_poe1",
+      "source": "char_tane",
+      "target": "char_exile_poe1",
+      "relation": "guides",
+      "description": "Tane Octavius gives the Exile the Pound of Flesh quest: slay creatures and collect five Metamorph organ samples.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "metamorph"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_pound_of_flesh",
+          "locator": "infobox objective: 'Tane wants you to slay creatures and collect samples from them. You will need five different samples.'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_sister_cassia__guides__char_exile_poe1",
+      "source": "char_sister_cassia",
+      "target": "char_exile_poe1",
+      "relation": "guides",
+      "description": "Sister Cassia sets the Strange Growths quest, asking the Exile to activate her Ichor Pump.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "blight"
+      ],
+      "era": "poe1_leagues",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_strange_growths",
+          "locator": "infobox: start 'Any Map (except Blighted Map) with the presence of Cassia'; objective 'Activate the Ichor Pump to begin the Blight Encounter.'"
+        }
+      ]
+    }
+  ]
+}

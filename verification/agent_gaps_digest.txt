@@ -1,0 +1,150 @@
+- Added missing minimal nodes for dangling canonical ids: act_poe2_act4, loc_aul_s_domain. Added faction_caaltu (+ low-confidence edge to Vastiri), previously listed as a gap.
+
+## Remaining doubts
+- poe2wiki Tower, The Grand Project, Ahn's Citadel, Keth, Wraeclast, Atalui pages could not be fetched (Anubis block / not in corpus); related claims rest on the History page quoting them.
+- Precursors as "Atlas-builders" stays inferred/low; Hooded One as former Precursor is a single-video community theory.
+- Eagon/Originator (Secrets of the Atlas) left to the atlas domain.
+- Many ids are defined in several fragments (faction_azmeri, faction_karui, char_olroth, artifact_precursor_weapon, etc.); the merge step must dedupe.
+- No 2026 PoE2 content beyond Act 4/endgame was checked for new deep-history lore.
+# eternal_empire fact-check report
+
+Checked against the local PoE wiki corpus: Eternal_Empire, History_of_Wraeclast, Order_of_the_Templar, Sin, Trarthus, Purity Chronicles, Perandus family, Avarius, Doedre/Shavronne/Maligaro pages, Hyrri, and PoE2 Faridun, Sorrow Among Stones, Environmental_lore and Lore. All 36 wiki source ids resolve to corpus files. A WebFetch of poe2wiki returned an anti-bot page, so no web checks were possible.
+
+I read all 142 nodes and 287 edges. Core chronology was verified and is correct: founding 1 IC, Alano 35 IC, Tyndarus 870-872, Labyrinth 1317, Chitus 1319, Bloody Flowers/Titucius 1333, Geofri 1332, siege and Chitus' death 1334, Rapture Device 1336, Cataclysm ~1339, PoE1 set 1599-1600.
+
+## Changes
+--
+- Added exile defeats Shavronne (Act 4, The Harvest), which was missing. Maligaro's edge now also notes Acts 4 and 9.
+- Added Victario lover_of Hyrri, with Hyrri's daughter Ahuana (per Hyrri's wiki page). Added Purity Chronicles `mentions` edges for Books 1, 2, 5 and 6, and Voll crowned leads_to Malachai spared.
+- Golden Pages are softened to "possibly" and set to medium confidence, as the wiki says. Voll's coronation date now records the discrepancy: 1st Sacrato plus a week (EE page) vs the 2nd Sacrato (Purity Chronicles). Daresso's 1450 IC date is flagged as contradicting the 1336 IC use of his Eye of Desire; the wiki itself calls it inexplicable.
+- Added 4 sources. The fragment now has 142 nodes, 293 edges and 46 sources, with 0 validator errors.
+
+## Remaining doubts and gaps
+- Caspiro killed by the "dark being" = Vaal Oversoul is stated only in the Eternal Empire member list and the GGG Q&A, so it stays medium confidence.
+- The order of Romira's reign relative to Tyndarus is not given. The edge saying the Night of a Thousand Ribbons festival "precedes" Chitus' assassination was reworded to stay neutral.
+- Not checked in detail: the many locator strings that cite the Eternal Empire page, and the YouTube sources.
+- Still thin or missing: Valdo, Clarissa, Sekhemas as a class, Kastov, Medici Perandus, Fairgraves, Akoya, Skothe, Ahuana; the PoE2 Eternal presence beyond the Ogham cemetery; Labyrinth Ascendancy classes as lore figures; Phrecia league links; 2025-2026 content.
+- Templar and Innocence nodes list only poe1 in `games`; PoE2 mentions were not verified.
+# Verification report: exile_and_sources
+
+Fragment: staging/exile_and_sources.json
+Result after fixes: 63 nodes, 82 edges, 12 sources, validator 0 errors, 0 warnings.
+Verifier model: Haiku 5.5 (per the user's instruction for the verification step).
+
+## What was checked
+
+- Local wiki corpus, re-read against the claims: History_of_Wraeclast (intro, Vaal Cataclysm, Kalguur, Eternal Empire, Izaro/Labyrinth, Chitus, Purity Rebellion, Cataclysm, Oriath, The Present, Atlas of Worlds), Order_of_the_Templar, Letters_of_Exile, The_Lord_s_Labyrinth_quest_, Chaos_lore_, Return_to_Oriath, Path_of_Exile_Origins.
+- PoE2 corpus: Lore, Ascension_trials, Trial_of_the_Sekhemas, The_Trial_of_Chaos, Act_3, Environmental_lore, The_Beast (for cross-game mentions).
+- Live fetch: poewiki Marauder and Scion pages (blocked by Anubis, access denied). Two web searches for class backstories and 2025-2026 official lore returned no usable lore.
+--
+Nodes added (the Exile's direct interactions and missing Eternal Empire beats)
+- char_avarius, deity_innocence, deity_sin, char_malachai (minimal, shared canonical ids; merge should prefer the owning domain's definitions).
+- char_ondar (Lord Mayor Ondar), event_siege_of_sarn (Divini 1334 IC), event_assassination_of_chitus (Night of a Thousand Ribbons, 1334 IC).
+
+Edges corrected
+- e_char_exile_poe2__participates_in__concept_trial_of_chaos and __concept_trial_of_the_sekhemas renamed to seeks. The trials are optional, so "participates_in" was wrong.
+- e_char_exile_poe1__opposes__char_izaro: added the Labyrinth quest infobox (boss = Izaro) as a source.
+- e_char_class_templar__associated_with__char_exile_poe1: description no longer claims "starting class", which the wiki does not say.
+- Two next_beat edges converted to precedes with sequence null: Sentenced -> Kitava defeated (duplicated an existing precedes edge, which was kept) and Kitava defeated -> Elder expelled. The spine skipped all intervening acts and epilogue, so as next_beat it would be a broken chain. The Exile-journey spine should be built by the acts domains.
+
+Edges added
+- char_exile_poe1 defeats char_avarius (Act 5), defeats deity_innocence (Act 5), allies_with deity_sin (Act 10).
+- char_malachai causes event_eternal_empire_cataclysm.
+--
+## Remaining doubts and gaps
+
+- PoE1 class backstories other than Templar (Marauder, Duelist, Ranger, Shadow, Witch, Scion) are NOT modelled. Wiki class pages are blocked, and searches gave only gameplay guides.
+- PoE2 playable classes and PoE1 ascendancy classes (Berserker, Slayer, Inquisitor and others) are NOT modelled. No corpus pages.
+- Official out-of-game lore is thin. Verified items: Origins comic (2014-2015) and the Lord's Labyrinth gamebook (2019, not canon). No 2025-2026 book, novel, ExileCon lore talk or dev lore interview was found. The GGG "Lore Q&A Part One" post is not read.
+- The Shaper and Elder defeat beats are only partly modelled. Zana, the Shaper and the Elderslayers belong to the Atlas domain. The Elder-expulsion event here follows the wiki's Zana narrative; the exile's role in luring it is per Zana's dialogue.
+- Ordering: winter -> slumber -> Vaal precedes edges are medium/dev_statement; the wiki says the prehistory order is not chronological. The Eternal Empire rise/fall boundary (c. 334 IC) is a convention.
+- Siege of Sarn and Assassination of Chitus are not ordered relative to each other (the wiki does not fix the order of the siege and the festival ambush).
+- Eternal Empire Cataclysm games set to poe1 and poe2 by the researcher. The corpus gives no PoE2 mention of the Eternal Cataclysm itself, only of the Eternal Empire and Vaal Cataclysm. Confirm before merge.
+- Malachai appears in the PoE2 corpus only via The_Beast page; games kept as poe1 only in the minimal node.
+- Trialmaster's era stays poe2_campaign while the entity is PoE1 Ultimatum-origin. The era could arguably be poe1_leagues.
+# gods_cosmology verification report
+
+--
+## Remaining doubts
+- PoE2 pages (Halani/Azarian parentage, Bodach as 0.5 Ritual pinnacle, Kulemak details) not directly re-read; Bodach relies on tertiary guides.
+- Games flags for Hinekora/Tukohama/Valako rely on partial local PoE2 corpus; Vaal Oversoul nature remains inferred/low.
+- Still not covered: Innocence/Pantheon/Tasalio/Tawhoa pages themselves, Ignagduk, PoE2 druid gods.
+# leagues_early verification report
+
+Checked against local poewiki/poe2wiki pages, the Betrayal video transcript (6tP4TcFw4Lo). Live poewiki fetch is blocked (Anubis), so the Timeless Jewel page could not be read. Validator: 0 errors.
+
+## Verified OK
+All 23 league release dates and versions (match wiki infoboxes); Breachlord elements and domains; Legion generals (Hyrri, Aukuna, Sanctus Vox, Lioneye, Napuatzi); Abyss liches; Delve (Niko, Aul, Kurgal, Ahuatotli); Syndicate structure and Catarina/Hillock/Gravicius; Order of the Djinn; Niko lore.
+
+## Fixed
+- Thane Rigwald was wrongly a Syndicate member (video only says Jorgin shares the title thane). Replaced with char_rigwald, Ezomyte Wolven King, Talisman boss, possessed by the Greatwolf; added Greatwolf and Victario. Syndicate now has 17 other members plus Catarina.
+- Dawn and Dusk are Act 8 temple bosses (Solar/Lunar Eclipse), not Harbinger league: removed part_of harbinger, retagged main_plot/poe1_campaign/act 8, added defeat and serves edges. Dusk "carried the Eclipse" corrected to Moon Orb.
+- Talisman league said "Karui-themed": it is ancient Ezomyte Talismans.
+- It That Was Tul/Esh: edges had wrong direction and dev_statement status; now Tul/Esh -> It That Was, inferred (Ailith says "may be"). PoE2 defeat edges set high.
+--
+## Remaining doubts
+- Lethal Pride, Brutal Restraint, Militant Faith and generals Kaom/Asenath/Nasima/Balbala/Venarius/Maxarius/Avarius/Dominus not modelled as jewel nodes (page unreadable; corpus lacks it).
+- Beyond demons (Abaxoth, Ghorr, K'Tash), Pale Council bosses, Harbinger lore, Warbands details, original Breach and Master pages not in corpus; thin.
+- Kulemak defeated by PoE2 Exile remains inferred/low. Xibaqua/Ahuatotli on Glorious Vanity rest on researcher's claim plus Doryani page; Ahuatotli page itself does not mention the jewel.
+- No 2025-2026 web verification possible.
+# Fact-check report: staging/leagues_late.json (domain leagues_late)
+
+Checker: independent verification pass (Haiku 5.5 subagent), 2026-11-06.
+Validator: `python3 -I scripts/validate_fragment.py staging/leagues_late.json` -> **0 errors**, 110 warnings (all are references to ids owned by other domains, e.g. `char_exile_poe1`, `faction_templar`, `deity_innocence`; accepted per task).
+Before/after: nodes 163 -> 167, edges 278 -> 284, sources 60 -> 57 (4 unused sources pruned, 1 GGG forum source attached). Pre-fix backup: <local scratch>
+
+## What was checked
+
+--
+### Added (lore that was missing from the Kingsmarch / Settlers domain)
+- `loc_starfall_crater` (Black Knight's location; Kingsmarch Bosses section) with edge `char_the_black_knight located_in loc_starfall_crater`.
+- `concept_verisium` (meteorite ore; Kalguur Runes; PoE2 Dark Mists) with `concept_verisium associated_with concept_kalguuran_runesmithing`.
+- `faction_runefathers` (Kalguuran runesmiths; Triskelion Flame forging).
+- `concept_royal_order_of_criminal_hanging` (Johan's letter: unenforceable under the Charter statute of limitations) with edges to Johan and to the Charter.
+- `event_virtue_gem_ban` (Cadigan III bans virtue gem collection; Kalguur Thaumaturgy) with `char_cadigan_the_third commands event_virtue_gem_ban`.
+- `loc_pondium_wraeclast associated_with loc_pondium` (low, name match only: Valerie's Pondium vs the Kalguuran shipping port Pondium).
+
+## Remaining doubts
+1. **Branch tags `allflame` and `mirage`** are not in the controlled list in SCHEMA.md. They are used here as new snake_case tags for 2026 leagues. Reviewer should confirm or merge.
+2. **Karui tribe -> deity pairs** (`faction_karui_tribe_* worships deity_*`): checked for Ngamahu, Tasalio, Tawhoa, Tukohama, Ramako, Valako, Kitava and Hinekora. Arohongui and Rongokurai are only weakly attested (Karui Gods page). Rongokurai is not on the Karui Gods page, so its edge is canon_status medium/low. Some other Karui-tribe/deity edges still rest on the chieftain list alone.
+3. **Lycia's `allies_with` Beidat** is a pact-based relation; the relation vocabulary has no better fit. Kept.
+4. **`char_divinia` location**: the Aiding an Archivist wiki page says Oriath Docks (Act 10). The video places the first meeting in the Act 2 camp. The fragment follows the wiki and notes it; the conflict is unresolved.
+5. **Video transcripts** are auto-captions with misheard names (Lycia/Lycea, Beidat/Baydat, Divinia/Davina, Azmeri/Asmiri). Timestamps were checked, but the quoted wording is approximate. The `a charlatan, a liar and a power seeker` locator is a caption paraphrase.
+6. **`char_zana_the_originator` vs `char_zana`**: the wiki names Zana Caeserius "the Originator" but does not say whether she is the Master Cartographer Zana. Kept as inferred/low.
+7. **Kalguuran membership of Isla and Faustus** is inferred only (see above).
+8. **Legacy of Phrecia** as "league" type: it is an event that ran outside the challenge-league calendar. The type is kept because the schema uses `league` for release containers. Consider `event`.
+9. **Settlers league end-date** uses GGG's local-time statement; the UTC-based dates on the wiki infobox agree.
+10. **Not verified line by line**: the Ancestor-league tournament details (team compositions, unique items per tribe), Mercenary unique items, Necropolis unique-item stats and Keepers graft/implant items. These were checked only as far as the lore claims go.
+11. **Sources not present in the local corpus** (fetched live on 2026-11-05 from poewiki raw): Kingsmarch, Johan, Curse of the Allflame, Path of Exile: Settlers of Kalguur, Legacy of Phrecia, Valerie, Vesper, Lycia, Innocence (via corpus). Their locators are verified against the fetched text. The corpus index lacks them.
+# Fact-check report: leagues_mid (PoE1 leagues 2019-2022 branch lore)
+--
+- **Pages missing from the local corpus** were fetched as raw wikitext (`action=raw`) into the scratchpad. Cited pages include Cavas, Sister Cassia, Oshabi, Tane Octavius, Venarius, The Trialmaster, Dannig, Rog, Tujen, Gwennen, Faustus, Kurai, Karst, Tibbs, Isla, Tullina, Niles, Nenet, Vinderi, Huck, Adiyah, Gianna, Olroth, Medved, Vorana, Uhtred, Strange Voice, and the PoE2 Dark Mists, Ominous Altars, Grand Expedition, Runes of Aldur, Forbidden Rites, Aldur, Farrow, Legacy of the Maji and Trial of Chaos pages. Some poewiki fetches were rate-limited (HTTP 429) and retried with pacing.
+- **Not retrievable**: the GGG forum thread 3106179 (Cloudflare block). The Chaos quote was checked through the wiki's Chaos (lore) page, which quotes it. Both YouTube transcripts for the heist videos (`EWkMFZSh8pM`, `evAoWgn-B3g`) are not on disk and could not be fetched in this run. Their claims were removed rather than kept on title-only evidence.
+- Every node and edge was read against its locator. Dates and league facts were checked against infoboxes (for example Metamorph 2019-12-13 to 2020-03-09, Ritual 2021-01-15 to 2021-04-12).
+
+## Main corrections
+
+### Wrong direction or wrong relation
+- `league_poe2_forbidden_rites -continues_in-> league_ritual` reversed to `league_ritual -continues_in-> league_poe2_forbidden_rites` (PoE1 mechanic continues into PoE2).
+- `league_poe2_runes_of_aldur -continues_in-> league_expedition` reversed to `league_expedition -continues_in-> league_poe2_runes_of_aldur`.
+- `faction_order_of_the_djinn betrays char_kalandra` changed to `associated_with`. Etching VI says the Order discovered her and promised to free her; it does not say they betrayed her.
+- `deity_tangmazu reveals char_exile_poe2` changed to `char_exile_poe2 witnesses deity_tangmazu` (PoE2 Dark Mists: freeing Freya reveals Tangmazu to the exile).
+- `char_kalandra opposes char_administrator_qotra` changed to `associated_with` (lake commentary only).
+- `deity_tangmazu opposes deity_lunaris` changed to `associated_with` (the wiki says Tangmazu set the two sisters against each other).
+--
+## Remaining doubts and gaps
+1. **Community-only claims kept**: `concept_lifeforce associated_with concept_wildwood_humours` (comm, low; the names match but the game does not state identity). `char_the_empty_eyed_fiend same_entity_as char_elder` (inferred, low; the Kalguur page links the Fiend to The Elder).
+2. **PoE2 membership of the Ring** is unverified. `faction_the_ring` was reduced to PoE1; if PoE2 evidence exists, add it.
+3. **Two-game entities**: `char_the_king_in_the_mists` merges the PoE1 Wildwood/Affliction boss (outside the 2019-2022 window) with the PoE2 Freythorn boss. This should probably be two nodes linked `same_entity_as` or split. Not changed.
+4. **Edges outside the 2019-2022 scope** kept: Affliction-linked King in the Mists edges, the Kalandra/Expedition PoE2 items, and the 2026 PoE2 leagues. These are correct but belong to other domains' timelines.
+5. **Coverage gaps** (not added, no time to source properly): Heist's Vox twins (Kurai's final contract), Nenet's unreleased Jamanra questline as its own node, Scourge's Blood Altar, Archnemesis narrative (there is none in the corpus), Sentinel narrative (none), Harvest's Sacred Blossom as an item, and the Delirium orbs/splinters as separate nodes.
+6. **Source fetches**: the GGG forum post (3106179) could not be read directly (Cloudflare). The Chaos quote relies on the wiki's quotation. The PoE2 commented quest steps are kept only as low-confidence edges.
+7. **Stale wording to watch**: several nodes still carry "Expedition league 'added to core'" style statements from other domains or are inherited from the earlier run; these were checked here only where they are in this fragment.
+
+## Files
+- Fragment (corrected): `staging/leagues_mid.json`
+- Pre-check backup: `scripts/tmp_leagues_mid_before_verify.json`
+- Fact-check scripts (temporary, kept for audit): `scripts/tmp_verify_leagues_mid_*.py`
+- Fetched wiki raw pages used as evidence: `<local scratch>`
+# Fact-check: poe1_acts_1_5
+

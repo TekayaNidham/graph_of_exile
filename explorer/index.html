@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Graph of Exile</title>
+<meta name="description" content="Interactive, sourced knowledge graph of Path of Exile 1 and 2 lore, centred on the Exile.">
+<meta property="og:title" content="Graph of Exile">
+<meta property="og:description" content="Explore Path of Exile lore as a sourced knowledge graph — from the Precursors to the Twilight Order.">
+<meta property="og:image" content="assets/logo.png">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar frame">
+  <button class="icon-btn only-mobile" id="toggleFilters" aria-label="Show filters" aria-expanded="false">☰</button>
+  <a class="brand" href="./" title="Graph of Exile"><img src="assets/logo.png" alt="Graph of Exile"></a>
+  <nav class="variants seg" id="variants" aria-label="Graph variant">
+    <button data-v="master" class="active" title="Everything, incl. PoE1 → PoE2 continuity">Master</button>
+    <button data-v="poe1" title="Path of Exile 1 plot">PoE 1</button>
+    <button data-v="poe2" title="Path of Exile 2 plot">PoE 2</button>
+  </nav>
+  <div class="searchbox">
+    <input id="search" type="search" placeholder="Search Wraeclast…  ( / )" autocomplete="off" aria-label="Search nodes" role="combobox" aria-controls="suggest" aria-expanded="false">
+    <ul id="suggest" class="suggest frame" role="listbox" hidden></ul>
+  </div>
+  <div class="layouts seg" id="layouts" role="group" aria-label="Layout">
+    <button data-l="p" class="active" title="Force-directed web (1)">Web</button>
+    <button data-l="t" title="Chronological era bands, primordial → PoE2 (2)">Timeline</button>
+    <button data-l="r" title="Rings by distance from the Exile (3)">Radial</button>
+    <button data-l="c" title="Louvain communities (4)">Clusters</button>
+    <button data-l="live" title="Re-run a live force layout on what is visible (5)">Re-flow</button>
+  </div>
+  <button class="icon-btn" id="aboutBtn" aria-label="About and shortcuts" title="About & shortcuts (?)">?</button>
+</header>
+
+<aside id="filters" class="panel frame left" aria-label="Filters and encodings">
+  <section>
+    <h3>Encode</h3>
+    <label class="row">Colour by
+      <select id="colorBy">
+        <option value="plot_role">Plot role</option>
+        <option value="era">Era (chronology)</option>
+        <option value="type">Type</option>
+        <option value="cm">Community (Louvain)</option>
+        <option value="confidence">Confidence</option>
+        <option value="game">Game</option>
+      </select></label>
+    <label class="row">Size by
+      <select id="sizeBy">
+        <option value="pr">Importance (PageRank)</option>
+        <option value="bt">Bridging (betweenness)</option>
+        <option value="degree">Connections (degree)</option>
+        <option value="none">Uniform</option>
+      </select></label>
+    <label class="row">Labels
+      <select id="labels">
+        <option value="auto">Auto (important first)</option>
+        <option value="all">All</option>
+        <option value="none">Hidden</option>
+      </select></label>
+  </section>
+  <section>
+    <h3>The Exile's Path</h3>
+    <button class="rune-btn" id="spineOnly" aria-pressed="false">Only the Exile's journey</button>
+    <button class="rune-btn" id="focusExile">Focus the Exile</button>
+    <label class="row">Max distance from the Exile <output id="distanceVal">all</output>
+      <input type="range" id="distance" min="1" max="8" value="8"></label>
+  </section>
+  <section>
+    <h3>How are they connected?</h3>
+    <input id="pathA" class="mini" list="names" placeholder="From… (e.g. Atziri)">
+    <input id="pathB" class="mini" list="names" placeholder="To… (e.g. Sin)">
+    <button class="rune-btn" id="findPath">Trace the thread</button>
+    <p id="pathOut" class="small"></p>
+    <datalist id="names"></datalist>
+  </section>
+  <section>
+    <h3>Plot role</h3>
+    <div id="fRole" class="checks"></div>
+  </section>
+  <section>
+    <h3>Era</h3>
+    <div id="fEra" class="checks"></div>
+  </section>
+  <section>
+    <h3>Type</h3>
+    <div id="fType" class="checks two"></div>
+  </section>
+  <section>
+    <h3>Branch / league</h3>
+    <input id="branchFilter" type="search" placeholder="filter branches…" class="mini">
+    <div class="mini-actions"><button class="link" id="branchAll">all</button><button class="link" id="branchNone">none</button></div>
+    <div id="fBranch" class="checks scroll"></div>
+  </section>
+  <section>
+    <h3>Relation</h3>
+    <div id="fRel" class="checks scroll"></div>
+  </section>
+  <section>
+    <h3>Trust</h3>
+    <div id="fConf" class="checks"></div>
+    <label class="check"><input type="checkbox" id="showDatamined" checked><span>Datamined (pre-1.0) content</span></label>
+  </section>
+  <button class="rune-btn ghost" id="resetFilters">Reset everything</button>
+  <p class="count" id="visibleCount" aria-live="polite"></p>
+</aside>
+
+<main id="stage">
+  <div id="cy" aria-label="Lore graph"></div>
+  <div id="loading" class="loading"><img src="assets/emblem.png" alt=""><span>Consulting the Atlas…</span></div>
+  <div id="tooltip" class="tooltip frame" hidden></div>
+  <div class="legend frame" id="legend" aria-label="Legend"></div>
+  <canvas id="minimap" class="minimap frame" width="200" height="140" aria-label="Minimap"></canvas>
+  <div class="zoom">
+    <button class="icon-btn" id="zoomIn" aria-label="Zoom in" title="Zoom in (+)">+</button>
+    <button class="icon-btn" id="zoomOut" aria-label="Zoom out" title="Zoom out (−)">−</button>
+    <button class="icon-btn" id="fit" aria-label="Fit to view" title="Fit (F)">⤢</button>
+  </div>
+  <article id="storyCard" class="story-card frame" hidden aria-live="polite"></article>
+  <div id="hopBar" class="hopbar frame" hidden>
+    <span>Neighbourhood</span>
+    <input type="range" id="hops" min="1" max="3" value="1" aria-label="Neighbourhood depth">
+    <output id="hopsVal">1 hop</output>
+    <button class="link" id="clearSel">clear (Esc)</button>
+  </div>
+</main>
+
+<aside id="details" class="panel frame right" hidden aria-label="Details">
+  <button class="icon-btn close" id="closeDetails" aria-label="Close details">×</button>
+  <div id="detailBody"></div>
+</aside>
+
+<footer class="journey frame">
+  <div class="journey-head">
+    <div class="player" role="group" aria-label="Story playback">
+      <button class="icon-btn" id="prevBeat" aria-label="Previous beat" title="Previous beat (←)">⏮</button>
+      <button class="icon-btn play" id="playBtn" aria-label="Play the story" title="Play / pause (Space)">▶</button>
+      <button class="icon-btn" id="nextBeat" aria-label="Next beat" title="Next beat (→)">⏭</button>
+    </div>
+    <h3>The Exile's Journey</h3>
+    <select id="journeyGame" aria-label="Which journey">
+      <option value="poe1">Path of Exile 1</option>
+      <option value="poe2">Path of Exile 2</option>
+    </select>
+    <label class="check inline"><input type="checkbox" id="storyCards" checked><span>Story cards</span></label>
+    <label class="check inline"><input type="checkbox" id="followCam" checked><span>Camera follows</span></label>
+    <label class="inline speed">Speed <input type="range" id="speed" min="1" max="5" value="3" aria-label="Playback speed"></label>
+    <span class="progress" id="beatProgress"></span>
+  </div>
+  <div id="journey" class="journey-track" role="list"></div>
+</footer>
+
+<dialog id="about" class="frame">
+  <img src="assets/logo.png" alt="Graph of Exile" class="about-logo">
+  <h2>About this Atlas</h2>
+  <p><strong>Graph of Exile</strong> is a fan-made knowledge graph of Path of Exile lore — from the Precursors and the Vaal to the Eternal Empire, both campaigns, the Atlas and every league storyline — centred on the Exile. Every node and edge cites its sources; the dataset (JSON, CSV, GraphML) is on GitHub.</p>
+  <p><strong>Labels.</strong> <span class="r main">Main plot</span> is the Exile's critical path · <span class="r endgame">Endgame plot</span> is the Atlas storyline · <span class="r branch">Branch</span> is league or side-quest lore · <span class="r background">Background</span> is deep history · <span class="r meta">Meta</span> covers acts and leagues as containers.</p>
+  <h3>Explore</h3>
+  <ul class="small keys">
+    <li><kbd>/</kbd> search · <kbd>Esc</kbd> clear · <kbd>Space</kbd> play story · <kbd>←</kbd><kbd>→</kbd> step beats</li>
+    <li><kbd>1</kbd>–<kbd>5</kbd> layouts · <kbd>F</kbd> fit · <kbd>+</kbd>/<kbd>−</kbd> zoom · <kbd>Shift</kbd>+drag box-select</li>
+    <li>Click a node to focus its neighbourhood; the URL keeps your view, so you can share it.</li>
+  </ul>
+  <p class="warn"><strong>Disclaimer.</strong> Path of Exile 2 is in Early Access. Content tagged <em>datamined (pre-1.0)</em> comes from game-file datamines of the unreleased Acts 5–6 and may change; the dataset will be updated once PoE2 1.0 is released. Lore was compiled with AI assistance from community wikis, in-game text and lore videos, then cross-verified, but errors can remain — please report them on GitHub.</p>
+  <p class="small">Path of Exile is a trademark of Grinding Gear Games. This project is not affiliated with or endorsed by Grinding Gear Games. Wiki-derived text is licensed CC BY-NC-SA 3.0 like its sources (poewiki.net, poe2wiki.net).</p>
+  <p class="small"><a href="https://github.com/TekayaNidham/graph_of_exile" target="_blank" rel="noopener">GitHub repository &amp; dataset ↗</a></p>
+  <form method="dialog"><button class="rune-btn">Return to Wraeclast</button></form>
+</dialog>
+
+<script src="https://cdn.jsdelivr.net/npm/cytoscape@3.30.2/dist/cytoscape.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

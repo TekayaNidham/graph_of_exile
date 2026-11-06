@@ -1,0 +1,250 @@
+{
+ "domain": "zz_curation",
+ "sources": [
+  {
+   "id": "src_poewiki_lunar_eclipse",
+   "title": "Lunar Eclipse - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Lunar_Eclipse",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poewiki_solar_eclipse",
+   "title": "Solar Eclipse - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Solar_Eclipse",
+   "type": "wiki",
+   "author_or_channel": "community wiki",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  },
+  {
+   "id": "src_poe2wiki_forbidden_rites",
+   "title": "Forbidden Rites - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Forbidden_Rites",
+   "type": "wiki",
+   "author_or_channel": "poe2wiki.net",
+   "accessed": "2026-11-06",
+   "reliability": "secondary"
+  }
+ ],
+ "nodes": [
+  {
+   "id": "event_poe1_a8_lunar_eclipse",
+   "name": "Lunar Eclipse",
+   "aliases": [],
+   "type": "event",
+   "summary": "Act 8 required quest: Maramoa sends the Exile through the Sarn sewers to recover the Moon Orb, one of the two ancient treasures needed to confront Lunaris and Solaris.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE1 Act 8",
+    "story_order": null,
+    "parallel_group": "poe1_a8_orbs"
+   },
+   "acts": [
+    "poe1_act8"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_lunar_eclipse",
+     "locator": "Walkthrough: 'Find a way through the Sewers so you can search for the Moon Orb'; Maramoa: 'there exists a pair of ancient treasures, the Sun Orb and the Moon Orb. They are our hope\u2026 our desperation.'"
+    }
+   ]
+  },
+  {
+   "id": "event_poe1_a8_solar_eclipse",
+   "name": "Solar Eclipse",
+   "aliases": [],
+   "type": "event",
+   "summary": "Act 8 required quest: Maramoa sends the Exile through the Sarn sewers to recover the Sun Orb, the counterpart of the Moon Orb, needed to confront Solaris and Lunaris.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "chronology": {
+    "in_world_year": null,
+    "relative": "PoE1 Act 8",
+    "story_order": null,
+    "parallel_group": "poe1_a8_orbs"
+   },
+   "acts": [
+    "poe1_act8"
+   ],
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_solar_eclipse",
+     "locator": "Walkthrough: 'Find a way through the Sewers so you can search for the Sun Orb'; Maramoa: 'there exists a pair of ancient treasures, the Sun Orb and the Moon Orb. They are our hope\u2026 our desperation.'"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "id": "e_char_exile_poe1__participates_in__event_poe1_a8_lunar_eclipse",
+   "source": "char_exile_poe1",
+   "target": "event_poe1_a8_lunar_eclipse",
+   "relation": "participates_in",
+   "description": "The Exile recovers the Moon Orb.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_lunar_eclipse",
+     "locator": "Walkthrough"
+    }
+   ]
+  },
+  {
+   "id": "e_char_exile_poe1__participates_in__event_poe1_a8_solar_eclipse",
+   "source": "char_exile_poe1",
+   "target": "event_poe1_a8_solar_eclipse",
+   "relation": "participates_in",
+   "description": "The Exile recovers the Sun Orb.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_solar_eclipse",
+     "locator": "Walkthrough"
+    }
+   ]
+  },
+  {
+   "id": "e_char_maramoa__guides__char_exile_poe1",
+   "source": "char_maramoa",
+   "target": "char_exile_poe1",
+   "relation": "guides",
+   "description": "Maramoa gives the Lunar and Solar Eclipse quests in Act 8 Sarn.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_lunar_eclipse",
+     "locator": "Maramoa dialogue"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe1_a8_lunar_eclipse__leads_to__event_poe1_a8_kill_solaris_lunaris",
+   "source": "event_poe1_a8_lunar_eclipse",
+   "target": "event_poe1_a8_kill_solaris_lunaris",
+   "relation": "leads_to",
+   "description": "The Moon Orb is needed to summon the twin goddesses.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_lunar_eclipse",
+     "locator": "Walkthrough"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe1_a8_solar_eclipse__leads_to__event_poe1_a8_kill_solaris_lunaris",
+   "source": "event_poe1_a8_solar_eclipse",
+   "target": "event_poe1_a8_kill_solaris_lunaris",
+   "relation": "leads_to",
+   "description": "The Sun Orb is needed to summon the twin goddesses.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "main_plot",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_solar_eclipse",
+     "locator": "Walkthrough"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe1_a8_lunar_eclipse__part_of__act_poe1_act8",
+   "source": "event_poe1_a8_lunar_eclipse",
+   "target": "act_poe1_act8",
+   "relation": "part_of",
+   "description": "Quest of Act 8.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_lunar_eclipse",
+     "locator": "intro: 'a quest in Act 8'"
+    }
+   ]
+  },
+  {
+   "id": "e_event_poe1_a8_solar_eclipse__part_of__act_poe1_act8",
+   "source": "event_poe1_a8_solar_eclipse",
+   "target": "act_poe1_act8",
+   "relation": "part_of",
+   "description": "Quest of Act 8.",
+   "games": [
+    "poe1"
+   ],
+   "plot_role": "meta",
+   "branches": [],
+   "era": "poe1_campaign",
+   "sequence": null,
+   "canon_status": "canon",
+   "confidence": "high",
+   "sources": [
+    {
+     "source_id": "src_poewiki_solar_eclipse",
+     "locator": "intro: 'a quest in Act 8'"
+    }
+   ]
+  }
+ ]
+}
