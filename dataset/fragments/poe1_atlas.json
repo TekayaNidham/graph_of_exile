@@ -2288,7 +2288,7 @@
    ],
    "plot_role": "meta",
    "branches": [],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "chronology": {
     "in_world_year": null,
     "relative": null,
@@ -2514,7 +2514,7 @@
    ],
    "plot_role": "meta",
    "branches": [],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "chronology": {
     "in_world_year": null,
     "relative": null,
@@ -2608,7 +2608,7 @@
    "branches": [
     "synthesis"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "chronology": {
     "in_world_year": null,
     "relative": null,
@@ -2642,7 +2642,7 @@
    "branches": [
     "synthesis"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "chronology": {
     "in_world_year": null,
     "relative": null,
@@ -2672,7 +2672,7 @@
    "branches": [
     "synthesis"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "chronology": {
     "in_world_year": null,
     "relative": null,
@@ -2702,7 +2702,7 @@
    "branches": [
     "synthesis"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "chronology": {
     "in_world_year": null,
     "relative": null,
@@ -2730,7 +2730,7 @@
    ],
    "plot_role": "meta",
    "branches": [],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "chronology": {
     "in_world_year": null,
     "relative": null,
@@ -3006,7 +3006,7 @@
    ],
    "plot_role": "meta",
    "branches": [],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "chronology": {
     "in_world_year": null,
     "relative": "2026-03-06",
@@ -3038,7 +3038,7 @@
    ],
    "plot_role": "meta",
    "branches": [],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "chronology": {
     "in_world_year": null,
     "relative": null,
@@ -6283,7 +6283,7 @@
    "branches": [
     "synthesis"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "canon",
    "confidence": "high",
@@ -6307,7 +6307,7 @@
    "branches": [
     "synthesis"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "inferred",
    "confidence": "low",
@@ -6331,7 +6331,7 @@
    "branches": [
     "synthesis"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "canon",
    "confidence": "high",
@@ -6355,7 +6355,7 @@
    "branches": [
     "synthesis"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "canon",
    "confidence": "high",
@@ -6379,7 +6379,7 @@
    "branches": [
     "synthesis"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "canon",
    "confidence": "medium",
@@ -6403,7 +6403,7 @@
    "branches": [
     "synthesis"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "canon",
    "confidence": "medium",
@@ -6427,7 +6427,7 @@
    "branches": [
     "synthesis"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "canon",
    "confidence": "high",
@@ -7025,7 +7025,7 @@
    ],
    "plot_role": "meta",
    "branches": [],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "inferred",
    "confidence": "medium",

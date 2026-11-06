@@ -173,6 +173,14 @@ for i, n in nodes.items():
     if i.startswith("concept_ascendancy_"):
         n["plot_role"] = "meta"; n["subtype"] = "ascendancy_class"
 
+# continuity: PoE2 continues PoE1. Entities that are the same thing share their game labels.
+for (s_, r_, t_), e_ in edges.items():
+    if r_ == "same_entity_as" and s_ in nodes and t_ in nodes:
+        g = sorted(set(nodes[s_].get("games", [])) | set(nodes[t_].get("games", [])))
+        for x in (s_, t_):
+            if nodes[x].get("games") != g:
+                nodes[x]["games"] = g; nodes[x].setdefault("curation", []).append("games unified via same_entity_as (continuity)")
+
 # rebuild the exile spine: next_beat edges regenerated from story_order
 for k in [k for k in edges if k[1] == "next_beat"]:
     del edges[k]
@@ -207,6 +215,12 @@ for i, n in nodes.items():
     for p_, t_ in PFX.items():
         if i.startswith(p_) and n.get("type") != t_:
             report["type_fixed_by_prefix"].append(f"{i}: {n.get('type')} -> {t_}"); n["type"] = t_
+
+# verified source-URL corrections (scripts/check_source_urls.py)
+fx_path = os.path.join(ROOT, "dataset", "curation", "source_url_fixes.json")
+for sid, fx in (json.load(open(fx_path)) if os.path.exists(fx_path) else {}).items():
+    if fx.get("status") == "fixed" and sid in sources:
+        sources[sid]["url"] = fx["new"]
 
 # drop self loops, dangling refs
 final_edges = []
@@ -273,8 +287,14 @@ def view(game):
                 if (nb["plot_role"] in ("background", "meta") or nb.get("era") in PRE_GAME_ERAS) and \
                         (not nb.get("games") or nb.get("era") in PRE_GAME_ERAS):
                     keep.add(b)
+    # continuity: also keep the other side of continues_in / same_entity_as links (PoE2 is the continuation of PoE1)
+    CONT = {"continues_in", "same_entity_as", "reincarnation_of", "aspect_of", "transforms_into"}
+    for e in final_edges:
+        if e["relation"] in CONT:
+            if e["source"] in keep: keep.add(e["target"])
+            if e["target"] in keep: keep.add(e["source"])
     es = [e for e in final_edges if e["source"] in keep and e["target"] in keep and
-          (not e.get("games") or game in e["games"] or e.get("era") in PRE_GAME_ERAS)]
+          (not e.get("games") or game in e["games"] or e.get("era") in PRE_GAME_ERAS or e["relation"] in CONT)]
     return keep, es
 
 

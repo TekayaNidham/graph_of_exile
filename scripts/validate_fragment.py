@@ -8,7 +8,7 @@ NODE_TYPES = {"character", "deity", "faction", "location", "event", "artifact", 
 PLOT_ROLES = {"main_plot", "endgame_plot", "branch", "background", "meta"}
 ERAS = ["primordial", "precursor", "azmeri_ezomyte_ancient", "vaal", "post_vaal_dark_age",
         "eternal_empire_rise", "eternal_empire_fall", "post_cataclysm", "poe1_campaign", "poe1_atlas",
-        "poe1_leagues", "interlude_between_games", "poe2_campaign", "poe2_endgame", "unknown"]
+        "league_storylines", "interlude_between_games", "poe2_campaign", "poe2_endgame", "unknown"]
 GAMES = {"poe1", "poe2"}
 CANON = {"canon", "dev_statement", "inferred", "community_theory"}
 CONF = {"high", "medium", "low"}

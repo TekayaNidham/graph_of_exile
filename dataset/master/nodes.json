@@ -1054,7 +1054,7 @@
   ],
   "eras": [
    "poe1_campaign",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "main_plot",
@@ -1088,7 +1088,7 @@
    "ritual",
    "affliction"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.25.0",
@@ -1107,7 +1107,7 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -1370,7 +1370,7 @@
   "branches": [
    "scourge"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -1393,7 +1393,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -1419,7 +1419,7 @@
   "branches": [
    "breach"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -1442,7 +1442,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -1468,7 +1468,7 @@
   "branches": [
    "legion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.7.0 (release_version per wiki)",
@@ -1487,7 +1487,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -1826,7 +1826,7 @@
   "branches": [
    "legion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -1849,7 +1849,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -2199,7 +2199,7 @@
    "breach",
    "keepers_of_the_flame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -2227,7 +2227,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -2259,7 +2259,7 @@
   "branches": [
    "legion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -2282,7 +2282,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -2579,7 +2579,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -2598,7 +2598,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -2669,7 +2669,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -2692,7 +2692,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -2957,7 +2957,7 @@
   "branches": [
    "necropolis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -2976,7 +2976,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -3047,7 +3047,7 @@
   "branches": [
    "legion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.7.0 (release_version per wiki)",
@@ -3066,7 +3066,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -3375,7 +3375,7 @@
   "branches": [
    "legion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.7.0 (release_version per wiki)",
@@ -3394,7 +3394,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -3420,7 +3420,7 @@
   "branches": [
    "delirium"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -3439,7 +3439,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -3466,7 +3466,7 @@
   "branches": [
    "kalandra"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -3490,7 +3490,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch",
@@ -3523,7 +3523,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -3542,7 +3542,7 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -3724,7 +3724,7 @@
   "branches": [
    "crucible"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -3747,7 +3747,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -3773,7 +3773,7 @@
   "branches": [
    "blight"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -3796,7 +3796,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -3930,7 +3930,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -3953,7 +3953,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -4022,7 +4022,7 @@
   "branches": [
    "harvest"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.14.0",
@@ -4045,7 +4045,7 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -4071,7 +4071,7 @@
   "branches": [
    "sanctum"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -4094,7 +4094,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -4115,6 +4115,7 @@
   "type": "artifact",
   "summary": "Essence found by Sin in a Precursor ruin and used to create the Beast; in PoE2 a seed is stolen by Count Geonor from Sin and grows into a new Beast.",
   "games": [
+   "poe1",
    "poe2"
   ],
   "plot_role": "main_plot",
@@ -4202,6 +4203,9 @@
    }
   ],
   "release_status": "released",
+  "curation": [
+   "games unified via same_entity_as (continuity)"
+  ],
   "degree": 14,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
@@ -4267,7 +4271,7 @@
   "branches": [
    "sentinel"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -4286,7 +4290,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -4514,7 +4518,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -4672,7 +4676,7 @@
   "branches": [
    "allflame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -4695,7 +4699,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -4721,7 +4725,7 @@
   "branches": [
    "legion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -4744,7 +4748,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -5405,7 +5409,7 @@
   "branches": [
    "beyond"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "1.2.0 (Aug 2014) to 3.19.0",
@@ -5433,7 +5437,7 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -5467,7 +5471,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -5490,7 +5494,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -5516,7 +5520,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -5539,7 +5543,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -5565,7 +5569,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -5584,7 +5588,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -5635,7 +5639,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -5770,7 +5774,7 @@
   ],
   "eras": [
    "post_vaal_dark_age",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch",
@@ -5783,9 +5787,9 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -5825,7 +5829,7 @@
   ],
   "eras": [
    "vaal",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -5861,7 +5865,7 @@
    "breach",
    "keepers_of_the_flame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -5918,7 +5922,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_endgame"
   ],
   "plot_roles": [
@@ -5935,7 +5939,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 11,
+  "degree": 12,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -5955,7 +5959,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -5978,7 +5982,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -6033,9 +6037,9 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -6173,7 +6177,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -6236,7 +6240,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -6305,7 +6309,7 @@
    "fate_of_the_vaal",
    "incursion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -6341,7 +6345,7 @@
    "vaal"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_campaign"
   ],
   "plot_roles": [
@@ -6418,7 +6422,7 @@
   ],
   "eras": [
    "primordial",
-   "poe1_leagues",
+   "league_storylines",
    "poe2_endgame"
   ],
   "plot_roles": [
@@ -6790,10 +6794,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 3,
-  "exile_distance": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -6890,9 +6894,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -6981,7 +6985,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 32,
+  "degree": 33,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -7001,7 +7005,7 @@
   "branches": [
    "legion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -7020,7 +7024,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -7093,7 +7097,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 10,
+  "degree": 11,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -7420,7 +7424,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 10,
+  "degree": 11,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -7472,7 +7476,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 9,
+  "degree": 10,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -7497,7 +7501,7 @@
    "sanctum",
    "scourge"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -7525,7 +7529,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -7865,7 +7869,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -7955,7 +7959,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -7978,7 +7982,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -8230,7 +8234,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -8253,7 +8257,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -8282,7 +8286,7 @@
   "branches": [
    "synthesis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -8314,7 +8318,7 @@
    "poe1_atlas"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -9518,7 +9522,7 @@
   "branches": [
    "synthesis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -9537,7 +9541,7 @@
    "poe1_atlas"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -9633,7 +9637,7 @@
    "expedition",
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -9693,7 +9697,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_campaign",
    "poe2_endgame"
   ],
@@ -10207,7 +10211,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 19,
+  "degree": 20,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -10308,7 +10312,7 @@
   ],
   "eras": [
    "poe1_campaign",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "main_plot",
@@ -10401,7 +10405,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 12,
+  "degree": 13,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -10606,7 +10610,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 63,
+  "degree": 64,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -10905,7 +10909,7 @@
   "branches": [
    "prophecy"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "2.3.0 introduced; removed 3.17.0 (per wiki)",
@@ -10924,7 +10928,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -10995,7 +10999,7 @@
   "branches": [
    "bestiary"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -11018,7 +11022,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -11380,7 +11384,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -11403,7 +11407,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -11711,7 +11715,7 @@
   "branches": [
    "kalandra"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -11735,7 +11739,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -11993,7 +11997,7 @@
    "heist",
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -12029,7 +12033,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -12131,9 +12135,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -12287,7 +12291,7 @@
    "scourge",
    "beyond"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -12306,7 +12310,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -12334,7 +12338,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -12353,7 +12357,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -12379,7 +12383,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -12402,7 +12406,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -12773,7 +12777,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -12796,7 +12800,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -12827,7 +12831,7 @@
    "expedition",
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -12868,7 +12872,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_endgame"
   ],
   "plot_roles": [
@@ -12950,7 +12954,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -12973,7 +12977,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -13415,7 +13419,7 @@
   ],
   "eras": [
    "poe1_campaign",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "main_plot",
@@ -13455,7 +13459,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -13474,7 +13478,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -13540,7 +13544,7 @@
   ],
   "eras": [
    "eternal_empire_fall",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch",
@@ -13705,9 +13709,9 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -13954,7 +13958,7 @@
   "branches": [
    "prophecy"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "2.3.0 introduced; removed 3.17.0 (per wiki)",
@@ -13973,7 +13977,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -14028,7 +14032,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -14090,7 +14094,7 @@
   ],
   "eras": [
    "poe1_atlas",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "endgame_plot",
@@ -14173,7 +14177,7 @@
    "breach",
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -14196,7 +14200,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -14224,7 +14228,7 @@
    "breach",
    "keepers_of_the_flame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -14252,7 +14256,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -14286,7 +14290,7 @@
    "breach",
    "keepers_of_the_flame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -14314,7 +14318,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -14371,10 +14375,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
-  "distance_from_char_exile_poe1": 5,
-  "distance_from_char_exile_poe2": 4,
-  "exile_distance": 4,
+  "degree": 4,
+  "distance_from_char_exile_poe1": 4,
+  "distance_from_char_exile_poe2": 3,
+  "exile_distance": 3,
   "is_spine": false
  },
  {
@@ -14486,7 +14490,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 9,
+  "degree": 11,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -14595,7 +14599,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -14708,7 +14712,7 @@
   ],
   "eras": [
    "post_cataclysm",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch",
@@ -14741,7 +14745,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -14764,13 +14768,13 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 11,
+  "degree": 12,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -14813,7 +14817,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 4,
   "exile_distance": 3,
@@ -14834,7 +14838,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -14866,7 +14870,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "interlude_between_games"
   ],
   "plot_roles": [
@@ -15019,9 +15023,9 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -15380,7 +15384,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 26,
+  "degree": 27,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -15403,7 +15407,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -15430,7 +15434,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -15491,7 +15495,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -15645,9 +15649,9 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -15670,7 +15674,7 @@
    "expedition",
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -15702,7 +15706,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch",
@@ -15786,7 +15790,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -15845,7 +15849,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -15973,7 +15977,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -16038,7 +16042,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -16061,7 +16065,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -16184,7 +16188,7 @@
    "scourge",
    "beyond"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -16203,7 +16207,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -16231,7 +16235,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -16252,7 +16256,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -16318,7 +16322,7 @@
   ],
   "eras": [
    "primordial",
-   "poe1_leagues",
+   "league_storylines",
    "poe2_endgame"
   ],
   "plot_roles": [
@@ -16380,10 +16384,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 5,
-  "distance_from_char_exile_poe2": 4,
-  "exile_distance": 4,
+  "degree": 2,
+  "distance_from_char_exile_poe1": 4,
+  "distance_from_char_exile_poe2": 3,
+  "exile_distance": 3,
   "is_spine": false
  },
  {
@@ -16583,7 +16587,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -16652,7 +16656,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -16675,7 +16679,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -17027,9 +17031,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -17134,9 +17138,9 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -17306,7 +17310,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 36,
+  "degree": 37,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -17382,7 +17386,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 21,
+  "degree": 22,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -17513,7 +17517,7 @@
   ],
   "eras": [
    "eternal_empire_fall",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch",
@@ -17575,7 +17579,7 @@
   "release_status": "released",
   "degree": 2,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -17792,7 +17796,7 @@
   "release_status": "released",
   "degree": 1,
   "distance_from_char_exile_poe1": 4,
-  "distance_from_char_exile_poe2": 5,
+  "distance_from_char_exile_poe2": 4,
   "exile_distance": 4,
   "is_spine": false
  },
@@ -18139,7 +18143,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -18158,7 +18162,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -18237,7 +18241,7 @@
    "ancestor",
    "prophecy"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -18267,7 +18271,7 @@
    "poe2_acts_4_plus"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_campaign"
   ],
   "plot_roles": [
@@ -18392,7 +18396,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -18415,7 +18419,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -18532,7 +18536,7 @@
   ],
   "eras": [
    "poe1_campaign",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -18564,7 +18568,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -18583,7 +18587,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -18784,7 +18788,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 7,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -18879,7 +18883,7 @@
   "branches": [
    "harvest"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -18906,7 +18910,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -19567,10 +19571,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 5,
-  "distance_from_char_exile_poe2": 4,
-  "exile_distance": 4,
+  "degree": 2,
+  "distance_from_char_exile_poe1": 4,
+  "distance_from_char_exile_poe2": 3,
+  "exile_distance": 3,
   "is_spine": false
  },
  {
@@ -19616,9 +19620,9 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -19706,10 +19710,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 5,
-  "distance_from_char_exile_poe2": 4,
-  "exile_distance": 4,
+  "degree": 3,
+  "distance_from_char_exile_poe1": 4,
+  "distance_from_char_exile_poe2": 3,
+  "exile_distance": 3,
   "is_spine": false
  },
  {
@@ -19771,7 +19775,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -19794,7 +19798,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -19929,7 +19933,7 @@
   "branches": [
    "mirage"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -19948,7 +19952,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -20030,7 +20034,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 9,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -20050,7 +20054,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -20073,7 +20077,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -20099,7 +20103,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -20122,13 +20126,13 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -20205,7 +20209,7 @@
    "expedition",
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -20261,7 +20265,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_campaign",
    "poe2_endgame"
   ],
@@ -20327,9 +20331,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 4,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -20664,7 +20668,7 @@
   "branches": [
    "legion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -20683,13 +20687,13 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 7,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -20804,7 +20808,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -20823,7 +20827,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -21160,7 +21164,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 14,
+  "degree": 15,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -21229,7 +21233,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 10,
+  "degree": 11,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -21393,7 +21397,7 @@
   "branches": [
    "blight"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -21412,7 +21416,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -21462,7 +21466,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -21482,7 +21486,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -21505,7 +21509,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -21601,9 +21605,9 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -21621,7 +21625,7 @@
   "branches": [
    "incursion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "2000 years before PoE1 (Incursion time travel)",
@@ -21640,7 +21644,7 @@
    "vaal"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -21668,7 +21672,7 @@
   "branches": [
    "metamorph"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -21687,7 +21691,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -21801,7 +21805,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 10,
+  "degree": 11,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -22068,9 +22072,9 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -22208,7 +22212,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -22231,7 +22235,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -22453,7 +22457,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -22472,7 +22476,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -22543,7 +22547,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -22562,7 +22566,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -22680,7 +22684,7 @@
   "branches": [
    "breach"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -22707,7 +22711,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -22824,6 +22828,7 @@
   "subtype": null,
   "summary": "Unnamed Hooded One bound by a runed sword in the Grelwood's Tree of Souls, later revealed as Sin (Thief of Virtue) who created the Beast; guides the Exile through Acts 1-3.",
   "games": [
+   "poe1",
    "poe2"
   ],
   "plot_role": "main_plot",
@@ -22916,6 +22921,9 @@
    }
   ],
   "release_status": "released",
+  "curation": [
+   "games unified via same_entity_as (continuity)"
+  ],
   "degree": 38,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
@@ -22941,7 +22949,7 @@
    "affliction",
    "ritual"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -22994,7 +23002,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_campaign",
    "poe2_endgame"
   ],
@@ -23032,7 +23040,7 @@
   "branches": [
    "scourge"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -23059,7 +23067,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -23556,7 +23564,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -23579,7 +23587,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -23712,7 +23720,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -23735,7 +23743,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -23821,7 +23829,7 @@
    "expedition",
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -23868,7 +23876,7 @@
    "poe2_acts_4_plus"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_campaign"
   ],
   "plot_roles": [
@@ -23908,7 +23916,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -23931,7 +23939,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -23997,9 +24005,9 @@
    }
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 7,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -24085,7 +24093,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 10,
+  "degree": 11,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -24140,7 +24148,7 @@
   ],
   "eras": [
    "primordial",
-   "poe1_leagues",
+   "league_storylines",
    "poe2_endgame"
   ],
   "plot_roles": [
@@ -24238,7 +24246,7 @@
   "branches": [
    "necropolis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -24269,7 +24277,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -24433,7 +24441,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 9,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -24476,7 +24484,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 4,
   "exile_distance": 3,
@@ -24496,7 +24504,7 @@
   "branches": [
    "incursion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -24519,7 +24527,7 @@
    "vaal"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -24545,7 +24553,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -24568,7 +24576,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -24643,7 +24651,7 @@
   "branches": [
    "allflame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -24662,7 +24670,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -24733,7 +24741,7 @@
   "branches": [
    "mirage"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -24752,13 +24760,13 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 9,
+  "degree": 10,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -24824,7 +24832,7 @@
   "branches": [
    "allflame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -24847,7 +24855,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -25028,7 +25036,7 @@
   "branches": [
    "allflame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -25047,7 +25055,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -25075,7 +25083,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.12.4 (introduced to the game)",
@@ -25098,7 +25106,7 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -25193,7 +25201,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 19,
+  "degree": 20,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -25278,7 +25286,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -25297,7 +25305,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -25325,7 +25333,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.12.4 (introduced to the game)",
@@ -25348,7 +25356,7 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -25412,7 +25420,7 @@
   ],
   "eras": [
    "vaal",
-   "poe1_leagues",
+   "league_storylines",
    "poe2_campaign"
   ],
   "plot_roles": [
@@ -25452,7 +25460,7 @@
   "branches": [
    "prophecy"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "2.3.0 introduced; removed 3.17.0 (per wiki)",
@@ -25471,7 +25479,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -25640,7 +25648,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 9,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -25660,7 +25668,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -25683,13 +25691,13 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 6,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -25756,7 +25764,7 @@
    "breach",
    "keepers_of_the_flame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -25789,7 +25797,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_endgame"
   ],
   "plot_roles": [
@@ -25926,7 +25934,7 @@
   "branches": [
    "breach"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -25949,7 +25957,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -26245,7 +26253,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 9,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -26267,7 +26275,7 @@
   "branches": [
    "prophecy"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "2.3.0 introduced; removed 3.17.0 (per wiki)",
@@ -26286,7 +26294,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -26555,7 +26563,7 @@
    "mirage",
    "trial_of_sekhemas"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -26579,7 +26587,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_endgame"
   ],
   "plot_roles": [
@@ -26639,7 +26647,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -26777,7 +26785,7 @@
   "branches": [
    "abyss"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.29.0 (per wiki)",
@@ -26796,7 +26804,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -26825,7 +26833,7 @@
    "abyssal_depths",
    "poe2_abyss"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -26848,7 +26856,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -26972,7 +26980,7 @@
   "branches": [
    "archnemesis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -26991,7 +26999,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -29565,7 +29573,7 @@
   "branches": [
    "delve"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -29588,7 +29596,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -29666,7 +29674,7 @@
   "branches": [
    "beyond"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -29689,7 +29697,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -29761,7 +29769,7 @@
   "branches": [
    "blight"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -29784,7 +29792,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -29810,7 +29818,7 @@
   "branches": [
    "blight"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -29829,7 +29837,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -29854,7 +29862,7 @@
   "branches": [
    "bloodlines"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "1.3.0 (Dec 2014)",
@@ -29873,7 +29881,7 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -29902,7 +29910,7 @@
   "branches": [
    "breach"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -29925,7 +29933,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -30378,7 +30386,7 @@
   "branches": [
    "delve"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -30401,7 +30409,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -30425,7 +30433,7 @@
   ],
   "plot_role": "meta",
   "branches": [],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -30444,7 +30452,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -30472,7 +30480,7 @@
   "branches": [
    "delirium"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -30495,7 +30503,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -30626,7 +30634,7 @@
   "branches": [
    "essence"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -30645,7 +30653,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -30720,7 +30728,7 @@
   ],
   "plot_role": "meta",
   "branches": [],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "PoE1 leagues (Day Zero)",
@@ -30739,7 +30747,7 @@
    "exile_and_sources"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -30869,7 +30877,7 @@
    "master_missions",
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -30888,7 +30896,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -30914,7 +30922,7 @@
   "branches": [
    "synthesis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -30937,7 +30945,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -31011,7 +31019,7 @@
   "branches": [
    "harbinger"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -31030,7 +31038,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -31058,7 +31066,7 @@
   "branches": [
    "harvest"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -31081,7 +31089,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -31197,7 +31205,7 @@
   "branches": [
    "metamorph"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -31216,7 +31224,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -31243,7 +31251,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -31266,7 +31274,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -31387,7 +31395,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -31410,7 +31418,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -31436,7 +31444,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -31455,7 +31463,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -31481,7 +31489,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -31504,7 +31512,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -31575,7 +31583,7 @@
   "branches": [
    "harvest"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -31598,7 +31606,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -31856,7 +31864,7 @@
   "branches": [
    "nemesis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "1.0.0 (Oct 2013)",
@@ -31875,7 +31883,7 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -32003,7 +32011,7 @@
   "branches": [
    "prophecy"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -32022,7 +32030,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -32145,7 +32153,7 @@
   "branches": [
    "ritual"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -32172,7 +32180,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -32252,7 +32260,7 @@
    "anarchy",
    "rogue_exiles"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -32275,7 +32283,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -32350,7 +32358,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "PoE1 3.25 (Settlers of Kalguur)",
@@ -32369,7 +32377,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -32438,7 +32446,7 @@
   "branches": [
    "domination"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "1.0.0 (Oct 2013)",
@@ -32457,7 +32465,7 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -32482,7 +32490,7 @@
   "branches": [
    "strongbox"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "1.1.0 (March 2014)",
@@ -32501,7 +32509,7 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -32526,7 +32534,7 @@
   "branches": [
    "tempest"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -32545,7 +32553,7 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -32854,7 +32862,7 @@
   "branches": [
    "legion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -32873,7 +32881,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -32899,7 +32907,7 @@
   "branches": [
    "torment"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -32918,7 +32926,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -33267,7 +33275,7 @@
    "kingsmarch",
    "poe2_runes_of_aldur"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "Kalguuran runesmithing (ancient); PoE1 3.25 Kingsmarch",
@@ -33299,7 +33307,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_endgame"
   ],
   "plot_roles": [
@@ -33411,7 +33419,7 @@
   "branches": [
    "affliction"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -33430,7 +33438,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -33509,7 +33517,7 @@
    "breach",
    "keepers_of_the_flame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -33542,7 +33550,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_endgame"
   ],
   "plot_roles": [
@@ -33688,7 +33696,7 @@
   "branches": [
    "metamorph"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -33707,7 +33715,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -33734,7 +33742,7 @@
    "scourge",
    "beyond"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -33753,7 +33761,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -33784,7 +33792,7 @@
   "branches": [
    "synthesis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -33803,7 +33811,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -33919,7 +33927,7 @@
   "branches": [
    "mercenaries"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -33938,13 +33946,13 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -34056,7 +34064,7 @@
   "branches": [
    "affliction"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -34079,7 +34087,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -34646,7 +34654,7 @@
   "eras": [
    "primordial",
    "vaal",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch",
@@ -34713,7 +34721,7 @@
   ],
   "eras": [
    "azmeri_ezomyte_ancient",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -34799,7 +34807,7 @@
   "branches": [
    "breach"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -34823,7 +34831,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_endgame"
   ],
   "plot_roles": [
@@ -34886,7 +34894,7 @@
   ],
   "eras": [
    "azmeri_ezomyte_ancient",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -34948,7 +34956,7 @@
   ],
   "eras": [
    "azmeri_ezomyte_ancient",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -35946,7 +35954,8 @@
   "type": "deity",
   "summary": "Eternal/Azmeri moon goddess, sister of Solaris; her rivalry was engineered by Tangmazu. (PoE2 appearance of Solaris/Lunaris by name not verified in the local PoE2 corpus; Maraketh variants Solerai/Lundara and the Three Sisters myth cover PoE2.)",
   "games": [
-   "poe1"
+   "poe1",
+   "poe2"
   ],
   "plot_role": "main_plot",
   "branches": [],
@@ -36008,6 +36017,9 @@
    }
   ],
   "release_status": "released",
+  "curation": [
+   "games unified via same_entity_as (continuity)"
+  ],
   "degree": 16,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
@@ -36445,7 +36457,7 @@
   ],
   "release_status": "released",
   "degree": 2,
-  "distance_from_char_exile_poe1": 4,
+  "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
@@ -36567,7 +36579,7 @@
   ],
   "eras": [
    "azmeri_ezomyte_ancient",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -36907,7 +36919,8 @@
   "type": "deity",
   "summary": "Eternal/Azmeri sun goddess, twin sister of Lunaris; led a rival cult after Tangmazu tricked her into believing Lunaris betrayed her. Sin has her soul captured for the Pantheon in Act 8. (PoE2 appearance of Solaris/Lunaris by name not verified in the local PoE2 corpus; Maraketh variants Solerai/Lundara and the Three Sisters myth cover PoE2.)",
   "games": [
-   "poe1"
+   "poe1",
+   "poe2"
   ],
   "plot_role": "main_plot",
   "branches": [],
@@ -36969,6 +36982,9 @@
    }
   ],
   "release_status": "released",
+  "curation": [
+   "games unified via same_entity_as (continuity)"
+  ],
   "degree": 16,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
@@ -37679,7 +37695,7 @@
   "branches": [
    "breach"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -37703,7 +37719,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_endgame"
   ],
   "plot_roles": [
@@ -37739,7 +37755,7 @@
   "branches": [
    "breach"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -37758,7 +37774,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -38033,7 +38049,7 @@
   "branches": [
    "breach"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -38052,7 +38068,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -38446,12 +38462,58 @@
   "is_spine": false
  },
  {
+  "id": "era_league_storylines",
+  "name": "League storylines (PoE1 → PoE2)",
+  "aliases": [],
+  "type": "era",
+  "subtype": "era bucket",
+  "summary": "Era bucket for league and side storylines. They begin alongside the first Exile's journey, and many continue into Path of Exile 2 (e.g. Kingsmarch, Breach, Ritual, Expedition, Abyss), which is the continuation of the same world twenty years later.",
+  "games": [
+   "poe1"
+  ],
+  "plot_role": "meta",
+  "branches": [],
+  "era": "league_storylines",
+  "chronology": {
+   "in_world_year": null,
+   "relative": "run alongside PoE1 (no fixed date)",
+   "story_order": null
+  },
+  "acts": [],
+  "canon_status": "dev_statement",
+  "confidence": "medium",
+  "sources": [
+   {
+    "source_id": "src_poewiki_history_of_wraeclast",
+    "locator": "section 'The Atlas of Worlds' (Day Zero rule)"
+   }
+  ],
+  "domains": [
+   "exile_and_sources"
+  ],
+  "eras": [
+   "league_storylines"
+  ],
+  "plot_roles": [
+   "meta"
+  ],
+  "curation": [
+   "user review: leagues are not PoE1-only; PoE2 continues PoE1"
+  ],
+  "release_status": "released",
+  "degree": 3,
+  "distance_from_char_exile_poe1": 10,
+  "distance_from_char_exile_poe2": 9,
+  "exile_distance": 9,
+  "is_spine": false
+ },
+ {
   "id": "era_poe1",
   "name": "PoE1 (era umbrella)",
   "aliases": [],
   "type": "era",
   "subtype": "",
-  "summary": "Umbrella for the PoE1-era buckets: the Acts 1-10 campaign and Epilogue (era_poe1_campaign), the Atlas storylines (era_poe1_atlas) and league stories (era_poe1_leagues). Meta grouping only; no in-world event.",
+  "summary": "Umbrella for the PoE1-era buckets: the Acts 1-10 campaign and Epilogue (era_poe1_campaign), the Atlas storylines (era_poe1_atlas) and the league storylines that begin alongside them (era_league_storylines, many of which continue into PoE2). Meta grouping only; no in-world event.",
   "games": [
    "poe1"
   ],
@@ -38480,6 +38542,9 @@
   ],
   "plot_roles": [
    "meta"
+  ],
+  "curation": [
+   "era renamed to league_storylines"
   ],
   "release_status": "released",
   "degree": 3,
@@ -38576,49 +38641,6 @@
   "distance_from_char_exile_poe1": 8,
   "distance_from_char_exile_poe2": 7,
   "exile_distance": 7,
-  "is_spine": false
- },
- {
-  "id": "era_poe1_leagues",
-  "name": "PoE1 League Stories",
-  "aliases": [],
-  "type": "era",
-  "subtype": "era bucket",
-  "summary": "League-specific storylines that the wiki's 'Day Zero' rule places alongside PoE1; the Exile wakes up in the sand of the Twilight Strand each league.",
-  "games": [
-   "poe1"
-  ],
-  "plot_role": "meta",
-  "branches": [],
-  "era": "poe1_leagues",
-  "chronology": {
-   "in_world_year": null,
-   "relative": "run alongside PoE1 (no fixed date)",
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "dev_statement",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poewiki_history_of_wraeclast",
-    "locator": "section 'The Atlas of Worlds' (Day Zero rule)"
-   }
-  ],
-  "domains": [
-   "exile_and_sources"
-  ],
-  "eras": [
-   "poe1_leagues"
-  ],
-  "plot_roles": [
-   "meta"
-  ],
-  "release_status": "released",
-  "degree": 3,
-  "distance_from_char_exile_poe1": 10,
-  "distance_from_char_exile_poe2": 9,
-  "exile_distance": 9,
   "is_spine": false
  },
  {
@@ -39073,7 +39095,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "PoE1 Act 1 (Betrayal league)",
@@ -39099,7 +39121,7 @@
    "gap_poe1_campaign_npcs_and_texts"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -39111,7 +39133,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -39275,7 +39297,7 @@
   "branches": [
    "ancestor"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "PoE1 Act 1 (Ancestor league)",
@@ -39301,7 +39323,7 @@
    "gap_poe1_campaign_npcs_and_texts"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -39551,7 +39573,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 9,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -40444,7 +40466,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 11,
+  "degree": 13,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -41012,7 +41034,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -41109,7 +41131,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -41157,7 +41179,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 9,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -41284,7 +41306,7 @@
    "pin story_order after duplicate merge (deterministic)"
   ],
   "release_status": "released",
-  "degree": 12,
+  "degree": 13,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -41417,9 +41439,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -41471,9 +41493,9 @@
    }
   ],
   "release_status": "released",
-  "degree": 10,
+  "degree": 12,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -41518,7 +41540,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 9,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -41574,7 +41596,7 @@
    "codex audit round 2: Conquerors' madness is Elderslayers back-history, not a beat after the Exile's Elder victory"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -41741,7 +41763,7 @@
    "codex: alternate history must not follow the Exile's Elder victory"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -41806,7 +41828,7 @@
   ],
   "plot_role": "meta",
   "branches": [],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "2026-03-06",
@@ -41829,7 +41851,7 @@
    "poe1_atlas"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -41980,7 +42002,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 7,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -42024,7 +42046,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -42072,7 +42094,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -42120,7 +42142,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -42163,7 +42185,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -42260,10 +42282,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 7,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
-  "exile_distance": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -42307,9 +42329,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -42354,9 +42376,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -42397,9 +42419,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -42440,9 +42462,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 4,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -42623,7 +42645,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "Betrayal league (removed 3.6.0)",
@@ -42644,13 +42666,13 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -42783,9 +42805,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -42912,9 +42934,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -42955,10 +42977,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
-  "distance_from_char_exile_poe1": 4,
-  "distance_from_char_exile_poe2": 5,
-  "exile_distance": 4,
+  "degree": 3,
+  "distance_from_char_exile_poe1": 2,
+  "distance_from_char_exile_poe2": 3,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -43104,7 +43126,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 10,
+  "degree": 11,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -43149,7 +43171,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 9,
+  "degree": 10,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -43218,7 +43240,7 @@
   "branches": [
    "bestiary"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.2.0 (Bestiary league) to 3.3.0",
@@ -43239,7 +43261,7 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -43407,7 +43429,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 16,
+  "degree": 17,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -43451,7 +43473,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -43507,7 +43529,7 @@
    "codex: belongs at the start of the PoE1 spine"
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -43527,7 +43549,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "Epilogue (start per wiki)",
@@ -43548,13 +43570,13 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -43574,7 +43596,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "before Settlers league; date unknown",
@@ -43597,7 +43619,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "background"
@@ -43651,7 +43673,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 6,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -43714,7 +43736,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 14,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -43762,10 +43784,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 4,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
-  "exile_distance": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -43947,10 +43969,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 3,
-  "exile_distance": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -43996,7 +44018,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 11,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -44090,7 +44112,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -44149,8 +44171,8 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
-  "distance_from_char_exile_poe1": 3,
+  "degree": 9,
+  "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
@@ -44169,7 +44191,7 @@
   "branches": [
    "incursion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -44188,13 +44210,13 @@
    "vaal"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -44262,7 +44284,7 @@
    "breach",
    "keepers_of_the_flame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.27.0 - 3.28.0 (per wiki)",
@@ -44283,13 +44305,13 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 6,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -44311,7 +44333,7 @@
   "branches": [
    "synthesis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.6.0 - 3.7.0 (per wiki)",
@@ -44332,7 +44354,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -44467,7 +44489,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -44528,7 +44550,7 @@
   ],
   "plot_role": "meta",
   "branches": [],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -44555,7 +44577,7 @@
    "poe1_atlas"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -44581,7 +44603,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "2024 (Settlers league, in-fiction timing unspecified)",
@@ -44604,13 +44626,13 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -44724,7 +44746,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -44743,13 +44765,13 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -44768,7 +44790,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -44787,13 +44809,13 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -44812,7 +44834,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -44835,13 +44857,13 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 5,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -44860,7 +44882,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -44883,13 +44905,13 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -44908,7 +44930,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.12.0 Heist league quest; Kurai from Act 6 (3.13.0)",
@@ -44933,13 +44955,13 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -45031,7 +45053,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -45118,9 +45140,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 6,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -45277,7 +45299,7 @@
   "branches": [
    "allflame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "Allflame league",
@@ -45298,7 +45320,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -45347,7 +45369,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -45526,10 +45548,10 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 2,
-  "distance_from_char_exile_poe1": 4,
-  "distance_from_char_exile_poe2": 4,
-  "exile_distance": 4,
+  "degree": 4,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 3,
+  "exile_distance": 3,
   "is_spine": false
  },
  {
@@ -45585,7 +45607,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 7,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -45698,7 +45720,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 7,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -45752,7 +45774,7 @@
   ],
   "eras": [
    "azmeri_ezomyte_ancient",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch",
@@ -45785,7 +45807,7 @@
   "branches": [
    "harvest"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "Before PoE1 campaign (undated)",
@@ -45804,13 +45826,13 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -45861,9 +45883,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -46246,7 +46268,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -46481,7 +46503,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 10,
+  "degree": 11,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -46576,7 +46598,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -46836,7 +46858,7 @@
    "codex audit round 2: Maligaro precedes Ralakesh (Silk's key)"
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -47167,7 +47189,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -47212,7 +47234,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 9,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -47751,7 +47773,7 @@
    "optional campaign side quest (codex audit)"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 6,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -47770,7 +47792,7 @@
   "branches": [
    "ultimatum"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "PoE1 Ultimatum league (maps)",
@@ -47789,7 +47811,7 @@
    "gap_poe1_campaign_npcs_and_texts"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -47956,7 +47978,7 @@
   "branches": [
    "harvest"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "PoE1 epilogue (Harvest league)",
@@ -47981,7 +48003,7 @@
    "gap_poe1_campaign_npcs_and_texts"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -48140,7 +48162,7 @@
   "branches": [
    "expedition"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -48161,13 +48183,13 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -48186,7 +48208,7 @@
   "branches": [
    "metamorph"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "PoE1 epilogue (Metamorph league)",
@@ -48207,7 +48229,7 @@
    "gap_poe1_campaign_npcs_and_texts"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -48232,7 +48254,7 @@
   "branches": [
    "synthesis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "PoE1 Act 1 (Synthesis league)",
@@ -48253,7 +48275,7 @@
    "gap_poe1_campaign_npcs_and_texts"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -48278,7 +48300,7 @@
   "branches": [
    "blight"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "PoE1 Act 3 (Blight league)",
@@ -48299,7 +48321,7 @@
    "gap_poe1_campaign_npcs_and_texts"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -48324,7 +48346,7 @@
   "branches": [
    "necropolis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "PoE1 Necropolis league",
@@ -48345,7 +48367,7 @@
    "gap_poe1_campaign_npcs_and_texts"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -48597,7 +48619,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 14,
+  "degree": 15,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -48700,7 +48722,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -48792,7 +48814,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 9,
+  "degree": 10,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -49095,7 +49117,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 9,
+  "degree": 10,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -49810,7 +49832,7 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -50469,7 +50491,7 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -50743,7 +50765,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 15,
+  "degree": 17,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -50801,7 +50823,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 12,
+  "degree": 13,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -50992,7 +51014,7 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -51109,7 +51131,7 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -51592,7 +51614,7 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -51638,7 +51660,7 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -51849,7 +51871,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -51946,7 +51968,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 15,
+  "degree": 16,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -52104,7 +52126,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 9,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -52424,7 +52446,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -52469,7 +52491,7 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -52529,9 +52551,9 @@
    }
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 14,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -52761,7 +52783,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 6,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -52806,7 +52828,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -52998,9 +53020,9 @@
    }
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 10,
   "distance_from_char_exile_poe1": 2,
-  "distance_from_char_exile_poe2": 3,
+  "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
  },
@@ -53202,7 +53224,7 @@
   "branches": [
    "synthesis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "Past of the Templar Laboratory, shortly before Valdo's imprisonment",
@@ -53221,7 +53243,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -53313,7 +53335,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -53479,7 +53501,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.12.0 introduced (per wiki)",
@@ -53500,13 +53522,13 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 6,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -53883,10 +53905,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
-  "distance_from_char_exile_poe1": 5,
-  "distance_from_char_exile_poe2": 4,
-  "exile_distance": 4,
+  "degree": 3,
+  "distance_from_char_exile_poe1": 4,
+  "distance_from_char_exile_poe2": 3,
+  "exile_distance": 3,
   "is_spine": false
  },
  {
@@ -53928,10 +53950,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 4,
-  "distance_from_char_exile_poe2": 5,
-  "exile_distance": 4,
+  "degree": 7,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 3,
+  "exile_distance": 3,
   "is_spine": false
  },
  {
@@ -53971,8 +53993,8 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
-  "distance_from_char_exile_poe1": 4,
+  "degree": 9,
+  "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
@@ -53992,7 +54014,7 @@
   "branches": [
    "ancestor"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -54015,13 +54037,13 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 14,
+  "degree": 25,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -54043,7 +54065,7 @@
    "ultimatum",
    "trial_of_chaos"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -54070,7 +54092,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -54096,7 +54118,7 @@
   "branches": [
    "expedition"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -54119,13 +54141,13 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -54170,10 +54192,10 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 5,
-  "distance_from_char_exile_poe2": 5,
-  "exile_distance": 5,
+  "degree": 4,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 3,
+  "exile_distance": 3,
   "is_spine": false
  },
  {
@@ -54190,7 +54212,7 @@
   "branches": [
    "allflame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "Allflame league (endgame)",
@@ -54211,7 +54233,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -54372,7 +54394,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -54444,7 +54466,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 18,
+  "degree": 20,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -54487,7 +54509,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -54620,7 +54642,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -54667,7 +54689,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 6,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -54714,10 +54736,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 5,
-  "distance_from_char_exile_poe2": 4,
-  "exile_distance": 4,
+  "degree": 3,
+  "distance_from_char_exile_poe1": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -54761,7 +54783,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 4,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -54851,7 +54873,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 12,
+  "degree": 15,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -55126,7 +55148,7 @@
   ],
   "eras": [
    "azmeri_ezomyte_ancient",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch",
@@ -55139,7 +55161,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -55188,7 +55210,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 6,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -55270,7 +55292,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 22,
+  "degree": 26,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -55374,7 +55396,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -55419,7 +55441,7 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -55468,7 +55490,7 @@
   ],
   "eras": [
    "post_cataclysm",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch",
@@ -55481,7 +55503,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -55526,10 +55548,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
-  "distance_from_char_exile_poe1": 3,
+  "degree": 4,
+  "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
-  "exile_distance": 3,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -55616,7 +55638,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -55732,7 +55754,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 5,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -55843,7 +55865,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -55888,7 +55910,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 9,
+  "degree": 11,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -55940,7 +55962,7 @@
    "endgame_plot"
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 11,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -56013,7 +56035,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 31,
+  "degree": 60,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -56057,7 +56079,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 8,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -56121,7 +56143,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 12,
+  "degree": 17,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -56216,7 +56238,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 14,
+  "degree": 17,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -56266,7 +56288,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 11,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -56325,7 +56347,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -56370,7 +56392,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 6,
   "distance_from_char_exile_poe1": 4,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -56415,7 +56437,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 7,
   "distance_from_char_exile_poe1": 4,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -56460,7 +56482,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 5,
   "distance_from_char_exile_poe1": 4,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -56505,7 +56527,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 6,
   "distance_from_char_exile_poe1": 4,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -56525,7 +56547,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -56548,13 +56570,13 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 23,
+  "degree": 25,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -56614,7 +56636,7 @@
   ],
   "eras": [
    "post_vaal_dark_age",
-   "poe1_leagues",
+   "league_storylines",
    "poe2_campaign"
   ],
   "plot_roles": [
@@ -56632,7 +56654,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 22,
+  "degree": 33,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -56728,7 +56750,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 36,
+  "degree": 51,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -56773,8 +56795,8 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
-  "distance_from_char_exile_poe1": 3,
+  "degree": 4,
+  "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
@@ -56818,8 +56840,8 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
-  "distance_from_char_exile_poe1": 3,
+  "degree": 5,
+  "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
@@ -56863,7 +56885,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -56908,7 +56930,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -56953,8 +56975,8 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
-  "distance_from_char_exile_poe1": 3,
+  "degree": 4,
+  "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
@@ -56998,8 +57020,8 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
-  "distance_from_char_exile_poe1": 3,
+  "degree": 4,
+  "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
@@ -57043,8 +57065,8 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
-  "distance_from_char_exile_poe1": 3,
+  "degree": 5,
+  "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
@@ -57088,8 +57110,8 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
-  "distance_from_char_exile_poe1": 3,
+  "degree": 5,
+  "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
@@ -57133,7 +57155,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -57178,8 +57200,8 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 3,
-  "distance_from_char_exile_poe1": 3,
+  "degree": 4,
+  "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
@@ -57202,7 +57224,7 @@
    "breach",
    "keepers_of_the_flame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -57226,7 +57248,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_endgame"
   ],
   "plot_roles": [
@@ -57239,7 +57261,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 11,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -57307,7 +57329,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -57358,7 +57380,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 13,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -57416,7 +57438,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 7,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -57512,7 +57534,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 34,
+  "degree": 48,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -57533,7 +57555,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -57563,7 +57585,7 @@
    "poe2_acts_4_plus"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_campaign"
   ],
   "plot_roles": [
@@ -57576,7 +57598,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 5,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -57597,7 +57619,7 @@
   "branches": [
    "warbands"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -57624,13 +57646,13 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -57720,10 +57742,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
-  "exile_distance": 3,
+  "degree": 2,
+  "distance_from_char_exile_poe1": 2,
+  "distance_from_char_exile_poe2": 3,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -57765,7 +57787,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 2,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 4,
   "exile_distance": 3,
@@ -57810,9 +57832,9 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -57863,18 +57885,21 @@
  },
  {
   "id": "faction_order_of_the_chalice",
-  "name": "Order of the Chalice",
-  "aliases": [],
+  "name": "Priests of the Chalice",
+  "aliases": [
+   "Order of the Chalice"
+  ],
   "type": "faction",
   "subtype": null,
-  "summary": "Kalguuran priesthood (Priests of the Chalice) that interpreted the stars and mastered alchemy, machinery and runes; Uhtred was its High Priest.",
+  "summary": "Religious order that read the stars and mastered alchemy, machinery and runes.",
   "games": [
    "poe1",
    "poe2"
   ],
   "plot_role": "branch",
   "branches": [
-   "expedition"
+   "expedition",
+   "kingsmarch"
   ],
   "era": "post_vaal_dark_age",
   "chronology": {
@@ -57884,11 +57909,15 @@
   },
   "acts": [],
   "canon_status": "canon",
-  "confidence": "high",
+  "confidence": "medium",
   "sources": [
    {
     "source_id": "src_poewiki_history_of_wraeclast",
     "locator": "Expedition; The Shrine"
+   },
+   {
+    "source_id": "src_poewiki_kalguur",
+    "locator": "'===Society==='"
    },
    {
     "source_id": "src_poewiki_kalguur",
@@ -57897,6 +57926,7 @@
   ],
   "domains": [
    "deep_history",
+   "leagues_late",
    "leagues_mid"
   ],
   "eras": [
@@ -57910,10 +57940,14 @@
    {
     "domain": "deep_history",
     "summary": "Kalguuran priesthood led by Uhtred; found the ancient artefact at the shrine."
+   },
+   {
+    "domain": "leagues_mid",
+    "summary": "Kalguuran priesthood (Priests of the Chalice) that interpreted the stars and mastered alchemy, machinery and runes; Uhtred was its High Priest."
    }
   ],
   "release_status": "released",
-  "degree": 3,
+  "degree": 6,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -58006,7 +58040,7 @@
   "eras": [
    "azmeri_ezomyte_ancient",
    "post_cataclysm",
-   "poe1_leagues",
+   "league_storylines",
    "poe2_campaign"
   ],
   "plot_roles": [
@@ -58036,7 +58070,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 24,
+  "degree": 26,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -58058,7 +58092,7 @@
   "branches": [
    "prophecy"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "2.3.0 - 3.17.0 (per wiki)",
@@ -58085,7 +58119,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -58157,9 +58191,9 @@
    }
   ],
   "release_status": "released",
-  "degree": 6,
+  "degree": 12,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -58207,7 +58241,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 7,
+  "degree": 14,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -58258,56 +58292,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 14,
+  "degree": 15,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
-  "is_spine": false
- },
- {
-  "id": "faction_priests_of_the_chalice",
-  "name": "Priests of the Chalice",
-  "aliases": [],
-  "type": "faction",
-  "subtype": null,
-  "summary": "Religious order that read the stars and mastered alchemy, machinery and runes.",
-  "games": [
-   "poe1"
-  ],
-  "plot_role": "background",
-  "branches": [
-   "kingsmarch",
-   "expedition"
-  ],
-  "era": "post_vaal_dark_age",
-  "chronology": {
-   "in_world_year": null,
-   "relative": null,
-   "story_order": null
-  },
-  "acts": [],
-  "canon_status": "canon",
-  "confidence": "medium",
-  "sources": [
-   {
-    "source_id": "src_poewiki_kalguur",
-    "locator": "'===Society==='"
-   }
-  ],
-  "domains": [
-   "leagues_late"
-  ],
-  "eras": [
-   "post_vaal_dark_age"
-  ],
-  "plot_roles": [
-   "background"
-  ],
-  "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 3,
-  "exile_distance": 3,
   "is_spine": false
  },
  {
@@ -58369,7 +58357,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 13,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -58419,7 +58407,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 16,
+  "degree": 25,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -58527,10 +58515,10 @@
    }
   ],
   "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 3,
+  "degree": 4,
+  "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
-  "exile_distance": 3,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -58588,7 +58576,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -58632,7 +58620,7 @@
    "main_plot"
   ],
   "release_status": "released",
-  "degree": 4,
+  "degree": 6,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -58705,7 +58693,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 24,
+  "degree": 35,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -58725,7 +58713,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -58748,7 +58736,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -58777,7 +58765,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -58804,13 +58792,13 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 14,
+  "degree": 20,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -58854,8 +58842,8 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
-  "distance_from_char_exile_poe1": 3,
+  "degree": 2,
+  "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
   "is_spine": false
@@ -58911,7 +58899,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 12,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -58956,7 +58944,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 8,
+  "degree": 16,
   "distance_from_char_exile_poe1": 3,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -59024,7 +59012,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 21,
+  "degree": 24,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 1,
   "exile_distance": 1,
@@ -59099,7 +59087,7 @@
    }
   ],
   "release_status": "released",
-  "degree": 34,
+  "degree": 45,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -59150,7 +59138,7 @@
    "branch"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 8,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 2,
@@ -59198,10 +59186,10 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 1,
+  "degree": 3,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 3,
-  "exile_distance": 3,
+  "distance_from_char_exile_poe2": 2,
+  "exile_distance": 2,
   "is_spine": false
  },
  {
@@ -59218,7 +59206,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "c. Oriath (ancestor Sanctus Vox)",
@@ -59245,13 +59233,13 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 4,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 2,
@@ -59271,7 +59259,7 @@
   "branches": [
    "warbands"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -59294,7 +59282,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -59368,7 +59356,7 @@
   "branches": [
    "abyss"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2017-12-08",
@@ -59387,7 +59375,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -59413,7 +59401,7 @@
   "branches": [
    "affliction"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.23.0, 2023-12-08 to 2024-03-26",
@@ -59432,7 +59420,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -59460,7 +59448,7 @@
   "branches": [
    "allflame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.29.0, 2026-07-24 to 2026-11-09",
@@ -59483,7 +59471,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -59509,7 +59497,7 @@
   "branches": [
    "ambush"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2014-03-05",
@@ -59528,7 +59516,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -59554,7 +59542,7 @@
   "branches": [
    "anarchy"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2013-06-07",
@@ -59573,7 +59561,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -59599,7 +59587,7 @@
   "branches": [
    "ancestor"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.22.0, 2023-08-18 to 2023-12-05",
@@ -59618,7 +59606,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -59646,7 +59634,7 @@
   "branches": [
    "archnemesis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.17.0 'Siege of the Atlas', 2022-02-04 to 2022-05-10",
@@ -59665,7 +59653,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -59691,7 +59679,7 @@
   "branches": [
    "bestiary"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2018-03-02",
@@ -59710,7 +59698,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -59736,7 +59724,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2018-12-07",
@@ -59755,7 +59743,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -59781,7 +59769,7 @@
   "branches": [
    "beyond"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2014-08-20",
@@ -59800,7 +59788,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -59828,7 +59816,7 @@
   "branches": [
    "blight"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.8.0 'Path of Exile: Blight', 2019-09-06 to 2019-12-09",
@@ -59847,7 +59835,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -59873,7 +59861,7 @@
   "branches": [
    "bloodlines"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2014-12-13",
@@ -59892,7 +59880,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -59918,7 +59906,7 @@
   "branches": [
    "breach"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2016-12-02",
@@ -59937,7 +59925,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -59966,7 +59954,7 @@
   "branches": [
    "crucible"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.21.0, 2023-04-07 to 2023-08-15",
@@ -59985,7 +59973,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -60013,7 +60001,7 @@
   "branches": [
    "delirium"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.10.0 'Path of Exile: Delirium', 2020-03-13 to 2020-06-15",
@@ -60032,7 +60020,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -60058,7 +60046,7 @@
   "branches": [
    "delve"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2018-08-31",
@@ -60077,7 +60065,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -60103,7 +60091,7 @@
   "branches": [
    "domination"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2013-10-23",
@@ -60122,7 +60110,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -60146,7 +60134,7 @@
   ],
   "plot_role": "meta",
   "branches": [],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -60165,7 +60153,7 @@
    "poe1_atlas"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -60191,7 +60179,7 @@
   "branches": [
    "essence"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2016-09-02",
@@ -60210,7 +60198,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -60238,7 +60226,7 @@
   "branches": [
    "expedition"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.15.0 'Path of Exile: Expedition', 2021-07-23 to 2021-10-18",
@@ -60257,7 +60245,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -60283,7 +60271,7 @@
   "branches": [
    "harbinger"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2017-08-04",
@@ -60302,7 +60290,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -60330,7 +60318,7 @@
   "branches": [
    "harvest"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.11.0 'Path of Exile: Harvest', 2020-06-19 to 2020-09-14",
@@ -60349,7 +60337,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -60377,7 +60365,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.12.0 'Path of Exile: Heist', 2020-09-18 to 2021-01-11",
@@ -60396,7 +60384,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -60422,7 +60410,7 @@
   "branches": [
    "incursion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -60441,7 +60429,7 @@
    "vaal"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -60467,7 +60455,7 @@
   "branches": [
    "invasion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2014-03-05",
@@ -60486,7 +60474,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -60515,7 +60503,7 @@
   "branches": [
    "kalandra"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.19.0 'Path of Exile: Lake of Kalandra', 2022-08-19 to 2022-12-06",
@@ -60539,7 +60527,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -60574,7 +60562,7 @@
    "breach",
    "keepers_of_the_flame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.27.0, 2025-10-31 to 2026-03-02",
@@ -60598,7 +60586,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch",
@@ -60631,7 +60619,7 @@
   "branches": [
    "legion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2019-06-07",
@@ -60650,7 +60638,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -60678,7 +60666,7 @@
   "branches": [
    "mercenaries"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.26.0, 2025-06-13 to 2025-10-27",
@@ -60697,7 +60685,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -60725,7 +60713,7 @@
   "branches": [
    "metamorph"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.9.0 'Conquerors of the Atlas', 2019-12-13 to 2020-03-09",
@@ -60744,7 +60732,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -60770,7 +60758,7 @@
   "branches": [
    "mirage"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.28.0, 2026-03-06",
@@ -60789,7 +60777,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -60816,7 +60804,7 @@
    "kingsmarch",
    "necropolis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "Nov 2024 - Feb 2025",
@@ -60835,7 +60823,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -60861,7 +60849,7 @@
   "branches": [
    "necropolis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.24.0, 2024-03-29 to 2024-07-23",
@@ -60880,13 +60868,13 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
   ],
   "release_status": "released",
-  "degree": 5,
+  "degree": 6,
   "distance_from_char_exile_poe1": 1,
   "distance_from_char_exile_poe2": 2,
   "exile_distance": 1,
@@ -60906,7 +60894,7 @@
   "branches": [
    "nemesis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2013-10-23",
@@ -60925,7 +60913,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -60951,7 +60939,7 @@
   "branches": [
    "onslaught"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2013-06-07",
@@ -60970,7 +60958,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -60996,7 +60984,7 @@
   "branches": [
    "perandus"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2016-03-04",
@@ -61015,7 +61003,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -61043,7 +61031,7 @@
   "branches": [
    "phrecia"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "first run ended Apr 2025; 3.27-cycle rerun 29 Jan - 19 Feb 2026 (third-party news)",
@@ -61071,7 +61059,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -61592,7 +61580,7 @@
   "branches": [
    "prophecy"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2016-06-03",
@@ -61611,7 +61599,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -61637,7 +61625,7 @@
   "branches": [
    "rampage"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2014-08-20",
@@ -61656,7 +61644,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -61684,7 +61672,7 @@
   "branches": [
    "ritual"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.13.0 'Echoes of the Atlas', 2021-01-15 to 2021-04-12",
@@ -61703,7 +61691,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -61729,7 +61717,7 @@
   "branches": [
    "sacrifice_of_the_vaal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -61748,7 +61736,7 @@
    "vaal"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -61777,7 +61765,7 @@
   "branches": [
    "sanctum"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.20.0, 2022-12-09 to 2023-04-04",
@@ -61796,7 +61784,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -61824,7 +61812,7 @@
   "branches": [
    "scourge"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.16.0 'Path of Exile: Scourge', 2021-10-22 to 2022-02-01",
@@ -61843,7 +61831,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -61871,7 +61859,7 @@
   "branches": [
    "secrets_of_the_atlas"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.26.0, 2025-06-13",
@@ -61911,7 +61899,7 @@
    "poe1_atlas"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -61945,7 +61933,7 @@
   "branches": [
    "sentinel"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.18.0 'Path of Exile: Sentinel', 2022-05-13 to 2022-08-16",
@@ -61964,7 +61952,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -61993,7 +61981,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.25.0, 2024-07-26 to 2025-06-09",
@@ -62020,7 +62008,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -62044,7 +62032,7 @@
   ],
   "plot_role": "meta",
   "branches": [],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -62067,7 +62055,7 @@
    "poe1_atlas"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -62095,7 +62083,7 @@
   "branches": [
    "synthesis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.6.0 'Path of Exile: Synthesis', 2019-03-08 to 2019-06-03",
@@ -62119,7 +62107,7 @@
    "poe1_atlas"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -62151,7 +62139,7 @@
   "branches": [
    "talisman"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2015-12-11",
@@ -62170,7 +62158,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -62196,7 +62184,7 @@
   "branches": [
    "tempest"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2015-07-10",
@@ -62215,7 +62203,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -62241,7 +62229,7 @@
   "branches": [
    "torment"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2014-12-13",
@@ -62260,7 +62248,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -62288,7 +62276,7 @@
   "branches": [
    "ultimatum"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.14.0 'Path of Exile: Ultimatum', 2021-04-16 to 2021-07-19",
@@ -62307,7 +62295,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "meta"
@@ -62333,7 +62321,7 @@
   "branches": [
    "warbands"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "league released 2015-07-10",
@@ -62352,7 +62340,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -62607,7 +62595,7 @@
    "abyss",
    "abyssal_depths"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -62626,7 +62614,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -62653,7 +62641,7 @@
    "delve",
    "abyssal_depths"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.4.0 introduced (per wiki)",
@@ -62672,7 +62660,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -62757,7 +62745,7 @@
   "branches": [
    "sacrifice_of_the_vaal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -62776,7 +62764,7 @@
    "vaal"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -62912,7 +62900,7 @@
   "branches": [
    "sacrifice_of_the_vaal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -62931,7 +62919,7 @@
    "vaal"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -63176,7 +63164,7 @@
   ],
   "eras": [
    "azmeri_ezomyte_ancient",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -63526,7 +63514,7 @@
   "branches": [
    "delve"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -63549,7 +63537,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -64407,7 +64395,7 @@
   "branches": [
    "delve"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.4.0 introduced (per wiki)",
@@ -64426,7 +64414,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -64542,7 +64530,7 @@
   "branches": [
    "legion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -64561,7 +64549,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -64893,7 +64881,7 @@
   "branches": [
    "allflame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -64916,7 +64904,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -64991,7 +64979,7 @@
   "branches": [
    "sanctum"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -65019,7 +65007,7 @@
    "twilight_order_edicts"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -65137,7 +65125,7 @@
   ],
   "eras": [
    "primordial",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -65169,7 +65157,7 @@
   "branches": [
    "delve"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -65188,7 +65176,7 @@
    "vaal"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -65305,7 +65293,7 @@
   "branches": [
    "ancestor"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -65328,7 +65316,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -65880,7 +65868,7 @@
   ],
   "eras": [
    "post_vaal_dark_age",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "background"
@@ -66251,7 +66239,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -66289,7 +66277,7 @@
    "poe2_acts_4_plus"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_campaign"
   ],
   "plot_roles": [
@@ -66348,7 +66336,7 @@
    "background"
   ],
   "release_status": "released",
-  "degree": 2,
+  "degree": 3,
   "distance_from_char_exile_poe1": 4,
   "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
@@ -66438,7 +66426,7 @@
    "delve",
    "abyssal_depths"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.4.0 introduced (per wiki)",
@@ -66457,7 +66445,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -66549,6 +66537,7 @@
   "subtype": null,
   "summary": "Royal temple of Atziri and Vaal capital for much of its history; rebuilt by Xipocado and Doryani as a self-reconstructing marvel. PoE2 Fate of the Vaal league lets players modify its layout.",
   "games": [
+   "poe1",
    "poe2"
   ],
   "plot_role": "branch",
@@ -66584,6 +66573,9 @@
    "branch"
   ],
   "release_status": "released",
+  "curation": [
+   "games unified via same_entity_as (continuity)"
+  ],
   "degree": 6,
   "distance_from_char_exile_poe1": 2,
   "distance_from_char_exile_poe2": 2,
@@ -66930,7 +66922,7 @@
   "branches": [
    "synthesis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -66954,7 +66946,7 @@
    "poe1_atlas"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -67062,7 +67054,7 @@
   ],
   "eras": [
    "post_vaal_dark_age",
-   "poe1_leagues",
+   "league_storylines",
    "unknown"
   ],
   "plot_roles": [
@@ -67145,7 +67137,7 @@
    "breach",
    "keepers_of_the_flame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -67178,7 +67170,7 @@
    "poe2_endgame"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_endgame"
   ],
   "plot_roles": [
@@ -67215,7 +67207,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -67234,7 +67226,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -67440,7 +67432,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -67470,7 +67462,7 @@
    "poe2_acts_4_plus"
   ],
   "eras": [
-   "poe1_leagues",
+   "league_storylines",
    "poe2_campaign"
   ],
   "plot_roles": [
@@ -68042,7 +68034,7 @@
   "branches": [
    "prophecy"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "2.3.0 - 3.17.0 (per wiki)",
@@ -68061,7 +68053,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -68366,7 +68358,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -68385,7 +68377,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -68411,7 +68403,7 @@
   "branches": [
    "allflame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -68430,7 +68422,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -68691,7 +68683,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -68710,7 +68702,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -68787,7 +68779,7 @@
   "branches": [
    "heist"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -68810,7 +68802,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -69331,7 +69323,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "PoE1 3.25 (Settlers of Kalguur)",
@@ -69350,7 +69342,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -69469,7 +69461,7 @@
   "branches": [
    "delve"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.4.0 introduced (per wiki)",
@@ -69488,7 +69480,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -69516,7 +69508,7 @@
   "branches": [
    "metamorph"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -69539,7 +69531,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -69565,7 +69557,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -69584,7 +69576,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -69840,7 +69832,7 @@
    "abyss",
    "abyssal_depths"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -69859,7 +69851,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -70067,7 +70059,7 @@
   "branches": [
    "harbinger"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.0.0 (Aug 2017)",
@@ -70086,7 +70078,7 @@
    "gap_leagues_thin_storylines"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -70207,7 +70199,7 @@
   "branches": [
    "breach"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -70226,7 +70218,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -70806,8 +70798,8 @@
   "release_status": "released",
   "degree": 1,
   "distance_from_char_exile_poe1": 4,
-  "distance_from_char_exile_poe2": 5,
-  "exile_distance": 4,
+  "distance_from_char_exile_poe2": 3,
+  "exile_distance": 3,
   "is_spine": false
  },
  {
@@ -71004,7 +70996,7 @@
   "branches": [
    "abyss"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": "3.29.0 (per wiki)",
@@ -71023,7 +71015,7 @@
    "gap_breach_kingsmarch_delve_harbinger_jewels"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -71143,7 +71135,7 @@
   "branches": [
    "necropolis"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -71166,7 +71158,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -71192,7 +71184,7 @@
   "branches": [
    "scourge"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -71211,7 +71203,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -71638,7 +71630,7 @@
   "branches": [
    "harvest"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -71661,7 +71653,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -71778,7 +71770,7 @@
   "branches": [
    "delirium"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -71797,7 +71789,7 @@
    "leagues_mid"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -71874,7 +71866,7 @@
   "branches": [
    "incursion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -71897,7 +71889,7 @@
    "vaal"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -72179,7 +72171,7 @@
   "branches": [
    "incursion"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -72198,7 +72190,7 @@
    "vaal"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -73276,7 +73268,7 @@
   ],
   "eras": [
    "primordial",
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -73819,7 +73811,7 @@
   "branches": [
    "kingsmarch"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -73838,7 +73830,7 @@
    "leagues_late"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -73950,7 +73942,7 @@
   "branches": [
    "betrayal"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -73973,7 +73965,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"
@@ -74163,7 +74155,7 @@
   "release_status": "released",
   "degree": 2,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -74252,7 +74244,7 @@
   "release_status": "released",
   "degree": 7,
   "distance_from_char_exile_poe1": 3,
-  "distance_from_char_exile_poe2": 4,
+  "distance_from_char_exile_poe2": 3,
   "exile_distance": 3,
   "is_spine": false
  },
@@ -74705,7 +74697,7 @@
    "breach",
    "keepers_of_the_flame"
   ],
-  "era": "poe1_leagues",
+  "era": "league_storylines",
   "chronology": {
    "in_world_year": null,
    "relative": null,
@@ -74724,7 +74716,7 @@
    "leagues_early"
   ],
   "eras": [
-   "poe1_leagues"
+   "league_storylines"
   ],
   "plot_roles": [
    "branch"

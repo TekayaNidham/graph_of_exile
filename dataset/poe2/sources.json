@@ -81,6 +81,15 @@
   "reliability": "primary"
  },
  {
+  "id": "src_ggg_settlers_end",
+  "title": "What Will Happen When The Settlers League Ends (official forum)",
+  "url": "https://www.pathofexile.com/forum/view-thread/3787069",
+  "type": "forum_post",
+  "author_or_channel": "Path of Exile Community Team",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
   "id": "src_ingame_breaking_the_seal",
   "title": "In-game dialogue/text quoted on Breaking the Seal (poewiki)",
   "url": "https://www.poewiki.net/wiki/Breaking_the_Seal",
@@ -126,9 +135,27 @@
   "reliability": "primary"
  },
  {
+  "id": "src_ingame_king_kaom",
+  "title": "In-game dialogue/text quoted on King Kaom (poewiki)",
+  "url": "https://www.poewiki.net/wiki/King_Kaom",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games (as quoted by wiki)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
   "id": "src_ingame_kitava_the_insatiable",
   "title": "In-game dialogue/text quoted on Kitava the Insatiable (poewiki)",
   "url": "https://www.poewiki.net/wiki/Kitava,_the_Insatiable",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games (as quoted by wiki)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ingame_malachai_the_nightmare",
+  "title": "In-game dialogue/text quoted on Malachai The Nightmare (poewiki)",
+  "url": "https://www.poewiki.net/wiki/Malachai,_The_Nightmare",
   "type": "in_game_text",
   "author_or_channel": "Grinding Gear Games (as quoted by wiki)",
   "accessed": "2026-11-05",
@@ -156,6 +183,15 @@
   "id": "src_ingame_the_caged_brute",
   "title": "In-game dialogue/text quoted on The Caged Brute (poewiki)",
   "url": "https://www.poewiki.net/wiki/The_Caged_Brute",
+  "type": "in_game_text",
+  "author_or_channel": "Grinding Gear Games (as quoted by wiki)",
+  "accessed": "2026-11-05",
+  "reliability": "primary"
+ },
+ {
+  "id": "src_ingame_the_king_of_desire",
+  "title": "In-game dialogue/text quoted on The King of Desire (poewiki)",
+  "url": "https://www.poewiki.net/wiki/The_King_of_Desire",
   "type": "in_game_text",
   "author_or_channel": "Grinding Gear Games (as quoted by wiki)",
   "accessed": "2026-11-05",
@@ -1370,7 +1406,7 @@
  {
   "id": "src_poe2wiki_the_trail_of_corruption_act_2",
   "title": "The Trail of Corruption (Act 2) - PoE2 Wiki",
-  "url": "https://www.poe2wiki.net/wiki/The_Trail_of_Corruption_Act_2_",
+  "url": "https://www.poe2wiki.net/wiki/The_Trail_of_Corruption_(Act_2)",
   "type": "wiki",
   "author_or_channel": "poe2wiki.net",
   "accessed": "2026-11-05",
@@ -1550,7 +1586,7 @@
  {
   "id": "src_poe2wiki_vruun_marshal_of_xesht",
   "title": "Vruun Marshal of Xesht - PoE2 Wiki",
-  "url": "https://www.poe2wiki.net/wiki/Vruun_Marshal_of_Xesht",
+  "url": "https://www.poe2wiki.net/wiki/Vruun,_Marshal_of_Xesht",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -1802,7 +1838,7 @@
  {
   "id": "src_poewiki_aul_the_crystal_king",
   "title": "Aul the Crystal King - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Aul_the_Crystal_King",
+  "url": "https://www.poewiki.net/wiki/Aul,_the_Crystal_King",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -1872,6 +1908,15 @@
   "reliability": "secondary"
  },
  {
+  "id": "src_poewiki_cavas",
+  "title": "Cavas, Forgotten Spirit - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Cavas,_Forgotten_Spirit",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
   "id": "src_poewiki_chaos_lore",
   "title": "Chaos (lore) - PoE Wiki",
   "type": "wiki",
@@ -1883,7 +1928,7 @@
  {
   "id": "src_poewiki_chayula_who_dreamt",
   "title": "Chayula Who Dreamt - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Chayula_Who_Dreamt",
+  "url": "https://www.poewiki.net/wiki/Chayula,_Who_Dreamt",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -1920,6 +1965,24 @@
   "id": "src_poewiki_death_and_rebirth",
   "title": "Death and Rebirth - PoE Wiki",
   "url": "https://www.poewiki.net/wiki/Death_and_Rebirth",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_delirium_league",
+  "title": "Delirium league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Delirium_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_delve_league",
+  "title": "delve league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/delve_league",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -1973,7 +2036,7 @@
  {
   "id": "src_poewiki_esh_forked_thought",
   "title": "Esh Forked Thought - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Esh_Forked_Thought",
+  "url": "https://www.poewiki.net/wiki/Esh,_Forked_Thought",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -2163,6 +2226,15 @@
   "id": "src_poewiki_into_the_breach",
   "title": "Into the Breach - PoE Wiki",
   "url": "https://www.poewiki.net/wiki/Into_the_Breach",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_into_the_nexus",
+  "title": "Into The Nexus - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Into_The_Nexus",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -2367,6 +2439,15 @@
   "reliability": "secondary"
  },
  {
+  "id": "src_poewiki_lunar_eclipse",
+  "title": "Lunar Eclipse - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Lunar_Eclipse",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
   "id": "src_poewiki_lunaris_eternal_moon",
   "title": "Lunaris, Eternal Moon - PoE Wiki",
   "url": "https://www.poewiki.net/wiki/Lunaris,_Eternal_Moon",
@@ -2433,6 +2514,15 @@
   "id": "src_poewiki_ngamakanui",
   "title": "Ngamakanui - PoE Wiki",
   "url": "https://www.poewiki.net/wiki/Ngamakanui",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_niko_s_fuel",
+  "title": "Niko s Fuel - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Niko's_Fuel",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -2574,6 +2664,15 @@
   "reliability": "secondary"
  },
  {
+  "id": "src_poewiki_recurring_nightmare",
+  "title": "Recurring Nightmare - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Recurring_Nightmare",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
   "id": "src_poewiki_reflection_of_terror",
   "title": "Reflection of Terror - PoE Wiki",
   "url": "https://www.poewiki.net/wiki/Reflection_of_Terror",
@@ -2610,6 +2709,15 @@
   "reliability": "secondary"
  },
  {
+  "id": "src_poewiki_sanctum_league",
+  "title": "Sanctum league - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Sanctum_league",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
   "id": "src_poewiki_saresh_of_the_weeping_black",
   "title": "Saresh, of the Weeping Black - PoE Wiki",
   "url": "https://www.poewiki.net/wiki/Saresh,_of_the_Weeping_Black",
@@ -2637,6 +2745,15 @@
   "reliability": "secondary"
  },
  {
+  "id": "src_poewiki_shattered_past",
+  "title": "Shattered Past - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Shattered_Past",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
   "id": "src_poewiki_shavronne_of_umbra",
   "title": "Shavronne of Umbra - PoE Wiki",
   "url": "https://www.poewiki.net/wiki/Shavronne_of_Umbra",
@@ -2649,6 +2766,15 @@
   "id": "src_poewiki_sin",
   "title": "Sin - PoE Wiki",
   "url": "https://www.poewiki.net/wiki/Sin",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_sirus_journals",
+  "title": "Sirus' Journals - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Sirus'_Journals",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -2793,6 +2919,15 @@
   "id": "src_poewiki_the_dreamer_npc_",
   "title": "The Dreamer (NPC) - PoE Wiki",
   "url": "https://www.poewiki.net/wiki/The_Dreamer_(NPC)",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_elder_quest",
+  "title": "The Elder (quest) - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Elder_(quest)",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -3134,7 +3269,7 @@
  {
   "id": "src_poewiki_tul_creeping_avalanche",
   "title": "Tul Creeping Avalanche - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Tul_Creeping_Avalanche",
+  "url": "https://www.poewiki.net/wiki/Tul,_Creeping_Avalanche",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -3161,7 +3296,7 @@
  {
   "id": "src_poewiki_uul-netol_unburdened_flesh",
   "title": "Uul-Netol Unburdened Flesh - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Uul-Netol_Unburdened_Flesh",
+  "url": "https://www.poewiki.net/wiki/Uul-Netol,_Unburdened_Flesh",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -3242,7 +3377,7 @@
  {
   "id": "src_poewiki_xesht-ula_the_open_hand",
   "title": "Xesht-Ula the Open Hand - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Xesht-Ula_the_Open_Hand",
+  "url": "https://www.poewiki.net/wiki/Xesht-Ula,_the_Open_Hand",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -3260,7 +3395,7 @@
  {
   "id": "src_poewiki_xoph_dark_embers",
   "title": "Xoph Dark Embers - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Xoph_Dark_Embers",
+  "url": "https://www.poewiki.net/wiki/Xoph,_Dark_Embers",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -3270,6 +3405,15 @@
   "id": "src_poewiki_yugul_reflection_of_terror",
   "title": "Yugul, Reflection of Terror - PoE Wiki",
   "url": "https://www.poewiki.net/wiki/Yugul,_Reflection_of_Terror",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_zerphi",
+  "title": "Zerphi - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Zerphi",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",

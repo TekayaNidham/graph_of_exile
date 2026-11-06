@@ -1,19 +1,19 @@
 {
  "variants": {
   "master": {
-   "nodes": 1434,
-   "edges": 4028,
-   "sources": 662
+   "nodes": 1433,
+   "edges": 4268,
+   "sources": 665
   },
   "poe1": {
-   "nodes": 1053,
-   "edges": 2833,
-   "sources": 548
+   "nodes": 1066,
+   "edges": 3081,
+   "sources": 555
   },
   "poe2": {
-   "nodes": 816,
-   "edges": 1967,
-   "sources": 388
+   "nodes": 841,
+   "edges": 2219,
+   "sources": 404
   }
  },
  "eras": [
@@ -27,7 +27,7 @@
   "post_cataclysm",
   "poe1_campaign",
   "poe1_atlas",
-  "poe1_leagues",
+  "league_storylines",
   "interlude_between_games",
   "poe2_campaign",
   "poe2_endgame",

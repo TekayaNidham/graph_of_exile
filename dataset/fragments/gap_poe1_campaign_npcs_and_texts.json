@@ -446,7 +446,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "PoE1 epilogue (Harvest league)",
@@ -684,7 +684,7 @@
       "branches": [
         "betrayal"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "PoE1 Act 1 (Betrayal league)",
@@ -715,7 +715,7 @@
       "branches": [
         "ancestor"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "PoE1 Act 1 (Ancestor league)",
@@ -746,7 +746,7 @@
       "branches": [
         "ultimatum"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "PoE1 Ultimatum league (maps)",
@@ -775,7 +775,7 @@
       "branches": [
         "necropolis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "PoE1 Necropolis league",
@@ -806,7 +806,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "PoE1 epilogue (Metamorph league)",
@@ -924,7 +924,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "PoE1 Act 3 (Blight league)",
@@ -955,7 +955,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "PoE1 Act 1 (Synthesis league)",
@@ -1403,7 +1403,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -1427,7 +1427,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -1455,7 +1455,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2139,7 +2139,7 @@
       "branches": [
         "betrayal"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2163,7 +2163,7 @@
       "branches": [
         "betrayal"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2187,7 +2187,7 @@
       "branches": [
         "ancestor"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2211,7 +2211,7 @@
       "branches": [
         "ultimatum"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2235,7 +2235,7 @@
       "branches": [
         "necropolis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2259,7 +2259,7 @@
       "branches": [
         "necropolis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2283,7 +2283,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2307,7 +2307,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2331,7 +2331,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2355,7 +2355,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2511,7 +2511,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2535,7 +2535,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2563,7 +2563,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2587,7 +2587,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -2611,7 +2611,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -3339,7 +3339,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -3363,7 +3363,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -3387,7 +3387,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -3411,7 +3411,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -3435,7 +3435,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",

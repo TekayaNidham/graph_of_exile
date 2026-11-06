@@ -1,0 +1,1762 @@
+{
+  "domain": "members_g4",
+  "sources": [
+    {
+      "id": "src_poe2wiki_earning_passage",
+      "title": "Earning Passage - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Earning_Passage",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_faridun",
+      "title": "Faridun - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Faridun",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_recruit_the_maraketh",
+      "title": "Recruit the Maraketh - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Recruit_the_Maraketh",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_trail_of_corruption_act_2",
+      "title": "The Trail of Corruption (Act 2) - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Trail_of_Corruption_Act_2_",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_unblinking_eye",
+      "title": "The Unblinking Eye - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Unblinking_Eye",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_eternal_empire",
+      "title": "Eternal Empire - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Eternal_Empire",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_high_templar_avarius",
+      "title": "High Templar Avarius - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/High_Templar_Avarius",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_hinekora",
+      "title": "Hinekora - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Hinekora",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_kalguur",
+      "title": "Kalguur - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Kalguur",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_karui",
+      "title": "Karui - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Karui",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_necropolis_league",
+      "title": "Necropolis league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Necropolis_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_order_of_the_templar",
+      "title": "Order of the Templar - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Order_of_the_Templar",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_perandus_family",
+      "title": "Perandus family - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Perandus_family",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_azmeri",
+      "title": "The Azmeri - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Azmeri",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_elderslayers",
+      "title": "The Elderslayers (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Elderslayers",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_lightless",
+      "title": "The Lightless - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Lightless",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_watchers_of_decay",
+      "title": "The Watchers of Decay - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Watchers_of_Decay",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_trarthus",
+      "title": "Trarthus - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Trarthus",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_oshabi",
+      "title": "Oshabi - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Oshabi",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_history_of_wraeclast",
+      "title": "History of Wraeclast - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/History_of_Wraeclast",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_dominus",
+      "title": "Dominus - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Dominus",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_ancestor_league",
+      "title": "Ancestor league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Ancestor_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    }
+  ],
+  "nodes": [],
+  "edges": [
+    {
+      "id": "e_char_malachai__member_of__faction_eternal_empire",
+      "source": "char_malachai",
+      "target": "faction_eternal_empire",
+      "relation": "member_of",
+      "description": "Malachai, Laureate Thaumaturge, served the imperial court and built the gemling legions for the Empire.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Members' / Thaumaturgists: 'Malachai, Laureate Thaumaturge'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_lazhwar__member_of__faction_eternal_empire",
+      "source": "char_lazhwar",
+      "target": "faction_eternal_empire",
+      "relation": "member_of",
+      "description": "Lazhwar, an archbishop of the Eternal Faith who experimented with thaumaturgy, is listed among the Empire's thaumaturgists as Malachai's precursor.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Members' / Thaumaturgists: 'Lazhwar, thaumaturge precursor to Malachai'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_doedre__member_of__faction_eternal_empire",
+      "source": "char_doedre",
+      "target": "faction_eternal_empire",
+      "relation": "member_of",
+      "description": "Doedre was one of the Godless Three thaumaturgists serving the Eternal Empire under Malachai.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Members' / Thaumaturgists: 'Doedre, of the Godless Three'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_maligaro__member_of__faction_eternal_empire",
+      "source": "char_maligaro",
+      "target": "faction_eternal_empire",
+      "relation": "member_of",
+      "description": "Maligaro, the Inquisitor flesh artist, was one of the Godless Three in the Empire's thaumaturgist circle.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Members' / Thaumaturgists: 'Maligaro, of the Godless Three'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_shavronne__member_of__faction_eternal_empire",
+      "source": "char_shavronne",
+      "target": "faction_eternal_empire",
+      "relation": "member_of",
+      "description": "Shavronne was one of the Godless Three thaumaturgists who studied under Malachai.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Members' / Thaumaturgists: 'Shavronne, of the Godless Three'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_ondar__member_of__faction_eternal_empire",
+      "source": "char_ondar",
+      "target": "faction_eternal_empire",
+      "relation": "member_of",
+      "description": "Lord Mayor Ondar, a Sarn official, was an Eternal Empire member who betrayed and killed Emperor Chitus during the Night of a Thousand Ribbons celebration in the Purity Rebellion.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Members' / Purity Rebellion rebels: 'Lord Mayor Ondar, betrayer of Chitus'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_victario__member_of__faction_eternal_empire",
+      "source": "char_victario",
+      "target": "faction_eternal_empire",
+      "relation": "member_of",
+      "description": "Victario, the Sarn poet, was an Eternal citizen who backed Voll's Purity Rebellion and led the rebel assault on the Grain Gate against Chitus.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Members' / Purity Rebellion rebels: 'Victario, the People's Poet'; section 'Battle at the Grain Gate' (Victario's forces)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_gaius_sentari__member_of__faction_eternal_empire",
+      "source": "char_gaius_sentari",
+      "target": "faction_eternal_empire",
+      "relation": "member_of",
+      "description": "Gaius Sentari served the Empire as its Supreme Servant and ran the civilization camps near Highgate.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Members' / Chitus Perandus' court: 'Gaius Sentari, Supreme Servant to the Empire'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_adus__member_of__faction_eternal_empire",
+      "source": "char_adus",
+      "target": "faction_eternal_empire",
+      "relation": "member_of",
+      "description": "General Adus, commander of Highgate, was an Eternal officer who later joined Voll's rebellion.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Members' / Purity Rebellion rebels: 'Adus, Commander of Highgate'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tarcus_veruso__rules__faction_eternal_empire",
+      "source": "char_tarcus_veruso",
+      "target": "faction_eternal_empire",
+      "relation": "rules",
+      "description": "Tarcus Veruso, Prima Imperialus, ruled the Empire he founded as its first Emperor.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Members' / Emperors: 'Tarcus Veruso, founder of the Eternal Empire'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_alano_phrecia__rules__faction_eternal_empire",
+      "source": "char_alano_phrecia",
+      "target": "faction_eternal_empire",
+      "relation": "rules",
+      "description": "Alano Phrecia was crowned Emperor after defeating the dark being and founded the Phrecian line of emperors.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Reign of Alano Phrecia'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_izaro__rules__faction_eternal_empire",
+      "source": "char_izaro",
+      "target": "faction_eternal_empire",
+      "relation": "rules",
+      "description": "Izaro was the last Phrecian emperor and ruled the Empire until the Labyrinth succession.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "labyrinth"
+      ],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Reign of Izaro' / Emperors: 'Izaro, creator of The Lord's Labyrinth'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_romira__rules__faction_eternal_empire",
+      "source": "char_romira",
+      "target": "faction_eternal_empire",
+      "relation": "rules",
+      "description": "Romira was an Emperor whose atrocities led to his deposition in the Night of a Thousand Ribbons.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Reign of Romira Phrecian' / Emperors: 'Romira, deposed by the Night of a Thousand Ribbons'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tyndarus_phrecius__rules__faction_eternal_empire",
+      "source": "char_tyndarus_phrecius",
+      "target": "faction_eternal_empire",
+      "relation": "rules",
+      "description": "Tyndarus Phrecius reigned as Emperor during the Trarthan war of independence.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "mercenaries"
+      ],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Members' / Emperors: 'Tyndarus, who reigned during Trarthus' war of independence'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_perandus_family__part_of__faction_eternal_empire",
+      "source": "faction_perandus_family",
+      "target": "faction_eternal_empire",
+      "relation": "part_of",
+      "description": "The Perandus family was the wealthiest merchant family inside the Eternal Empire.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "perandus"
+      ],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Members' / 'Perandus family' (listed among the Empire's families)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_eternal_empire__participates_in__event_imperialis_conceptus",
+      "source": "faction_eternal_empire",
+      "target": "event_imperialis_conceptus",
+      "relation": "participates_in",
+      "description": "The Empire was founded in 1 IC when Tarcus Veruso led the Azmeri into the lands left by the Vaal.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Imperialis Conceptus (1 IC)'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_eternal_empire__participates_in__event_night_of_a_thousand_ribbons",
+      "source": "faction_eternal_empire",
+      "target": "event_night_of_a_thousand_ribbons",
+      "relation": "participates_in",
+      "description": "Sarn was burned in protest against Romira, and the Night was later celebrated as a festival.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Reign of Romira Phrecian' / 'Night of a Thousand Ribbons'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_eternal_empire__participates_in__event_alano_victory",
+      "source": "faction_eternal_empire",
+      "target": "event_alano_victory",
+      "relation": "participates_in",
+      "description": "The Empire's legions drove the dark being into its lair and sealed it away under Alano Phrecia.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Reign of Alano Phrecia'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_eternal_empire__participates_in__event_phrecian_perpetual_night",
+      "source": "faction_eternal_empire",
+      "target": "event_phrecian_perpetual_night",
+      "relation": "participates_in",
+      "description": "A portion of the Empire was cast into perpetual night during the reign of Caspiro.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Reign of Caspiro'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_eternal_empire__participates_in__event_lords_labyrinth_opened",
+      "source": "faction_eternal_empire",
+      "target": "event_lords_labyrinth_opened",
+      "relation": "participates_in",
+      "description": "The Empire's succession was decided by Izaro's Lord's Labyrinth, which Chitus won by rigging.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_perandus_family",
+          "locator": "section 'Chitus Perandus'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_eternal_empire__participates_in__event_chitus_crowned",
+      "source": "faction_eternal_empire",
+      "target": "event_chitus_crowned",
+      "relation": "participates_in",
+      "description": "Chitus was crowned Emperor of the Eternal Empire after winning the Labyrinth.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_perandus_family",
+          "locator": "section 'Chitus Perandus'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_eternal_empire__participates_in__event_assassination_of_chitus",
+      "source": "faction_eternal_empire",
+      "target": "event_assassination_of_chitus",
+      "relation": "participates_in",
+      "description": "Emperor Chitus was assassinated by Ondar during the Purity Rebellion.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_perandus_family",
+          "locator": "section 'Chitus Perandus'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_eternal_empire__participates_in__event_purity_rebellion",
+      "source": "faction_eternal_empire",
+      "target": "event_purity_rebellion",
+      "relation": "participates_in",
+      "description": "The Empire was split by the Purity Rebellion led by High Templar Voll, with Victario's support, against Emperor Chitus.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Reign of Chitus' / Purity Rebellion rebels"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_eternal_empire__participates_in__event_battle_of_grain_gate",
+      "source": "faction_eternal_empire",
+      "target": "event_battle_of_grain_gate",
+      "relation": "participates_in",
+      "description": "The Empire's gemling legions under Chitus repulsed the rebel assault at the Grain Gate.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Purity Rebellion' / Battle at the Grain Gate"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_eternal_empire__participates_in__event_siege_of_sarn",
+      "source": "faction_eternal_empire",
+      "target": "event_siege_of_sarn",
+      "relation": "participates_in",
+      "description": "Sarn, the Empire's capital, was besieged by Voll's rebel forces in 1334 IC.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Purity Rebellion' / Siege of Sarn"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_eternal_empire__participates_in__event_voll_crowned",
+      "source": "faction_eternal_empire",
+      "target": "event_voll_crowned",
+      "relation": "participates_in",
+      "description": "Voll of Thebrus was crowned Emperor after the Purity Rebellion overthrew Chitus.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Purity Rebellion' / Emperors: Voll"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_eternal_empire__participates_in__event_trarthan_rebellion",
+      "source": "faction_eternal_empire",
+      "target": "event_trarthan_rebellion",
+      "relation": "participates_in",
+      "description": "Phrecian legions of the Empire occupied Trarthus in 870 IC and executed its warlords.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "mercenaries"
+      ],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_trarthus",
+          "locator": "section 'History' / 870 IC occupation of Trarthus"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_eternal_empire__participates_in__event_trarthan_war_of_independence",
+      "source": "faction_eternal_empire",
+      "target": "event_trarthan_war_of_independence",
+      "relation": "participates_in",
+      "description": "Emperor Tyndarus Phrecius fought the Trarthan war of independence, which the Empire lost.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_trarthus",
+          "locator": "section 'History' / war escalated against Tyndarus"
+        }
+      ]
+    },
+    {
+      "id": "e_char_yeena__member_of__faction_azmeri",
+      "source": "char_yeena",
+      "target": "faction_azmeri",
+      "relation": "member_of",
+      "description": "Yeena is listed among the notable Azmeri humans.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_azmeri",
+          "locator": "section 'Notable members' / Humans: 'Yeena'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_silk__member_of__faction_azmeri",
+      "source": "char_silk",
+      "target": "faction_azmeri",
+      "relation": "member_of",
+      "description": "Silk is listed among the notable Azmeri humans.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_azmeri",
+          "locator": "section 'Notable members' / Humans: 'Silk'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_azmeri__participates_in__event_imperialis_conceptus",
+      "source": "faction_azmeri",
+      "target": "event_imperialis_conceptus",
+      "relation": "participates_in",
+      "description": "Eighty thousand Azmeri under Tarcus Veruso descended into the former Vaal lands and founded the Empire.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_azmeri",
+          "locator": "section 'Founding the Eternal Empire' / 'Imperialis Conceptus (1 IC)'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_azmeri__participates_in__event_oshabi_exiled_by_azmeri",
+      "source": "faction_azmeri",
+      "target": "event_oshabi_exiled_by_azmeri",
+      "relation": "participates_in",
+      "description": "The Azmeri turned their backs on Oshabi when the land's whispers fell silent, leaving her alone.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "harvest"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_oshabi",
+          "locator": "Oshabi page, 'Lifeforce'/'The Grove' quotes: 'my brothers and sisters turned their backs on me'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_faridun__participates_in__event_dreadnought_jamanra_abomination",
+      "source": "faction_faridun",
+      "target": "event_dreadnought_jamanra_abomination",
+      "relation": "participates_in",
+      "description": "The Faridun war caravan, the Dreadnought, carried the resurrected Jamanra and the Beast, and the Exile fought Jamanra aboard it.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_faridun",
+          "locator": "'Events in Path of Exile 2' (Jamanra resurrected; the Beast carried on the Dreadnought)"
+        },
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "Consult with Asala: 'The Faridun have assembled a tremendous Dreadnought'; Act 2 map lists The Dreadnought boss Jamanra, the Abomination"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_faridun__participates_in__event_halani_gates_first_battle",
+      "source": "faction_faridun",
+      "target": "event_halani_gates_first_battle",
+      "relation": "participates_in",
+      "description": "The Faridun under Jamanra locked the Halani Gates; the Exile and Sekhema Asala opened them and confronted Jamanra there.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_faridun",
+          "locator": "'Events in Path of Exile 2' (Jamanra has locked the Halani Gates; the player and Asala open them)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_faridun__participates_in__event_poe2_interlude_recruit_maraketh",
+      "source": "faction_faridun",
+      "target": "event_poe2_interlude_recruit_maraketh",
+      "relation": "participates_in",
+      "description": "A rogue Faridun sect led by Prince Azmadi was defeated by the Exile during the Recruit the Maraketh (Stolen Barya) quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_recruit_the_maraketh",
+          "locator": "Quest completion: 'Defeat Azmadi, the Faridun Prince'; Jado: 'A rogue sect of Faridun ... Prince Azmadi'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_lightless__participates_in__event_winter_of_the_world",
+      "source": "faction_lightless",
+      "target": "event_winter_of_the_world",
+      "relation": "participates_in",
+      "description": "The Lightless broke through to the surface through the Vastiri Plains during the Winter of the World.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "abyss"
+      ],
+      "era": "primordial",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_lightless",
+          "locator": "section 'Winter of the World'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_lightless__participates_in__event_lightless_invasion",
+      "source": "faction_lightless",
+      "target": "event_lightless_invasion",
+      "relation": "participates_in",
+      "description": "The Lightless invaded the surface and attacked the Maraketh.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_lightless",
+          "locator": "section 'Winter of the World'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_lightless__participates_in__event_fall_of_primeval_civilization",
+      "source": "faction_lightless",
+      "target": "event_fall_of_primeval_civilization",
+      "relation": "participates_in",
+      "description": "Kulemak's army of possessed golems toppled the primeval civilisation.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_lightless",
+          "locator": "section 'Kulemak' (possessed stone golems)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_lightless__participates_in__event_aul_kulemak_bargain",
+      "source": "faction_lightless",
+      "target": "event_aul_kulemak_bargain",
+      "relation": "participates_in",
+      "description": "Kulemak struck a deal with Ahn for a stone golem, which he bound with souls to become the vessel of his possessed army; Aul later sealed the golems in crystal.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_lightless",
+          "locator": "section 'Kulemak' (deal with Ahn for a stone golem; Aul's crystal seal)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_lightless__participates_in__event_return_of_the_sun",
+      "source": "faction_lightless",
+      "target": "event_return_of_the_sun",
+      "relation": "participates_in",
+      "description": "The Winter of the World ended when the Lightless war was ended by the Three Sisters.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_lightless",
+          "locator": "section 'Winter of the World' (ended by the Three Sisters)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_elderslayers__participates_in__event_atlas_elderslayers",
+      "source": "faction_elderslayers",
+      "target": "event_atlas_elderslayers",
+      "relation": "participates_in",
+      "description": "Zana recruited a team of exiles, later known as the Elderslayers, to track down the Elder across the Atlas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [
+        "conquerors"
+      ],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'The Elderslayers' / 'Defeat of the Elder' (Zana assembled the group; 'later known as the Elderslayers')"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_elderslayers__participates_in__event_atlas_conquerors",
+      "source": "faction_elderslayers",
+      "target": "event_atlas_conquerors",
+      "relation": "participates_in",
+      "description": "After the group split up, the former Elderslayers went mad within the Atlas, which is the Conquerors of the Atlas storyline.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [
+        "conquerors"
+      ],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'Conquerors of the Atlas' (former Elderslayers split and went mad within the Atlas)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_elderslayers__participates_in__event_atlas_sirus_awakens",
+      "source": "faction_elderslayers",
+      "target": "event_atlas_sirus_awakens",
+      "relation": "participates_in",
+      "description": "Sirus, the group's leader, returned with a great storm and entered Oriath through his own map device.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [
+        "conquerors"
+      ],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'Sirus' ('Sirus returned with a great storm'; Sirus 'the leader of the group')"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_elderslayers__participates_in__event_oriath_destroyed_by_sirus",
+      "source": "faction_elderslayers",
+      "target": "event_oriath_destroyed_by_sirus",
+      "relation": "participates_in",
+      "description": "Sirus, the former Elderslayers' leader, entered Oriath and the city was burned to the ground in the fight that followed.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [
+        "conquerors"
+      ],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'Sirus' ('Oriath was burned to the ground')"
+        }
+      ]
+    },
+    {
+      "id": "e_char_julius_perandus__member_of__faction_perandus_family",
+      "source": "char_julius_perandus",
+      "target": "faction_perandus_family",
+      "relation": "member_of",
+      "description": "Julius Perandus was the father of Emperor Chitus within the Perandus family.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_perandus_family",
+          "locator": "section 'Members' / 'Julius Perandus'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_perandus_family__participates_in__event_lords_labyrinth_opened",
+      "source": "faction_perandus_family",
+      "target": "event_lords_labyrinth_opened",
+      "relation": "participates_in",
+      "description": "Cadiro used Perandus wealth to rig Izaro's Labyrinth in Chitus' favour.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_perandus_family",
+          "locator": "section 'Chitus Perandus'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_perandus_family__participates_in__event_chitus_crowned",
+      "source": "faction_perandus_family",
+      "target": "event_chitus_crowned",
+      "relation": "participates_in",
+      "description": "Chitus Perandus ascended to the throne through the Perandus family's manoeuvring.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_perandus_family",
+          "locator": "section 'Chitus Perandus'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_perandus_family__participates_in__event_assassination_of_chitus",
+      "source": "faction_perandus_family",
+      "target": "event_assassination_of_chitus",
+      "relation": "participates_in",
+      "description": "Chitus Perandus was assassinated during the Purity Rebellion.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_perandus_family",
+          "locator": "section 'Chitus Perandus'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_necropolis_house_perandus__part_of__faction_perandus_family",
+      "source": "faction_necropolis_house_perandus",
+      "target": "faction_perandus_family",
+      "relation": "part_of",
+      "description": "The Necropolis-dead House Perandus are Perandus family debtors who were bound in servitude to Cadiro after death.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "necropolis"
+      ],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_perandus_family",
+          "locator": "Drusia, Kostian, Lucilius, Quintio (Necropolis league corpses); debtors 'trapped ... in eternal servitude to Cadiro after their deaths'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_necropolis_house_phrecia__part_of__faction_eternal_empire",
+      "source": "faction_necropolis_house_phrecia",
+      "target": "faction_eternal_empire",
+      "relation": "part_of",
+      "description": "The Phrecian line of emperors, from Alano Phrecia to Izaro, ruled the Eternal Empire; the Necropolis House Phrecia takes its name from it.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "necropolis"
+      ],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Reign of Alano Phrecia' ('unbroken line of Phrecia emperors')"
+        }
+      ]
+    },
+    {
+      "id": "e_char_ixan_keita__founded__loc_korathin",
+      "source": "char_ixan_keita",
+      "target": "loc_korathin",
+      "relation": "founded",
+      "description": "Ixan Keita declared Korathin the Trarthan capital in 872 IC, and its construction began with slave labour.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "mercenaries"
+      ],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_trarthus",
+          "locator": "section 'History' / Korathin declared by Ixan Keita (872 IC)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_house_keita__participates_in__event_trarthan_war_of_independence",
+      "source": "faction_house_keita",
+      "target": "event_trarthan_war_of_independence",
+      "relation": "participates_in",
+      "description": "Ixan Keita, founder of House Keita, was one of the Great Founders who led the Trarthan war of independence against the Empire.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_trarthus",
+          "locator": "section 'History' (war led by the four Great Founders; Tyndarus capitulated after two years)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_druids_of_the_broken_circle__participates_in__event_medveds_challenge",
+      "source": "faction_druids_of_the_broken_circle",
+      "target": "event_medveds_challenge",
+      "relation": "participates_in",
+      "description": "Medved, leader of the Druids of the Broken Circle, went alone to challenge the horror leader and did not return.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "Kalguur expedition section: 'Medved travelled into the night to challenge the new leader, and did not return'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui_tribe_hinekora__participates_in__event_trial_of_the_ancestors",
+      "source": "faction_karui_tribe_hinekora",
+      "target": "event_trial_of_the_ancestors",
+      "relation": "participates_in",
+      "description": "The Hinekora tribe fields a team in the Trial of the Ancestors.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_ancestor_league",
+          "locator": "Ancestor league challenges: 'Defeat any seven of the following Karui Tribes ... Hinekora' in the Trial of the Ancestors"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui_tribe_rongokurai__participates_in__event_trial_of_the_ancestors",
+      "source": "faction_karui_tribe_rongokurai",
+      "target": "event_trial_of_the_ancestors",
+      "relation": "participates_in",
+      "description": "The Rongokurai tribe fields a team in the Trial of the Ancestors.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_ancestor_league",
+          "locator": "Ancestor league challenges: 'Defeat any seven of the following Karui Tribes ... Rongokurai' in the Trial of the Ancestors"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui_tribe_valako__participates_in__event_trial_of_the_ancestors",
+      "source": "faction_karui_tribe_valako",
+      "target": "event_trial_of_the_ancestors",
+      "relation": "participates_in",
+      "description": "The Valako tribe fields a team in the Trial of the Ancestors.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_ancestor_league",
+          "locator": "Ancestor league challenges: 'Defeat any seven of the following Karui Tribes ... Valako' in the Trial of the Ancestors"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui_tribe_hinekora__participates_in__event_poe2_trial_of_the_ancestors",
+      "source": "faction_karui_tribe_hinekora",
+      "target": "event_poe2_trial_of_the_ancestors",
+      "relation": "participates_in",
+      "description": "The Halls of the Dead, where the Hinekora tribe's dead compete, host the Trial of the Ancestors, and the Exile can win a tournament there and meet Hinekora.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_hinekora",
+          "locator": "section 'Winning a Tournament in The Halls of the Dead'; lead: Hinekora oversees the Trial of the Ancestors"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_ardura_akhara__participates_in__event_earning_passage",
+      "source": "faction_ardura_akhara",
+      "target": "event_earning_passage",
+      "relation": "participates_in",
+      "description": "The Ardura akhara caravan takes the Exile on as a passenger once the Exile defeats the Sun Clan hyenas.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_earning_passage",
+          "locator": "lead: Earn passage on the Ardura caravan"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_ardura_akhara__participates_in__event_halani_gates_first_battle",
+      "source": "faction_ardura_akhara",
+      "target": "event_halani_gates_first_battle",
+      "relation": "participates_in",
+      "description": "Sekhema Asala of the Ardura akhara opened the Halani Gates alongside the Exile.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_faridun",
+          "locator": "'Events in Path of Exile 2' (the player and Sekhema Asala open the Halani Gates)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_ardura_akhara__participates_in__event_poe2_interlude_recruit_maraketh",
+      "source": "faction_ardura_akhara",
+      "target": "event_poe2_interlude_recruit_maraketh",
+      "relation": "participates_in",
+      "description": "Asala of the Ardura akhara completes the Maraketh recruitment with the Exile.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_recruit_the_maraketh",
+          "locator": "lead: Recruit the Maraketh (The Stolen Barya)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_ardura_akhara__participates_in__event_poe2_trail_of_corruption_act2",
+      "source": "faction_ardura_akhara",
+      "target": "event_poe2_trail_of_corruption_act2",
+      "relation": "participates_in",
+      "description": "Sekhema Asala of the Ardura akhara pursues the Beast with the Hooded One in the Act 2 quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "'Consult with Asala': 'we shall resume the hunt' for the Beast with the Hooded One"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_black_scythes__part_of__faction_kalguuran",
+      "source": "faction_black_scythes",
+      "target": "faction_kalguuran",
+      "relation": "part_of",
+      "description": "The Black Scythes were the Kalguuran mercenary arbalists attached to the expedition.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "section 'Society' ('The Black Scythe were mercenaries led by Vorana ... in the expedition group')"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_black_scythes__participates_in__event_first_kalguuran_expedition",
+      "source": "faction_black_scythes",
+      "target": "event_first_kalguuran_expedition",
+      "relation": "participates_in",
+      "description": "The Black Scythes defended the Kalguuran expedition group on its voyage to Wraeclast.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition",
+        "kingsmarch"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "section 'Society' ('responsible for defense and offense in the expedition group')"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_black_scythes__participates_in__event_triskelion_flame_lost",
+      "source": "faction_black_scythes",
+      "target": "event_triskelion_flame_lost",
+      "relation": "participates_in",
+      "description": "Vorana, leader of the Black Scythes, tried to draw back the starlight barrier; instead it vanished and the Triskelion Flame was found gone from its altar.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "Kalguur expedition section: Vorana's plan to draw back the starlight barrier; 'the starlight barrier entirely vanished ... altar empty'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_black_scythes__participates_in__event_medveds_challenge",
+      "source": "faction_black_scythes",
+      "target": "event_medveds_challenge",
+      "relation": "participates_in",
+      "description": "Vorana, leader of the Black Scythes, gave Medved two gem-socketed axes before his challenge.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "inferred",
+      "confidence": "low",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "Kalguur expedition section: Vorana 'offered a gift of two axes with gems affixed'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_ebony_legion__part_of__faction_templar",
+      "source": "faction_ebony_legion",
+      "target": "faction_templar",
+      "relation": "part_of",
+      "description": "Ebony Legion and Blackguards are the Templar soldiers of Dominus.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_order_of_the_templar",
+          "locator": "section 'Current Templars and subordinates' ('The Blackguards and the Ebony Legion'; Blackguards are Templar soldiers under Dominus)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_ebony_legion__participates_in__event_a3_sceptre_of_god",
+      "source": "faction_ebony_legion",
+      "target": "event_a3_sceptre_of_god",
+      "relation": "participates_in",
+      "description": "The Ebony Legion, which High Templar Dominus commands, was part of his forces in the Sceptre of God, where the Exile kills him.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_dominus",
+          "locator": "lead: Dominus 'also controls the Ebony Legion'; final boss of the Upper Sceptre of God"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_the_unblinking_eye__associated_with__faction_templar",
+      "source": "faction_the_unblinking_eye",
+      "target": "faction_templar",
+      "relation": "associated_with",
+      "description": "The Unblinking Eye is a mysterious group associated with the Templars.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "post_cataclysm",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_unblinking_eye",
+          "locator": "lead: 'a mysterious group associated with the Templars'"
+        }
+      ]
+    }
+  ]
+}

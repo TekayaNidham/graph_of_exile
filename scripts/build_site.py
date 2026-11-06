@@ -10,6 +10,7 @@ import networkx as nx
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "scripts"))
 from validate_fragment import ERAS  # noqa: E402
+ERAS_LABEL = {"primordial": "Primordial age", "precursor": "Precursors", "azmeri_ezomyte_ancient": "Azmeri & Ezomyte antiquity", "vaal": "Vaal civilisation", "post_vaal_dark_age": "Dark age after the Vaal", "eternal_empire_rise": "Rise of the Eternal Empire", "eternal_empire_fall": "Fall of the Empire", "post_cataclysm": "Theocracy of Oriath", "poe1_campaign": "PoE1 campaign", "poe1_atlas": "PoE1 Atlas", "league_storylines": "League storylines (PoE1 → PoE2)", "interlude_between_games": "Between the games", "poe2_campaign": "PoE2 campaign", "poe2_endgame": "PoE2 endgame", "unknown": "Unplaced"}
 
 OUT = os.path.join(ROOT, "explorer", "data")
 os.makedirs(OUT, exist_ok=True)
@@ -28,49 +29,52 @@ def layout(nodes, edges):
     pos = nx.spring_layout(G, k=1.6 / math.sqrt(max(len(nodes), 1)), iterations=300, seed=42)
     S = 9 * math.sqrt(len(nodes)) * 10
     web = {i: (round(x * S, 1), round(y * S, 1)) for i, (x, y) in pos.items()}
-    # timeline: each era is a compact force-laid cluster, placed left->right in chronological order;
-    # the Exile's story beats run along a "journey line" above their era's cluster
-    tl = {}
-    spine_ids = {n["id"] for n in nodes if (n.get("chronology") or {}).get("story_order") is not None}
-    by_era = {}
+    # timeline: a real time axis. Columns = eras (left -> right, chronological), rows = swimlanes by kind.
+    # Inside each era x lane cell, entries are ordered by in-world year / story order, then importance.
+    LANES = [("Gods & powers", {"deity"}), ("Factions & peoples", {"faction", "creature"}), ("Characters", {"character"}),
+             ("Places", {"location"}), ("Events & story beats", {"event"}), ("Lore objects & texts", {"artifact", "concept", "text"}),
+             ("Leagues, acts & eras", {"league", "act", "era"})]
+    lane_of = {t: k for k, (_, ts) in enumerate(LANES) for t in ts}
+    SP = 62  # node spacing inside a cell
+    tl, bands = {}, []
+    cells = {}
     for n in nodes:
-        by_era.setdefault(n.get("era", "unknown"), []).append(n)
-    # build one block per era (local coords, origin = block top-left), then flow blocks into rows like text
-    BEAT_W, BEAT_H = 110, 120
-    blocks = []
-    for era in ERAS:
-        ns = by_era.get(era)
-        if not ns:
-            continue
-        rest = [n["id"] for n in ns if n["id"] not in spine_ids]
-        R = 160 + 70 * math.sqrt(len(rest) or 1)
-        beats = sorted([n for n in ns if n["id"] in spine_ids], key=lambda n: n["chronology"]["story_order"])
-        width = 2 * R
-        per_line = max(1, int(width // BEAT_W))
-        lines = math.ceil(len(beats) / per_line) if beats else 0
-        top = lines * BEAT_H + (60 if beats else 0)
-        local = {}
-        for k, n in enumerate(beats):  # journey lines, left->right, top->down
-            r, c = divmod(k, per_line)
-            local[n["id"]] = (BEAT_W / 2 + c * BEAT_W, BEAT_H / 2 + r * BEAT_H)
-        if rest:
-            sub = nx.spring_layout(G.subgraph(rest), seed=42, iterations=120) if len(rest) > 1 else {rest[0]: (0.0, 0.0)}
-            for i, (x, y) in sub.items():
-                local[i] = (R + x * R * 0.95, top + R + y * R * 0.95)
-        blocks.append((width, top + 2 * R, local, era))
-    area = sum(b[0] * b[1] for b in blocks)
-    row_w = max(max(b[0] for b in blocks), math.sqrt(area * 16 / 9) * 1.15)
-    bands = []
-    x0 = y0 = row_h = 0.0
-    GAP = 380
-    for w, h, local, era in blocks:
-        if x0 > 0 and x0 + w > row_w:
-            x0, y0, row_h = 0.0, y0 + row_h + GAP + 300, 0.0
-        for i, (x, y) in local.items():
-            tl[i] = (round(x0 + x, 1), round(y0 + y, 1))
-        bands.append({"era": era, "x": round(x0 + w / 2, 1), "y": round(y0 - 130, 1)})
-        x0 += w + GAP
-        row_h = max(row_h, h)
+        cells.setdefault((n.get("era", "unknown"), lane_of.get(n["type"], len(LANES) - 1)), []).append(n)
+    pr0 = nx.pagerank(G, alpha=0.85)
+    def key(n):
+        ch = n.get("chronology") or {}
+        y = ch.get("in_world_year"); so = ch.get("story_order")
+        return (0 if so is not None else 1, so if so is not None else 0, y if isinstance(y, (int, float)) else 1e9, -pr0.get(n["id"], 0))
+    eras_present = [e for e in ERAS if any((e, k) in cells for k in range(len(LANES)))]
+    # each era gets a width; each lane a height, so cells line up into a grid
+    rows_in = {}
+    width = {}
+    for e in eras_present:
+        cnt = max(len(cells.get((e, k), [])) for k in range(len(LANES)))
+        cols = max(2, min(14, math.ceil(math.sqrt(cnt * 2.2))))
+        width[e] = cols * SP
+        for k in range(len(LANES)):
+            c = len(cells.get((e, k), []))
+            rows_in[(e, k)] = math.ceil(c / cols) if c else 0
+    lane_h = [max(1, max(rows_in[(e, k)] for e in eras_present)) * SP for k in range(len(LANES))]
+    GAPX, GAPY = 160, 140
+    x0 = 0.0
+    era_x = {}
+    for e in eras_present:
+        era_x[e] = x0; x0 += width[e] + GAPX
+    lane_y, y0 = [], 0.0
+    for k in range(len(LANES)):
+        lane_y.append(y0); y0 += lane_h[k] + GAPY
+    for e in eras_present:
+        cols = width[e] // SP
+        for k in range(len(LANES)):
+            ns = sorted(cells.get((e, k), []), key=key)
+            for idx, n in enumerate(ns):
+                r, c = divmod(idx, cols)
+                tl[n["id"]] = (round(era_x[e] + c * SP + SP / 2, 1), round(lane_y[k] + r * SP + SP / 2, 1))
+        bands.append({"era": e, "label": ERAS_LABEL.get(e, e), "x": round(era_x[e] + width[e] / 2, 1), "y": -180.0, "w": width[e] + GAPX * 0.6})
+    for k, (lab, _) in enumerate(LANES):
+        bands.append({"lane": k, "label": lab, "x": -330.0, "y": round(lane_y[k] + lane_h[k] / 2, 1)})
     # radial: rings by distance from the Exile(s), angle from the force layout
     rad = {}
     exiles = [i for i in ("char_exile_poe1", "char_exile_poe2") if i in G]
@@ -109,18 +113,103 @@ def layout(nodes, edges):
     return web, tl, rad, clu, pr, bt, comm, dist, groups, bands
 
 
+def flow_blocks(G, groups, x0, y0, row_w, gap=380):
+    """Lay out {label: [ids]} groups as force-laid blocks flowing left->right, wrapping rows. Returns pos, labels, bottom."""
+    pos, labels = {}, []
+    x, y, row_h = x0, y0, 0.0
+    for label, ids in groups:
+        if not ids:
+            continue
+        R = 140 + 60 * math.sqrt(len(ids))
+        if x > x0 and x + 2 * R > x0 + row_w:
+            x, y, row_h = x0, y + row_h + gap + 200, 0.0
+        sub = nx.spring_layout(G.subgraph(ids), seed=42, iterations=100) if len(ids) > 1 else {ids[0]: (0.0, 0.0)}
+        for i, (a, b) in sub.items():
+            pos[i] = (round(x + R + a * R * 0.95, 1), round(y + 160 + R + b * R * 0.95, 1))
+        labels.append({"label": label, "x": round(x + R, 1), "y": round(y + 40, 1)})
+        x += 2 * R + gap
+        row_h = max(row_h, 2 * R + 160)
+    return pos, labels, y + row_h
+
+
+def saga_layout(nodes, edges, G):
+    """Sequential 'saga' layout, read left -> right as a triptych:
+    [Before the Exile] | [PoE1 journey ... twenty years later ... PoE2 journey] | [Leagues, Atlas & side lore].
+    Story beats run along a serpentine (boustrophedon) line; people and places sit beside the beats they take part in."""
+    byid = {n["id"]: n for n in nodes}
+    so = lambda n: (n.get("chronology") or {}).get("story_order")
+    beats = [n for n in nodes if n.get("type") == "event" and so(n) is not None and n.get("plot_role") in ("main_plot", "endgame_plot")]
+    sections = [("Path of Exile 1 — the Exile's journey", sorted([b for b in beats if so(b) < 4000], key=so)),
+                ("Twenty years later — Path of Exile 2", sorted([b for b in beats if so(b) >= 5000], key=so))]
+    K, DX, DY = 14, 420, 1500
+    jw = (K - 1) * DX
+    pos, labels = {}, []
+    PRE = set(ERAS[:ERAS.index("post_cataclysm") + 1])
+    beat_ids = {b["id"] for b in beats}
+    attached = {}
+    for e in edges:
+        if e["relation"] == "next_beat":
+            continue
+        for a_, b_ in ((e["source"], e["target"]), (e["target"], e["source"])):
+            if a_ in beat_ids and b_ in byid and b_ not in beat_ids and not b_.startswith("char_exile_"):
+                attached.setdefault(b_, set()).add(a_)
+    # column 1: before the Exile
+    pre = [(ERAS_LABEL.get(er, er), [n["id"] for n in nodes if n.get("era") == er and n["id"] not in attached and n["id"] not in beat_ids])
+           for er in ERAS if er in PRE]
+    pw = 5200
+    ppos, plabels, pbottom = flow_blocks(G, pre, 0, 0, pw)
+    pos.update(ppos); labels += plabels
+    labels.append({"label": "Before the Exile", "x": pw / 2, "y": -420, "big": True})
+    # column 2: the journeys
+    jx = pw + 2200
+    y = 0.0
+    for title, bs in sections:
+        if not bs:
+            continue
+        labels.append({"label": title, "x": jx + jw / 2, "y": y - 420, "big": True})
+        for k, b_ in enumerate(bs):
+            r, c = divmod(k, K)
+            x = c * DX if r % 2 == 0 else (K - 1 - c) * DX
+            pos[b_["id"]] = (round(jx + x, 1), round(y + r * DY, 1))
+        y = y + ((len(bs) - 1) // K) * DY + DY + 900
+    jbottom = y
+    for ex, sec in (("char_exile_poe1", 0), ("char_exile_poe2", 1)):
+        if ex in byid:
+            bs = sections[sec][1]
+            pos[ex] = (pos[bs[0]["id"]][0] - 650, pos[bs[0]["id"]][1]) if bs else (jx - 650.0, 0.0)
+    for i, bset in attached.items():
+        pts = sorted((so(byid[b_]), pos[b_]) for b_ in bset if b_ in pos)
+        if not pts:
+            continue
+        mx, my = pts[0][1]  # beside the beat where they first appear
+        h = zlib.crc32(i.encode())
+        ang = (h % 360) / 180 * math.pi
+        rad = 160 + (h // 360) % 320
+        pos[i] = (round(mx + rad * math.cos(ang), 1), round(my + rad * math.sin(ang) * 1.4, 1))
+    # column 3: leagues, Atlas & side lore
+    sx = jx + jw + 2400
+    rest = [(ERAS_LABEL.get(er, er), [n["id"] for n in nodes if n.get("era") == er and n["id"] not in pos]) for er in ERAS if er not in PRE]
+    rpos, rlabels, _ = flow_blocks(G, rest, sx, 0, max(5200, jbottom * 0.55))
+    pos.update(rpos); labels += rlabels
+    labels.append({"label": "Leagues, Atlas & side lore", "x": sx + 2600, "y": -420, "big": True})
+    for n in nodes:
+        pos.setdefault(n["id"], (0.0, 0.0))
+    return pos, labels
+
 meta = {"variants": {}}
 for variant in ("master", "poe1", "poe2"):
     g = json.load(open(os.path.join(ROOT, "dataset", variant, "graph.json")))
     nodes, edges = g["nodes"], g["edges"]
     web, tl, rad, clu, pr, bt, comm, dist, groups, bands = layout(nodes, edges)
+    Gs = nx.Graph(); Gs.add_nodes_from(n['id'] for n in nodes); Gs.add_edges_from((e['source'], e['target']) for e in edges if e['relation'] != 'next_beat')
+    saga, saga_labels = saga_layout(nodes, edges, Gs)
     prmax = max(pr.values()) or 1; btmax = max(bt.values()) or 1
     cn = []
     for n in nodes:
         d = {k: n[k] for k in NODE_KEYS if n.get(k) not in (None, [], "")}
         d["sources"] = [[s["source_id"], s.get("locator", "")] for s in n.get("sources", [])]
         i = n["id"]
-        d["p"] = web[i]; d["t"] = tl[i]; d["r"] = rad[i]; d["c"] = clu[i]
+        d["p"] = web[i]; d["t"] = tl[i]; d["r"] = rad[i]; d["c"] = clu[i]; d["s"] = saga[i]
         d["pr"] = round(pr.get(i, 0) / prmax, 4); d["bt"] = round(bt.get(i, 0) / btmax, 4); d["cm"] = comm.get(i, -1)
         cn.append(d)
     ce = []
@@ -135,7 +224,7 @@ for variant in ("master", "poe1", "poe2"):
         top = max(c, key=lambda i: pr.get(i, 0))
         nm = next(n["name"] for n in nodes if n["id"] == top)
         cnames.append({"label": nm, "size": len(c)})
-    json.dump({"variant": variant, "nodes": cn, "edges": ce, "sources": srcs, "communities": cnames, "bands": bands},
+    json.dump({"variant": variant, "nodes": cn, "edges": ce, "sources": srcs, "communities": cnames, "bands": bands, "saga_labels": saga_labels},
               open(os.path.join(OUT, f"{variant}.json"), "w"), ensure_ascii=False, separators=(",", ":"))
     meta["variants"][variant] = {"nodes": len(cn), "edges": len(ce), "sources": len(srcs)}
     print(variant, meta["variants"][variant])

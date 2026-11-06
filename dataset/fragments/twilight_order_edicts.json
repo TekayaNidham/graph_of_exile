@@ -1450,7 +1450,7 @@
    "branches": [
     "sanctum"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "chronology": {
     "in_world_year": null,
     "relative": null,
@@ -3182,7 +3182,7 @@
    "branches": [
     "sanctum"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "inferred",
    "confidence": "low",

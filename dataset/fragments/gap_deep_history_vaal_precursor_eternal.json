@@ -357,7 +357,7 @@
    "aliases": [],
    "type": "era",
    "subtype": "",
-   "summary": "Umbrella for the PoE1-era buckets: the Acts 1-10 campaign and Epilogue (era_poe1_campaign), the Atlas storylines (era_poe1_atlas) and league stories (era_poe1_leagues). Meta grouping only; no in-world event.",
+   "summary": "Umbrella for the PoE1-era buckets: the Acts 1-10 campaign and Epilogue (era_poe1_campaign), the Atlas storylines (era_poe1_atlas) and league stories (era_league_storylines). Meta grouping only; no in-world event.",
    "games": [
     "poe1"
    ],
@@ -1531,17 +1531,17 @@
    ]
   },
   {
-   "id": "e_era_poe1_leagues__part_of__era_poe1",
-   "source": "era_poe1_leagues",
+   "id": "e_era_league_storylines__part_of__era_poe1",
+   "source": "era_league_storylines",
    "target": "era_poe1",
    "relation": "part_of",
-   "description": "era_poe1_leagues is a bucket within the era_poe1 umbrella period. Meta grouping per the schema era buckets; cited page supports only the PoE1-before-PoE2 gap.",
+   "description": "era_league_storylines is a bucket within the era_poe1 umbrella period. Meta grouping per the schema era buckets; cited page supports only the PoE1-before-PoE2 gap.",
    "games": [
     "poe1"
    ],
    "plot_role": "meta",
    "branches": [],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "inferred",
    "confidence": "low",

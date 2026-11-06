@@ -1676,7 +1676,7 @@
  {
   "id": "src_poe2wiki_the_trail_of_corruption_act_2",
   "title": "The Trail of Corruption (Act 2) - PoE2 Wiki",
-  "url": "https://www.poe2wiki.net/wiki/The_Trail_of_Corruption_Act_2_",
+  "url": "https://www.poe2wiki.net/wiki/The_Trail_of_Corruption_(Act_2)",
   "type": "wiki",
   "author_or_channel": "poe2wiki.net",
   "accessed": "2026-11-05",
@@ -1856,7 +1856,7 @@
  {
   "id": "src_poe2wiki_vruun_marshal_of_xesht",
   "title": "Vruun Marshal of Xesht - PoE2 Wiki",
-  "url": "https://www.poe2wiki.net/wiki/Vruun_Marshal_of_Xesht",
+  "url": "https://www.poe2wiki.net/wiki/Vruun,_Marshal_of_Xesht",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -2162,7 +2162,7 @@
  {
   "id": "src_poewiki_ahuatotli_the_blind",
   "title": "Ahuatotli the Blind - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Ahuatotli_the_Blind",
+  "url": "https://www.poewiki.net/wiki/Ahuatotli,_the_Blind",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -2333,7 +2333,7 @@
  {
   "id": "src_poewiki_aukuna_the_black_sekhema",
   "title": "Aukuna the Black Sekhema - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Aukuna_the_Black_Sekhema",
+  "url": "https://www.poewiki.net/wiki/Aukuna,_the_Black_Sekhema",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -2342,7 +2342,7 @@
  {
   "id": "src_poewiki_aul_the_crystal_king",
   "title": "Aul the Crystal King - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Aul_the_Crystal_King",
+  "url": "https://www.poewiki.net/wiki/Aul,_the_Crystal_King",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -2540,7 +2540,7 @@
  {
   "id": "src_poewiki_catarina_master_of_undeath",
   "title": "Catarina Master of Undeath - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Catarina_Master_of_Undeath",
+  "url": "https://www.poewiki.net/wiki/Catarina,_Master_of_Undeath",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -2594,7 +2594,7 @@
  {
   "id": "src_poewiki_chayula_who_dreamt",
   "title": "Chayula Who Dreamt - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Chayula_Who_Dreamt",
+  "url": "https://www.poewiki.net/wiki/Chayula,_Who_Dreamt",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -2625,6 +2625,15 @@
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_cultists_of_kitava",
+  "title": "Cultists of Kitava - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Cultists_of_Kitava",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
   "reliability": "secondary"
  },
  {
@@ -2828,7 +2837,7 @@
  {
   "id": "src_poewiki_einhar_s_hunt",
   "title": "Einhar s Hunt - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Einhar%27s_Hunt",
+  "url": "https://www.poewiki.net/wiki/Einhar's_Hunt",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-06",
@@ -2882,7 +2891,7 @@
  {
   "id": "src_poewiki_esh_forked_thought",
   "title": "Esh Forked Thought - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Esh_Forked_Thought",
+  "url": "https://www.poewiki.net/wiki/Esh,_Forked_Thought",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -3863,7 +3872,7 @@
  {
   "id": "src_poewiki_niko_s_explosives",
   "title": "Niko s Explosives - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Niko_s_Explosives",
+  "url": "https://www.poewiki.net/wiki/Niko's_Explosives",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -3872,7 +3881,7 @@
  {
   "id": "src_poewiki_niko_s_fuel",
   "title": "Niko s Fuel - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Niko_s_Fuel",
+  "url": "https://www.poewiki.net/wiki/Niko's_Fuel",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -3881,7 +3890,7 @@
  {
   "id": "src_poewiki_niko_s_mine",
   "title": "Niko s Mine - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Niko_s_Mine",
+  "url": "https://www.poewiki.net/wiki/Niko's_Mine",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -4230,6 +4239,15 @@
   "reliability": "secondary"
  },
  {
+  "id": "src_poewiki_rin_yuushu",
+  "title": "Rin Yuushu - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/Rin_Yuushu",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
+  "reliability": "secondary"
+ },
+ {
   "id": "src_poewiki_ritual_league",
   "title": "Ritual league - PoE Wiki",
   "url": "https://www.poewiki.net/wiki/Ritual_league",
@@ -4439,7 +4457,7 @@
  {
   "id": "src_poewiki_sirus_journals",
   "title": "Sirus' Journals - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Sirus_Journals",
+  "url": "https://www.poewiki.net/wiki/Sirus'_Journals",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -4848,6 +4866,15 @@
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
+  "reliability": "secondary"
+ },
+ {
+  "id": "src_poewiki_the_godless_three",
+  "title": "The Godless Three - PoE Wiki",
+  "url": "https://www.poewiki.net/wiki/The_Godless_Three",
+  "type": "wiki",
+  "author_or_channel": "community wiki",
+  "accessed": "2026-11-06",
   "reliability": "secondary"
  },
  {
@@ -5393,7 +5420,7 @@
  {
   "id": "src_poewiki_tul_creeping_avalanche",
   "title": "Tul Creeping Avalanche - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Tul_Creeping_Avalanche",
+  "url": "https://www.poewiki.net/wiki/Tul,_Creeping_Avalanche",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -5438,7 +5465,7 @@
  {
   "id": "src_poewiki_uul-netol_unburdened_flesh",
   "title": "Uul-Netol Unburdened Flesh - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Uul-Netol_Unburdened_Flesh",
+  "url": "https://www.poewiki.net/wiki/Uul-Netol,_Unburdened_Flesh",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -5645,7 +5672,7 @@
  {
   "id": "src_poewiki_xesht-ula_the_open_hand",
   "title": "Xesht-Ula the Open Hand - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Xesht-Ula_the_Open_Hand",
+  "url": "https://www.poewiki.net/wiki/Xesht-Ula,_the_Open_Hand",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",
@@ -5663,7 +5690,7 @@
  {
   "id": "src_poewiki_xoph_dark_embers",
   "title": "Xoph Dark Embers - PoE Wiki",
-  "url": "https://www.poewiki.net/wiki/Xoph_Dark_Embers",
+  "url": "https://www.poewiki.net/wiki/Xoph,_Dark_Embers",
   "type": "wiki",
   "author_or_channel": "community wiki",
   "accessed": "2026-11-05",

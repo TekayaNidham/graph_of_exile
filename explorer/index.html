@@ -28,11 +28,12 @@
     <ul id="suggest" class="suggest frame" role="listbox" hidden></ul>
   </div>
   <div class="layouts seg" id="layouts" role="group" aria-label="Layout">
-    <button data-l="p" class="active" title="Force-directed web (1)">Web</button>
-    <button data-l="t" title="Chronological era bands, primordial → PoE2 (2)">Timeline</button>
-    <button data-l="r" title="Rings by distance from the Exile (3)">Radial</button>
-    <button data-l="c" title="Louvain communities (4)">Clusters</button>
-    <button data-l="live" title="Re-run a live force layout on what is visible (5)">Re-flow</button>
+    <button data-l="s" class="active" title="The saga in order: before the Exile → PoE1 → twenty years later → PoE2 (1)">Saga</button>
+    <button data-l="p" title="Force-directed web (2)">Web</button>
+    <button data-l="t" title="Time axis: eras left → right, swimlanes by kind (3)">Timeline</button>
+    <button data-l="r" title="Rings by distance from the Exile (4)">Radial</button>
+    <button data-l="c" title="Louvain communities (5)">Clusters</button>
+    <button data-l="live" title="Re-run a live force layout on what is visible (6)">Re-flow</button>
   </div>
   <button class="icon-btn" id="aboutBtn" aria-label="About and shortcuts" title="About & shortcuts (?)">?</button>
 </header>
@@ -73,11 +74,12 @@
   </section>
   <section>
     <h3>How are they connected?</h3>
-    <input id="pathA" class="mini" list="names" placeholder="From… (e.g. Atziri)">
-    <input id="pathB" class="mini" list="names" placeholder="To… (e.g. Sin)">
-    <button class="rune-btn" id="findPath">Trace the thread</button>
+    <div class="combo"><input id="pathA" class="mini" placeholder="From… (e.g. Atziri)" autocomplete="off" aria-label="Trace from"><button class="x" data-clear="pathA" aria-label="Clear">×</button><ul class="suggest frame" hidden></ul></div>
+    <button class="link swap" id="swapPath" title="Swap ends">⇅ swap</button>
+    <div class="combo"><input id="pathB" class="mini" placeholder="To… (e.g. Sin)" autocomplete="off" aria-label="Trace to"><button class="x" data-clear="pathB" aria-label="Clear">×</button><ul class="suggest frame" hidden></ul></div>
+    <label class="check" title="The Exile touches almost everything; avoiding it finds the lore's own threads"><input type="checkbox" id="avoidExile" checked><span>Avoid the Exile</span></label>
+    <div class="row2"><button class="rune-btn" id="findPath">Trace the thread</button><button class="rune-btn ghost" id="stopPath" hidden>Stop tracing</button></div>
     <p id="pathOut" class="small"></p>
-    <datalist id="names"></datalist>
   </section>
   <section>
     <h3>Plot role</h3>
@@ -119,6 +121,7 @@
   <div class="zoom">
     <button class="icon-btn" id="zoomIn" aria-label="Zoom in" title="Zoom in (+)">+</button>
     <button class="icon-btn" id="zoomOut" aria-label="Zoom out" title="Zoom out (−)">−</button>
+    <button class="icon-btn" id="recenter" aria-label="Back to what I was looking at" title="Recenter on the current beat / selection / trace (C)">⌖</button>
     <button class="icon-btn" id="fit" aria-label="Fit to view" title="Fit (F)">⤢</button>
   </div>
   <article id="storyCard" class="story-card frame" hidden aria-live="polite"></article>
@@ -142,11 +145,9 @@
       <button class="icon-btn play" id="playBtn" aria-label="Play the story" title="Play / pause (Space)">▶</button>
       <button class="icon-btn" id="nextBeat" aria-label="Next beat" title="Next beat (→)">⏭</button>
     </div>
-    <h3>The Exile's Journey</h3>
-    <select id="journeyGame" aria-label="Which journey">
-      <option value="poe1">Path of Exile 1</option>
-      <option value="poe2">Path of Exile 2</option>
-    </select>
+    <label class="inline">Follow <select id="follow" aria-label="Whose plot to follow"></select></label>
+    <label class="inline" id="exileWrap">as <select id="exileClass" aria-label="Choose your Exile"></select></label>
+    <label class="check inline" title="Hide everything that is not part of this plot"><input type="checkbox" id="focusOnly"><span>Only this plot</span></label>
     <label class="check inline"><input type="checkbox" id="storyCards" checked><span>Story cards</span></label>
     <label class="check inline"><input type="checkbox" id="followCam" checked><span>Camera follows</span></label>
     <label class="inline speed">Speed <input type="range" id="speed" min="1" max="5" value="3" aria-label="Playback speed"></label>
@@ -163,7 +164,8 @@
   <h3>Explore</h3>
   <ul class="small keys">
     <li><kbd>/</kbd> search · <kbd>Esc</kbd> clear · <kbd>Space</kbd> play story · <kbd>←</kbd><kbd>→</kbd> step beats</li>
-    <li><kbd>1</kbd>–<kbd>5</kbd> layouts · <kbd>F</kbd> fit · <kbd>+</kbd>/<kbd>−</kbd> zoom · <kbd>Shift</kbd>+drag box-select</li>
+    <li><kbd>1</kbd>–<kbd>6</kbd> layouts · <kbd>C</kbd> recenter · <kbd>F</kbd> fit · <kbd>+</kbd>/<kbd>−</kbd> zoom · <kbd>Shift</kbd>+drag box-select</li>
+    <li><b>Follow</b> the Exile (choose your class to read your sentence) or any faction, god or character, and press ▶ to play their plot.</li>
     <li>Click a node to focus its neighbourhood; the URL keeps your view, so you can share it.</li>
   </ul>
   <p class="warn"><strong>Disclaimer.</strong> Path of Exile 2 is in Early Access. Content tagged <em>datamined (pre-1.0)</em> comes from game-file datamines of the unreleased Acts 5–6 and may change; the dataset will be updated once PoE2 1.0 is released. Lore was compiled with AI assistance from community wikis, in-game text and lore videos, then cross-verified, but errors can remain — please report them on GitHub.</p>

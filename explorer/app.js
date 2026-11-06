@@ -12,11 +12,11 @@
   const ROLE_LABEL = { main_plot: "Main plot", endgame_plot: "Endgame plot", branch: "Branch", background: "Background", meta: "Meta" };
   const ROLE_COLOR = { main_plot: "#e0a43a", endgame_plot: "#d0402e", branch: "#8b8bff", background: "#1ba29b", meta: "#aa9e82" };
   const ERAS = ["primordial", "precursor", "azmeri_ezomyte_ancient", "vaal", "post_vaal_dark_age", "eternal_empire_rise", "eternal_empire_fall",
-    "post_cataclysm", "poe1_campaign", "poe1_atlas", "poe1_leagues", "interlude_between_games", "poe2_campaign", "poe2_endgame", "unknown"];
+    "post_cataclysm", "poe1_campaign", "poe1_atlas", "league_storylines", "interlude_between_games", "poe2_campaign", "poe2_endgame", "unknown"];
   const ERA_LABEL = {
     primordial: "Primordial age", precursor: "Precursors", azmeri_ezomyte_ancient: "Azmeri & Ezomyte antiquity", vaal: "Vaal civilisation",
     post_vaal_dark_age: "Dark age after the Vaal", eternal_empire_rise: "Rise of the Eternal Empire", eternal_empire_fall: "Fall of the Empire (Cataclysm)",
-    post_cataclysm: "Theocracy of Oriath", poe1_campaign: "PoE1 campaign", poe1_atlas: "PoE1 Atlas", poe1_leagues: "PoE1 leagues",
+    post_cataclysm: "Theocracy of Oriath", poe1_campaign: "PoE1 campaign", poe1_atlas: "PoE1 Atlas", league_storylines: "League storylines (PoE1 → PoE2)",
     interlude_between_games: "Between the games", poe2_campaign: "PoE2 campaign", poe2_endgame: "PoE2 endgame", unknown: "Unknown",
   };
   // old (teal/blue) -> recent (gold/blood) — perceptually ordered
@@ -36,10 +36,10 @@
 
   // ---------- state ----------
   const S = {
-    variant: "master", layout: "p", colorBy: "plot_role", sizeBy: "pr", labels: "auto",
+    variant: "master", layout: "s", colorBy: "plot_role", sizeBy: "pr", labels: "auto",
     roles: new Set(ROLES), eras: new Set(ERAS), types: new Set(TYPES), branches: null, rels: null,
     conf: new Set(["high", "medium", "low"]), datamined: true, spineOnly: false, maxDist: 8,
-    selected: null, hops: 1, journeyGame: "poe1", playing: false, beat: -1, exileToggle: 0, events: false,
+    selected: null, hops: 1, follow: null, exileClass: "", focusOnly: false, playing: false, beat: -1, exileToggle: 0, events: false,
   };
   let D = null; // current data
   let cy = null;
@@ -50,7 +50,10 @@
   function readHash() {
     const h = new URLSearchParams(location.hash.slice(1));
     if (["master", "poe1", "poe2"].includes(h.get("v"))) S.variant = h.get("v");
-    if (["p", "t", "r", "c"].includes(h.get("l"))) S.layout = h.get("l");
+    if (["s", "p", "t", "r", "c"].includes(h.get("l"))) S.layout = h.get("l");
+    if (h.get("f")) S.follow = h.get("f");
+    if (h.get("ex")) S.exileClass = h.get("ex");
+    S.focusOnly = h.get("only") === "1";
     if (h.get("color")) S.colorBy = h.get("color");
     if (h.get("size")) S.sizeBy = h.get("size");
     S.events = h.get("ev") === "1";
@@ -59,6 +62,9 @@
   function writeHash() {
     const h = new URLSearchParams({ v: S.variant, l: S.layout, color: S.colorBy, size: S.sizeBy });
     if (S.events) h.set("ev", "1");
+    if (S.follow) h.set("f", S.follow);
+    if (S.exileClass) h.set("ex", S.exileClass);
+    if (S.focusOnly) h.set("only", "1");
     if (S.selected) h.set("n", S.selected);
     history.replaceState(null, "", "#" + h.toString());
   }
@@ -95,8 +101,7 @@
         el.data({ color: colorOf(n), size: sizeOf(n), fs: fontOf(n) });
       });
     });
-    const minz = S.labels === "all" ? 0 : 8;
-    cy.style().selector("node.n").style({ "min-zoomed-font-size": minz, label: S.labels === "none" ? "" : "data(label)" }).update();
+    cy.nodes(".n").removeClass("lbl-all lbl-none").addClass(S.labels === "all" ? "lbl-all" : S.labels === "none" ? "lbl-none" : "");
     renderLegend();
     mmDirty = true;
   }
@@ -111,9 +116,11 @@
       "transition-property": "opacity, border-width, border-color", "transition-duration": reduceMotion ? 0 : 180,
     } },
     { selector: "node.exile", style: { "border-width": 4, "border-color": "#f3e2b4", "underlay-color": "#e0a43a", "underlay-padding": 14, "underlay-opacity": 0.28, "underlay-shape": "ellipse", "font-family": "Cinzel, serif", color: "#f3e2b4", "text-max-width": 420, "text-wrap": "none" } },
+    { selector: "node.lbl-all", style: { "min-zoomed-font-size": 0 } },
+    { selector: "node.lbl-none", style: { label: "" } },
     { selector: "node.band", style: {
-      shape: "rectangle", "background-opacity": 0, label: "data(label)", "font-family": "Cinzel, serif", "font-size": 110, color: "#a07e48",
-      "text-opacity": 0.75, "text-valign": "center", width: 1, height: 1, events: "no", "min-zoomed-font-size": 0, "text-wrap": "wrap", "text-max-width": 820,
+      shape: "rectangle", "background-opacity": 0, label: "data(label)", "font-family": "Cinzel, serif", "font-size": 56, color: "#a07e48",
+      "text-opacity": 0.75, "text-valign": "center", width: 1, height: 1, events: "no", "min-zoomed-font-size": 0, "text-wrap": "wrap", "text-max-width": "data(w)",
     } },
     { selector: "edge", style: {
       "curve-style": "haystack", "haystack-radius": 0, width: 1, "line-color": "#6b5434", opacity: 0.32,
@@ -124,7 +131,14 @@
     { selector: "node.beat-loc", style: { "border-width": 6, "border-color": "#fff3cf", "underlay-color": "#e0a43a", "underlay-padding": 16, "underlay-opacity": 0.4, "z-index": 100, "min-zoomed-font-size": 0 } },
     { selector: "edge.spine", style: { "line-color": "#e0a43a", width: 2.6, opacity: 0.75 } },
     { selector: "edge.spine.endgame", style: { "line-color": "#d0402e" } },
+    { selector: "edge.spine.saga", style: { width: 16, opacity: 0.55 } },
     { selector: "edge.dim", style: { opacity: 0.035 } },
+    { selector: "node.wp", style: { width: 18, height: 18, shape: "diamond", label: "", "border-width": 2, "border-color": "#f0c060", "background-color": "#3a2a14" } },
+    { selector: "node.wp.beat-active, node.wp.focus", style: { width: 30, height: 30, label: "data(label)", "font-size": 20, "min-zoomed-font-size": 0 } },
+    { selector: "node.ctx", style: { "font-size": 22, "min-zoomed-font-size": 0, "text-opacity": 1, "text-max-width": 420 } },
+    { selector: "node.sband", style: { "font-size": 70, color: "#8a6a3b", "text-opacity": 0.85, "text-max-width": 2400 } },
+    { selector: "node.sband.big", style: { "font-size": 200, color: "#c9a45c", "text-wrap": "none", "text-max-width": 9000 } },
+    { selector: "node.band.lane", style: { "font-size": 44, "text-halign": "left", "text-wrap": "none", color: "#c9a45c" } },
     { selector: ".faded", style: { opacity: 0.06, "text-opacity": 0 } },
     { selector: "node.ctx", style: { opacity: 1, "text-opacity": 1, "min-zoomed-font-size": 0 } },
     { selector: "edge.hl", style: {
@@ -246,15 +260,18 @@
     $("#loading").classList.add("done");
     const want = keepSelection && S.selected && byId.has(S.selected) ? S.selected : (S.pendingNode && byId.has(S.pendingNode) ? S.pendingNode : null);
     S.pendingNode = null;
-    if (want) select(want, { center: true }); else { clearSelection(); cy.fit(cy.nodes(".n:visible"), 40); }
+    if (!isExileFollow() && S.focusOnly) enterPlotView();
+    if (want) select(want, { center: true }); else { clearSelection(); if (S.layout !== "f") focusOn(cy.nodes(".n:visible"), 40, 1.0, 0); }
     writeHash();
   }
 
   function addBands() {
     // era labels for the timeline layout (positions precomputed in build_site.py)
-    const bands = (D.bands || []).map((b) => ({ group: "nodes", classes: "band", selectable: false, grabbable: false,
-      data: { id: "band_" + b.era, label: ERA_LABEL[b.era] || b.era }, position: { x: b.x, y: b.y } }));
+    const bands = (D.bands || []).map((b) => ({ group: "nodes", classes: "band" + (b.lane != null ? " lane" : ""), selectable: false, grabbable: false,
+      data: { id: "band_" + (b.era || "lane" + b.lane), label: b.label || ERA_LABEL[b.era] || b.era, w: b.w || 2000 }, position: { x: b.x, y: b.y } }));
     cy.add(bands);
+    cy.add((D.saga_labels || []).map((b, k) => ({ group: "nodes", classes: "band sband" + (b.big ? " big" : ""), selectable: false, grabbable: false,
+      data: { id: "sband_" + k, label: b.label }, position: { x: b.x, y: b.y } })));
     cy.nodes(".band").addClass("hidden");
   }
 
@@ -300,7 +317,8 @@
     const b = n.branches && n.branches.length ? n.branches : ["(none)"];
     if (!b.some((x) => S.branches.has(x))) return false;
     if (S.maxDist < 8 && (n.exile_distance == null || n.exile_distance > S.maxDist)) return false;
-    if (!S.events && n.type === "event") return false;
+    if (S.focusOnly && S.focusSet && !S.focusSet.has(n.id)) return false;
+    if (!S.events && n.type === "event" && !(S.layout === "s" && n.chronology && n.chronology.story_order != null) && !(S.layout === "f" && S.plotIds && S.plotIds.has(n.id))) return false;
     if (S.spineOnly) {
       if (S.events && !(n.chronology && n.chronology.story_order != null)) return false;
       if (!S.events && !S.spineEnt.has(n.id)) return false;
@@ -312,11 +330,13 @@
     const vis = new Set();
     cy.batch(() => {
       cy.nodes(".n").forEach((el) => {
-        const ok = nodePasses(el.data("raw"));
+        const raw = el.data("raw");
+        const ok = nodePasses(raw);
         el.toggleClass("hidden", !ok);
+        el.toggleClass("wp", !S.events && raw.type === "event");
         if (ok) vis.add(el.id());
       });
-      cy.edges().not(".trailx").forEach((el) => {
+      cy.edges().not(".trailx").not(".pspine").forEach((el) => {
         const e = el.data("raw");
         const ok = vis.has(e.source) && vis.has(e.target) && (S.rels.has(e.relation) || (S.spineOnly && e.relation === "next_beat")) &&
           (e.relation !== "shared_event" || !S.events);
@@ -345,10 +365,14 @@
 
   // ---------- layouts ----------
   function setLayout(key, { animate = true } = {}) {
+    if (key === "s" && cy && !cy.nodes(".n").first().data("raw").s) key = "p";
+    if (key === "f" && !S.plotPos) key = "s";
     if (!cy) return;
-    document.querySelectorAll("#layouts button").forEach((b) => b.classList.toggle("active", b.dataset.l === key));
-    cy.nodes(".band").toggleClass("hidden", key !== "t");
-    cy.edges(".xera").toggleClass("dim", key === "t");
+    document.querySelectorAll("#layouts button").forEach((b) => b.classList.toggle("active", b.dataset.l === key || (key === "f" && b.dataset.l === "s")));
+    cy.nodes(".band").not(".sband").toggleClass("hidden", key !== "t");
+    cy.nodes(".sband").toggleClass("hidden", key !== "s");
+    cy.edges(".xera").toggleClass("dim", key === "t" || key === "s");
+    cy.edges(".spine").toggleClass("saga", key === "s");
     if (key === "live") {
       const eles = cy.elements(".n:visible, edge:visible");
       if (eles.nodes().length > 1600) { if (!confirm(`Re-flow ${eles.nodes().length} nodes? This can take a few seconds.`)) return; }
@@ -357,10 +381,14 @@
       return;
     }
     S.layout = key;
+    cy.edges(".pspine").remove();
+    if (key === "f") addPlotSpine();
+    applyFilters();
     if (!S.playing && S.beat >= 0) { hideCard(); clearTrail(); cy.elements().removeClass("faded hl ctx force-show"); S.beat = -1; updateProgress();
       document.querySelectorAll(".beat").forEach((b) => b.classList.remove("sel", "visited")); if (S.selected) highlight(S.selected); }
-    const opts = { name: "preset", positions: (el) => { if (!el.hasClass("n")) return el.position(); const p = el.data("raw")[key] || el.data("raw").p; return { x: p[0], y: p[1] }; },
-      fit: true, padding: 40, animate: animate && !reduceMotion, animationDuration: 650, animationEasing: "ease-in-out-cubic" };
+    const opts = { name: "preset", positions: (el) => { if (!el.hasClass("n")) return el.position(); const p = key === "f" ? (S.plotPos.get(el.id()) || el.data("raw").s || el.data("raw").p) : (el.data("raw")[key] || el.data("raw").p); return { x: p[0], y: p[1] }; },
+      fit: false, animate: animate && !reduceMotion, animationDuration: 650, animationEasing: "ease-in-out-cubic",
+      stop: () => focusOn(cy.nodes(".n:visible").union(cy.nodes(".band:visible")), 40, 1.0, 400) };
     cy.nodes().layout(opts).run();
     writeHash();
     mmDirty = true;
@@ -369,10 +397,44 @@
   // camera: fit a collection, but never zoom closer than maxZ
   function focusOn(eles, pad = 110, maxZ = 1.4, dur = 800) {
     if (!eles || !eles.length) return;
-    const bb = eles.boundingBox(), W = cy.width(), H = cy.height();
+    // fit inside the part of the canvas that is not covered by the side panels, story card or legend
+    const stage = $("#stage").getBoundingClientRect();
+    const fl = $("#filters"), dt = $("#details");
+    const left = fl.offsetParent && getComputedStyle(fl).transform === "none" ? fl.getBoundingClientRect().right - stage.left : 0;
+    const right = !dt.hidden ? stage.right - dt.getBoundingClientRect().left : 0;
+    const card = $("#storyCard"); const top = !card.hidden ? Math.min(card.getBoundingClientRect().bottom - stage.top, stage.height * 0.45) : 0;
+    const W = cy.width() - Math.max(0, left) - Math.max(0, right), H = cy.height() - Math.max(0, top);
+    const bb = eles.boundingBox();
     const z = Math.min(maxZ, Math.max(cy.minZoom(), Math.min((W - 2 * pad) / Math.max(bb.w, 1), (H - 2 * pad) / Math.max(bb.h, 1))));
-    const pan = { x: W / 2 - z * (bb.x1 + bb.w / 2), y: H / 2 - z * (bb.y1 + bb.h / 2) };
+    const pan = { x: Math.max(0, left) + W / 2 - z * (bb.x1 + bb.w / 2), y: Math.max(0, top) + H / 2 - z * (bb.y1 + bb.h / 2) };
     cy.stop(); cy.animate({ zoom: z, pan }, { duration: reduceMotion ? 0 : dur, easing: "ease-in-out-cubic" });
+  }
+
+  function recenter() {
+    if (!cy) return;
+    if (S.beat >= 0 && spine[S.beat]) {
+      const el = cy.getElementById(spine[S.beat].id);
+      const ppl = participants(el).filter((x) => x.data("raw").type !== "event");
+      return focusOn(ppl.length ? beatFocus(el, ppl).union(S.events ? el : cy.collection()) : hero(spine[S.beat]), 120, 1.1, 600);
+    }
+    if (cy.$(".path").length) return focusOn(cy.$(".path"), 80, 1.4, 600);
+    if (S.selected) return focusOn(neighbourhood(cy.getElementById(S.selected), 1), 90, 1.6, 600);
+    if (!$("#storyCard").hidden && profile()) return showPrologue();
+    const h = hero(null);
+    if (h && h.length) return focusOn(h.closedNeighborhood(":visible"), 90, 1.0, 600);
+    focusOn(cy.nodes(".n:visible"), 40, 1.0, 600);
+  }
+
+  // camera target for a story beat: the participants closest to the beat (far-flung recurring characters are lit but not framed)
+  function beatFocus(el, ppl) {
+    if (!ppl.length) return ppl;
+    const p = el.position();
+    const d = (x) => { const q = x.position(); return Math.hypot(q.x - p.x, q.y - p.y); };
+    const sorted = ppl.toArray().sort((a, b) => d(a) - d(b));
+    let near = sorted.filter((x) => d(x) < 1100).slice(0, 5);
+    if (!near.length) near = el.visible() ? [] : sorted.slice(0, 1);
+    const c = cy.collection(near);
+    return el.visible() ? c.union(el) : c;
   }
 
   // ---------- selection & neighbourhood ----------
@@ -433,7 +495,7 @@
   }
   function renderDetails(n) {
     const out = [], inc = [];
-    cy.getElementById(n.id).connectedEdges().forEach((ed) => {
+    cy.getElementById(n.id).connectedEdges().not(".pspine, .trailx").forEach((ed) => {
       const e = ed.data("raw");
       (e.source === n.id ? out : inc).push(e);
     });
@@ -461,6 +523,7 @@
       ${n.alt_summaries ? `<details><summary class="small">Other accounts (${n.alt_summaries.length})</summary>${n.alt_summaries.map((a) => `<p class="small">${esc(a.summary)}</p>`).join("")}</details>` : ""}
       <div class="sep"></div>
       <dl class="kv">
+        ${n.eras && n.eras.length > 1 ? `<dt>Spans</dt><dd>${n.eras.map((e) => esc(ERA_LABEL[e] || e)).join(" → ")}</dd>` : ""}
         ${ch.relative ? `<dt>When</dt><dd>${esc(ch.relative)}</dd>` : ""}
         ${ch.in_world_year != null ? `<dt>Year</dt><dd>${esc(ch.in_world_year)}</dd>` : ""}
         ${ch.story_order != null ? `<dt>Story beat</dt><dd>#${esc(ch.story_order)}</dd>` : ""}
@@ -581,51 +644,93 @@
   $("#search").addEventListener("blur", () => setTimeout(() => ($("#suggest").hidden = true), 150));
 
   // ---------- path finder ----------
-  let nameToId = new Map();
-  function buildNames() {
-    nameToId = new Map();
-    const opts = [];
-    for (const n of [...D.nodes].sort((a, b) => (b.pr || 0) - (a.pr || 0))) {
-      let key = n.name;
-      if (nameToId.has(key)) key = `${n.name} (${n.type})`;
-      if (nameToId.has(key)) continue;
-      nameToId.set(key, n.id); opts.push(`<option value="${esc(key)}">`);
-    }
-    $("#names").innerHTML = opts.join("");
+  function buildNames() { /* comboboxes query D.nodes directly */ }
+  function topSuggestions(q, k = 12) {
+    q = (q || "").trim().toLowerCase();
+    const pool = D.nodes.filter((n) => S.events || n.type !== "event");
+    if (!q) return [...pool].sort((a, b) => (b.pr || 0) - (a.pr || 0)).slice(0, k);
+    return pool.map((n) => [score(n, q), n]).filter((x) => x[0] > 0).sort((a, b) => b[0] - a[0]).slice(0, k).map((x) => x[1]);
+  }
+  function attachCombo(input) {
+    const ul = input.parentElement.querySelector(".suggest");
+    let items = [], idx = -1;
+    const render = (q) => {
+      items = topSuggestions(q); idx = -1;
+      ul.innerHTML = items.map((n, i) => `<li data-i="${i}"><span>${esc(n.name)}</span><small>${esc(n.type)}</small></li>`).join("") || `<li><small>No match</small></li>`;
+      ul.hidden = false;
+    };
+    const pick = (i) => { const n = items[i]; if (!n) return; input.value = n.name; input.dataset.id = n.id; ul.hidden = true; };
+    // focusing selects the text, so typing replaces it; the list always opens (popular entries when nothing is typed)
+    input.addEventListener("focus", () => { input.select(); render(input.dataset.id ? "" : input.value); });
+    input.addEventListener("input", () => { delete input.dataset.id; render(input.value); });
+    input.addEventListener("keydown", (ev) => {
+      const lis = [...ul.querySelectorAll("li[data-i]")];
+      if (ev.key === "ArrowDown" || ev.key === "ArrowUp") { ev.preventDefault(); idx = (idx + (ev.key === "ArrowDown" ? 1 : -1) + lis.length) % Math.max(lis.length, 1); lis.forEach((li, i) => li.classList.toggle("sel", i === idx)); }
+      else if (ev.key === "Enter") { ev.preventDefault(); pick(idx >= 0 ? idx : 0); if (input.id === "pathB") findPath(); else $("#pathB").focus(); }
+      else if (ev.key === "Escape") { ul.hidden = true; input.blur(); }
+    });
+    ul.addEventListener("mousedown", (ev) => { const li = ev.target.closest("li[data-i]"); if (li) { ev.preventDefault(); pick(+li.dataset.i); } });
+    input.addEventListener("blur", () => setTimeout(() => (ul.hidden = true), 120));
+  }
+  attachCombo($("#pathA")); attachCombo($("#pathB"));
+  document.querySelectorAll("[data-clear]").forEach((b) => b.addEventListener("click", () => { const i = $("#" + b.dataset.clear); i.value = ""; delete i.dataset.id; i.focus(); }));
+  $("#swapPath").addEventListener("click", () => {
+    const a = $("#pathA"), b = $("#pathB");
+    [a.value, b.value] = [b.value, a.value];
+    const ia = a.dataset.id, ib = b.dataset.id; delete a.dataset.id; delete b.dataset.id;
+    if (ib) a.dataset.id = ib;
+    if (ia) b.dataset.id = ia;
+    if (cy.$(".path").length) findPath();
+  });
+  function resolveEnd(input) {
+    if (input.dataset.id && byId.has(input.dataset.id)) return input.dataset.id;
+    const best = topSuggestions(input.value, 1)[0];
+    return input.value.trim() && best ? best.id : null;
   }
   function clearPath() { if (cy) cy.elements().removeClass("path"); }
+  function stopTracing() {
+    if (!cy) return;
+    clearPath(); cy.elements().removeClass("faded force-show");
+    $("#pathOut").textContent = ""; $("#stopPath").hidden = true;
+    if (S.selected) highlight(S.selected);
+  }
   function findPath() {
-    const resolve = (v) => {
-      v = v.trim(); if (!v) return null;
-      if (nameToId.has(v)) return nameToId.get(v);
-      const q = v.toLowerCase(); let best = null, bs = 0;
-      for (const n of D.nodes) { const sc = score(n, q); if (sc > bs) { bs = sc; best = n.id; } }
-      return best;
-    };
-    const a = resolve($("#pathA").value), b = resolve($("#pathB").value);
+    const a = resolveEnd($("#pathA")), b = resolveEnd($("#pathB"));
     const out = $("#pathOut");
     if (!a || !b) { out.textContent = "Name both ends — no match found in Wraeclast."; return; }
-    stopPlay();
+    if (a === b) { out.textContent = "Pick two different ends."; return; }
+    stopPlay(); hideCard(); clearTrail();
+    let pool = cy.elements(".n:visible, edge:visible").not(".trailx");
+    let all = cy.elements(".n, edge").not(".trailx");
+    if ($("#avoidExile").checked) {
+      const ex = cy.nodes(".exile").filter((x) => x.id() !== a && x.id() !== b);
+      pool = pool.not(ex).not(ex.connectedEdges()); all = all.not(ex).not(ex.connectedEdges());
+    }
     const run = (eles) => eles.aStar({ root: "#" + CSS.escape(a), goal: "#" + CSS.escape(b), directed: false });
-    let res = run(cy.elements(".n:visible, edge:visible")), note = "";
-    if (!res.found) { res = run(cy.elements(".n, edge")); note = " (through currently filtered nodes)"; }
-    if (!res.found) { out.textContent = "No thread connects them."; return; }
+    let res = run(pool), note = "";
+    if (!res.found) { res = run(all); note = " (through currently filtered nodes)"; }
+    if (!res.found) { out.textContent = "No thread connects them" + ($("#avoidExile").checked ? " without the Exile — try unticking ‘Avoid the Exile’." : "."); return; }
     S.selected = null; $("#hopBar").hidden = true;
     cy.batch(() => {
       cy.elements().removeClass("hl focus ctx path").addClass("faded");
-      res.path.removeClass("faded hidden").addClass("path force-show");
+      res.path.removeClass("faded").addClass("path force-show");
     });
-    cy.animate({ fit: { eles: res.path, padding: 80 }, duration: reduceMotion ? 0 : 600 });
-    const steps = res.path.nodes().map((n) => n.data("label"));
-    out.innerHTML = `${res.path.nodes().length - 1} step(s)${note}: ${steps.map(esc).join(" → ")}`;
+    focusOn(res.path, 80, 1.4, 600);
+    const steps = res.path.nodes().map((n) => `<a data-go="${esc(n.id())}">${esc(n.data("label"))}</a>`);
+    out.innerHTML = `${res.path.nodes().length - 1} step(s)${note}: ${steps.join(" → ")}`;
+    $("#stopPath").hidden = false;
   }
   $("#findPath").addEventListener("click", findPath);
+  $("#stopPath").addEventListener("click", stopTracing);
+  $("#pathOut").addEventListener("click", (ev) => { const a = ev.target.closest("[data-go]"); if (a) select(a.dataset.go); });
+
 
   // ---------- minimap ----------
   function drawMinimap() {
     requestAnimationFrame(drawMinimap);
   // labels are measured with the web fonts once they have loaded (avoids clipped labels)
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { if (cy) cy.style().update(); });
+  $("#focusOnly").checked = S.focusOnly;
     if (!mmDirty || !cy) return;
     mmDirty = false;
     const c = $("#minimap"); if (c.offsetParent === null) return;
@@ -658,8 +763,9 @@
 
   // ---------- journey & story playback ----------
   function chapterOf(n) {
+    const so = n.chronology ? n.chronology.story_order : null;
+    if (so == null) return ERA_LABEL[n.era] || n.era;
     const a = (n.acts || [])[0];
-    const so = n.chronology.story_order;
     if (a) {
       const m = a.match(/(poe[12])_(act|interlude)(\d+)|(poe[12])_epilogue/);
       if (m && m[2]) return `${m[1] === "poe1" ? "PoE1" : "PoE2"} ${m[2] === "act" ? "Act" : "Interlude"} ${m[3]}`;
@@ -676,17 +782,119 @@
     if (so < 6000) return "PoE2 Act 6 (datamined)";
     return "PoE2 Endgame";
   }
+  // which plot are we following?  exile:poe1 | exile:poe2 | exile:saga | node:<id>
+  const isExileFollow = () => !S.follow || S.follow.startsWith("exile:");
+  const plotCache = new Map();
+  function plotOf(id) {
+    // the plot of a faction / god / character: every event involving it or its members, in chronological order
+    const key = S.variant + "|" + id;
+    if (plotCache.has(key)) return plotCache.get(key);
+    const actors = new Set([id]), places = new Set();
+    const IN_MEMBER = new Set(["member_of", "leads", "founded", "serves", "commands", "rules", "descendant_of", "part_of", "originates_from", "aspect_of"]);
+    const addMembers = (fid, depth) => {
+      for (const x of S.adj.get(fid) || []) {
+        const o = byId.get(x.other); if (!o) continue;
+        if (x.dir === "in" && IN_MEMBER.has(x.rel) && ["character", "deity", "faction", "creature"].includes(o.type) && !o.id.startsWith("char_exile_") && !actors.has(o.id)) {
+          actors.add(o.id); if (o.type === "faction" && depth < 1) addMembers(o.id, depth + 1);
+        }
+        if (o.type === "location" && ((x.dir === "in" && x.rel === "part_of") || (x.dir === "out" && (x.rel === "rules" || x.rel === "originates_from" || x.rel === "located_in")))) places.add(o.id);
+      }
+    };
+    addMembers(id, 0);
+    const evs = new Map();
+    for (const a of actors) for (const x of S.adj.get(a) || []) { const o = byId.get(x.other); if (o && o.type === "event") evs.set(o.id, o); }
+    for (const l of places) for (const x of S.adj.get(l) || []) { const o = byId.get(x.other); if (o && o.type === "event" && x.rel === "occurs_in") evs.set(o.id, o); }
+    const year = (n) => { const y = n.chronology && n.chronology.in_world_year; return typeof y === "number" ? y : 0; };
+    const so = (n) => (n.chronology && n.chronology.story_order != null ? n.chronology.story_order : 0);
+    const list = [...evs.values()].sort((a, b) => ERAS.indexOf(a.era) - ERAS.indexOf(b.era) || year(a) - year(b) || so(a) - so(b) || a.name.localeCompare(b.name));
+    const focus = new Set([...actors, ...places, ...list.map((e) => e.id)]);
+    for (const e of list) for (const x of S.adj.get(e.id) || []) { const o = byId.get(x.other); if (o && ENTITY.has(o.type)) focus.add(o.id); }
+    const r = { list, focus, actors };
+    plotCache.set(key, r);
+    return r;
+  }
+  // a followed plot gets its own saga: events on a serpentine line in order, members & places beside them
+  function strHash(s) { let h = 2166136261; for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); } return h >>> 0; }
+  function computePlotPos() {
+    const K = 10, DX = 380, DY = 950, pos = new Map();
+    spine.forEach((e, k) => { const r = Math.floor(k / K), c = k % K; pos.set(e.id, [r % 2 ? (K - 1 - c) * DX : c * DX, r * DY]); });
+    const acc = new Map();
+    for (const e of spine) for (const x of S.adj.get(e.id) || []) {
+      if (!S.focusSet.has(x.other) || pos.has(x.other)) continue;
+      const p = pos.get(e.id); if (!acc.has(x.other)) acc.set(x.other, []); acc.get(x.other).push(p);
+    }
+    for (const [id, pts] of acc) {
+      const [mx, my] = pts[0], h = strHash(id);  // beside the event where they first appear
+      const ang = (h % 360) / 180 * Math.PI, rad = 150 + (h >> 9) % 230;
+      pos.set(id, [mx + rad * Math.cos(ang), my + rad * Math.sin(ang) * 1.3]);
+    }
+    let k = 0;
+    for (const id of S.focusSet) if (!pos.has(id)) { pos.set(id, [-700 - (k % 3) * 220, Math.floor(k / 3) * 200]); k++; }
+    S.plotPos = pos; S.plotIds = new Set(spine.map((e) => e.id));
+  }
+  function addPlotSpine() {
+    const els = [];
+    for (let k = 1; k < spine.length; k++) els.push({ group: "edges", classes: "spine saga pspine", data: { id: `pspine_${k}`, source: spine[k - 1].id, target: spine[k].id, rel: "", raw: { relation: "next_beat", source: spine[k - 1].id, target: spine[k].id } } });
+    cy.add(els);
+  }
+  function enterPlotView() {
+    if (isExileFollow()) { if (S.layout === "f") setLayout("s"); return; }
+    computePlotPos();
+    if (!S.focusOnly) { S.focusOnly = true; $("#focusOnly").checked = true; }
+    setLayout("f");
+  }
+  function buildFollowOptions() {
+    const sel = $("#follow");
+    const ex = S.variant === "poe1" ? [["exile:poe1", "The Exile — Path of Exile 1"]] : S.variant === "poe2" ? [["exile:poe2", "The Exile — Path of Exile 2"]]
+      : [["exile:saga", "The Exile — full saga (PoE1 → PoE2)"], ["exile:poe1", "The Exile — Path of Exile 1"], ["exile:poe2", "The Exile — Path of Exile 2"]];
+    const pick = (type, min, max) => D.nodes.filter((n) => n.type === type && !n.id.startsWith("char_exile_") && !n.id.startsWith("char_class_"))
+      .map((n) => [n, plotOf(n.id).list.length]).filter((x) => x[1] >= min).sort((a, b) => b[1] - a[1]).slice(0, max);
+    const grp = (label, rows) => rows.length ? `<optgroup label="${label}">${rows.map(([n, c]) => `<option value="node:${esc(n.id)}">${esc(n.name)} (${c})</option>`).join("")}</optgroup>` : "";
+    sel.innerHTML = `<optgroup label="The Exile">${ex.map(([v, l]) => `<option value="${v}">${l}</option>`).join("")}</optgroup>` +
+      grp("Factions & peoples", pick("faction", 2, 60)) + grp("Gods & powers", pick("deity", 2, 40)) + grp("Characters", pick("character", 3, 60));
+    if (!S.follow || ![...sel.options].some((o) => o.value === S.follow)) S.follow = ex[0][0];
+    sel.value = S.follow;
+  }
+  function exileProfiles() {
+    const g = S.follow === "exile:poe1" ? ["poe1"] : S.follow === "exile:poe2" ? ["poe2"] : ["poe1", "poe2"];
+    return (S.exiles || []).filter((p) => g.includes(p.game) && (S.variant === "master" || p.game === S.variant));
+  }
+  function buildExileOptions() {
+    const wrap = $("#exileWrap"), sel = $("#exileClass");
+    wrap.hidden = !isExileFollow();
+    const ps = exileProfiles();
+    sel.innerHTML = `<option value="">any exile</option>` + ["poe1", "poe2"].map((g) => {
+      const rows = ps.filter((p) => p.game === g);
+      return rows.length ? `<optgroup label="${g === "poe1" ? "Path of Exile 1" : "Path of Exile 2"}">${rows.map((p) => `<option value="${p.id}">${esc(p.class)}</option>`).join("")}</optgroup>` : "";
+    }).join("");
+    if (!ps.some((p) => p.id === S.exileClass)) S.exileClass = "";
+    sel.value = S.exileClass;
+  }
+  const profile = () => (isExileFollow() ? (S.exiles || []).find((p) => p.id === S.exileClass) : null);
+  function hero(n) {
+    if (!isExileFollow()) return cy.getElementById(S.follow.slice(5));
+    const so = n && n.chronology && n.chronology.story_order;
+    const g = so != null ? (so < 5000 ? "poe1" : "poe2") : (S.follow === "exile:poe2" || (profile() && profile().game === "poe2") ? "poe2" : "poe1");
+    const id = g === "poe1" ? "char_exile_poe1" : "char_exile_poe2";
+    return byId.has(id) ? cy.getElementById(id) : cy.nodes(".exile").first();
+  }
   function buildJourney() {
-    const sel = $("#journeyGame");
-    const games = S.variant === "poe1" ? ["poe1"] : S.variant === "poe2" ? ["poe2"] : ["poe1", "poe2"];
-    [...sel.options].forEach((o) => (o.hidden = !games.includes(o.value)));
-    if (!games.includes(S.journeyGame)) S.journeyGame = games[0];
-    sel.value = S.journeyGame;
-    const [lo, hi] = S.journeyGame === "poe1" ? [1000, 4000] : [5000, 7000];
-    spine = D.nodes.filter((n) => n.type === "event" && n.chronology && n.chronology.story_order != null && n.chronology.story_order >= lo && n.chronology.story_order < hi)
-      .sort((a, b) => a.chronology.story_order - b.chronology.story_order);
+    buildFollowOptions(); buildExileOptions();
+    if (isExileFollow()) {
+      const ranges = S.follow === "exile:poe1" ? [[1000, 4000]] : S.follow === "exile:poe2" ? [[5000, 7000]] : [[1000, 4000], [5000, 7000]];
+      spine = D.nodes.filter((n) => n.type === "event" && n.chronology && n.chronology.story_order != null &&
+        ranges.some(([lo, hi]) => n.chronology.story_order >= lo && n.chronology.story_order < hi)).sort((a, b) => a.chronology.story_order - b.chronology.story_order);
+      S.focusSet = new Set(["char_exile_poe1", "char_exile_poe2", ...spine.map((n) => n.id)]);
+      for (const b of spine) for (const x of S.adj.get(b.id) || []) { const o = byId.get(x.other); if (o && ENTITY.has(o.type)) S.focusSet.add(o.id); }
+      const p = profile(); if (p && p.node) S.focusSet.add(p.node);
+      if (p && p.sentence && p.sentence.node) S.focusSet.add(p.sentence.node);
+    } else {
+      const pl = plotOf(S.follow.slice(5));
+      spine = pl.list; S.focusSet = pl.focus;
+    }
     const track = $("#journey");
     let html = "", last = null;
+    if (profile()) html += `<div class="beat prologue" role="listitem" tabindex="0" data-i="-1"><span class="no">Prologue</span>Your sentence<span class="where">the ${esc(profile().class)}</span></div>`;
     spine.forEach((n, i) => {
       const chp = chapterOf(n);
       if (chp !== last) { html += `<div class="chapter" aria-hidden="true">${esc(chp)}</div>`; last = chp; }
@@ -695,14 +903,57 @@
       const sub = [pl.loc && byId.get(pl.loc).name, pl.who && byId.get(pl.who).name].filter(Boolean).join(" · ");
       html += `<div class="beat ${n.plot_role}${dm ? " datamined" : ""}" role="listitem" tabindex="0" data-i="${i}" data-id="${esc(n.id)}" title="${esc(n.summary || "")}"><span class="no">${i + 1}</span>${esc(n.name)}${sub ? `<span class="where">${esc(sub)}</span>` : ""}</div>`;
     });
-    track.innerHTML = html || `<span class="hint">No journey in this view.</span>`;
+    track.innerHTML = html || `<span class="hint">No recorded events for this plot in this view.</span>`;
     S.beat = -1;
     updateProgress();
+    if (S.focusOnly) applyFilters();
+  }
+  $("#follow").addEventListener("change", (ev) => {
+    stopPlay(); hideCard(); clearTrail(); S.follow = ev.target.value; buildJourney(); applyFilters(); writeHash();
+    if (!isExileFollow()) return enterPlotView();
+    if (S.layout === "f") setLayout("s");
+    const h = hero(spine[0]);
+    if (h && h.length) focusOn(S.focusOnly ? cy.nodes(".n:visible") : h.closedNeighborhood(":visible"), 90, 1.0, 600);
+  });
+  $("#exileClass").addEventListener("change", (ev) => {
+    stopPlay(); S.exileClass = ev.target.value; buildJourney(); writeHash();
+    if (profile()) showPrologue(); else hideCard();
+  });
+  $("#focusOnly").addEventListener("change", (ev) => {
+    S.focusOnly = ev.target.checked; writeHash();
+    if (!isExileFollow()) { if (S.focusOnly) return enterPlotView(); if (S.layout === "f") return setLayout("s"); }
+    applyFilters();
+    focusOn(cy.nodes(".n:visible"), 50, 1.0, 500);
+  });
+  const PROLOGUE_MS = 14000;
+  function showPrologue() {
+    const p = profile(); if (!p) return;
+    S.beat = -1; updateProgress();
+    clearTrail(); cy.elements().removeClass("faded hl focus ctx force-show");
+    const ex = hero(null), cls = p.node ? cy.getElementById(p.node) : cy.collection();
+    const grp = ex.union(cls).union(p.sentence && p.sentence.node ? cy.getElementById(p.sentence.node) : cy.collection());
+    grp.addClass("ctx force-show"); ex.addClass("beat-loc");
+    cy.elements().not(grp).not(grp.edgesWith(grp)).not(".band").addClass("faded");
+    if ($("#followCam").checked) focusOn(grp, 180, 0.9, 800);
+    document.querySelectorAll(".beat").forEach((b) => b.classList.toggle("sel", b.dataset.i === "-1"));
+    const para = (t) => esc(t).split(/\n\n+/).join("<br><br>");
+    const card = $("#storyCard");
+    card.innerHTML = `
+      <div class="act">Prologue · ${p.game === "poe1" ? "Path of Exile 1" : "Path of Exile 2"} · you are the ${esc(p.class)}</div>
+      <h2>The ${esc(p.class)}'s sentence</h2>
+      ${p.sentence && p.sentence.text ? `<p class="sentence">“${para(p.sentence.text)}”</p><div class="who">— ${esc(p.sentence.by)}</div>` : `<p>No sentence is recorded for this class in the sources.</p>`}
+      ${p.own_words ? `<p class="own">${para(p.own_words)}</p>` : ""}
+      ${p.lore && p.game === "poe2" ? `<div class="who">${para(p.lore)}</div>` : ""}
+      <div class="who">Source: <a href="${esc(p.source.url)}" target="_blank" rel="noopener">${esc(p.source.title)}</a></div>
+      <div class="bar"><i></i></div>`;
+    card.hidden = !$("#storyCards").checked;
+    const bar = card.querySelector(".bar i");
+    if (S.playing && !reduceMotion) { bar.style.transition = "none"; bar.style.width = "0"; requestAnimationFrame(() => { bar.style.transition = `width ${PROLOGUE_MS}ms linear`; bar.style.width = "100%"; }); }
   }
   function updateProgress() { $("#beatProgress").textContent = spine.length ? `${Math.max(S.beat + 1, 0)} / ${spine.length}` : ""; }
-  $("#journey").addEventListener("click", (ev) => { const b = ev.target.closest(".beat"); if (b) { stopPlay(); goToBeat(+b.dataset.i, { manual: true }); } });
-  $("#journey").addEventListener("keydown", (ev) => { const b = ev.target.closest(".beat"); if (b && (ev.key === "Enter" || ev.key === " ")) { ev.preventDefault(); stopPlay(); goToBeat(+b.dataset.i, { manual: true }); } });
-  $("#journeyGame").addEventListener("change", (ev) => { stopPlay(); S.journeyGame = ev.target.value; buildJourney(); clearTrail(); });
+  const openBeat = (b) => { stopPlay(); if (b.dataset.i === "-1") showPrologue(); else goToBeat(+b.dataset.i, { manual: true }); };
+  $("#journey").addEventListener("click", (ev) => { const b = ev.target.closest(".beat"); if (b) openBeat(b); });
+  $("#journey").addEventListener("keydown", (ev) => { const b = ev.target.closest(".beat"); if (b && (ev.key === "Enter" || ev.key === " ")) { ev.preventDefault(); openBeat(b); } });
 
   function primaryOf(evId) {
     // most important location and character/deity of an event
@@ -714,7 +965,7 @@
   function clearTrail() { if (cy) { cy.elements().removeClass("visited trail beat-active beat-loc"); cy.remove(cy.edges(".trailx")); } }
   function participants(el) {
     // who/what is involved in this beat: neighbours that are not other beats
-    return el.neighborhood("node.n").filter((x) => !(x.data("raw").chronology && x.data("raw").chronology.story_order != null));
+    return el.connectedEdges().not(".pspine, .trailx").connectedNodes("node.n").not(el).filter((x) => !(x.data("raw").chronology && x.data("raw").chronology.story_order != null) && !(S.plotIds && S.plotIds.has(x.id()) && !isExileFollow()));
   }
   function goToBeat(i, { manual = false } = {}) {
     if (!spine.length || !cy) return;
@@ -743,7 +994,7 @@
   }
   function entityBeat(i, n, el) {
     // entity-first story step: light up who & where; trail runs place -> place
-    const exile = cy.getElementById(S.journeyGame === "poe1" ? "char_exile_poe1" : "char_exile_poe2");
+    const exile = hero(n);
     const ppl = participants(el).filter((x) => x.data("raw").type !== "event");
     const locs = [];
     for (let k = 0; k <= i; k++) { const l = primaryOf(spine[k].id).loc; if (l && locs[locs.length - 1] !== l) locs.push(l); }
@@ -757,16 +1008,16 @@
       visitedLocs.addClass("visited force-show");
       const group = ppl.union(exile);
       const inner = group.edgesWith(group).filter((e) => !e.hasClass("hidden") || e.hasClass("derived"));
-      cy.elements().not(group).not(inner).not(visitedLocs).not(tr).not(".band").addClass("faded");
+      cy.elements().not(group).not(inner).not(visitedLocs).not(tr).not(el).addClass("faded");
       group.addClass("ctx force-show"); inner.addClass("hl force-show");
+      el.addClass("beat-active force-show");
+      cy.collection(spine.slice(0, i + 1).map((b) => cy.getElementById(b.id))).addClass("visited");
+      for (let k = 0; k < i; k++) cy.getElementById(spine[k].id).edgesWith(cy.getElementById(spine[k + 1].id)).addClass("trail");
       const cur = primaryOf(n.id).loc;
       if (cur) cy.getElementById(cur).addClass("beat-loc");
       else exile.addClass("beat-loc");
     });
-    if ($("#followCam").checked) {
-      const focus = ppl.length ? (ppl.length > 14 ? ppl.sort((a, b) => (b.data("raw").pr || 0) - (a.data("raw").pr || 0)).slice(0, 14) : ppl) : exile;
-      focusOn(focus, 130, 1.2, 900);
-    }
+    if ($("#followCam").checked) focusOn(ppl.length ? beatFocus(el, ppl) : exile, 120, 1.1, 900);
   }
   function afterBeat(i, n, el, manual) {
     document.querySelectorAll(".beat").forEach((b, k) => { b.classList.toggle("sel", k === i); b.classList.toggle("visited", k < i); });
@@ -786,7 +1037,7 @@
     const card = $("#storyCard");
     card.innerHTML = `
       ${dm ? `<span class="tag warn">datamined · may change at 1.0</span>` : ""}
-      <div class="act">${esc(chapterOf(n))} · beat ${S.beat + 1} of ${spine.length}</div>
+      <div class="act">${isExileFollow() && profile() ? `as the ${esc(profile().class)} · ` : !isExileFollow() ? `${esc(byId.get(S.follow.slice(5))?.name || "")} · ` : ""}${esc(chapterOf(n))}${n.chronology && typeof n.chronology.in_world_year === "number" ? ` · ${n.chronology.in_world_year} IC` : ""} · ${S.beat + 1} of ${spine.length}</div>
       <h2>${esc(n.name)}</h2>
       <p>${esc(n.summary || "")}</p>
       ${who.length ? `<div class="who">Featuring ${who.map((x) => `<a data-go="${esc(x.id())}">${esc(x.data("label"))}</a>`).join(", ")}</div>` : ""}
@@ -818,6 +1069,11 @@
     S.playing = true;
     $("#playBtn").textContent = "❚❚"; $("#playBtn").classList.add("playing"); $("#playBtn").setAttribute("aria-label", "Pause");
     $("#details").hidden = true; document.body.classList.remove("details-open");
+    if ((S.beat < 0 || S.beat >= spine.length - 1) && isExileFollow() && profile()) {
+      showPrologue(); clearTimeout(playTimer);
+      playTimer = setTimeout(() => { if (!S.playing) return; goToBeat(0); scheduleNext(); }, PROLOGUE_MS);
+      return;
+    }
     goToBeat(S.beat < 0 || S.beat >= spine.length - 1 ? 0 : S.beat + 1);
     scheduleNext();
   }
@@ -871,6 +1127,7 @@
   $("#zoomOut").addEventListener("click", () => cy.animate({ zoom: { level: cy.zoom() / 1.4, renderedPosition: { x: cy.width() / 2, y: cy.height() / 2 } }, duration: 200 }));
   $("#fit").addEventListener("click", () => cy.animate({ fit: { eles: cy.nodes(".n:visible"), padding: 40 }, duration: reduceMotion ? 0 : 400 }));
   $("#closeDetails").addEventListener("click", clearSelection);
+  $("#recenter").addEventListener("click", recenter);
   $("#aboutBtn").addEventListener("click", () => $("#about").showModal());
   $("#toggleFilters").addEventListener("click", (ev) => {
     const open = document.body.classList.toggle("filters-open"); ev.currentTarget.setAttribute("aria-expanded", open);
@@ -878,13 +1135,14 @@
 
   document.addEventListener("keydown", (ev) => {
     const typing = /INPUT|SELECT|TEXTAREA/.test(document.activeElement?.tagName) && document.activeElement.type !== "checkbox" && document.activeElement.type !== "range";
-    if (ev.key === "Escape") { stopPlay(); hideCard(); clearSelection(); clearTrail(); cy?.nodes().unselect(); applyFilters(); return; }
+    if (ev.key === "Escape") { stopPlay(); hideCard(); clearSelection(); clearTrail(); stopTracing(); cy?.nodes().unselect(); applyFilters(); return; }
     if (typing || $("#about").open) return;
     if (ev.key === "/") { ev.preventDefault(); $("#search").focus(); }
     else if (ev.key === " ") { ev.preventDefault(); S.playing ? stopPlay() : startPlay(); }
     else if (ev.key === "ArrowRight") { ev.preventDefault(); $("#nextBeat").click(); }
     else if (ev.key === "ArrowLeft") { ev.preventDefault(); $("#prevBeat").click(); }
-    else if ("12345".includes(ev.key) && ev.key.length === 1) setLayout(["p", "t", "r", "c", "live"][+ev.key - 1]);
+    else if ("123456".includes(ev.key) && ev.key.length === 1) setLayout(["s", "p", "t", "r", "c", "live"][+ev.key - 1]);
+    else if (ev.key === "c" || ev.key === "C") recenter();
     else if (ev.key === "f" || ev.key === "F") $("#fit").click();
     else if (ev.key === "+" || ev.key === "=") $("#zoomIn").click();
     else if (ev.key === "-") $("#zoomOut").click();
@@ -897,6 +1155,7 @@
   requestAnimationFrame(drawMinimap);
   // labels are measured with the web fonts once they have loaded (avoids clipped labels)
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { if (cy) cy.style().update(); });
+  fetch("data/exiles.json").then((r) => (r.ok ? r.json() : [])).catch(() => []).then((x) => { S.exiles = x; if (D) buildJourney(); });
   show(S.variant).catch((err) => {
     $("#loading").innerHTML = `<span>The Atlas could not be read: ${esc(err.message)}</span>`;
     console.error(err);

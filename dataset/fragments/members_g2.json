@@ -1,0 +1,1957 @@
+{
+  "domain": "members_g2",
+  "sources": [
+    {
+      "id": "src_poe2wiki_fate_of_the_vaal_quest_",
+      "title": "Fate of the Vaal (quest) - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Fate_of_the_Vaal_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_hayoxi_s_fulmination",
+      "title": "Hayoxi's Fulmination - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Hayoxi's_Fulmination",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_ngamahu_s_test",
+      "title": "Ngamahu's Test - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Ngamahu's_Test",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_tawhoa_s_test",
+      "title": "Tawhoa's Test - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Tawhoa%27s_Test",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_search",
+      "title": "The Search - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Search",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_trail_of_corruption_act_2",
+      "title": "The Trail of Corruption (Act 2) - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Trail_of_Corruption_(Act_2)",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_the_twilight_order",
+      "title": "The Twilight Order - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/The_Twilight_Order",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_utopia",
+      "title": "Utopia - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Utopia",
+      "type": "wiki",
+      "author_or_channel": "poe2wiki.net",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poe2wiki_xipocado_royal_architect",
+      "title": "Xipocado, Royal Architect - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Xipocado,_Royal_Architect",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_ancestor_league",
+      "title": "Ancestor league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Ancestor_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_baran_s_journals",
+      "title": "Baran's Journals - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Baran's_Journals",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_brotherhood_of_silence",
+      "title": "Brotherhood of Silence - PoE Wiki",
+      "type": "wiki",
+      "author_or_channel": "community wiki (PoE Wiki)",
+      "url": "https://www.poewiki.net/wiki/Brotherhood_of_Silence",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_cultists_of_kitava",
+      "title": "Cultists of Kitava - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Cultists_of_Kitava",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_death_and_rebirth",
+      "title": "Death and Rebirth - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Death_and_Rebirth",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_death_to_purity",
+      "title": "Death to Purity - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Death_to_Purity",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_essence_of_the_artist",
+      "title": "Essence of the Artist - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Essence_of_the_Artist",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_essence_of_the_hag",
+      "title": "Essence of the Hag - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Essence_of_the_Hag",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_essence_of_umbra",
+      "title": "Essence of Umbra - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Essence_of_Umbra",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_eternal_empire",
+      "title": "Eternal Empire - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Eternal_Empire",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_exploring_kingsmarch",
+      "title": "Exploring Kingsmarch - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Exploring_Kingsmarch",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_gianna_the_master_of_disguise",
+      "title": "Gianna, the Master of Disguise - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Gianna,_the_Master_of_Disguise",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_history_of_wraeclast",
+      "title": "History of Wraeclast - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/History_of_Wraeclast",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_incursion_league",
+      "title": "Incursion league - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Incursion_league",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_kalguur",
+      "title": "Kalguur - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Kalguur",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_karui",
+      "title": "Karui - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Karui",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_kurai_the_administrator",
+      "title": "Kurai, the Administrator - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Kurai,_the_Administrator",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_letters_of_exile",
+      "title": "Letters of Exile - PoE Wiki",
+      "type": "in_game_text",
+      "author_or_channel": "in-game environmental lore (quoted by wiki)",
+      "accessed": "2026-11-05",
+      "reliability": "primary",
+      "url": "https://www.poewiki.net/wiki/Letters_of_Exile"
+    },
+    {
+      "id": "src_poewiki_nenet_the_scout",
+      "title": "Nenet, the Scout - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Nenet,_the_Scout",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_niles_the_interrogator",
+      "title": "Niles, the Interrogator - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Niles,_the_Interrogator",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_order_of_the_templar",
+      "title": "Order of the Templar - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Order_of_the_Templar",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_gemling_legion",
+      "title": "The Gemling Legion - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Gemling_Legion",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_godless_three",
+      "title": "The Godless Three - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Godless_Three",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_maraketh",
+      "title": "The Maraketh - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Maraketh",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_ravenous_god",
+      "title": "The Ravenous God - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Ravenous_God",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_rogue_harbour_quest",
+      "title": "The Rogue Harbour (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Rogue_Harbour_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_ruler_of_highgate",
+      "title": "The Ruler of Highgate - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Ruler_of_Highgate",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_sceptre_of_god_quest",
+      "title": "The Sceptre of God quest  - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Sceptre_of_God_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_three_sisters",
+      "title": "The Three Sisters - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Three_Sisters",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_tibbs_the_giant",
+      "title": "Tibbs, the Giant - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Tibbs,_the_Giant",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_trarthus",
+      "title": "Trarthus - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Trarthus",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_tullina_the_catburglar",
+      "title": "Tullina, the Catburglar - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Tullina,_the_Catburglar",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_vinderi_the_dismantler",
+      "title": "Vinderi, the Dismantler - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Vinderi,_the_Dismantler",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    }
+  ],
+  "nodes": [],
+  "edges": [
+    {
+      "id": "e_faction_maraketh__participates_in__event_winter_of_the_world",
+      "source": "faction_maraketh",
+      "target": "event_winter_of_the_world",
+      "relation": "participates_in",
+      "description": "The Maraketh tradition credits the twin Sekhemas Solerai and Lundara with ending the Winter of the World, the first recorded Maraketh war.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "abyss"
+      ],
+      "era": "primordial",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maraketh",
+          "locator": "section 'History': 'The Winter of the World is the first event in recorded Maraketh history'"
+        },
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "event entry 'Winter of the World'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_maraketh__participates_in__event_founding_of_order_of_djinn",
+      "source": "faction_maraketh",
+      "target": "event_founding_of_order_of_djinn",
+      "relation": "participates_in",
+      "description": "Surviving Maraketh join the Clayshaper Ahkeli to found the Order of the Djinn against the Lightless.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maraketh",
+          "locator": "section 'The Winter of the World': Order of the Djinn founded by the Maraketh survivors and the Clayshaper"
+        },
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "event entry 'Founding of the Order of the Djinn'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_maraketh__participates_in__event_purity_rebellion",
+      "source": "faction_maraketh",
+      "target": "event_purity_rebellion",
+      "relation": "participates_in",
+      "description": "Sekhema Deshret joins High Templar Voll's Purity Rebellion in exchange for the return of the Vastiri Plains.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "event entry 'Purity Rebellion' (Sekhema Deshret listed among the leaders)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_maraketh__participates_in__event_voll_deshret_pact",
+      "source": "faction_maraketh",
+      "target": "event_voll_deshret_pact",
+      "relation": "participates_in",
+      "description": "The Maraketh under Sekhema Deshret make a pact with Voll for their support in exchange for the Vastiri Plains.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "event entry 'Voll's pact with Deshret'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_maraketh__participates_in__event_deshret_seal",
+      "source": "faction_maraketh",
+      "target": "event_deshret_seal",
+      "relation": "participates_in",
+      "description": "Sekhema Deshret seals the Highgate mines with the Beast inside, as the Maraketh page records.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "post_cataclysm",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maraketh",
+          "locator": "section 'Deshret': 'sealed the entrance to The Mines'"
+        },
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "event entry 'Deshret seals the mines'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_maraketh__participates_in__event_poe1_a9_ruler_of_highgate",
+      "source": "faction_maraketh",
+      "target": "event_poe1_a9_ruler_of_highgate",
+      "relation": "participates_in",
+      "description": "Maraketh akhara contest rule of Highgate; the Sekhema Feather goes to Tasuni or Irasha after Kira's rite is broken up.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "campaign_side_quest"
+      ],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_ruler_of_highgate",
+          "locator": "event entry 'The Ruler of Highgate'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_maraketh__participates_in__event_horn_of_vastiri_recreated",
+      "source": "faction_maraketh",
+      "target": "event_horn_of_vastiri_recreated",
+      "relation": "participates_in",
+      "description": "The Maraketh caravan elder Zarka helps the Exile reforge the Horn of the Vastiri against Jamanra's sandstorm.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "event entry 'Recreate the Horn of the Vastiri'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_maraketh__participates_in__event_sandstorm_dispelled",
+      "source": "faction_maraketh",
+      "target": "event_sandstorm_dispelled",
+      "relation": "participates_in",
+      "description": "The Maraketh use the Horn of the Vastiri to dispel the sandstorm that blocks the Halani Gates.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "event entry 'Dispel the sandstorm with the Horn of the Vastiri'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_maraketh__participates_in__event_halani_gates_first_battle",
+      "source": "faction_maraketh",
+      "target": "event_halani_gates_first_battle",
+      "relation": "participates_in",
+      "description": "Sekhema Asala leads Maraketh forces at the first battle of the Halani Gates against Jamanra.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_trail_of_corruption_act_2",
+          "locator": "event entry 'First battle at the Halani Gates' (Asala opens the gates)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_asenath__leads__faction_maraketh",
+      "source": "char_asenath",
+      "target": "faction_maraketh",
+      "relation": "leads",
+      "description": "Sekhema Asenath, the Golden Sekhema, is one of the Maraketh's Sekhemas (leaders) and was murdered while wearing the Wings of Vastiri.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "unknown",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maraketh",
+          "locator": "section 'Notable members': 'Sekhema Asenath'"
+        },
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'Hector Titucius': killed Sekhema Asenath and took the Wings of Vastiri"
+        }
+      ]
+    },
+    {
+      "id": "e_char_lundara__leads__faction_maraketh",
+      "source": "char_lundara",
+      "target": "faction_maraketh",
+      "relation": "leads",
+      "description": "Sekhema Lundara, twin of Solerai, is one of the Maraketh's Sekhemas.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maraketh",
+          "locator": "section 'Solerai and Lundara'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kira__member_of__faction_maraketh",
+      "source": "char_kira",
+      "target": "faction_maraketh",
+      "relation": "member_of",
+      "description": "Kira is a Maraketh warrior who leads a dekhara and kidnaps Sekhema Oyun for her rite to Garukhan.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maraketh",
+          "locator": "section 'Notable members': 'Kira (later an enemy - Kira, Servant of Garukhan)'"
+        },
+        {
+          "source_id": "src_poewiki_the_ruler_of_highgate",
+          "locator": "event entry 'The Ruler of Highgate': Kira and her dekhara kidnap Oyun; Kira is Tasuni's sister"
+        }
+      ]
+    },
+    {
+      "id": "e_char_irasha__member_of__faction_maraketh",
+      "source": "char_irasha",
+      "target": "faction_maraketh",
+      "relation": "member_of",
+      "description": "Irasha is the Maraketh akhara of Highgate and a rival of Tasuni for rule after Oyun's disappearance.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maraketh",
+          "locator": "section 'Notable members': 'Irasha'"
+        },
+        {
+          "source_id": "src_poewiki_the_ruler_of_highgate",
+          "locator": "event entry 'The Ruler of Highgate': Irasha, akhara of Highgate, rival of Tasuni"
+        }
+      ]
+    },
+    {
+      "id": "e_char_sumei__member_of__faction_maraketh",
+      "source": "char_sumei",
+      "target": "faction_maraketh",
+      "relation": "member_of",
+      "description": "Sumei is a former Maraketh member listed among the notable members.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kalandra"
+      ],
+      "era": "unknown",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_maraketh",
+          "locator": "section 'Notable members': 'Sumei (former)'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_templar__participates_in__event_exile_sentenced",
+      "source": "faction_templar",
+      "target": "event_exile_sentenced",
+      "relation": "participates_in",
+      "description": "The Templar Church sentences Oriathan criminals and ships them to Wraeclast under High Templar Dominus's Blackguards.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "post_cataclysm",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letters_of_exile",
+          "locator": "event entry 'Sentencing of the Exiles by Oriath'"
+        },
+        {
+          "source_id": "src_poewiki_order_of_the_templar",
+          "locator": "section 'Lore': Dominus 'responsible for the exile of criminals to Wraeclast'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_templar__participates_in__event_a3_sceptre_of_god",
+      "source": "faction_templar",
+      "target": "event_a3_sceptre_of_god",
+      "relation": "participates_in",
+      "description": "The Templars' High Templar Dominus is killed atop the Sceptre of God in Act 3.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_order_of_the_templar",
+          "locator": "section 'Lore': 'Dominus is later killed atop the Sceptre of God in Act 3'"
+        },
+        {
+          "source_id": "src_poewiki_the_sceptre_of_god_quest",
+          "locator": "event entry 'The Sceptre of God'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_templar__participates_in__event_a5_death_to_purity",
+      "source": "faction_templar",
+      "target": "event_a5_death_to_purity",
+      "relation": "participates_in",
+      "description": "High Templar Avarius, the Templars' vessel of Innocence, is killed in the Templar Courts in Act 5 (Death to Purity quest).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_order_of_the_templar",
+          "locator": "section 'Lore': the Exile 'defeats High Templar Avarius'"
+        },
+        {
+          "source_id": "src_poewiki_death_to_purity",
+          "locator": "event entry 'Death to Purity'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_templar__participates_in__event_poe1_a10_resurrect_innocence",
+      "source": "faction_templar",
+      "target": "event_poe1_a10_resurrect_innocence",
+      "relation": "participates_in",
+      "description": "A Templar named Bannon sacrifices himself to host the reborn Innocence.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_order_of_the_templar",
+          "locator": "section 'Lore': Sin uses 'a Templar named Bannon' as a vessel"
+        },
+        {
+          "source_id": "src_poewiki_death_and_rebirth",
+          "locator": "event entry 'Bannon Resurrects Innocence'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_templar__participates_in__event_templar_theocracy_oriath",
+      "source": "faction_templar",
+      "target": "event_templar_theocracy_oriath",
+      "relation": "participates_in",
+      "description": "The Templars shift their base to the unaffected island of Oriath and develop a theocracy there.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "post_cataclysm",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_order_of_the_templar",
+          "locator": "section 'Lore': 'The Order of the Templar shifted their base of operations to the unaffected Oriath'"
+        },
+        {
+          "source_id": "src_poewiki_order_of_the_templar",
+          "locator": "event entry 'Templar Theocracy of Oriath'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_templar__participates_in__event_purity_rebellion",
+      "source": "faction_templar",
+      "target": "event_purity_rebellion",
+      "relation": "participates_in",
+      "description": "High Templar Voll leads the Purity Rebellion of the Templars against Emperor Chitus.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_order_of_the_templar",
+          "locator": "section 'Lore': 'High Templar Voll's Purity Rebellion against Emperor Chitus'"
+        },
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "event entry 'Purity Rebellion'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_templar__participates_in__event_siege_of_sarn",
+      "source": "faction_templar",
+      "target": "event_siege_of_sarn",
+      "relation": "participates_in",
+      "description": "High Templar Voll lays siege to Sarn in 1334 IC, the Templar-led assault that ends with Sarn's surrender.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "event entry 'Siege of Sarn' (Voll laid siege to Sarn)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_baran__member_of__faction_templar",
+      "source": "char_baran",
+      "target": "faction_templar",
+      "relation": "member_of",
+      "description": "Baran, one of the Conquerors' antagonists, is a former Templar and brother of Officer Kirac.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [
+        "conquerors"
+      ],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_baran_s_journals",
+          "locator": "node summary: 'Templar elderslayer who hears God's whispers'"
+        },
+        {
+          "source_id": "src_poewiki_order_of_the_templar",
+          "locator": "section 'Conquerors of the Atlas' (Conquerors): 'One of the new antagonists, Baran, is a former Templar'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_bannon__member_of__faction_templar",
+      "source": "char_bannon",
+      "target": "faction_templar",
+      "relation": "member_of",
+      "description": "Bannon is a Templar whom Sin uses as the vessel for Innocence in Act 10.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_order_of_the_templar",
+          "locator": "section 'Lore': 'uses a Templar named Bannon as a vessel'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_twilight_order__participates_in__event_poe2_a4_utopia_oath",
+      "source": "faction_twilight_order",
+      "target": "event_poe2_a4_utopia_oath",
+      "relation": "participates_in",
+      "description": "Missionary Lorandis of the Twilight Order sends the Exile to swear the oath to the Saviour on Arastas.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_twilight_order",
+          "locator": "section 'Members': Missionary Lorandis"
+        },
+        {
+          "source_id": "src_poe2wiki_utopia",
+          "locator": "event entry 'Utopia on Arastas'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_twilight_order__participates_in__event_poe2_a4_defeat_benedictus",
+      "source": "faction_twilight_order",
+      "target": "event_poe2_a4_defeat_benedictus",
+      "relation": "participates_in",
+      "description": "Benedictus, First Herald of Utopia, is defeated after the Countess leaves him to hold the Exile.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [
+        "twilight_order"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_twilight_order",
+          "locator": "section 'Members': Benedictus, First Herald of Utopia"
+        },
+        {
+          "source_id": "src_poe2wiki_the_search",
+          "locator": "event entry 'Exile defeats Benedictus'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_twilight_order__participates_in__event_poe2_a4_defeat_torvian",
+      "source": "faction_twilight_order",
+      "target": "event_poe2_a4_defeat_torvian",
+      "relation": "participates_in",
+      "description": "Torvian, Hand of the Saviour, is defeated on Arastas after the Twilight Order's ambush at the church.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [
+        "twilight_order"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_twilight_order",
+          "locator": "section 'Members': Torvian, Hand of the Saviour"
+        },
+        {
+          "source_id": "src_poe2wiki_the_search",
+          "locator": "event entry 'Exile defeats Torvian'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_the_ring__participates_in__event_the_rogue_harbour_quest",
+      "source": "faction_the_ring",
+      "target": "event_the_rogue_harbour_quest",
+      "relation": "participates_in",
+      "description": "The Ring runs the Rogue Harbour, and the introductory quest sends the Exile into its Heist contracts.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_rogue_harbour_quest",
+          "locator": "page 'The Rogue Harbour (quest)'"
+        },
+        {
+          "source_id": "src_poewiki_the_rogue_harbour_quest",
+          "locator": "event entry 'The Rogue Harbour (quest)'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_the_ring__participates_in__event_kurai_contract_trial_run",
+      "source": "faction_the_ring",
+      "target": "event_kurai_contract_trial_run",
+      "relation": "participates_in",
+      "description": "Kurai's first Ring contract, Trial Run, is completed for the Ring in the Rogue Harbour.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_rogue_harbour_quest",
+          "locator": "event entry 'Contract: Trial Run (Rogue Harbour)'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_the_ring__participates_in__event_kurai_contract_hyrris_gift",
+      "source": "faction_the_ring",
+      "target": "event_kurai_contract_hyrris_gift",
+      "relation": "participates_in",
+      "description": "The Ring's client contract, Hyrri's Gift, steals the book 'O' Eternal from an Oriathan nobleman's vault.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "event entry 'Contract: Hyrri's Gift'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_the_ring__participates_in__event_kurai_contract_the_negotiation",
+      "source": "faction_the_ring",
+      "target": "event_kurai_contract_the_negotiation",
+      "relation": "participates_in",
+      "description": "The Ring's Kurai negotiates with the Vox twins over the stolen book, and the meeting ends in war.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "event entry 'Contract: The Negotiation'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_the_ring__participates_in__event_kurai_contract_the_rescue",
+      "source": "faction_the_ring",
+      "target": "event_kurai_contract_the_rescue",
+      "relation": "participates_in",
+      "description": "The Ring's Kurai and the Vox twins fail to reach a truce over Hana, and the second meeting ends in hostility.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "event entry 'Contract: The Rescue'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_the_ring__participates_in__event_kurai_contract_the_twins",
+      "source": "faction_the_ring",
+      "target": "event_kurai_contract_the_twins",
+      "relation": "participates_in",
+      "description": "The Ring's Kurai confronts the Vox twins Vic and Vinny in the final Ring contract, The Twins.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "heist"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kurai_the_administrator",
+          "locator": "event entry 'Contract: The Twins'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_three_sisters__participates_in__event_winter_of_the_world",
+      "source": "faction_three_sisters",
+      "target": "event_winter_of_the_world",
+      "relation": "participates_in",
+      "description": "The Three Sisters destroy Kulemak's mortal form and end the Winter of the World.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "abyss"
+      ],
+      "era": "primordial",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_three_sisters",
+          "locator": "lead summary: the sisters ended the Winter of the World"
+        },
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "event entry 'Winter of the World'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_three_sisters__participates_in__event_return_of_the_sun",
+      "source": "faction_three_sisters",
+      "target": "event_return_of_the_sun",
+      "relation": "participates_in",
+      "description": "The sisters' return of the sun ends the Winter of the World; the Maraketh credit Solerai and Lundara, other sources credit Solaris.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "event entry 'Return of the Sun'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_solerai__member_of__faction_three_sisters",
+      "source": "char_solerai",
+      "target": "faction_three_sisters",
+      "relation": "member_of",
+      "description": "Solerai, with Lundara, is the Maraketh name for one of the cross-cultural Three Sisters who ended the Winter of the World.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_three_sisters",
+          "locator": "section 'Solerai and Lundara'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_lundara__member_of__faction_three_sisters",
+      "source": "char_lundara",
+      "target": "faction_three_sisters",
+      "relation": "member_of",
+      "description": "Lundara, twin of Solerai, is the Maraketh name for one of the Three Sisters; the wiki says Lundara may be Lunaris.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_three_sisters",
+          "locator": "section 'Solerai and Lundara'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_gemling_legion__participates_in__event_poe1_a8_gemling_legion",
+      "source": "faction_gemling_legion",
+      "target": "event_poe1_a8_gemling_legion",
+      "relation": "participates_in",
+      "description": "A Gemling Legion Captain gathers the legionnaires at the Grain Gate in Act 8, and the Exile destroys them.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_gemling_legion",
+          "locator": "page 'The Gemling Legion': the Captain and legionnaires at the Grain Gate"
+        },
+        {
+          "source_id": "src_poewiki_the_gemling_legion",
+          "locator": "event entry 'The Gemling Legion Rises'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_gemling_legion__participates_in__event_destruction_of_gemlings",
+      "source": "faction_gemling_legion",
+      "target": "event_destruction_of_gemlings",
+      "relation": "participates_in",
+      "description": "The gemling legionnaires linked to Chitus's master gem die when he is killed.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "event entry 'Gemlings fall with Chitus'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_gemling_legion__participates_in__event_purity_rebellion",
+      "source": "faction_gemling_legion",
+      "target": "event_purity_rebellion",
+      "relation": "participates_in",
+      "description": "Gemling legionnaires under Emperor Chitus repel the Purity Rebellion's assault on the Grain Gate.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section 'The Purity Rebellion': the Templars, Ezomytes, Maraketh and Karui march on the Grain Gate; the Gemlings push them back"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_gemling_legion__participates_in__event_eternal_empire_cataclysm",
+      "source": "faction_gemling_legion",
+      "target": "event_eternal_empire_cataclysm",
+      "relation": "participates_in",
+      "description": "The Cataclysm that Malachai triggers ends the Eternal Empire; Gemlings seem especially affected by its corruption.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "event entry 'The Cataclysm'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_dialla__leads__faction_gemling_legion",
+      "source": "char_dialla",
+      "target": "faction_gemling_legion",
+      "relation": "leads",
+      "description": "Dialla is the Gemling Queen, Malachai's promised concubine whose jewels are set into her spine.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "node summary: 'Malachai's concubine and promised Gemling Queen'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_godless_three__participates_in__event_poe1_a6_kill_shavronne",
+      "source": "faction_godless_three",
+      "target": "event_poe1_a6_kill_shavronne",
+      "relation": "participates_in",
+      "description": "The Exile kills Shavronne of Umbra, one of the Godless Three, in Axiom Prison.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_godless_three",
+          "locator": "section 'Shavronne of Umbra': Act 4 and Act 6 forms"
+        },
+        {
+          "source_id": "src_poewiki_essence_of_umbra",
+          "locator": "event entry 'Harvesting Shavronne's Soul'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_godless_three__participates_in__event_poe1_a7_kill_maligaro",
+      "source": "faction_godless_three",
+      "target": "event_poe1_a7_kill_maligaro",
+      "relation": "participates_in",
+      "description": "Maligaro, the Artist (Inquisitor Maligaro's Act 7 form), is killed in the Chamber of Sins so that Sin can harvest his soul.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_godless_three",
+          "locator": "section 'Inquisitor Maligaro': Maligaro, the Artist in Act 7"
+        },
+        {
+          "source_id": "src_poewiki_essence_of_the_artist",
+          "locator": "quest 'Essence of the Artist' (Act 7): kill Maligaro, the Artist"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_godless_three__participates_in__event_poe1_a8_kill_doedre",
+      "source": "faction_godless_three",
+      "target": "event_poe1_a8_kill_doedre",
+      "relation": "participates_in",
+      "description": "Doedre the Vile, the third of the Godless Three, is killed in Act 8 in the sewers below Sarn so that Sin can harvest her soul.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_godless_three",
+          "locator": "section 'Doedre Stamatis': Doedre the Vile in Act 8"
+        },
+        {
+          "source_id": "src_poewiki_essence_of_the_hag",
+          "locator": "quest 'Essence of the Hag' (Act 8): kill Doedre the Vile"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_vaal_architects__participates_in__event_poe2_fate_of_the_vaal_quest",
+      "source": "faction_vaal_architects",
+      "target": "event_poe2_fate_of_the_vaal_quest",
+      "relation": "participates_in",
+      "description": "Xipocado, Royal Architect, is defeated in Atziri's Temple during the Fate of the Vaal quest.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "vaal_temple"
+      ],
+      "era": "poe2_endgame",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_xipocado_royal_architect",
+          "locator": "node summary of Xipocado: Atziri's Royal Architect, boss in Atziri's Temple"
+        },
+        {
+          "source_id": "src_poe2wiki_fate_of_the_vaal_quest_",
+          "locator": "event entry 'Fate of the Vaal (quest)'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_vaal_architects__participates_in__event_incursion_alva_time_travel",
+      "source": "faction_vaal_architects",
+      "target": "event_incursion_alva_time_travel",
+      "relation": "participates_in",
+      "description": "Vaal Architect mini-bosses appear during the Incursion league's visits to the Temple of Atzoatl.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "incursion"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_incursion_league",
+          "locator": "event entry 'Incursions into Atzoatl'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_cultists_of_kitava__participates_in__event_a5_ravenous_god",
+      "source": "faction_cultists_of_kitava",
+      "target": "event_a5_ravenous_god",
+      "relation": "participates_in",
+      "description": "Kitava's cultists take over the Karui slave revolt after Innocence dies and Kitava reawakens.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_cultists_of_kitava",
+          "locator": "lead: the cultists 'appear after the vessel of Innocence dies in the middle of Act 5'"
+        },
+        {
+          "source_id": "src_poewiki_the_ravenous_god",
+          "locator": "event entry 'Kitava Reawakens and Defeats the Exile'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_vorici__member_of__faction_brotherhood_of_silence",
+      "source": "char_vorici",
+      "target": "faction_brotherhood_of_silence",
+      "relation": "member_of",
+      "description": "Vorici is a Silent Brother of the Brotherhood of Silence.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "betrayal"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_brotherhood_of_silence",
+          "locator": "section 'Members': 'Vorici, Silent Brother'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_house_cyaxan__participates_in__event_trarthan_war_of_independence",
+      "source": "faction_house_cyaxan",
+      "target": "event_trarthan_war_of_independence",
+      "relation": "participates_in",
+      "description": "House Cyaxan's founder Kylian is one of the four Great Founders who rebelled against Tyndarus in the Trarthan War of Independence.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_trarthus",
+          "locator": "event entry 'Trarthan War of Independence'"
+        },
+        {
+          "source_id": "src_poewiki_trarthus",
+          "locator": "node summary of Kylian: 'one of the four Great Founders who rebelled against Emperor Tyndarus'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_house_cyaxan__participates_in__event_trarthan_rebellion",
+      "source": "faction_house_cyaxan",
+      "target": "event_trarthan_rebellion",
+      "relation": "participates_in",
+      "description": "The first-generation Trarthan Great Houses lead the rebellion against Phrecius that ends in Trarthus's warlords' executions.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "mercenaries"
+      ],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_trarthus",
+          "locator": "event entry 'Trarthan Rebellion against Phrecius (870 IC)'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui_tribe_ngamahu__participates_in__event_voll_kaom_pact",
+      "source": "faction_karui_tribe_ngamahu",
+      "target": "event_voll_kaom_pact",
+      "relation": "participates_in",
+      "description": "Kaom, chieftain of the Ngamahu tribe, makes a pact with Voll in exchange for Karui sovereignty over the south shore.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Karui chieftains': Kaom, chieftain of the Ngamahu tribe"
+        },
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "event entry 'Voll's pact with Kaom'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui_tribe_ngamahu__participates_in__event_death_of_kaom_highgate",
+      "source": "faction_karui_tribe_ngamahu",
+      "target": "event_death_of_kaom_highgate",
+      "relation": "participates_in",
+      "description": "Kaom leads 500 Ngamahu warriors to Highgate, is deceived by the Beast, and dies there.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "event entry 'Kaom's march on Highgate and death'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui_tribe_ngamahu__participates_in__event_trial_of_the_ancestors",
+      "source": "faction_karui_tribe_ngamahu",
+      "target": "event_trial_of_the_ancestors",
+      "relation": "participates_in",
+      "description": "The Ngamahu tribe offers its unique item in the Trial of the Ancestors, led by its chieftain's team.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Karui chieftains' and the Ancestors' tribal trial"
+        },
+        {
+          "source_id": "src_poewiki_ancestor_league",
+          "locator": "event entry 'Trial of the Ancestors'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui_tribe_ngamahu__participates_in__event_poe2_ngamahus_test",
+      "source": "faction_karui_tribe_ngamahu",
+      "target": "event_poe2_ngamahus_test",
+      "relation": "participates_in",
+      "description": "The Ngamahu tribe's Test of Mettle in the Halls of the Dead rewards a blank tattoo of Ngamahu.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_ngamahu_s_test",
+          "locator": "event entry 'Ngamahu's Test (PoE2 quest)'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui_tribe_tawhoa__participates_in__event_trial_of_the_ancestors",
+      "source": "faction_karui_tribe_tawhoa",
+      "target": "event_trial_of_the_ancestors",
+      "relation": "participates_in",
+      "description": "The Tawhoa tribe competes in the Trial of the Ancestors under its chieftain Maata.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Karui chieftains': Maata, chieftain of the Tawhoa tribe"
+        },
+        {
+          "source_id": "src_poewiki_ancestor_league",
+          "locator": "event entry 'Trial of the Ancestors'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui_tribe_tawhoa__participates_in__event_poe2_tawhoas_test",
+      "source": "faction_karui_tribe_tawhoa",
+      "target": "event_poe2_tawhoas_test",
+      "relation": "participates_in",
+      "description": "The Tawhoa tribe's Test of Mettle in the Halls of the Dead rewards a blank tattoo of Tawhoa.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tawhoa_s_test",
+          "locator": "event entry \"Tawhoa's Test (PoE2 quest)\""
+        }
+      ]
+    },
+    {
+      "id": "e_faction_order_of_the_chalice__participates_in__event_first_kalguuran_expedition",
+      "source": "faction_order_of_the_chalice",
+      "target": "event_first_kalguuran_expedition",
+      "relation": "participates_in",
+      "description": "The Order of the Chalice, through High Priest Uhtred, takes part in the First Kalguuran expedition to Wraeclast, which was led by Olroth, Uhtred, Vorana and Medved.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition",
+        "kingsmarch"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "event entry 'First Kalguuran expedition to Wraeclast' (Uhtred, Order of the Chalice)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_order_of_the_chalice__participates_in__event_priesthood_conspiracy",
+      "source": "faction_order_of_the_chalice",
+      "target": "event_priesthood_conspiracy",
+      "relation": "participates_in",
+      "description": "High Priest Uhtred has a dozen priests stab Olroth, the priesthood conspiracy.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "event entry 'Priesthood conspiracy (stabbing of Olroth)'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_order_of_the_chalice__participates_in__event_triskelion_flame_lost",
+      "source": "faction_order_of_the_chalice",
+      "target": "event_triskelion_flame_lost",
+      "relation": "participates_in",
+      "description": "Uhtred is branded a traitor after the loss of the Triskelion Flame and flees.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "event entry 'Loss of the Triskelion Flame'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_meridian_free_traders__participates_in__event_poe2_a4_hire_aurora_may",
+      "source": "faction_meridian_free_traders",
+      "target": "event_poe2_a4_hire_aurora_may",
+      "relation": "participates_in",
+      "description": "The Meridian Free Traders' boat charter takes the Exile on the Aurora May with Makoru.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_exploring_kingsmarch",
+          "locator": "page 'Exploring Kingsmarch': the Meridian Free Traders' charter"
+        },
+        {
+          "source_id": "src_poe2wiki_the_search",
+          "locator": "event entry 'Charter of the Aurora May'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_meridian_free_traders__participates_in__event_exploring_kingsmarch",
+      "source": "faction_meridian_free_traders",
+      "target": "event_exploring_kingsmarch",
+      "relation": "participates_in",
+      "description": "Meridian Free Traders agent Raulf explains recruitment during the Kingsmarch tutorial.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_exploring_kingsmarch",
+          "locator": "page 'Exploring Kingsmarch': Raulf explains recruitment"
+        },
+        {
+          "source_id": "src_poewiki_exploring_kingsmarch",
+          "locator": "event entry 'Exploring Kingsmarch'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_meridian_free_traders__participates_in__event_poe2_the_search",
+      "source": "faction_meridian_free_traders",
+      "target": "event_poe2_the_search",
+      "relation": "participates_in",
+      "description": "The Meridian Free Traders' Aurora May carries the Exile to search for the Precursor weapon pieces.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_the_search",
+          "locator": "event entry 'The Search (PoE2 Act 4)'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_aldur__founded__faction_runefathers",
+      "source": "char_aldur",
+      "target": "faction_runefathers",
+      "relation": "founded",
+      "description": "Aldur, first Runefather, founded the Runefathers as his chosen apprentices in runesmithing.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "expedition",
+        "kingsmarch"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "node summary: 'first King of Kalguur and first Runefather'"
+        }
+      ]
+    }
+  ]
+}

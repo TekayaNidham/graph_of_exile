@@ -718,7 +718,7 @@
    "branches": [
     "sanctum"
    ],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "chronology": {
     "in_world_year": null,
     "relative": "ancient, Azmeri era",
@@ -3965,7 +3965,7 @@
    ],
    "plot_role": "background",
    "branches": [],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "canon",
    "confidence": "high",
@@ -3987,7 +3987,7 @@
    ],
    "plot_role": "background",
    "branches": [],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "canon",
    "confidence": "high",
@@ -4010,7 +4010,7 @@
    ],
    "plot_role": "background",
    "branches": [],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "canon",
    "confidence": "high",

@@ -1,0 +1,265 @@
+[
+ {
+  "id": "poe1_marauder",
+  "game": "poe1",
+  "class": "Marauder",
+  "node": "char_class_marauder",
+  "sentence": {
+   "text": "Do you think you are savage enough to face the land of the damned, Marauder?\n\nWe offered you truth yet still you clasped your superstitious lies. We offered you service, yet you wasted your strength in defiance.\n\nWraeclast offers you something else: an education in true savagery.",
+   "by": "High Templar Dominus"
+  },
+  "own_words": "I am a warrior, raised to honour my Ancestors, to die with a weapon in my hand and the Karui Way in my blood.\n\nOriath chained me, made me its slave. For three years I have lived without my family, my pride, my Way.\n\nI welcome Exile. I welcome Wraeclast. Hear me, Ancestors! A slave stands behind you. A warrior stands before you.\n\nAnd Death walks at our side.",
+  "lore": "Karui-descended Exile class. Dominus's boss line to the Marauder: \"I exiled an animal. Now you almost resemble a man, Karui.\"; General Gravicius: \"You've forgotten your place, Karui slave!\" Specific crime not given in the sources read.",
+  "source": {
+   "title": "Marauder - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Marauder",
+   "locator": "Dialogue › Character creation (sentence); Legacy intro (own words)"
+  }
+ },
+ {
+  "id": "poe1_duelist",
+  "game": "poe1",
+  "class": "Duelist",
+  "node": "char_class_duelist",
+  "sentence": {
+   "text": "You were born to be swift and strong. What did you do with your gifts, Duelist? You squandered them on self-indulgence.\n\nSin has led you here, your path inked in the blood of gratuitous murder.\n\nYou have betrayed the Grand Arena. Now Wraeclast shall be your audience.. and your foe.",
+   "by": "High Templar Dominus"
+  },
+  "own_words": "He had it coming. Was I supposed to bear such insults with inaction, simply because of his high birth? That lord sang a different tune with six inches of steel in his guts. Now they call me a criminal for defending my honour. I'd do the same again to anyone who crossed me.\n\nI care naught for riches, little for friendship. The duel is all I need. I may be an exile, but I will carve a road back to Oriath, one foe, one victory at a time. Ill fortune may have banished me to Wraeclast, but I will live to hear them scream my name in the great arenas again.",
+  "lore": "Exile class. Dominus: \"Welcome to the greatest of arenas, Duelist. God is watching.\"; Gravicius: \"Your soul was lost long ago!\" Specific crime not documented in the sources read.",
+  "source": {
+   "title": "Duelist - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Duelist",
+   "locator": "Dialogue › Character creation (sentence); Legacy intro (own words)"
+  }
+ },
+ {
+  "id": "poe1_ranger",
+  "game": "poe1",
+  "class": "Ranger",
+  "node": "char_class_ranger",
+  "sentence": {
+   "text": "Swift and silent you stole the bounty of others.\n\nA crow that plunders our crops. A stray dog that slaughters our sheep.\n\nOriath is a land of men, not animals. Think on that, Ranger, when Wraeclast shows you how to truly live like an animal.",
+   "by": "High Templar Dominus"
+  },
+  "own_words": "No life can be owned. Not a deer's. Not a rabbit's. And not mine. Every creature has a birth-given right to live however it will. However it can.\n\nMy right is to hunt. To feed off the wilderness in the understanding that, one day, will feed off me. \n\nThe fat lords of Oriath have no such understanding. They call me 'poacher' and 'thief'. Clap me in irons and haul me like cargo into exile. No matter. I'll make the forests and mountains of Wraeclast my new home. My freedom and my bow... that's all I need.",
+  "lore": "Exile class (female). Dominus: \"It is woman's purpose to tempt and try the will of man.\"; Gravicius: \"little girl\". Specific crime not documented in the sources read.",
+  "source": {
+   "title": "Ranger - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Ranger",
+   "locator": "Dialogue › Character creation (sentence); Legacy intro (own words)"
+  }
+ },
+ {
+  "id": "poe1_shadow",
+  "game": "poe1",
+  "class": "Shadow",
+  "node": "char_class_shadow",
+  "sentence": {
+   "text": "You were born with quickness of body and sharpness of mind. How have you paid for these gifts? With innocent blood.\n\nYours is a predatory profession. The business of butchery. You have stolen many a life to fill your purse.\n\nNow you will earn your redemption in Wraeclast.",
+   "by": "High Templar Dominus"
+  },
+  "own_words": null,
+  "lore": "Exile class. Dominus: \"I've dealt with far darker shadows than you, exile.\"; Gravicius: \"You're not the only one who wields death as a weapon, boy!\" Specific crime not documented in the sources read.",
+  "source": {
+   "title": "Shadow - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Shadow",
+   "locator": "Dialogue › Character creation (sentence); Legacy intro (own words)"
+  }
+ },
+ {
+  "id": "poe1_witch",
+  "game": "poe1",
+  "class": "Witch",
+  "node": "char_class_witch",
+  "sentence": {
+   "text": "Why do the keen of mind seek to satiate their curiosity in Darkness and Depravity?\n\nInnocence is our Father, Oriath our Mother. When a Daughter strays away from the Light, she makes herself an Orphan.\n\nLearn well the lessons of Wraeclast will teach you, Witch. It is your only hope of finding your way home.",
+   "by": "High Templar Dominus"
+  },
+  "own_words": "They were right to fear me. If only they had listened to their cowardice. Had they not taken my home with fire, I would not have taken their children. \n\nNow I am banished to Wraeclast. I've heard the dark rumours... seen the terror in other exiles' eyes. But to me one land is like any other. The elements are my allies, the dead are my servants, and fear will be my closest friend.",
+  "lore": "Exile class. Dominus: \"You'd bite the master that called you here, Witch?\"; Gravicius: \"whore of nightmare\"; Piety addresses the Witch as 'sister' in Act 4. A developer-interview reason for the Witch's exile (PC Gamer) could NOT be re-verified in this check and has been removed.",
+  "source": {
+   "title": "Witch - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Witch",
+   "locator": "Dialogue › Character creation (sentence); Legacy intro (own words)"
+  }
+ },
+ {
+  "id": "poe1_templar",
+  "game": "poe1",
+  "class": "Templar",
+  "node": "char_class_templar",
+  "sentence": {
+   "text": "You swore, sinew and soul, to serve God and the Order of the Templar. For years you built a life upon Faith, only to smite it asunder with one sinful blow.\n\nAnd is that not the greatest folly of all? To lose faith when it's all you have left?\n\nYou were once the chosen of God. A Templar. You are now the chosen of Wraeclast. An exile.",
+   "by": "High Templar Dominus"
+  },
+  "own_words": "I fought, wept and bled for God and the Order. I would have died for my Templar brothers, every single one. And how do they reward my piety, my devotion? They exile me to the land of the damned. To Wraeclast.\n\nI know now that my brethren are merely God's tools. He has given me this path to walk, so I shall muster my strength and my power... and my faith. It is my shield against the darkness to come.",
+  "lore": "Exile class belonging to the Templar faith: Dominus addresses the Templar as \"my brother\" (\"Exile has tested you, my brother\"); Gravicius: \"You're god's greatest disappointment.\" Specific crime not documented in the sources read.",
+  "source": {
+   "title": "Templar - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Templar",
+   "locator": "Dialogue › Character creation (sentence); Legacy intro (own words)"
+  }
+ },
+ {
+  "id": "poe1_scion",
+  "game": "poe1",
+  "class": "Scion",
+  "node": "char_class_scion",
+  "sentence": {
+   "text": "A Scion is perfection in mind, body, and grace. The crowning glory of our civilization. Offering us Hope, offering us Light.\n\nBut you only gave us Murder and Darkness.\n\nMay Wraeclast embrace you as we cannot, for your very presence has become too painful to bear.",
+   "by": "High Templar Dominus"
+  },
+  "own_words": "The youngest daughter of a respected family. Dresses, dances, suitors... a fortunate life for one fortunately born. My life... had I not been different. Had I not thought more clearly, learned more quickly, dreamed more deeply and darkly than any child should.\n\nThere seems to be no limit to what I can do, no walls containing my talents. To my parents, I was a raw nugget to be battered and moulded into a prize for admiration, for envy... for sale. That life died on a wedding bed in Theopolis.\n\nToday, Wraeclast offers me a new life, written not by birth, nor family, nor society. This life will be written to answer but one question: Who am I?",
+  "lore": "Seventh Exile class, available only after reaching Act 3 (unlock details not re-verified). Dominus: \"I offered you the gift of exile and you used it to reinvent yourself.\" No further heritage lore verified.",
+  "source": {
+   "title": "Scion - PoE Wiki",
+   "url": "https://www.poewiki.net/wiki/Scion",
+   "locator": "Dialogue › Character creation (sentence); Legacy intro (own words)"
+  }
+ },
+ {
+  "id": "poe2_warrior",
+  "game": "poe2",
+  "class": "Warrior",
+  "node": "char_class_warrior_poe2",
+  "sentence": {
+   "text": "Count Geonor sentences the PoE2 Exile to death. The Exile narrowly escapes the Executioner's hanging by jumping into the ocean.",
+   "by": "Count Geonor (shared PoE2 prologue)",
+   "node": "event_poe2_exile_death_sentence"
+  },
+  "own_words": "I wanted very little for myself. A forge, a bed. They took that all away when they burned down my home. Give me one good hammer, and they will find that there is nothing more dangerous than a man of peace roused to war.",
+  "lore": "The Warrior is an orphan born into a family of Karui slaves, but was separated from them as a young child. He washed up on the shores of Ogham and was found by the blacksmith Renly, who adopted and raised him in Clearfell as an Ezomyte.",
+  "source": {
+   "title": "Warrior - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Warrior",
+   "locator": "intro quote; Lore section. Sentence: PoE2 prologue (event_poe2_exile_death_sentence)"
+  }
+ },
+ {
+  "id": "poe2_ranger",
+  "game": "poe2",
+  "class": "Ranger",
+  "node": "char_class_ranger_poe2",
+  "sentence": {
+   "text": "Count Geonor sentences the PoE2 Exile to death. The Exile narrowly escapes the Executioner's hanging by jumping into the ocean.",
+   "by": "Count Geonor (shared PoE2 prologue)",
+   "node": "event_poe2_exile_death_sentence"
+  },
+  "own_words": "I've lived in this forest all my life, and if there's one thing I've learned, it's that a ranger must never miss.",
+  "lore": "The Ranger is a reclusive Ezomyte who once lived in The Grelwood.",
+  "source": {
+   "title": "Ranger - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Ranger",
+   "locator": "intro quote; Lore section. Sentence: PoE2 prologue (event_poe2_exile_death_sentence)"
+  }
+ },
+ {
+  "id": "poe2_huntress",
+  "game": "poe2",
+  "class": "Huntress",
+  "node": "char_class_huntress_poe2",
+  "sentence": {
+   "text": "Count Geonor sentences the PoE2 Exile to death. The Exile narrowly escapes the Executioner's hanging by jumping into the ocean.",
+   "by": "Count Geonor (shared PoE2 prologue)",
+   "node": "event_poe2_exile_death_sentence"
+  },
+  "own_words": null,
+  "lore": "The Huntress is an Azmeri who once lived among the Maji, a group of Azmeri who lived in seclusion deep in the Azmeri woods and strictly forbade the use of virtue gems. One day, she used a virtue gem to protect her village against invaders, and was banished for doing so.\n\nDelwyn comes from the same village as the Huntress.",
+  "source": {
+   "title": "Huntress - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Huntress",
+   "locator": "intro quote; Lore section. Sentence: PoE2 prologue (event_poe2_exile_death_sentence)"
+  }
+ },
+ {
+  "id": "poe2_witch",
+  "game": "poe2",
+  "class": "Witch",
+  "node": "char_class_witch_poe2",
+  "sentence": {
+   "text": "Count Geonor sentences the PoE2 Exile to death. The Exile narrowly escapes the Executioner's hanging by jumping into the ocean.",
+   "by": "Count Geonor (shared PoE2 prologue)",
+   "node": "event_poe2_exile_death_sentence"
+  },
+  "own_words": "I do not fear death. I am its master. Darkness and the dead are my weapons of war. My enemies will rot from the inside out, as my army of corpses tear them screaming limb from limb.",
+  "lore": "The Witch a power seeker with a mysterious past. Her exact heritage is unknown, though she was born to a swamp coven, likely the Black Fen.",
+  "source": {
+   "title": "Witch - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Witch",
+   "locator": "intro quote; Lore section. Sentence: PoE2 prologue (event_poe2_exile_death_sentence)"
+  }
+ },
+ {
+  "id": "poe2_sorceress",
+  "game": "poe2",
+  "class": "Sorceress",
+  "node": "char_class_sorceress_poe2",
+  "sentence": {
+   "text": "Count Geonor sentences the PoE2 Exile to death. The Exile narrowly escapes the Executioner's hanging by jumping into the ocean.",
+   "by": "Count Geonor (shared PoE2 prologue)",
+   "node": "event_poe2_exile_death_sentence"
+  },
+  "own_words": "The elements are mine to control. I know why lightning strikes, why fire burns, and why cold freezes. They do so because I command it. The vengeance of the Maraketh will find those who have transgressed no matter where they run.",
+  "lore": "The Sorceress is a Maraketh from the Vastiri Deserts. She was banished from her akhara for unspecified reasons; on her accord, she had left the Maraketh before taking an oath that would have bound her to them.\n\nThe Sorceress was also to be a tale-woman before her banishment.",
+  "source": {
+   "title": "Sorceress - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Sorceress",
+   "locator": "intro quote; Lore section. Sentence: PoE2 prologue (event_poe2_exile_death_sentence)"
+  }
+ },
+ {
+  "id": "poe2_mercenary",
+  "game": "poe2",
+  "class": "Mercenary",
+  "node": "char_class_mercenary_poe2",
+  "sentence": {
+   "text": "Count Geonor sentences the PoE2 Exile to death. The Exile narrowly escapes the Executioner's hanging by jumping into the ocean.",
+   "by": "Count Geonor (shared PoE2 prologue)",
+   "node": "event_poe2_exile_death_sentence"
+  },
+  "own_words": "You've got a weapon. I'll wield it. Just tell me where to point it. I've seen the highs and horrors of war, and I'll do whatever it takes to survive. If you've got coin, I'm your man.",
+  "lore": "The Mercenary is a seasoned mercenary from the land of Trarthus, a place infamous for its crime and degeneracy.",
+  "source": {
+   "title": "Mercenary - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Mercenary",
+   "locator": "intro quote; Lore section. Sentence: PoE2 prologue (event_poe2_exile_death_sentence)"
+  }
+ },
+ {
+  "id": "poe2_monk",
+  "game": "poe2",
+  "class": "Monk",
+  "node": "char_class_monk_poe2",
+  "sentence": {
+   "text": "Count Geonor sentences the PoE2 Exile to death. The Exile narrowly escapes the Executioner's hanging by jumping into the ocean.",
+   "by": "Count Geonor (shared PoE2 prologue)",
+   "node": "event_poe2_exile_death_sentence"
+  },
+  "own_words": "My life has been naught but discipline and focus, preparing me for this. I fight for the Benevolent Dreamer. Free my hands, and those who seek chaos will fall before me!",
+  "lore": "The Monk is a member of the Keepers of the Flame, a monastic cult dedicated to the worship of the being known as the Dreamer with a mission to stop the Hiveborn from invading Wraeclast.\n\nYears before, plagued by dreams that cast doubt on the Dreamer, the Monk had left the Monastery to better understand his faith.\n\nThe Monk himself is of Ezomyte heritage.",
+  "source": {
+   "title": "Monk - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Monk",
+   "locator": "intro quote; Lore section. Sentence: PoE2 prologue (event_poe2_exile_death_sentence)"
+  }
+ },
+ {
+  "id": "poe2_druid",
+  "game": "poe2",
+  "class": "Druid",
+  "node": "char_class_druid_poe2",
+  "sentence": {
+   "text": "Count Geonor sentences the PoE2 Exile to death. The Exile narrowly escapes the Executioner's hanging by jumping into the ocean.",
+   "by": "Count Geonor (shared PoE2 prologue)",
+   "node": "event_poe2_exile_death_sentence"
+  },
+  "own_words": null,
+  "lore": "The Druid is an Ezomyte who was once part of the Druids of Skothe, an ancient order that venerated the Azmeri Draíocht and practiced the mystic arts of the Maji. The Druids were wiped out by the King in the Mists and his cultists, who deceived them by disguising himself as a Maji of the old.\n\nThe Druid is the last of his kind, having managed to avoid being hunted down by hiding in the wilderness as a beast. Years later, he manages to regain his human form, but had lost most of his memories, and he wanders Wraeclast in search of his wife, Aoife.",
+  "source": {
+   "title": "Druid - PoE2 Wiki",
+   "url": "https://www.poe2wiki.net/wiki/Druid",
+   "locator": "intro quote; Lore section. Sentence: PoE2 prologue (event_poe2_exile_death_sentence)"
+  }
+ }
+]

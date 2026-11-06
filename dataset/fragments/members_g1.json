@@ -1,0 +1,1463 @@
+{
+  "domain": "members_g1",
+  "sources": [
+    {
+      "id": "src_poe2wiki_tasalio_s_test",
+      "title": "Tasalio's Test - PoE2 Wiki",
+      "url": "https://www.poe2wiki.net/wiki/Tasalio%27s_Test",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-06",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_a_call_to_arms",
+      "title": "A Call to Arms - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/A_Call_to_Arms",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_eternal_empire",
+      "title": "Eternal Empire - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Eternal_Empire",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_history_of_wraeclast",
+      "title": "History of Wraeclast - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/History_of_Wraeclast",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_kalguur",
+      "title": "Kalguur - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Kalguur",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_karui",
+      "title": "Karui - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Karui",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_letters_of_exile",
+      "title": "Letters of Exile - PoE Wiki",
+      "type": "in_game_text",
+      "author_or_channel": "in-game environmental lore (quoted by wiki)",
+      "accessed": "2026-11-05",
+      "reliability": "primary",
+      "url": "https://www.poewiki.net/wiki/Letters_of_Exile"
+    },
+    {
+      "id": "src_poewiki_order_of_the_djinn",
+      "title": "Order of the Djinn - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Order_of_the_Djinn",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_primeval_civilization",
+      "title": "Primeval civilization - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Primeval_civilization",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_the_brine_king_quest",
+      "title": "The Brine King (quest) - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/The_Brine_King_(quest)",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_trarthus",
+      "title": "Trarthus - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/Trarthus",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_general_marceus_lioneye",
+      "title": "General Marceus Lioneye - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/General_Marceus_Lioneye",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    },
+    {
+      "id": "src_poewiki_god",
+      "title": "God - PoE Wiki",
+      "url": "https://www.poewiki.net/wiki/God",
+      "type": "wiki",
+      "author_or_channel": "community wiki",
+      "accessed": "2026-11-05",
+      "reliability": "secondary"
+    }
+  ],
+  "nodes": [],
+  "edges": [
+    {
+      "id": "e_char_kaom__leads__faction_karui",
+      "source": "char_kaom",
+      "target": "faction_karui",
+      "relation": "leads",
+      "description": "Kaom rose from chieftain of the Ngamahu tribe to King Kaom, leading the entire Karui under his name.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Cultural Figures' > 'Kaom': 'eventually becoming King Kaom, leading the entire Karui under his name'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_utula__member_of__faction_karui",
+      "source": "char_utula",
+      "target": "faction_karui",
+      "relation": "member_of",
+      "description": "Utula is chieftain of the Kitava tribe, one of the Karui tribes.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Karui chieftains': '[[Utula]], chieftain of the [[Kitava]] tribe'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_rakiata__member_of__faction_karui",
+      "source": "char_rakiata",
+      "target": "faction_karui",
+      "relation": "member_of",
+      "description": "Rakiata is chieftain of the Tasalio tribe, one of the Karui tribes.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Karui chieftains': '[[Rakiata]], chieftain of the [[Tasalio]] tribe'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_ahuana__member_of__faction_karui",
+      "source": "char_ahuana",
+      "target": "faction_karui",
+      "relation": "member_of",
+      "description": "Ahuana is chieftain of the Ramako tribe, one of the Karui tribes.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor",
+        "legion"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Karui chieftains': '[[Ahuana (Karui chieftain)|Ahuana]], chieftain of the [[Ramako]] tribe'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_akoya__member_of__faction_karui",
+      "source": "char_akoya",
+      "target": "faction_karui",
+      "relation": "member_of",
+      "description": "Akoya is chieftain of the Tukohama tribe, one of the Karui tribes.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Karui chieftains': '[[Akoya]], chieftain of the [[Tukohama]] tribe'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kiloava__member_of__faction_karui",
+      "source": "char_kiloava",
+      "target": "faction_karui",
+      "relation": "member_of",
+      "description": "Kiloava is chieftain of the Valako tribe, one of the Karui tribes.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Karui chieftains': '[[Kiloava]], chieftain of the [[Valako]] tribe'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_maata__member_of__faction_karui",
+      "source": "char_maata",
+      "target": "faction_karui",
+      "relation": "member_of",
+      "description": "Maata is chieftain of the Tawhoa tribe, one of the Karui tribes.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Karui chieftains': '[[Maata]], chieftain of the [[Tawhoa]] tribe'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_ikiaho__member_of__faction_karui",
+      "source": "char_ikiaho",
+      "target": "faction_karui",
+      "relation": "member_of",
+      "description": "Ikiaho is chieftain of the Arohongui tribe, one of the Karui tribes.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Karui chieftains': '[[Ikiaho]], chieftain of the [[Arohongui]] tribe'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tawhanuku__member_of__faction_karui",
+      "source": "char_tawhanuku",
+      "target": "faction_karui",
+      "relation": "member_of",
+      "description": "Tawhanuku is chieftain of the Hinekora tribe, one of the Karui tribes.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Karui chieftains': '[[Tawhanuku]], chieftain of the [[Hinekora]] tribe'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_kahuturoa__member_of__faction_karui",
+      "source": "char_kahuturoa",
+      "target": "faction_karui",
+      "relation": "member_of",
+      "description": "Kahuturoa is chieftain of the Rongokurai tribe, one of the Karui tribes (the wiki places him with Ramako in one text).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Karui chieftains': '[[Kahuturoa]], chieftain of the [[Rongokurai]] tribe'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui__participates_in__event_purity_rebellion",
+      "source": "faction_karui",
+      "target": "event_purity_rebellion",
+      "relation": "participates_in",
+      "description": "Kaom was recruited by High Templar Voll in the Purity Rebellion, and his Karui slaughtered many Eternals.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Cultural Figures' > 'Kaom': 'Kaom was recruited by [[Voll]] in the [[Purity Rebellion]]'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui__participates_in__event_battle_of_lioneye_s_watch",
+      "source": "faction_karui",
+      "target": "event_battle_of_lioneye_s_watch",
+      "relation": "participates_in",
+      "description": "Kaom's Karui defeated General Marceus Lioneye's legion at Lioneye's Watch; Kaom later wore Lioneye's severed head on his belt.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Cultural Figures' > 'Kaom': 'slaughtering many Eternals, including his [[Marceus Lioneye]]'"
+        },
+        {
+          "source_id": "src_poewiki_general_marceus_lioneye",
+          "locator": "page 'General Marceus Lioneye', Purity Rebellion: 'Following this last stand and defeat at Lioneye's Watch, Kaom honoured Lioneye's efforts by wearing his severed head on his belt'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui__participates_in__event_death_of_kaom_highgate",
+      "source": "faction_karui",
+      "target": "event_death_of_kaom_highgate",
+      "relation": "participates_in",
+      "description": "Kaom, corrupted after the Purity Rebellion, slaughtered his own men and was sealed within Highgate; he had been lured there by the Beast's voice disguised as Tukohama.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Cultural Figures' > 'Kaom': 'slaughtering his own men ... before being sealed within [[Highgate]]'"
+        },
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "section on the Cataclysm/Highgate: 'Kaom had been lured to Highgate by the Beast/Malachai's voice disguised as Tukohama'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui__participates_in__event_great_wasting",
+      "source": "faction_karui",
+      "target": "event_great_wasting",
+      "relation": "participates_in",
+      "description": "The Karui call the apocalyptic age of horror and famine the Great Wasting; the Karui Ancestors were said to have first emerged during it.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'Azmeri/Ezomyte age' passage: '\"Great Wasting\" for the Karui, each with different accounts'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui__participates_in__event_trial_of_the_ancestors",
+      "source": "faction_karui",
+      "target": "event_trial_of_the_ancestors",
+      "relation": "participates_in",
+      "description": "The Karui tribes hold ritualistic combat in honour of their Ancestors, the Trial of the Ancestors, in the Halls of the Dead.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Afterlife': 'ritualistic combat in honor of the Ancestor, which they call the [[Trial of the Ancestors]]'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_order_of_the_djinn__participates_in__event_founding_of_order_of_djinn",
+      "source": "faction_order_of_the_djinn",
+      "target": "event_founding_of_order_of_djinn",
+      "relation": "participates_in",
+      "description": "The Order was founded in ancient times by the Maraketh and the Clayshaper (Ahkeli) to protect Wraeclast.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_order_of_the_djinn",
+          "locator": "lead paragraph: 'It was founded in ancient times by the [[Maraketh]] and [[the Clayshaper]]'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_order_of_the_djinn__created__artifact_starforge",
+      "source": "faction_order_of_the_djinn",
+      "target": "artifact_starforge",
+      "relation": "created",
+      "description": "The Order of the Djinn created the Starforge: Egrin forged it and Qianga delivered it to the Watchers of Decay.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_order_of_the_djinn",
+          "locator": "section 'Starforge and the sealing of the Elder' (scarab flavour texts)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_aldur__leads__faction_kalguuran",
+      "source": "char_aldur",
+      "target": "faction_kalguuran",
+      "relation": "leads",
+      "description": "Aldur was the first king of Kalguur and first Runefather, leading the Kalguuran people.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "expedition",
+        "kingsmarch"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "section 'Culture' > 'Runes': 'the first runes were crafted by Aldur, the first Runefather and the first king of Kalguur'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_cadigan_the_first__leads__faction_kalguuran",
+      "source": "char_cadigan_the_first",
+      "target": "faction_kalguuran",
+      "relation": "leads",
+      "description": "King Cadigan the First ruled Kalguur; the Triskelion Flame became a symbol of his authority.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "section 'Culture' > 'The Triskelion Flame': 'a symbol of authority for King Cadigan the First'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_king_cadigan_the_third__leads__faction_kalguuran",
+      "source": "char_king_cadigan_the_third",
+      "target": "faction_kalguuran",
+      "relation": "leads",
+      "description": "King Cadigan the Third ordered the first Kalguuran expedition to Wraeclast and banned virtue gems.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition",
+        "kingsmarch"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "section 'Culture' > 'The Triskelion Flame': 'the first expedition, ordered by King Cadigan the Third'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_vorana__member_of__faction_kalguuran",
+      "source": "char_vorana",
+      "target": "faction_kalguuran",
+      "relation": "member_of",
+      "description": "Vorana, leader of the Black Scythe mercenaries, is a Kalguuran of the historical Kalguur court.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition",
+        "kingsmarch"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "section 'Notable members' > 'Historical': '[[Vorana, Last to Fall]]'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_uhtred__member_of__faction_kalguuran",
+      "source": "char_uhtred",
+      "target": "faction_kalguuran",
+      "relation": "member_of",
+      "description": "Uhtred, High Priest of the Order of the Chalice, is a historical Kalguuran.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition",
+        "kingsmarch"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "section 'Notable members' > 'Historical': '[[Uhtred, Covetous Traitor]]'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_johan__member_of__faction_kalguuran",
+      "source": "char_johan",
+      "target": "faction_kalguuran",
+      "relation": "member_of",
+      "description": "Johan, the King's Hand, is a Kalguuran official sent by the King to Kingsmarch.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "section 'Notable members' > 'Current': '[[Johan, the King's Hand]]'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_kalguuran__participates_in__event_first_kalguuran_expedition",
+      "source": "faction_kalguuran",
+      "target": "event_first_kalguuran_expedition",
+      "relation": "participates_in",
+      "description": "The Kalguurans made their first expedition to Wraeclast, carrying the Triskelion Flame.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition",
+        "kingsmarch"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "section 'Culture' > 'The Triskelion Flame': 'brought to Wraeclast during the Kalguurans' first expedition'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_kalguuran__participates_in__event_kingsmarch_founding",
+      "source": "faction_kalguuran",
+      "target": "event_kingsmarch_founding",
+      "relation": "participates_in",
+      "description": "Kalguurans on Wraeclast developed the harbour town of Kingsmarch, which the King chartered.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "lead paragraph: 'several Kalguurans who have arrived on Wraeclast are seeking to develop the town of [[Kingsmarch]]'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_kalguuran__participates_in__event_triskelion_flame_lost",
+      "source": "faction_kalguuran",
+      "target": "event_triskelion_flame_lost",
+      "relation": "participates_in",
+      "description": "The Kalguurans lost the Triskelion Flame when it was stolen and its starlight barrier vanished.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "section 'Culture' > 'The Triskelion Flame': 'It was later stolen by Olroth, dooming the remaining members'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_kalguuran__participates_in__event_triskelion_flame_destroyed",
+      "source": "faction_kalguuran",
+      "target": "event_triskelion_flame_destroyed",
+      "relation": "participates_in",
+      "description": "The Kalguuran settler Dannig sought the Flame, which was destroyed in the fight against Olroth.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "section 'Culture' > 'The Triskelion Flame': 'ends up being destroyed as a result of an encounter with [[Olroth]]'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_kalguuran__participates_in__event_virtue_gem_ban",
+      "source": "faction_kalguuran",
+      "target": "event_virtue_gem_ban",
+      "relation": "participates_in",
+      "description": "King Cadigan the Third officially banned the collection of virtue gems in Kalguur.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "kingsmarch"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_kalguur",
+          "locator": "section 'Thaumaturgy': 'King Cadigan the Third had officially banned their collection'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_precursors__participates_in__event_precursor_cataclysm",
+      "source": "faction_precursors",
+      "target": "event_precursor_cataclysm",
+      "relation": "participates_in",
+      "description": "The Precursor civilisation, the only culture on Wraeclast to predate the Winter of the World, was wiped out by an unknown cataclysm.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "precursor",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "intro: 'an incredibly advanced precursor civilization existed, but was wiped out by an unknown cataclysm'; Precursor section: 'the only culture on Wraeclast to completely predate the Winter of the World'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_uzaza__leads__faction_primeval_civilization",
+      "source": "char_uzaza",
+      "target": "faction_primeval_civilization",
+      "relation": "leads",
+      "description": "Uzaza is named as the First King of the primeval civilisation, whose rings tell of the civilisation's beginnings in a cold climate.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_primeval_civilization",
+          "locator": "section 'Notable members': '[[The First King]]'; section '\"Uzaza's\" rings'"
+        },
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section on Wraeclast's ancient civilisations: Atalui's research reveals that 'their \"First King\" was called Uzaza'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_aul__leads__faction_primeval_civilization",
+      "source": "char_aul",
+      "target": "faction_primeval_civilization",
+      "relation": "leads",
+      "description": "Aul, the Crystal King, was the last king of the primeval civilisation.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "abyss",
+        "delve"
+      ],
+      "era": "precursor",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_primeval_civilization",
+          "locator": "section 'Notable members': '[[Aul, the Crystal King]] (The Last King)'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_primeval_civilization__participates_in__event_aul_uprising",
+      "source": "faction_primeval_civilization",
+      "target": "event_aul_uprising",
+      "relation": "participates_in",
+      "description": "The primeval civilisation was ruled by a tyrant, Putembo, until the slave Aul overthrew him (per Atalui, quoted by the wiki; the Aul page instead says Aul served an unnamed king).",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "Atalui's research (quoted in the Primeval civilization section): 'Aul overthrew a tyrant called Putembo'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_primeval_civilization__participates_in__event_aul_final_ritual",
+      "source": "faction_primeval_civilization",
+      "target": "event_aul_final_ritual",
+      "relation": "participates_in",
+      "description": "The primeval civilisation came to its end when Aul sealed his citadel in crystal in a final ritual.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_primeval_civilization",
+          "locator": "section 'Lore': 'came to its end when Aul performed a ritual that sealed his citadel in crystal'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_primeval_civilization__participates_in__event_fall_of_primeval_civilization",
+      "source": "faction_primeval_civilization",
+      "target": "event_fall_of_primeval_civilization",
+      "relation": "participates_in",
+      "description": "The primeval civilisation fell in the cataclysms that ended in Aul's crystal ritual.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "azmeri_ezomyte_ancient",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_primeval_civilization",
+          "locator": "section 'Lore': 'came to its end when Aul performed a ritual'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_alano_phrecia__leads__faction_phrecian_dynasty",
+      "source": "char_alano_phrecia",
+      "target": "faction_phrecian_dynasty",
+      "relation": "leads",
+      "description": "Alano Phrecia was crowned Emperor after defeating the dark being, founding the Phrecian line.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "Eternal Empire page, Phrecian succession (Alano Phrecia, founder of the line)"
+        }
+      ]
+    },
+    {
+      "id": "e_char_romira__leads__faction_phrecian_dynasty",
+      "source": "char_romira",
+      "target": "faction_phrecian_dynasty",
+      "relation": "leads",
+      "description": "Romira was a Phrecian ruler of the line descended from Alano Phrecia, deposed after Sarn burned.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "Eternal Empire page: 'Sarn was burned to the ground ... and Romira was desposed'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_tyndarus_phrecius__leads__faction_phrecian_dynasty",
+      "source": "char_tyndarus_phrecius",
+      "target": "faction_phrecian_dynasty",
+      "relation": "leads",
+      "description": "Tyndarus Phrecius was an emperor of the Phrecian line, who lost the Trarthan war of independence.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "mercenaries"
+      ],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_trarthus",
+          "locator": "history section: 'Tyndarus tried to send reinforcements to Trarthus'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_izaro__leads__faction_phrecian_dynasty",
+      "source": "char_izaro",
+      "target": "faction_phrecian_dynasty",
+      "relation": "leads",
+      "description": "Izaro was the last Phrecian emperor, who built the Lord's Labyrinth to choose a successor.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "labyrinth"
+      ],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "Eternal Empire page, Phrecian succession (Izaro, last Phrecian emperor)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_phrecian_dynasty__participates_in__event_trarthan_rebellion",
+      "source": "faction_phrecian_dynasty",
+      "target": "event_trarthan_rebellion",
+      "relation": "participates_in",
+      "description": "Phrecian legions occupied Trarthus, and the Phrecian dynasty executed the Trarthan warlords.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "mercenaries"
+      ],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_trarthus",
+          "locator": "history section: 'The rebellion was escalated into a war led by four first-generation Trarthans'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_phrecian_dynasty__participates_in__event_trarthan_war_of_independence",
+      "source": "faction_phrecian_dynasty",
+      "target": "event_trarthan_war_of_independence",
+      "relation": "participates_in",
+      "description": "The Phrecian dynasty fought the Trarthan war of independence and lost Trarthus: after two years Tyndarus capitulated and withdrew his legions.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_trarthus",
+          "locator": "history section: 'After two years, Tyndarus capitulated and withdrew his legions'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_phrecian_dynasty__participates_in__event_lords_labyrinth_opened",
+      "source": "faction_phrecian_dynasty",
+      "target": "event_lords_labyrinth_opened",
+      "relation": "participates_in",
+      "description": "Emperor Izaro opened the Lord's Labyrinth in 1317 IC to choose a successor.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_fall",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_eternal_empire",
+          "locator": "Eternal Empire page, Phrecian succession (Izaro built the Lord's Labyrinth)"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_exiles__participates_in__event_exile_sentenced",
+      "source": "faction_exiles",
+      "target": "event_exile_sentenced",
+      "relation": "participates_in",
+      "description": "Criminals of Oriath were sentenced by the Templar Church for sins and shipped to Wraeclast as exiles.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "post_cataclysm",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_letters_of_exile",
+          "locator": "page 'Letters of Exile': charges and sentences, 1597-1599 IC"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_exiles__participates_in__event_exiles_sentenced_to_wraeclast",
+      "source": "faction_exiles",
+      "target": "event_exiles_sentenced_to_wraeclast",
+      "relation": "participates_in",
+      "description": "The exiles of Wraeclast were sentenced by High Templar Dominus and shipped to Wraeclast.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "exile paragraph: 'The player character is one of many exiles who have received this sentence'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_exiles__participates_in__event_a1_shipwreck",
+      "source": "faction_exiles",
+      "target": "event_a1_shipwreck",
+      "relation": "participates_in",
+      "description": "Exiles were shipwrecked and washed up on the Twilight Strand.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "exile paragraph: 'Shipwrecked and washed up in the Twilight Strand'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_brinerot__participates_in__event_poe1_a6_kill_brine_king",
+      "source": "faction_brinerot",
+      "target": "event_poe1_a6_kill_brine_king",
+      "relation": "participates_in",
+      "description": "The Brinerot pirates worshipped the Brine King, whom the Exile killed at the reef in Act 6.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "main_plot",
+      "branches": [],
+      "era": "poe1_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_the_brine_king_quest",
+          "locator": "quest page: the Brine King encounter at the reef (Act 6)"
+        },
+        {
+          "source_id": "src_poewiki_god",
+          "locator": "entry 'Tsoagoth, The Brine King': 'He is the god of the Brinerot pirates'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_black_scythe__participates_in__event_first_kalguuran_expedition",
+      "source": "faction_black_scythe",
+      "target": "event_first_kalguuran_expedition",
+      "relation": "participates_in",
+      "description": "The Black Scythe mercenaries led by Vorana were part of the expedition to Wraeclast, providing its defence.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition",
+        "kingsmarch"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "logbook quote 'The Omen I & The Journey I': '[[Vorana]], Mercenary leader of the Black Scythe'"
+        }
+      ]
+    },
+    {
+      "id": "e_char_ratha_azadi__leads__faction_house_azadi",
+      "source": "char_ratha_azadi",
+      "target": "faction_house_azadi",
+      "relation": "leads",
+      "description": "Ratha Azadi founded House Azadi, one of the four Great Houses of Trarthus.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "mercenaries"
+      ],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_trarthus",
+          "locator": "section on the Great Houses: House Azadi as the Trarthan assassin monopoly"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_house_azadi__participates_in__event_trarthan_rebellion",
+      "source": "faction_house_azadi",
+      "target": "event_trarthan_rebellion",
+      "relation": "participates_in",
+      "description": "House Azadi, founded by Ratha Azadi, is one of the four Great Houses whose founders, the four first-generation Trarthans, led the rebellion against Phrecius.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "mercenaries"
+      ],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_trarthus",
+          "locator": "history section: 'four first-generation Trarthans, later known as the Great Founders'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_house_azadi__participates_in__event_trarthan_war_of_independence",
+      "source": "faction_house_azadi",
+      "target": "event_trarthan_war_of_independence",
+      "relation": "participates_in",
+      "description": "House Azadi took part in the Trarthan war of independence through its founder Ratha Azadi, one of the four Great Founders.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "eternal_empire_rise",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_trarthus",
+          "locator": "history section: 'war led by four first-generation Trarthans, later known as the Great Founders'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui_tribe_kitava__participates_in__event_trial_of_the_ancestors",
+      "source": "faction_karui_tribe_kitava",
+      "target": "event_trial_of_the_ancestors",
+      "relation": "participates_in",
+      "description": "The Kitava tribe takes part in the Trial of the Ancestors, the ritual combat of the Karui Ancestors.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Afterlife': 'ritualistic combat in honor of the Ancestor'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui_tribe_tasalio__participates_in__event_trial_of_the_ancestors",
+      "source": "faction_karui_tribe_tasalio",
+      "target": "event_trial_of_the_ancestors",
+      "relation": "participates_in",
+      "description": "The Tasalio tribe takes part in the Trial of the Ancestors, the ritual combat of the Karui Ancestors.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "league_storylines",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_karui",
+          "locator": "section 'Afterlife': 'ritualistic combat in honor of the Ancestor'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_karui_tribe_tasalio__participates_in__event_poe2_tasalios_test",
+      "source": "faction_karui_tribe_tasalio",
+      "target": "event_poe2_tasalios_test",
+      "relation": "participates_in",
+      "description": "Tasalio's Test, one of the Tests of Mettle in the Halls of the Dead, honours the Karui Ancestor Tasalio, whom the Tasalio tribe is grouped under.",
+      "games": [
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "ancestor"
+      ],
+      "era": "poe2_campaign",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poe2wiki_tasalio_s_test",
+          "locator": "quest page: 'This specific Quest and Test is started by entering Tasalio's Test within the Halls of the Dead'; tribe grouping from Karui page: tribes are grouped by the Ancestor they worship"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_knights_of_the_sun__participates_in__event_first_kalguuran_expedition",
+      "source": "faction_knights_of_the_sun",
+      "target": "event_first_kalguuran_expedition",
+      "relation": "participates_in",
+      "description": "The Knights of the Sun, led by Olroth, joined the first expedition to Wraeclast.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "branch",
+      "branches": [
+        "expedition",
+        "kingsmarch"
+      ],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "logbook quote 'The Omen I & The Journey I': 'The trip was led by [[Olroth]], leader of the Knights of the Sun'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_citizen_vanguard__participates_in__event_atlas_call_to_arms",
+      "source": "faction_citizen_vanguard",
+      "target": "event_atlas_call_to_arms",
+      "relation": "participates_in",
+      "description": "The Citizen Vanguard, under Commander Kirac, commissioned the Exile to aid them on the Atlas.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "endgame_plot",
+      "branches": [],
+      "era": "poe1_atlas",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_a_call_to_arms",
+          "locator": "page 'A Call to Arms': the Exile is commissioned by Kirac to aid the Citizen Vanguard"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_vaal_survivors__participates_in__event_vaal_cataclysm",
+      "source": "faction_vaal_survivors",
+      "target": "event_vaal_cataclysm",
+      "relation": "participates_in",
+      "description": "The Vaal Empire ended in the Vaal Cataclysm; only 3,126 Vaal survived, and they sought refuge with the Azmeri.",
+      "games": [
+        "poe1",
+        "poe2"
+      ],
+      "plot_role": "background",
+      "branches": [
+        "incursion"
+      ],
+      "era": "vaal",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'The Vaal Cataclysm': 'only 3,126 survived to seek refuge with the nearby Azmeri'"
+        }
+      ]
+    },
+    {
+      "id": "e_faction_vaal_survivors__participates_in__event_vaal_survivors_assimilate",
+      "source": "faction_vaal_survivors",
+      "target": "event_vaal_survivors_assimilate",
+      "relation": "participates_in",
+      "description": "The surviving Vaal sought refuge with the Azmeri and over time assimilated into the Azmeri population until no Vaal remained.",
+      "games": [
+        "poe1"
+      ],
+      "plot_role": "background",
+      "branches": [],
+      "era": "post_vaal_dark_age",
+      "sequence": null,
+      "canon_status": "canon",
+      "confidence": "medium",
+      "sources": [
+        {
+          "source_id": "src_poewiki_history_of_wraeclast",
+          "locator": "section 'The Vaal Cataclysm' aftermath: 'Over time, they assimilated into the Azmeri population until no Vaal remained'"
+        }
+      ]
+    }
+  ]
+}

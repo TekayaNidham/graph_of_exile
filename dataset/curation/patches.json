@@ -432,6 +432,21 @@
     "chronology.story_order": 1603
    },
    "reason": "pin after merging duplicate quest node The Father of War"
+  },
+  {
+   "id": "era_league_storylines",
+   "fields": {
+    "name": "League storylines (PoE1 \u2192 PoE2)",
+    "summary": "Era bucket for league and side storylines. They begin alongside the first Exile's journey, and many continue into Path of Exile 2 (e.g. Kingsmarch, Breach, Ritual, Expedition, Abyss), which is the continuation of the same world twenty years later."
+   },
+   "reason": "user review: leagues are not PoE1-only; PoE2 continues PoE1"
+  },
+  {
+   "id": "era_poe1",
+   "fields": {
+    "summary": "Umbrella for the PoE1-era buckets: the Acts 1-10 campaign and Epilogue (era_poe1_campaign), the Atlas storylines (era_poe1_atlas) and the league storylines that begin alongside them (era_league_storylines, many of which continue into PoE2). Meta grouping only; no in-world event."
+   },
+   "reason": "era renamed to league_storylines"
   }
  ],
  "remove_edge": [

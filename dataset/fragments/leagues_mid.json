@@ -577,7 +577,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "3.6.0 'Path of Exile: Synthesis', 2019-03-08 to 2019-06-03",
@@ -609,7 +609,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "3.8.0 'Path of Exile: Blight', 2019-09-06 to 2019-12-09",
@@ -641,7 +641,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "3.9.0 'Conquerors of the Atlas', 2019-12-13 to 2020-03-09",
@@ -673,7 +673,7 @@
       "branches": [
         "delirium"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "3.10.0 'Path of Exile: Delirium', 2020-03-13 to 2020-06-15",
@@ -705,7 +705,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "3.11.0 'Path of Exile: Harvest', 2020-06-19 to 2020-09-14",
@@ -737,7 +737,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "3.12.0 'Path of Exile: Heist', 2020-09-18 to 2021-01-11",
@@ -769,7 +769,7 @@
       "branches": [
         "ritual"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "3.13.0 'Echoes of the Atlas', 2021-01-15 to 2021-04-12",
@@ -801,7 +801,7 @@
       "branches": [
         "ultimatum"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "3.14.0 'Path of Exile: Ultimatum', 2021-04-16 to 2021-07-19",
@@ -833,7 +833,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "3.15.0 'Path of Exile: Expedition', 2021-07-23 to 2021-10-18",
@@ -865,7 +865,7 @@
       "branches": [
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "3.16.0 'Path of Exile: Scourge', 2021-10-22 to 2022-02-01",
@@ -897,7 +897,7 @@
       "branches": [
         "archnemesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "3.17.0 'Siege of the Atlas', 2022-02-04 to 2022-05-10",
@@ -929,7 +929,7 @@
       "branches": [
         "sentinel"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "3.18.0 'Path of Exile: Sentinel', 2022-05-13 to 2022-08-16",
@@ -961,7 +961,7 @@
       "branches": [
         "kalandra"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "3.19.0 'Path of Exile: Lake of Kalandra', 2022-08-19 to 2022-12-06",
@@ -1050,7 +1050,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1083,7 +1083,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1117,7 +1117,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1147,7 +1147,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1181,7 +1181,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "Past of the Templar Laboratory, shortly before Valdo's imprisonment",
@@ -1216,7 +1216,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1248,7 +1248,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1281,7 +1281,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1315,7 +1315,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1349,7 +1349,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1413,7 +1413,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1473,7 +1473,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1503,7 +1503,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1535,7 +1535,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1604,7 +1604,7 @@
       "branches": [
         "delirium"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1638,7 +1638,7 @@
       "branches": [
         "delirium"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1668,7 +1668,7 @@
       "branches": [
         "delirium"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1744,7 +1744,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1774,7 +1774,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": "Before PoE1 campaign (undated)",
@@ -1806,7 +1806,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1842,7 +1842,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1912,7 +1912,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1948,7 +1948,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -1985,7 +1985,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2025,7 +2025,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2059,7 +2059,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2096,7 +2096,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2133,7 +2133,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2174,7 +2174,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2211,7 +2211,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2244,7 +2244,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2274,7 +2274,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2304,7 +2304,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2336,7 +2336,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2368,7 +2368,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2402,7 +2402,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2465,7 +2465,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2499,7 +2499,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2533,7 +2533,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2564,7 +2564,7 @@
       "branches": [
         "ritual"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2911,7 +2911,7 @@
         "ultimatum",
         "trial_of_chaos"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2949,7 +2949,7 @@
       "branches": [
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -2987,7 +2987,7 @@
       "branches": [
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -3021,7 +3021,7 @@
       "branches": [
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -3052,7 +3052,7 @@
         "scourge",
         "beyond"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -3085,7 +3085,7 @@
         "scourge",
         "beyond"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -3118,7 +3118,7 @@
         "scourge",
         "beyond"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -3151,7 +3151,7 @@
         "scourge",
         "beyond"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -3181,7 +3181,7 @@
       "branches": [
         "archnemesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -3211,7 +3211,7 @@
       "branches": [
         "sentinel"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -3316,7 +3316,7 @@
       "branches": [
         "kalandra"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -3382,7 +3382,7 @@
       "branches": [
         "kalandra"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -3413,7 +3413,7 @@
       "branches": [
         "kalandra"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -3684,7 +3684,7 @@
         "expedition",
         "kingsmarch"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -4233,7 +4233,7 @@
         "expedition",
         "kingsmarch"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -4272,7 +4272,7 @@
         "expedition",
         "kingsmarch"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -4311,7 +4311,7 @@
         "expedition",
         "kingsmarch"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -4349,7 +4349,7 @@
         "expedition",
         "kingsmarch"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -4383,7 +4383,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -4415,7 +4415,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -4523,7 +4523,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -4560,7 +4560,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "chronology": {
         "in_world_year": null,
         "relative": null,
@@ -4591,7 +4591,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -4619,7 +4619,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -4647,7 +4647,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -4675,7 +4675,7 @@
       "branches": [
         "delirium"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -4703,7 +4703,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -4731,7 +4731,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -4759,7 +4759,7 @@
       "branches": [
         "ritual"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -4787,7 +4787,7 @@
       "branches": [
         "ultimatum"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -4815,7 +4815,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -4843,7 +4843,7 @@
       "branches": [
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -4871,7 +4871,7 @@
       "branches": [
         "archnemesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -4899,7 +4899,7 @@
       "branches": [
         "sentinel"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -4927,7 +4927,7 @@
       "branches": [
         "kalandra"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -4956,7 +4956,7 @@
       "branches": [
         "ritual"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5055,7 +5055,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "dev_statement",
       "confidence": "medium",
@@ -5077,7 +5077,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "dev_statement",
       "confidence": "medium",
@@ -5099,7 +5099,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "dev_statement",
       "confidence": "medium",
@@ -5121,7 +5121,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "dev_statement",
       "confidence": "medium",
@@ -5143,7 +5143,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "dev_statement",
       "confidence": "medium",
@@ -5165,7 +5165,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "dev_statement",
       "confidence": "medium",
@@ -5187,7 +5187,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "dev_statement",
       "confidence": "medium",
@@ -5209,7 +5209,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "dev_statement",
       "confidence": "medium",
@@ -5231,7 +5231,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "dev_statement",
       "confidence": "medium",
@@ -5253,7 +5253,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "dev_statement",
       "confidence": "medium",
@@ -5275,7 +5275,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "dev_statement",
       "confidence": "medium",
@@ -5297,7 +5297,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "dev_statement",
       "confidence": "medium",
@@ -5319,7 +5319,7 @@
       ],
       "plot_role": "meta",
       "branches": [],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "dev_statement",
       "confidence": "medium",
@@ -5343,7 +5343,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5367,7 +5367,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5391,7 +5391,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5415,7 +5415,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5443,7 +5443,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -5467,7 +5467,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5491,7 +5491,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5515,7 +5515,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5539,7 +5539,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5563,7 +5563,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5587,7 +5587,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5611,7 +5611,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -5639,7 +5639,7 @@
       "branches": [
         "synthesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5663,7 +5663,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5687,7 +5687,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5711,7 +5711,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -5759,7 +5759,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -5783,7 +5783,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5807,7 +5807,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -5835,7 +5835,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -5907,7 +5907,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "inferred",
       "confidence": "medium",
@@ -5935,7 +5935,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "inferred",
       "confidence": "medium",
@@ -5959,7 +5959,7 @@
       "branches": [
         "blight"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -5983,7 +5983,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6011,7 +6011,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6083,7 +6083,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6107,7 +6107,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6131,7 +6131,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6155,7 +6155,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6179,7 +6179,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -6203,7 +6203,7 @@
       "branches": [
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -6275,7 +6275,7 @@
       "branches": [
         "delirium"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6299,7 +6299,7 @@
       "branches": [
         "delirium"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6323,7 +6323,7 @@
       "branches": [
         "delirium"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6347,7 +6347,7 @@
       "branches": [
         "delirium"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -6372,7 +6372,7 @@
       "branches": [
         "delirium"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -6455,7 +6455,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6483,7 +6483,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6507,7 +6507,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -6531,7 +6531,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -6555,7 +6555,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6579,7 +6579,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6603,7 +6603,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6627,7 +6627,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6651,7 +6651,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "inferred",
       "confidence": "medium",
@@ -6676,7 +6676,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "community_theory",
       "confidence": "low",
@@ -6704,7 +6704,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6728,7 +6728,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6752,7 +6752,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -6776,7 +6776,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -6800,7 +6800,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6824,7 +6824,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6848,7 +6848,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6872,7 +6872,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "inferred",
       "confidence": "medium",
@@ -6896,7 +6896,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6920,7 +6920,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -6944,7 +6944,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6968,7 +6968,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -6992,7 +6992,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -7016,7 +7016,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -7040,7 +7040,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7064,7 +7064,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7088,7 +7088,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7112,7 +7112,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7136,7 +7136,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7160,7 +7160,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7184,7 +7184,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7208,7 +7208,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7232,7 +7232,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7256,7 +7256,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7280,7 +7280,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7304,7 +7304,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7328,7 +7328,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7352,7 +7352,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7376,7 +7376,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7400,7 +7400,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7424,7 +7424,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7448,7 +7448,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -7472,7 +7472,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -7496,7 +7496,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -7520,7 +7520,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -7544,7 +7544,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -7568,7 +7568,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -7616,7 +7616,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -7644,7 +7644,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "low",
@@ -7694,7 +7694,7 @@
         "kalandra",
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7718,7 +7718,7 @@
       "branches": [
         "ritual"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -7743,7 +7743,7 @@
       "branches": [
         "ritual"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7795,7 +7795,7 @@
       "branches": [
         "affliction"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7870,7 +7870,7 @@
       "branches": [
         "ultimatum"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7899,7 +7899,7 @@
       "branches": [
         "ultimatum"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -7928,7 +7928,7 @@
       "branches": [
         "ultimatum"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -7952,7 +7952,7 @@
       "branches": [
         "ultimatum"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8075,7 +8075,7 @@
       "branches": [
         "ultimatum"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8099,7 +8099,7 @@
       "branches": [
         "ultimatum"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8147,7 +8147,7 @@
       "branches": [
         "ultimatum"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8195,7 +8195,7 @@
       "branches": [
         "ultimatum"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -8293,7 +8293,7 @@
       "branches": [
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8317,7 +8317,7 @@
       "branches": [
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8341,7 +8341,7 @@
       "branches": [
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8389,7 +8389,7 @@
       "branches": [
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8413,7 +8413,7 @@
       "branches": [
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8438,7 +8438,7 @@
         "scourge",
         "beyond"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -8462,7 +8462,7 @@
       "branches": [
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -8487,7 +8487,7 @@
         "scourge",
         "beyond"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -8511,7 +8511,7 @@
       "branches": [
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -8536,7 +8536,7 @@
         "scourge",
         "beyond"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -8560,7 +8560,7 @@
       "branches": [
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -8585,7 +8585,7 @@
         "scourge",
         "beyond"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -8609,7 +8609,7 @@
       "branches": [
         "archnemesis"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8633,7 +8633,7 @@
       "branches": [
         "sentinel"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8681,7 +8681,7 @@
       "branches": [
         "kalandra"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8705,7 +8705,7 @@
       "branches": [
         "kalandra"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8777,7 +8777,7 @@
       "branches": [
         "kalandra"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -8801,7 +8801,7 @@
       "branches": [
         "kalandra"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -8826,7 +8826,7 @@
       "branches": [
         "kalandra"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -8908,7 +8908,7 @@
         "kalandra",
         "metamorph"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -8933,7 +8933,7 @@
         "kalandra",
         "scourge"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -8959,7 +8959,7 @@
         "kalandra",
         "delirium"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "inferred",
       "confidence": "medium",
@@ -8984,7 +8984,7 @@
         "kalandra",
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "low",
@@ -9201,7 +9201,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -9400,7 +9400,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -9506,7 +9506,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -9608,7 +9608,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -9710,7 +9710,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -9959,7 +9959,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -9984,7 +9984,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10008,7 +10008,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10032,7 +10032,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10057,7 +10057,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10081,7 +10081,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10105,7 +10105,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10130,7 +10130,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10154,7 +10154,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10178,7 +10178,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10203,7 +10203,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10227,7 +10227,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10327,7 +10327,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -10351,7 +10351,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -10375,7 +10375,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "inferred",
       "confidence": "low",
@@ -10399,7 +10399,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10423,7 +10423,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -10447,7 +10447,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10471,7 +10471,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10499,7 +10499,7 @@
       "branches": [
         "expedition"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10525,7 +10525,7 @@
         "expedition",
         "kingsmarch"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "medium",
@@ -10654,7 +10654,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10678,7 +10678,7 @@
       "branches": [
         "harvest"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10702,7 +10702,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10726,7 +10726,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",
@@ -10750,7 +10750,7 @@
       "branches": [
         "heist"
       ],
-      "era": "poe1_leagues",
+      "era": "league_storylines",
       "sequence": null,
       "canon_status": "canon",
       "confidence": "high",

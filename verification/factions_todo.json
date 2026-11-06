@@ -1,0 +1,652 @@
+{
+ "g1": [
+  {
+   "id": "faction_karui",
+   "name": "Karui",
+   "summary": "Seafaring warrior people of the southern archipelago. Under King Kaom they allied with Voll's Purity Rebellion, took Lioneye's Watch and founded the first Karui settlement on the mainland; Kaom later fell at Highgate. The Empire had enslaved Karui under Chitus.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_order_of_the_djinn",
+   "name": "Order of the Djinn",
+   "summary": "Secret society founded in ancient times by the Maraketh and the Clayshaper (Ahkeli) that protects Wraeclast from calamity and guards dangerous artefacts (Forbidden Vaults near the Oasis, Act 9); takes one orphan from each culture. Members forged and delivered the Starforge to the Watchers of Decay (",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_kalguuran",
+   "name": "Kalguuran settlers",
+   "summary": "Runesmith people of Middengard who built Kingsmarch (Rog, Tujen, Dannig, Gwennen), led by the Cadigan kings; PoE1 Settlers of Kalguur continues into PoE2 Act 4.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_precursors",
+   "name": "Precursors",
+   "summary": "Technologically superior ancient civilisation that wholly predates the Winter of the World; mastered corruption, built the Towers (terraforming), the Precursor Weapon and the Arbiter of Ash, then triggered cataclysms of fire, eruptions and sky-impacts. Pictographs read 'Death lies within'.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_warbands",
+   "name": "Warbands (Redblade, Brinerot, Mutewind)",
+   "summary": "Three roaming warring clans of Warbands league (2.0.0) with leaders and elites: Redblade, Brinerot, Mutewind; members Korell Goya, Guff Grenn, Rin Yuushu later joined the Syndicate.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_primeval_civilization",
+   "name": "Primeval Civilization (\"Proto-Vaal\")",
+   "summary": "Ancient civilisation preceding the Vaal, unearthed in the Azurite Mine; the name \"Proto-Vaal\" is an internal term never used in-game and no link to the Vaal is established.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_phrecian_dynasty",
+   "name": "Phrecian dynasty",
+   "summary": "Unbroken line of emperors descended from Alano Phrecia, who founded the line after killing the 'dark being' in 35 IC. It ran from Alano through Romira and Tyndarus to Izaro, who was childless.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_exiles",
+   "name": "Exiles of Wraeclast",
+   "summary": "Convicted Oriathans banished to Wraeclast; survive at Lioneye's Watch and later camps.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_pale_council",
+   "name": "The Pale Council",
+   "summary": "Group of four Pale Court bosses (Yriel, Eber, Volkuur and Inya) fought through the Prophecy system; the wiki says the Pale Council fight no longer exists after 3.17.0. In the wiki's in-world history the Pale Council were rulers of an unidentified people, likely the Karui.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_brinerot",
+   "name": "Brinerot",
+   "summary": "Pirate/whaler warband of the sea whose corsairs ambush chart-seekers; their Shamanessa Velka traffics with the dead.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_black_scythe",
+   "name": "Black Scythe",
+   "summary": "Kalguuran mercenaries (mostly crossbow arbalists) led by Vorana, responsible for the expedition's defence and offence. Their artifacts are the currency of the Expedition NPC Tujen.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_house_azadi",
+   "name": "House Azadi",
+   "summary": "Trarthan Great House. Contract-assassin monopoly.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_karui_tribe_kitava",
+   "name": "Kitava tribe",
+   "summary": "Karui tribe that honours the Karui Ancestor Kitava and is led by the chieftain Utula; each tribe offers a unique item in the Trial of the Ancestors.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_karui_tribe_tasalio",
+   "name": "Tasalio tribe",
+   "summary": "Karui tribe that honours the Karui Ancestor Tasalio and is led by the chieftain Rakiata; each tribe offers a unique item in the Trial of the Ancestors.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_knights_of_the_sun",
+   "name": "Knights of the Sun",
+   "summary": "Warriors and military enforcers under direct orders of the King, led by Olroth.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_citizen_vanguard",
+   "name": "Citizen Vanguard",
+   "summary": "Force Kirac leads to defend Wraeclast against coming darkness; over 800 died against Sirus in Siege timeline.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_redblades",
+   "name": "Redblades",
+   "summary": "Human tribe descended from those who settled the Titans' volcanoes; they ritually sacrifice humans to the Molten One, possibly because a Titan destroyed an outpost of El'Abin.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_caaltu",
+   "name": "The Caaltu",
+   "summary": "A civilisation that existed in Kahuturoa's time (Vastiri still forest, Vaal extant, Oriath recently founded, Ezomyr not yet struck by plague) and was only a memory by Maata's time. Little else is known.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_necropolis_house_veruso",
+   "name": "House Veruso (Necropolis dead)",
+   "summary": "One of five Eternal Empire-era families whose haunted dead (four members each) can be buried in the Necropolis to grave-craft the unique 'Veruso's Ambition'.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_vaal_survivors",
+   "name": "Vaal survivors / Savage tribes heirs",
+   "summary": "The 3,126 survivors who merged into Azmeri tribes; later Azmeri/Karui cultures inherit Vaal remnants. Descendants of Vaal blood persist (e.g. Alva Valai; the Cuachic).",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  }
+ ],
+ "g2": [
+  {
+   "id": "faction_maraketh",
+   "name": "Maraketh",
+   "summary": "Desert people of the Vastiri led by Sekhemas, living in akhara (tribes). In 1333 IC Sekhema Deshret joined the Purity Rebellion in exchange for the return of the Vastiri Plains; later, Deshret sealed the Highgate mines. A large tribe lives at Highgate in PoE1; the Ardura akhara and Sekhema Asala app",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_templar",
+   "name": "Order of the Templar",
+   "summary": "Theocratic order led by a High Templar that worships Innocence. Within the Eternal Empire it produced figures such as High Templars Andronicus and Voll; after the Cataclysm it governed the unaffected island of Oriath as the Templar Theocracy, with Dominus and Avarius as its PoE1-era High Templars.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_twilight_order",
+   "name": "The Twilight Order",
+   "summary": "Secret order, concealed for countless centuries, that rebuilt Oriath while the world believed it abandoned. It aims to free mankind from the 'tyranny of the gods' and build a god-free 'Utopia'; behind the scenes it is plotting to create a new Beast and trigger another Cataclysm. Led by the Countess ",
+   "games": [
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_the_ring",
+   "name": "The Ring",
+   "summary": "Rogue guild that runs the Rogue Harbour and fulfils Heist contracts for clients such as Administrator Qotra and the Crimson Scribe. The Count Geonor passage in the wiki says he contracted the Ring. Its leader is referred to only as 'the Boss'.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_cuachic",
+   "name": "The Cuachic",
+   "summary": "Isolated Vaal remnant in Mount Kriar's vault, living under strict control for generations; recruited by Doryani's phrase in PoE2 Interlude.",
+   "games": [
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_three_sisters",
+   "name": "The Three Sisters",
+   "summary": "Cross-cultural myth of the sun, moon and earth sisters who destroyed Kulemak's mortal form and ended the Winter of the World; named differently by Eternals, Maraketh, Karui, Azmeri and the Wildwood Draiocht (Catha, Mhacha, Morrigan).",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_gemling_legion",
+   "name": "Gemling Legion",
+   "summary": "Elite legions of the Eternal Empire created by Malachai: legionnaires infused with virtue gems, led by Captains, which gave the Empire military dominance. Chitus carried a master gem whose heartbeat bound every gemling to his own, so they fell when he died; survivors were transformed by the Cataclys",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_godless_three",
+   "name": "The Godless Three",
+   "summary": "Three thaumaturgists trained by Malachai: Shavronne of Umbra, Maligaro the Inquisitor and Doedre Darktongue. Maligaro and Doedre were burned by Voll; Malachai later revived all three to guard his heart, lungs and entrails.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_vaal_architects",
+   "name": "The Royal Architects of Atzoatl",
+   "summary": "Group of Vaal architects serving Atziri who built the Temple; Incursion has Vaal Architect mini-bosses. PoE2 Medallion flavour names Architects of the Guild, Vault, Destruction, Hoard, Forge and Nexus and associates Quipolatl, Puhuarte, Juatalotli, Hayoxi, Estazunti with them.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_cultists_of_kitava",
+   "name": "Cultists of Kitava",
+   "summary": "Followers of Kitava who plunder refugee ships fleeing Oriath, flood Oriath after its fall (Vilenta lets them into the Overseer's Tower) and hunt for food for their god; the drowned they leave behind wash ashore at the Twilight Strand.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_brotherhood_of_silence",
+   "name": "Brotherhood of Silence",
+   "summary": "Assassins-for-hire based primarily in Sarn, also called the Silent Brotherhood. The wiki says it acted as a hit squad for many of the Eternal Empire's elite (business with Cadiro and the Perandus family), framed Jorgin for his brother's death so he was exiled from Ogham, and surrounded Drusus in the",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_house_cyaxan",
+   "name": "House Cyaxan",
+   "summary": "Trarthan Great House. Drug trade, criminal syndicate and mass virtue gem implantation.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_karui_tribe_ngamahu",
+   "name": "Ngamahu tribe",
+   "summary": "Karui tribe that honours the Karui Ancestor Ngamahu and is led by the chieftain Kaom; each tribe offers a unique item in the Trial of the Ancestors.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_karui_tribe_tawhoa",
+   "name": "Tawhoa tribe",
+   "summary": "Karui tribe that honours the Karui Ancestor Tawhoa and is led by the chieftain Maata; each tribe offers a unique item in the Trial of the Ancestors.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_order_of_the_chalice",
+   "name": "Order of the Chalice",
+   "summary": "Kalguuran priesthood (Priests of the Chalice) that interpreted the stars and mastered alchemy, machinery and runes; Uhtred was its High Priest.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_meridian_free_traders",
+   "name": "Meridian Free Traders",
+   "summary": "Trade guild that sent Raulf to assist executing the Kingsmarch charter; in PoE2 it controls boat charters (Makoru captains the Aurora May under it).",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_runefathers",
+   "name": "Runefathers",
+   "summary": "Aldur's chosen apprentices and artisans of runesmithing; forged the Triskelion Flame to reunite fractured Middengard.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_necropolis_house_grattus",
+   "name": "House Grattus (Necropolis dead)",
+   "summary": "One of five Eternal Empire-era families whose haunted dead (four members each) can be buried in the Necropolis to grave-craft the unique 'Grattus Signet'.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_priests_of_the_chalice",
+   "name": "Priests of the Chalice",
+   "summary": "Religious order that read the stars and mastered alchemy, machinery and runes.",
+   "games": [
+    "poe1"
+   ]
+  }
+ ],
+ "g3": [
+  {
+   "id": "faction_vaal",
+   "name": "The Vaal",
+   "summary": "Oldest identified civilisation of Wraeclast and in its heyday its most powerful nation; first known users of virtue gems, practitioners of mass blood sacrifice and slavery. All but 3,126 died in the Vaal Cataclysm; survivors assimilated into the Azmeri.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_immortal_syndicate",
+   "name": "The Immortal Syndicate",
+   "summary": "Group of resurrected criminals and the missing forsaken masters under Catarina (the Mastermind), with 17 other members in four divisions (Transportation, Fortification, Research, Intervention); aims to become the ruling power in Wraeclast. Jun believes (not confirmed) the Horns of Kulamac give them ",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_purity_rebellion",
+   "name": "Purity Rebellion",
+   "summary": "Coalition led by High Templar Voll of Thebrus against Chitus' gem-and-thaumaturgy 'thaumatocracy'. Its supporters included Victario, Ondar, Geofri, Kastov and Adus, with Ezomyte, Karui and Maraketh allies.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_ezomyte",
+   "name": "Ezomytes",
+   "summary": "Clan people of Ezomyr, subjugated and enslaved by the Eternal Empire. Thane Rigwald rallied them in the Bloody Flowers Rebellion of 1333 IC and they joined the siege of Sarn.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_keepers_of_the_flame",
+   "name": "Keepers of the Flame (Order of the Purple Flame)",
+   "summary": "Monastic order founded by Ailith after her visions of the Dreamer; they train in the Monastery to defend Wraeclast against the Hiveborn and tend the Genesis Tree. The PoE2 wiki calls it the Order of the Purple Flame; the Monk class belongs to it. It is a taboo among them to speak the Dreamer's true ",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_trarthans",
+   "name": "Trarthans",
+   "summary": "People of Trarthus descended from Eternal Empire exiles and slaves, led by four Great Houses.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_maji",
+   "name": "The Maji",
+   "summary": "Azmeri vanguard chosen when the Wildwood was made; they purge the Nameless and fight the King in the Mists, forbidden from touching virtue gems ('Tears of the Maji').",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_house_bardiya",
+   "name": "House Bardiya",
+   "summary": "Trarthan Great House. Financiers; Merchant Council with greatest control today.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_afarud",
+   "name": "The Afarud",
+   "summary": "Rogue Faridun sect that torments djinn; led by figures such as Ridan, Afarud Commander.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_slave_rebellion",
+   "name": "Karui Slave Rebellion",
+   "summary": "Rebellion of enslaved Karui in Oriath led by Utula.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_druids_of_skothe",
+   "name": "Druids of Skothe",
+   "summary": "Ancient order that venerated the Azmeri Draiocht and practised the mystic arts of the Maji; the Druid (an Ezomyte) was once a member. Wiped out by the King in the Mists and his cultists, who deceived them by disguising himself as a Maji of the old.",
+   "games": [
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_karui_tribe_arohongui",
+   "name": "Arohongui tribe",
+   "summary": "Karui tribe that honours the Karui Ancestor Arohongui and is led by the chieftain Ikiaho; each tribe offers a unique item in the Trial of the Ancestors.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_karui_tribe_ramako",
+   "name": "Ramako tribe",
+   "summary": "Karui tribe that honours the Karui Ancestor Ramako and is led by the chieftain Ahuana; each tribe offers a unique item in the Trial of the Ancestors.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_karui_tribe_tukohama",
+   "name": "Tukohama tribe",
+   "summary": "Karui tribe that honours the Karui Ancestor Tukohama and is led by the chieftain Akoya; each tribe offers a unique item in the Trial of the Ancestors.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_the_crimson_scribe",
+   "name": "The Crimson Scribe",
+   "summary": "Society named as the client on Heist contracts targeting the Seal of Solaris, Seal of Lunaris, Ez Myrae Tome, Staff of the First Sin Eater and Golden Ibis; its targets indicate interest in the Winter of the World and the primeval civilization.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_mutewind",
+   "name": "Mutewind (warband)",
+   "summary": "One of the three Warbands in Warbands league, alongside Brinerot and Redblades; the wiki calls them the Peak-dwellers. Their outcast Qianga delivered the Starforge to the Watchers of Decay for the Order of the Djinn. Mutewind Warbands also appear as bosses in the Delve map Frozen Hollow.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_vox_family",
+   "name": "Vox family",
+   "summary": "Oriathan nobility that became a criminal enterprise; the wiki describes the twins Vic and Vinny Vox using coercion, blackmail and violence to hold a place at the centre of Oriath business and social life. Descended from Cardinal Sanctus Vox.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_necropolis_house_nevalius",
+   "name": "House Nevalius (Necropolis dead)",
+   "summary": "One of five Eternal Empire-era families whose haunted dead (four members each) can be buried in the Necropolis to grave-craft the unique 'Nevalius Inheritance'.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_remembrancers",
+   "name": "Remembrancers",
+   "summary": "Kalguuran scribes who documented the explorations; the Prime Remembrancer's logbooks tell the expedition's fall.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  }
+ ],
+ "g4": [
+  {
+   "id": "faction_eternal_empire",
+   "name": "Eternal Empire",
+   "summary": "Oriathan/imperial civilisation, also called the Sarn Empire, founded in 1 IC by Azmeri migrants under Tarcus Veruso on the ruins of the Vaal capital. Ruled by Emperors from Sarn, it held most of central Wraeclast with a Roman-style legion system until the Cataclysm (c. 1339 IC) destroyed it; Oriath ",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_azmeri",
+   "name": "Azmeri",
+   "summary": "Ancient tribal people of the Azmerian ranges who worship Solaris, Lunaris, Viridi and others. Eighty thousand of them under Tarcus Veruso descended into the former Vaal lands and founded the Eternal Empire in 1 IC; the Azmeri of the Forest Encampment and the Wildwood descend from those who stayed be",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_faridun",
+   "name": "Faridun",
+   "summary": "Maraketh rejects (flawed or mutated newborns left in the dunes) raised by wandering Faridun tribes in the Vastiri, who accept necromancy and long for reunification with the akharas. In PoE2 Act 2 the Countess recruits them with the promise of resurrecting Jamanra.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_ebony_legion",
+   "name": "Ebony Legion / Blackguards",
+   "summary": "Dominus's Templar soldiers: Ebony Legion and Blackguards who enforce Oriath's rule and hunt in Wraeclast.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_lightless",
+   "name": "The Lightless",
+   "summary": "Necromantic army of possessed golems created by Kulemak, led by Abyssal Liches; ended the primeval civilisation.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_elderslayers",
+   "name": "The Elderslayers",
+   "summary": "Group Zana assembled to hunt the Elder: Baran, Veritania, Drox, Al-Hezmin, led by Sirus. They became the Conquerors of the Atlas after going mad.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_perandus_family",
+   "name": "Perandus family",
+   "summary": "Wealthiest merchant-lender family of the Eternal Empire (motto 'With piety and justice'). Blocked from the throne by the Phrecians, they rigged Izaro's Labyrinth so Chitus Perandus won; Cadiro looted the treasury before the fall. Descendants include Syndicate member Janus Perandus.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_house_keita",
+   "name": "House Keita",
+   "summary": "Trarthan Great House. Slave armies, flesh pits; failed to become a god; founded Korathin 872 IC.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_bandit_lords",
+   "name": "Bandit Lords",
+   "summary": "Three rival exile bandit leaders extorting the Forest Encampment.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_watchers_of_decay",
+   "name": "Watchers of Decay",
+   "summary": "Ancient organisation of parents founded when a nameless god told an Azmeri mother whose child was stolen about the Elder. They forged Starforge to subdue it by separating form and spirit. Their Map Device (Book of Memories p9) later became the Atlas device. Associated with the Order of the Djinn on ",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_druids_of_the_broken_circle",
+   "name": "Druids of the Broken Circle",
+   "summary": "Kalguuran nature-mystics under Medved, named after Olroth's gem use clouded their scrying.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_karui_tribe_hinekora",
+   "name": "Hinekora tribe",
+   "summary": "Karui tribe that honours the Karui Ancestor Hinekora and is led by the chieftain Tawhanuku; each tribe offers a unique item in the Trial of the Ancestors.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_karui_tribe_rongokurai",
+   "name": "Rongokurai tribe",
+   "summary": "Karui tribe that honours the Karui Ancestor Rongokurai and is led by the chieftain Kahuturoa; each tribe offers a unique item in the Trial of the Ancestors.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_karui_tribe_valako",
+   "name": "Valako tribe",
+   "summary": "Karui tribe that honours the Karui Ancestor Valako and is led by the chieftain Kiloava; each tribe offers a unique item in the Trial of the Ancestors.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_ardura_akhara",
+   "name": "Ardura Akhara",
+   "summary": "Maraketh akhara (caravan order) led by Sekhema Asala and Zarka that the Exile joins in Act 2.",
+   "games": [
+    "poe2"
+   ]
+  },
+  {
+   "id": "faction_necropolis_house_phrecia",
+   "name": "House Phrecia (Necropolis dead)",
+   "summary": "One of five Eternal Empire-era families whose haunted dead (four members each) can be buried in the Necropolis to grave-craft the unique 'The Hand of Phrecia'.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_black_scythes",
+   "name": "Black Scythes",
+   "summary": "Kalguuran mercenaries led by Vorana, fighting horrors from walls with crossbows.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_necropolis_house_perandus",
+   "name": "House Perandus (Necropolis dead)",
+   "summary": "One of five Eternal Empire-era families whose haunted dead (four members each) can be buried in the Necropolis to grave-craft the unique 'The Perandus Pact'.",
+   "games": [
+    "poe1"
+   ]
+  },
+  {
+   "id": "faction_the_unblinking_eye",
+   "name": "The Unblinking Eye",
+   "summary": "Mysterious group associated with the Templars involved in notable events in Wraeclast's history.",
+   "games": [
+    "poe1",
+    "poe2"
+   ]
+  }
+ ]
+}

@@ -106,5 +106,7 @@
  "char_ascendancy_trickster": "concept_ascendancy_trickster",
  "char_ascendancy_warbringer_poe2": "concept_ascendancy_warbringer_poe2",
  "char_ascendancy_warden": "concept_ascendancy_warden",
- "char_ascendancy_witchhunter_poe2": "concept_ascendancy_witchhunter_poe2"
+ "char_ascendancy_witchhunter_poe2": "concept_ascendancy_witchhunter_poe2",
+ "era_poe1_leagues": "era_league_storylines",
+ "faction_priests_of_the_chalice": "faction_order_of_the_chalice"
 }

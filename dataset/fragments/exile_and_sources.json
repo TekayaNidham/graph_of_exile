@@ -408,7 +408,7 @@
    ]
   },
   {
-   "id": "era_poe1_leagues",
+   "id": "era_league_storylines",
    "name": "PoE1 League Stories",
    "aliases": [],
    "type": "era",
@@ -419,7 +419,7 @@
    ],
    "plot_role": "meta",
    "branches": [],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "chronology": {
     "in_world_year": null,
     "relative": "run alongside PoE1 (no fixed date)",
@@ -568,7 +568,7 @@
    ],
    "plot_role": "meta",
    "branches": [],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "chronology": {
     "in_world_year": null,
     "relative": "PoE1 leagues (Day Zero)",
@@ -3306,17 +3306,17 @@
    ]
   },
   {
-   "id": "e_era_poe1_atlas__precedes__era_poe1_leagues",
+   "id": "e_era_poe1_atlas__precedes__era_league_storylines",
    "source": "era_poe1_atlas",
-   "target": "era_poe1_leagues",
+   "target": "era_league_storylines",
    "relation": "precedes",
-   "description": "poe1_atlas precedes poe1_leagues (the bucket order from the schema).",
+   "description": "poe1_atlas precedes league_storylines (the bucket order from the schema).",
    "games": [
     "poe1"
    ],
    "plot_role": "meta",
    "branches": [],
-   "era": "poe1_leagues",
+   "era": "league_storylines",
    "sequence": null,
    "canon_status": "dev_statement",
    "confidence": "medium",
@@ -3328,11 +3328,11 @@
    ]
   },
   {
-   "id": "e_era_poe1_leagues__precedes__era_interlude_between_games",
-   "source": "era_poe1_leagues",
+   "id": "e_era_league_storylines__precedes__era_interlude_between_games",
+   "source": "era_league_storylines",
    "target": "era_interlude_between_games",
    "relation": "precedes",
-   "description": "poe1_leagues precedes interlude_between_games (the bucket order from the schema).",
+   "description": "league_storylines precedes interlude_between_games (the bucket order from the schema).",
    "games": [
     "poe1"
    ],
